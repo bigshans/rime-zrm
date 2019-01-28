@@ -1,0 +1,59 @@
+﻿# double_pinyin.custom.yaml
+
+patch:
+  #載入朙月拼音擴充詞庫
+  "translator/dictionary": luna_pinyin.extended
+  "translator/enable_user_dict": true
+  #標點
+  'punctuator/import_preset': mysymbols
+  'recognizer/patterns/punct': "^/([a-z]+|[0-9])$"
+  engine/translator:
+      - punct_translator
+      - reverse_lookup_translator
+      - script_translator
+      - table_translator@english
+  speller/alphabet:
+    "zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA;"
+  speller/initials:
+    "zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA;"
+  speller/algebra:
+    - erase/^xx$/
+    - derive/^([jqxy])u$/$1v/
+    - derive/^([aoe])([ioun])$/$1$1$2/
+    - derive/^(\w+);(\w+)$/$1;$2/
+    - xform/^([aoe])(ng)?$/$1$1$2/
+    - xform/iu$/Q/
+    - xform/[iu]a$/W/
+    - xform/[uv]an$/R/
+    - xform/[uv]e$/T/
+    - xform/ing$|uai$/Y/
+    - xform/^sh/U/
+    - xform/^ch/I/
+    - xform/^zh/V/
+    - xform/uo$/O/
+    - xform/[uv]n$/P/
+    - xform/i?ong$/S/
+    - xform/[iu]ang$/D/
+    - xform/(.)en$/$1F/
+    - xform/(.)eng$/$1G/
+    - xform/(.)ang$/$1H/
+    - xform/ian$/M/
+    - xform/(.)an$/$1J/
+    - xform/iao$/C/
+    - xform/(.)ao$/$1K/
+    - xform/(.)ai$/$1L/
+    - xform/(.)ei$/$1Z/
+    - xform/ie$/X/
+    - xform/ui$/V/
+    - xform/(.)ou$/$1B/
+    - xform/in$/N/
+    - xlit/QWRTYUIOPSDFGHMJCKLZXVBN/qwrtyuiopsdfghmjcklzxvbn/
+    #- abbrev/^(.).+$/$1/
+  translator/english:                    #   设置英文输入
+    enable_encoder: false
+    encode_commit_history: false
+    enable_sentence: false
+    enable_user_dict: false
+    dictionary: english
+    initial_quality: -1
+  translator/dictionary: zrm_pinyin
