@@ -6,8 +6,7 @@
 
 patch:
   schema_list:
-    - schema: luna_pinyin          # 朙月拼音
-    - schema: double_pinyin        # 自然碼雙拼
+    - schema: zrm_pinyin        # 自然码+辅助码
   menu/page_size: 9
   custom_phrase/enable_completion: true
   # key_binder/bindings:
