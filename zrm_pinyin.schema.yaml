@@ -51,9 +51,9 @@ speller:
   alphabet: "zyxwvutsrqponmlkjihgfedcba;"
   delimiter: " '"
   algebra:
-    - derive/^(\w*);(\w)\w$/$1;$2/
-    - derive/^(\w*);(\w*)$/$1;$2/
-    - derive/^(\w*);(\w*)$/$1/
+    - derive/^(\w*);(\w)(\w)$/$1;$2$3/
+    - derive/^(\w*);(\w)(\w)$/$1;$2/
+    - derive/^(\w*);(\w)(\w)$/$1/
     # - erase/^xx$/
     # - derive/^([jqxy])u$/$1v/
     # - derive/^([aoe])([ioun])$/$1$1$2/
@@ -85,7 +85,9 @@ speller:
     # - xform/(.)ou$/$1B/
     # - xform/in$/N/
     # - xlit/QWRTYUIOPSDFGHMJCKLZXVBN/qwrtyuiopsdfghmjcklzxvbn/
-    - abbrev/^(.).+$/$1/
+    # 下面这个开起来会非常卡
+    # - abbrev/^(.).+$/$1/
+    - abbrev/^(.{2});+$/$1/
 
 translator:
   dictionary: zrm_pinyin
