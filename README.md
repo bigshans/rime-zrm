@@ -8,14 +8,20 @@
 
 配置文件使的单字字典 zrm_pinyin.dict.yaml 是我删除了 zrm2000 的所有词组并对一些子码进行删减。目录 zrm_pinyin 是我生成字典所使用的文件。这些字典的作用如下表所示：
 
-|文件      | 作用 |
-| ---- | ---- |
-| luan_pinyin_single.dict.yaml | 从 luan_pinyin 生成的单字字典 |
-| zrm2000.dict.yaml | 自然码 2000 的字典（未修改） |
-| zrm2000.schema.yaml | 自然码 2000 的输入法配置方案（个人魔改版，部署即可使用） |
-| zrm.dict.yaml | 从 zrm 字典中提取的单字字典（较为驳杂） |
+| 文件                           | 作用                              |
+| ---------------------------- | ------------------------------- |
+| luan_pinyin_single.dict.yaml | 从 luan_pinyin 生成的单字字典           |
+| zrm2000.dict.yaml            | 自然码 2000 的字典（未修改）               |
+| zrm2000.schema.yaml          | 自然码 2000 的输入法配置方案（个人魔改版，部署即可使用） |
+| zrm.dict.yaml                | 从 zrm 字典中提取的单字字典（较为驳杂）          |
 
 Warning: 请不要给 zrm2000 方案挂载词库，否则部署就会爆内存的。另外，zrm_pinyin 方案外挂词典加起来不要太大，几十兆的肯定会爆内存的，小心点测。
+
+## Update
+
+添加了一个 zrm_pinyin.dict.yaml ，内容是原 zrm_pinyin.dict.yaml 的两倍，取名 zrm_pinyin.dict.yaml-2 。新的词典生成时总共会消耗大约 10 G 内存。内存不够的同学就不用考虑了。
+
+新的词典是从朙月拼音词典改的，并合并了原来的 zrm.dict.yaml 。非常完整，而且保留了之前一个词典删除的内容，你可以使用自然码输入非文字字符。朙月拼音的词库是比自然码要大的，没法从自然码中找出对应辅码的，我使用了 zz 作为辅码后缀。大家可以体验一下。
 
 ## Feature
 
