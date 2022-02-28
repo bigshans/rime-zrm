@@ -3,6 +3,7 @@ name: zrm_pinyin
 version: "1.0"
 sort: by_weight
 use_preset_vocabulary: true
+max_phrase_size: 20
 min_phrase_weight: 100
 ...
 
@@ -17,7 +18,7 @@ min_phrase_weight: 100
 ㄙ	si;si
 ㄚ	aa;aa
 ㄛ	oo;oo
-ㄜ	e;ee
+ㄜ	ee;ee
 ㄝ	eh;ye
 ㄞ	ai;ai
 ㄟ	ei;ei
@@ -222,7 +223,7 @@ min_phrase_weight: 100
 㓲	pm;zz
 㓳	di;zz
 㓴	rr;zz
-㓵	e;zz
+㓵	ee;zz
 㓶	qx;zz
 㓷	yi;zz
 㓸	db;zz
@@ -282,7 +283,7 @@ min_phrase_weight: 100
 㔦	yh;zz
 㔧	lv;zz
 㔨	bz;zz
-㔩	e;zz
+㔩	ee;zz
 㔪	lu;zz
 㔭	ie;zz
 㔮	no;zz
@@ -424,10 +425,10 @@ min_phrase_weight: 100
 㖻	rb;zz
 㖼	do;zz
 㖽	ze;zz
-㖾	e;zz
+㖾	ee;zz
 㖿	ye;zz
 㗀	yb;zz
-㗁	e;zz
+㗁	ee;zz
 㗂	ug;zz
 㗃	hp;zz
 㗃	wf;zz
@@ -436,7 +437,7 @@ min_phrase_weight: 100
 㗆	ge;zz
 㗇	xw;zz
 㗈	mj;zz
-㗉	e;zz
+㗉	ee;zz
 㗉	lt;zz
 㗊	ji;zz
 㗋	hb;zz
@@ -521,7 +522,7 @@ min_phrase_weight: 100
 㘢	wg;zz
 㘣	xr;zz
 㘤	wj;zz
-㘥	e;zz
+㘥	ee;zz
 㘥	yb;zz
 㘦	qn;zz
 㘧	xu;zz
@@ -691,7 +692,7 @@ min_phrase_weight: 100
 㛒	db;zz
 㛓	xi;zz
 㛔	fg;zz
-㛕	e;zz
+㛕	ee;zz
 㛕	yi;zz
 㛖	so;zz
 㛗	qx;zz
@@ -967,7 +968,7 @@ min_phrase_weight: 100
 㟢	qi;zz
 㟤	lu;zz
 㟦	yp;zz
-㟧	e;zz
+㟧	ee;zz
 㟨	dr;zz
 㟩	mn;zz
 㟪	wz;zz
@@ -1000,7 +1001,7 @@ min_phrase_weight: 100
 㠈	rp;zz
 㠉	ts;zz
 㠊	qu;zz
-㠋	e;zz
+㠋	ee;zz
 㠌	qi;zz
 㠍	ji;zz
 㠎	ji;zz
@@ -1185,7 +1186,7 @@ min_phrase_weight: 100
 㢾	jr;zz
 㣀	vf;zz
 㣁	bz;zz
-㣂	e;zz
+㣂	ee;zz
 㣃	yu;zz
 㣄	qu;zz
 㣅	zj;zz
@@ -1388,7 +1389,7 @@ min_phrase_weight: 100
 㦋	va;zz
 㦌	hu;zz
 㦌	xu;zz
-㦍	e;zz
+㦍	ee;zz
 㦎	ho;zz
 㦏	sp;zz
 㦏	xr;zz
@@ -1473,7 +1474,7 @@ min_phrase_weight: 100
 㧓	gw;zz
 㧔	gy;zz
 㧕	lq;zz
-㧖	e;zz
+㧖	ee;zz
 㧗	ji;zz
 㧗	vi;zz
 㧗	zi;zz
@@ -1506,7 +1507,7 @@ min_phrase_weight: 100
 㧲	sj;zz
 㧳	pl;zz
 㧳	vo;zz
-㧴	e;zz
+㧴	ee;zz
 㧴	wo;zz
 㧵	pb;zz
 㧶	kg;zz
@@ -1646,7 +1647,7 @@ min_phrase_weight: 100
 㩳	ss;zz
 㩴	ju;zz
 㩴	qu;zz
-㩵	e;zz
+㩵	ee;zz
 㩶	nx;zz
 㩷	qm;zz
 㩸	dx;zz
@@ -1655,7 +1656,7 @@ min_phrase_weight: 100
 㩻	qi;zz
 㩼	vi;zz
 㩽	ii;zz
-㩽	e;zz
+㩽	ee;zz
 㩽	qi;zz
 㩾	qi;zz
 㩾	vv;zz
@@ -1735,7 +1736,7 @@ min_phrase_weight: 100
 㫃	yj;zz
 㫄	ph;zz
 㫅	ia;zz
-㫊	e;zz
+㫊	ee;zz
 㫊	yi;zz
 㫍	yk;zz
 㫍	yb;zz
@@ -1925,7 +1926,7 @@ min_phrase_weight: 100
 㮖	jw;zz
 㮗	qn;zz
 㮘	mk;zz
-㮙	e;zz
+㮙	ee;zz
 㮚	li;zz
 㮛	ii;zz
 㮛	yi;zz
@@ -2482,7 +2483,7 @@ min_phrase_weight: 100
 㷅	ik;zz
 㷆	fu;zz
 㷇	hv;zz
-㷈	e;zz
+㷈	ee;zz
 㷉	wz;zz
 㷉	yu;zz
 㷊	ff;zz
@@ -2767,7 +2768,7 @@ min_phrase_weight: 100
 㻽	xr;zz
 㻾	ys;zz
 㻿	uu;zz
-㼂	e;zz
+㼂	ee;zz
 㼄	ji;zz
 㼇	wz;zz
 㼇	xi;zz
@@ -3342,7 +3343,7 @@ min_phrase_weight: 100
 䄇	ig;zz
 䄈	db;zz
 䄈	xd;zz
-䄉	e;zz
+䄉	ee;zz
 䄋	yj;zz
 䄌	io;zz
 䄌	vv;zz
@@ -3492,7 +3493,7 @@ min_phrase_weight: 100
 䆐	go;zz
 䆑	ig;zz
 䆒	jq;zz
-䆓	e;zz
+䆓	ee;zz
 䆓	rr;zz
 䆔	is;zz
 䆕	yt;zz
@@ -3848,7 +3849,7 @@ min_phrase_weight: 100
 䋧	qu;zz
 䋨	fu;zz
 䋩	er;zz
-䋪	e;zz
+䋪	ee;zz
 䋫	vg;zz
 䋬	tm;zz
 䋭	yu;zz
@@ -4273,12 +4274,12 @@ min_phrase_weight: 100
 䑠	lc;zz
 䑣	if;zz
 䑤	jn;zz
-䑥	e;zz
+䑥	ee;zz
 䑥	sa;zz
 䑦	gb;zz
 䑧	fu;zz
 䑨	do;zz
-䑪	e;zz
+䑪	ee;zz
 䑫	bg;zz
 䑬	tk;zz
 䑬	tc;zz
@@ -4493,7 +4494,7 @@ min_phrase_weight: 100
 䔼	se;zz
 䔼	ze;zz
 䔽	ai;zz
-䔾	e;zz
+䔾	ee;zz
 䔾	qi;zz
 䔿	zp;zz
 䕀	kr;zz
@@ -4509,7 +4510,7 @@ min_phrase_weight: 100
 䕌	vi;zz
 䕍	yi;zz
 䕎	fu;zz
-䕏	e;zz
+䕏	ee;zz
 䕑	jp;zz
 䕑	sv;zz
 䕒	jw;zz
@@ -4621,7 +4622,7 @@ min_phrase_weight: 100
 䖵	kp;zz
 䖶	hv;zz
 䖷	xi;zz
-䖸	e;zz
+䖸	ee;zz
 䖹	mi;zz
 䖹	yh;zz
 䖺	tc;zz
@@ -4802,7 +4803,7 @@ min_phrase_weight: 100
 䙰	li;zz
 䙱	du;zz
 䙳	bc;zz
-䙳	e;zz
+䙳	ee;zz
 䙵	xi;zz
 䙷	de;zz
 䙸	de;zz
@@ -4864,7 +4865,7 @@ min_phrase_weight: 100
 䚮	rg;zz
 䚯	tk;zz
 䚯	xr;zz
-䚰	e;zz
+䚰	ee;zz
 䚰	pi;zz
 䚱	xn;zz
 䚲	uj;zz
@@ -4907,7 +4908,7 @@ min_phrase_weight: 100
 䛒	bm;zz
 䛔	na;zz
 䛕	yu;zz
-䛖	e;zz
+䛖	ee;zz
 䛗	vi;zz
 䛘	nn;zz
 䛘	rf;zz
@@ -4929,7 +4930,7 @@ min_phrase_weight: 100
 䛦	ss;zz
 䛧	mi;zz
 䛨	xn;zz
-䛩	e;zz
+䛩	ee;zz
 䛩	qw;zz
 䛩	wu;zz
 䛪	qs;zz
@@ -4990,7 +4991,7 @@ min_phrase_weight: 100
 䜗	xn;zz
 䜘	jy;zz
 䜙	an;zz
-䜙	e;zz
+䜙	ee;zz
 䜚	ta;zz
 䜛	ij;zz
 䜜	wz;zz
@@ -5035,7 +5036,7 @@ min_phrase_weight: 100
 䝃	ve;zz
 䝄	ud;zz
 䝅	hv;zz
-䝈	e;zz
+䝈	ee;zz
 䝊	ua;zz
 䝋	zs;zz
 䝌	jt;zz
@@ -5135,7 +5136,7 @@ min_phrase_weight: 100
 䞦	he;zz
 䞧	hb;zz
 䞨	gv;zz
-䞩	e;zz
+䞩	ee;zz
 䞩	xw;zz
 䞪	jd;zz
 䞫	yp;zz
@@ -5474,7 +5475,7 @@ min_phrase_weight: 100
 䣛	xi;zz
 䣜	co;zz
 䣝	tu;zz
-䣞	e;zz
+䣞	ee;zz
 䣟	cj;zz
 䣟	ti;zz
 䣠	jx;zz
@@ -5906,7 +5907,7 @@ min_phrase_weight: 100
 䩶	ij;zz
 䩷	bh;zz
 䩸	rs;zz
-䩹	e;zz
+䩹	ee;zz
 䩹	ko;zz
 䩺	wg;zz
 䩻	ba;zz
@@ -6054,7 +6055,7 @@ min_phrase_weight: 100
 䫴	jn;zz
 䫵	mm;zz
 䫶	fj;zz
-䫷	e;zz
+䫷	ee;zz
 䫸	ik;zz
 䫹	hs;zz
 䫺	hs;zz
@@ -6462,7 +6463,7 @@ min_phrase_weight: 100
 䱫	la;zz
 䱬	xu;zz
 䱭	gg;zz
-䱮	e;zz
+䱮	ee;zz
 䱯	mu;zz
 䱰	vs;zz
 䱱	di;zz
@@ -6573,8 +6574,8 @@ min_phrase_weight: 100
 䳔	ju;zz
 䳕	fu;zz
 䳖	nx;zz
-䳗	e;zz
-䳘	e;zz
+䳗	ee;zz
+䳘	ee;zz
 䳙	xy;zz
 䳚	he;zz
 䳚	kj;zz
@@ -6596,7 +6597,7 @@ min_phrase_weight: 100
 䳩	yk;zz
 䳪	jr;zz
 䳫	kv;zz
-䳬	e;zz
+䳬	ee;zz
 䳭	ji;zz
 䳮	mo;zz
 䳯	is;zz
@@ -7476,8 +7477,8 @@ min_phrase_weight: 100
 仲	vs;rv
 仳	bi;rb
 仳	pi;rb
-仴	e;ry
-仴	e;ro
+仴	ee;ry
+仴	ee;ro
 仴	wj;ry
 仴	wj;ro
 仵	wu;rw
@@ -7764,7 +7765,7 @@ min_phrase_weight: 100
 俁	yu;rw
 係	xi;rx
 促	cu;rz
-俄	e;rw
+俄	ee;rw
 俅	qq;rq
 俆	uu;ry
 俆	xu;ry
@@ -7960,7 +7961,7 @@ min_phrase_weight: 100
 偒	dh;ry
 偒	th;ry
 偓	wo;rw
-偔	e;re
+偔	ee;re
 偕	jx;rj	0%
 偕	xx;rj	100%
 偖	ie;rv
@@ -8171,7 +8172,7 @@ min_phrase_weight: 100
 僩	xm;rx
 僪	jt;rk
 僪	jt;ry
-僫	e;re
+僫	ee;re
 僫	wu;re
 僬	jc;rj
 僭	jm;rr
@@ -9118,8 +9119,8 @@ min_phrase_weight: 100
 匍	pu;bf
 匎	an;gd
 匎	an;gy
-匎	e;gd
-匎	e;gy
+匎	ee;gd
+匎	ee;gy
 匏	bk;bk
 匏	bk;db
 匏	pk;bk
@@ -9394,7 +9395,7 @@ min_phrase_weight: 100
 卻	qt;eg
 卼	wu;ww
 卽	ji;eb
-卾	e;ee
+卾	ee;ee
 卿	qy;mj
 卿	qy;mg
 厀	xi;eu
@@ -9410,7 +9411,7 @@ min_phrase_weight: 100
 厃	wz;di
 厃	yj;di
 厃	vj;di
-厄	e;ie
+厄	ee;ie
 厅	ty;id
 历	li;il
 厇	jx;iq
@@ -9716,7 +9717,7 @@ min_phrase_weight: 100
 吨	dp;kt	50%
 吨	tp;kt	50%
 吩	ff;kf
-吪	e;kh
+吪	ee;kh
 含	hj;rk	100%
 含	hj;kj	100%
 含	hf;rk	0%
@@ -9770,7 +9771,7 @@ min_phrase_weight: 100
 呁	jp;ky
 呁	yp;ky
 呂	lv;kk
-呃	e;ke
+呃	ee;ke
 呄	ge;ng
 呅	mz;kw
 呆	ai;km	0.02%
@@ -9806,7 +9807,7 @@ min_phrase_weight: 100
 呚	qi;kw
 呛	qd;kc
 呜	wu;kw
-呝	e;ky
+呝	ee;ky
 呞	ii;ks
 呞	tl;ks
 呟	qr;kx
@@ -9908,7 +9909,7 @@ min_phrase_weight: 100
 咠	ji;ke
 咠	qi;ke
 咡	er;ke
-咢	e;kk
+咢	ee;kk
 咣	gs;kg
 咣	gd;kg
 咤	ii;kv
@@ -9949,7 +9950,7 @@ min_phrase_weight: 100
 咸	xm;gk
 咸	xm;kg
 咸	xm;wk
-咹	e;ka
+咹	ee;ka
 咺	xr;kg
 咻	xq;kx
 咻	xu;kx
@@ -10012,7 +10013,7 @@ min_phrase_weight: 100
 哥	ge;kk
 哥	ge;kd
 哥	ge;dk
-哦	e;kw	25.51%
+哦	ee;kw	25.51%
 哦	oo;kw	74.49%
 哧	ii;ki
 哨	uk;kx
@@ -10071,8 +10072,8 @@ min_phrase_weight: 100
 唇	ip;ki	10%
 唇	vf;ik	90%
 唇	vf;ki	90%
-唈	e;ky
-唈	e;kb
+唈	ee;ky
+唈	ee;kb
 唈	yi;ky
 唈	yi;kb
 唉	ai;ky
@@ -10095,7 +10096,7 @@ min_phrase_weight: 100
 唔	wu;kw	73.24%
 唕	zk;kz
 唕	zk;ku
-唖	e;ky
+唖	ee;ky
 唖	ya;ky
 唗	db;kz
 唘	qi;ky
@@ -10210,7 +10211,7 @@ min_phrase_weight: 100
 啜	io;kv
 啜	io;ku
 啝	he;kh
-啞	e;ky	0%
+啞	ee;ky	0%
 啞	ya;ky	100%
 啟	qi;wq
 啠	ve;kj
@@ -10593,7 +10594,7 @@ min_phrase_weight: 100
 嘿	mo;kh	0%
 噀	sp;kg
 噀	xp;kg
-噁	e;ke	100%
+噁	ee;ke	100%
 噁	wu;ke	0%
 噂	zp;kz
 噃	fj;kf
@@ -10667,7 +10668,7 @@ min_phrase_weight: 100
 噧	xx;kw
 器	qi;kk
 器	qi;qk
-噩	e;wk
+噩	ee;wk
 噪	zk;kz
 噫	yi;ky
 噬	ui;kw
@@ -10842,8 +10843,8 @@ min_phrase_weight: 100
 囍	xi;xx
 囏	jm;xh
 囏	jm;cx
-囐	e;kq
-囐	e;kx
+囐	ee;kq
+囐	ee;kx
 囐	nx;kq
 囐	nx;kx
 囐	yj;kq
@@ -10893,7 +10894,7 @@ min_phrase_weight: 100
 囬	hv;kg
 囬	hv;kh
 园	yr;ky
-囮	e;kh
+囮	ee;kh
 囮	yb;kh
 囯	go;kw
 困	kp;km
@@ -10948,8 +10949,8 @@ min_phrase_weight: 100
 圑	fu;kc
 園	yr;ky
 圓	yr;ky
-圔	e;km
-圔	e;kh
+圔	ee;km
+圔	ee;kh
 圔	he;km
 圔	he;kh
 圔	ya;km
@@ -11170,7 +11171,7 @@ min_phrase_weight: 100
 垧	js;tx
 垧	uh;tx
 垨	ub;tu
-垩	e;ty
+垩	ee;ty
 垩	ug;ty
 垫	dm;tv
 垬	hs;tg
@@ -11315,7 +11316,7 @@ min_phrase_weight: 100
 堇	jn;ch
 堈	gh;tg
 堉	yu;ty
-堊	e;ty
+堊	ee;ty
 堋	bg;tp
 堋	pg;tp
 堌	gu;tg
@@ -11364,7 +11365,7 @@ min_phrase_weight: 100
 堦	jx;tj
 堧	rr;td
 堨	ai;th
-堨	e;th
+堨	ee;th
 堨	he;th
 堨	xx;th
 堩	gg;th
@@ -11373,7 +11374,7 @@ min_phrase_weight: 100
 堫	zs;tw
 堬	yu;ty
 堭	hd;th
-堮	e;te
+堮	ee;te
 堯	yk;hz
 堯	yk;wy
 堯	yk;tw
@@ -12033,7 +12034,7 @@ min_phrase_weight: 100
 妶	xm;nx
 妶	xr;nx
 妷	vi;nu
-妸	e;nk
+妸	ee;nk
 妹	mz;nw
 妺	mo;nm
 妻	qi;nq
@@ -12043,7 +12044,7 @@ min_phrase_weight: 100
 妽	uf;nu
 妾	qx;nl
 妾	qx;ln
-妿	e;nj
+妿	ee;nj
 姀	he;nh
 姀	su;nh
 姁	xu;nj
@@ -12124,7 +12125,7 @@ min_phrase_weight: 100
 姴	lx;nl
 姵	pz;nf
 姵	pz;nj
-姶	e;nh
+姶	ee;nh
 姶	yj;nh
 姷	yb;ny
 姸	yj;nk
@@ -12198,7 +12199,7 @@ min_phrase_weight: 100
 娣	di;nd	100%
 娣	ti;nd	0%
 娤	vd;nv
-娥	e;nw
+娥	ee;nw
 娦	bn;nb
 娦	pn;nb
 娧	tv;nd
@@ -12238,8 +12239,8 @@ min_phrase_weight: 100
 娽	lu;nl
 娾	ai;ny
 娾	yl;ny
-娿	e;na
-婀	e;na
+娿	ee;na
+婀	ee;na
 婁	lb;nk
 婁	lb;nh
 婁	lb;na
@@ -12262,7 +12263,7 @@ min_phrase_weight: 100
 婍	qi;nq
 婎	hv;nv
 婏	fu;nt
-婐	e;ng
+婐	ee;ng
 婐	go;ng
 婐	wo;ng
 婑	rv;nw
@@ -12495,8 +12496,8 @@ min_phrase_weight: 100
 嫬	uu;nu
 嫬	ve;nu
 嫭	hu;nh
-嫮	e;nk
-嫮	e;ny
+嫮	ee;nk
+嫮	ee;ny
 嫮	hu;nk
 嫮	hu;ny
 嫮	yu;nk
@@ -13112,7 +13113,7 @@ min_phrase_weight: 100
 屗	wz;cw
 屘	mj;zw
 屘	mj;uz
-屙	e;ua
+屙	ee;ua
 屚	lb;uy
 屛	by;ub
 屛	py;ub
@@ -13159,7 +13160,7 @@ min_phrase_weight: 100
 山	uj;uu
 屳	xm;ru
 屴	li;ul
-屵	e;ui
+屵	ee;ui
 屸	ls;ug
 屹	qi;uq
 屹	yi;uq
@@ -13187,7 +13188,7 @@ min_phrase_weight: 100
 岉	wu;uw
 岊	ba;ub
 岊	jx;ub
-岋	e;uj
+岋	ee;uj
 岋	ji;uj
 岌	ji;uj
 岍	qm;uk
@@ -13268,7 +13269,7 @@ min_phrase_weight: 100
 峇	he;uh
 峇	ke;uh
 峈	lo;ug
-峉	e;ug
+峉	ee;ug
 峊	fu;uv
 峋	xp;ux
 峌	dx;uv
@@ -13308,8 +13309,8 @@ min_phrase_weight: 100
 峦	lr;uy
 峦	lr;yu
 峧	jc;uj
-峨	e;uw
-峩	e;uw
+峨	ee;uw
+峩	ee;uw
 峪	yu;ug
 峫	xx;ux
 峫	ye;ux
@@ -13421,7 +13422,7 @@ min_phrase_weight: 100
 崼	ui;uu
 崽	zl;us
 崾	yk;uy
-崿	e;ue
+崿	ee;ue
 嵀	vu;uv
 嵁	kj;uu
 嵂	lv;ul
@@ -13579,7 +13580,7 @@ min_phrase_weight: 100
 嶪	ye;uy
 嶫	ye;uw
 嶬	yi;uy
-嶭	e;ux
+嶭	ee;ux
 嶭	nx;ux
 嶮	xm;uq
 嶯	ji;ug
@@ -14908,7 +14909,7 @@ min_phrase_weight: 100
 恴	de;xr
 恵	hv;xh
 恵	hv;xa
-恶	e;xy	99.99%
+恶	ee;xy	99.99%
 恶	wu;xy	0.01%
 恸	ts;xd
 恹	yj;xy
@@ -14984,7 +14985,7 @@ min_phrase_weight: 100
 悧	li;xl
 您	nn;xn
 悩	nk;xx
-悪	e;xy
+悪	ee;xy
 悪	wu;xy
 悫	qt;xk
 悬	xr;xx
@@ -15067,7 +15068,7 @@ min_phrase_weight: 100
 惟	wz;xv
 惠	hv;xh
 惠	hv;hx
-惡	e;xy	95%
+惡	ee;xy	95%
 惡	wu;xy	5%
 惢	rv;xx
 惢	so;xx
@@ -15143,8 +15144,8 @@ min_phrase_weight: 100
 愓	dh;xy
 愓	uh;xy
 愔	yn;xy
-愕	e;xk
-愕	e;xe
+愕	ee;xk
+愕	ee;xe
 愖	if;xu
 愗	mb;xm
 愗	mb;xw
@@ -15559,8 +15560,8 @@ min_phrase_weight: 100
 戏	xi;yg	100%
 成	ig;wg
 成	ig;gg
-我	e;pp	0%
-我	e;pd	0%
+我	ee;pp	0%
+我	ee;pd	0%
 我	wo;pp	100%
 我	wo;pd	100%
 戒	jx;gc
@@ -15666,7 +15667,7 @@ min_phrase_weight: 100
 戸	hu;hu
 戸	hu;au
 戹	ai;hy
-戹	e;hy
+戹	ee;hy
 戺	ui;hs
 戻	li;hd
 戻	ti;hd
@@ -15836,8 +15837,8 @@ min_phrase_weight: 100
 扺	vi;fu
 扻	zi;tq
 扻	zi;fq
-扼	e;fe
-扼	e;te
+扼	ee;fe
+扼	ee;te
 扽	dp;ft
 扽	dp;tt
 找	vk;tg
@@ -17086,8 +17087,8 @@ min_phrase_weight: 100
 搣	mx;fh
 搣	mx;fm
 搣	mx;tm
-搤	e;ty
-搤	e;fy
+搤	ee;ty
+搤	ee;fy
 搥	iv;tv
 搥	iv;fv
 搦	ni;tr
@@ -17147,8 +17148,8 @@ min_phrase_weight: 100
 搷	tm;fv
 搸	vf;tq
 搸	vf;fq
-搹	e;tg
-搹	e;fg
+搹	ee;tg
+搹	ee;fg
 搹	ge;tg
 搹	ge;fg
 携	xi;fj
@@ -17720,8 +17721,8 @@ min_phrase_weight: 100
 據	ju;fu
 擛	ye;fm
 擛	ye;tm
-擜	e;tx
-擜	e;fx
+擜	ee;tx
+擜	ee;fx
 擞	sb;tu
 擞	sb;fu
 擟	mi;fe
@@ -19566,7 +19567,7 @@ min_phrase_weight: 100
 林	ln;mm
 枘	nf;mn	0%
 枘	rv;mn
-枙	e;me
+枙	ee;me
 枚	mz;mw
 枛	vk;mv
 果	go;ud
@@ -20812,7 +20813,7 @@ min_phrase_weight: 100
 櫭	ji;md
 櫭	jx;mj
 櫭	jx;md
-櫮	e;me
+櫮	ee;me
 櫯	su;ms
 櫯	su;mh
 櫰	hy;my
@@ -20997,7 +20998,7 @@ min_phrase_weight: 100
 歜	iu;qu
 歝	du;qx
 歝	yi;qx
-歞	e;qs
+歞	ee;qs
 歞	kj;qs
 歟	yu;qy
 歠	io;qy
@@ -21040,14 +21041,14 @@ min_phrase_weight: 100
 歹	dl;ad	100%
 歹	dl;ax	100%
 歹	dl;hd	100%
-歹	e;hx	0%
-歹	e;ad	0%
-歹	e;ax	0%
-歹	e;hd	0%
+歹	ee;hx	0%
+歹	ee;ad	0%
+歹	ee;ax	0%
+歹	ee;hd	0%
 歺	dl;bx
 歺	dl;xb
-歺	e;bx
-歺	e;xb
+歺	ee;bx
+歺	ee;xb
 死	si;db
 歼	jm;dq
 歽	ve;dj
@@ -21875,7 +21876,7 @@ min_phrase_weight: 100
 涎	xm;dy
 涎	yj;dy
 涏	ty;dt
-涐	e;dw
+涐	ee;dw
 涑	su;du
 涒	tp;dj
 涒	yp;dj
@@ -22133,7 +22134,7 @@ min_phrase_weight: 100
 湀	kv;dt
 湁	ii;du
 湁	ui;du
-湂	e;de
+湂	ee;de
 湃	bl;db
 湃	pl;db
 湄	mz;dm
@@ -24189,7 +24190,7 @@ min_phrase_weight: 100
 猔	zs;qz
 猕	mi;qm
 猖	ih;qi
-猗	e;qq
+猗	ee;qq
 猗	yi;qq
 猘	vi;qv
 猙	vg;qv
@@ -24524,7 +24525,7 @@ min_phrase_weight: 100
 珲	hp;wj
 珳	wf;wp
 珳	wf;ww
-珴	e;ww
+珴	ee;ww
 珵	ig;wi
 珶	di;wd
 珶	ti;wd
@@ -24594,7 +24595,7 @@ min_phrase_weight: 100
 琤	vg;wv
 琥	hu;wh
 琦	qi;wq
-琧	e;yy
+琧	ee;yy
 琨	kp;wk
 琩	ih;wi
 琪	qi;wq
@@ -25309,7 +25310,7 @@ min_phrase_weight: 100
 疱	pk;bb
 疲	pi;bp
 疳	gj;bg
-疴	e;bk
+疴	ee;bk
 疴	ke;bk
 疵	ci;bc
 疶	ui;bu
@@ -25401,12 +25402,12 @@ min_phrase_weight: 100
 痻	mn;bh
 痼	gu;bg
 痽	dv;bv
-痾	e;ba
+痾	ee;ba
 痾	ke;ba
 痿	wz;bw
 瘀	yu;by
 瘁	cv;bz
-瘂	e;by
+瘂	ee;by
 瘂	ya;by
 瘃	vu;bi
 瘃	vu;bd
@@ -25631,7 +25632,7 @@ min_phrase_weight: 100
 皐	gk;bu
 皑	ai;bj
 皑	ai;bq
-皒	e;bw
+皒	ee;bw
 皓	hk;bg
 皔	hj;bh
 皕	bi;bb
@@ -26043,8 +26044,8 @@ min_phrase_weight: 100
 睉	co;oz
 睊	jr;my
 睊	jr;oo
-睋	e;mw
-睋	e;ow
+睋	ee;mw
+睋	ee;ow
 睌	wj;om
 睌	wj;mm
 睍	jm;mj
@@ -26560,7 +26561,7 @@ min_phrase_weight: 100
 砎	jx;uj
 砏	bn;uf
 砏	ff;uf
-砐	e;uj
+砐	ee;uj
 砐	ji;uj
 砑	ya;uy
 砒	pi;ub
@@ -26596,8 +26597,8 @@ min_phrase_weight: 100
 砧	vf;uv
 砨	ai;uy
 砨	ai;ua
-砨	e;uy
-砨	e;ua
+砨	ee;uy
+砨	ee;ua
 砩	fz;uf
 砩	fu;uf
 砪	mu;um
@@ -26685,7 +26686,7 @@ min_phrase_weight: 100
 硧	ys;uy
 硨	ie;ui
 硩	ie;uv
-硪	e;uw
+硪	ee;uw
 硫	lq;ui
 硬	yy;ug
 硭	mh;um
@@ -26808,7 +26809,7 @@ min_phrase_weight: 100
 碾	nm;uv
 碿	su;ux
 碿	xx;ux
-磀	e;un
+磀	ee;un
 磁	ci;uz
 磂	lq;ul
 磃	si;uh
@@ -30519,10 +30520,10 @@ min_phrase_weight: 100
 腫	vs;ov
 腬	rb;or
 腬	rb;yr
-腭	e;oe
-腭	e;yk
-腭	e;ok
-腭	e;ye
+腭	ee;oe
+腭	ee;yk
+腭	ee;ok
+腭	ee;ye
 腮	sl;os
 腮	sl;ys
 腯	tu;yd
@@ -31267,7 +31268,7 @@ min_phrase_weight: 100
 苇	wz;cw
 苈	li;cl
 苉	pi;cp
-苊	e;ce
+苊	ee;ce
 苋	xm;cj
 苌	ih;ci
 苍	ch;cc
@@ -31576,7 +31577,7 @@ min_phrase_weight: 100
 莨	ld;cl
 莩	fu;cf	50%
 莩	pc;cf	50%
-莪	e;cw
+莪	ee;cw
 莫	mo;cd	100%
 莫	mo;ct	100%
 莫	mu;cd	0%
@@ -31785,8 +31786,8 @@ min_phrase_weight: 100
 萹	pm;cb	0.63%
 萺	mk;cm
 萻	an;cy
-萼	e;ce
-萼	e;ck
+萼	ee;ce
+萼	ee;ck
 落	la;cl	1.06%
 落	lk;cl	0.44%
 落	le;cl	0%
@@ -32223,8 +32224,8 @@ min_phrase_weight: 100
 蕗	lu;cl
 蕘	rk;cy
 蕙	hv;ch
-蕚	e;ce
-蕚	e;ck
+蕚	ee;ce
+蕚	ee;ck
 蕛	ti;cd
 蕜	fz;cb
 蕝	jt;cj
@@ -32505,7 +32506,7 @@ min_phrase_weight: 100
 藾	ll;cl
 藿	ho;ch
 蘀	to;cz
-蘁	e;ce
+蘁	ee;ce
 蘁	wu;ce
 蘂	rv;cm
 蘂	rv;cr
@@ -32725,7 +32726,7 @@ min_phrase_weight: 100
 蚃	xd;xi
 蚄	bh;if
 蚄	fh;if
-蚅	e;ie
+蚅	ee;ie
 蚆	ba;ib
 蚆	pa;ib
 蚇	ii;ii
@@ -32799,7 +32800,7 @@ min_phrase_weight: 100
 蚳	ii;id
 蚳	di;id
 蚴	yb;iy
-蚵	e;ik
+蚵	ee;ik
 蚵	hk;ik
 蚵	he;ik
 蚵	ke;ik
@@ -32911,7 +32912,7 @@ min_phrase_weight: 100
 蛻	tv;id
 蛼	ie;ii
 蛽	bz;ib
-蛾	e;iw	100%
+蛾	ee;iw	100%
 蛾	yi;iw	0%
 蛿	hj;ih
 蛿	xm;ih
@@ -33013,7 +33014,7 @@ min_phrase_weight: 100
 蜾	go;ig
 蜿	wj;iw
 蝀	ds;id
-蝁	e;iy
+蝁	ee;iy
 蝂	bj;ib
 蝃	di;iu
 蝃	di;iv
@@ -34084,7 +34085,7 @@ min_phrase_weight: 100
 覥	tm;jd
 覦	yu;jy
 覧	lj;jv
-覨	e;je
+覨	ee;je
 覩	du;jv
 親	qn;jq	99.82%
 親	qy;jq	0.18%
@@ -34304,7 +34305,7 @@ min_phrase_weight: 100
 記	ji;yj
 訙	xp;yw
 訚	yn;my
-訛	e;yh
+訛	ee;yh
 訜	ff;yf
 訝	ya;yy
 訞	yk;yy
@@ -34427,7 +34428,7 @@ min_phrase_weight: 100
 詹	vj;yb
 詹	vj;dy
 詺	my;ym
-詻	e;yg
+詻	ee;yg
 詻	ge;yg
 詼	hv;yh
 詽	tm;yk
@@ -34455,7 +34456,7 @@ min_phrase_weight: 100
 誎	cu;yu
 誏	lh;yl
 誏	rh;yl
-誐	e;yw
+誐	ee;yw
 誑	kd;yk
 誒	eh;yy	50%
 誒	ei;yy	50%
@@ -34579,7 +34580,7 @@ min_phrase_weight: 100
 諣	gw;yg
 諣	hw;yk
 諣	hw;yg
-諤	e;ye
+諤	ee;ye
 諥	vs;yv
 諦	di;yd
 諧	xx;yj
@@ -34758,7 +34759,7 @@ min_phrase_weight: 100
 證	vg;yd
 譊	nk;yy
 譋	lj;yx
-譌	e;yw
+譌	ee;yw
 譍	yy;yv
 譍	yy;gy
 譎	ju;yk
@@ -34859,7 +34860,7 @@ min_phrase_weight: 100
 變	bm;ws
 讋	ve;yl
 讌	yj;yy
-讍	e;ye
+讍	ee;ye
 讎	ib;yv
 讎	ib;vv
 讏	wz;yw
@@ -34924,7 +34925,7 @@ min_phrase_weight: 100
 讶	ya;yy
 讷	ne;yn
 许	xu;yw	99.29%
-讹	e;yh
+讹	ee;yh
 论	lp;yl
 讻	xs;yx
 讼	ss;yg
@@ -35026,8 +35027,8 @@ min_phrase_weight: 100
 谑	xt;yn
 谒	ye;yh
 谓	wz;yw
-谔	e;ye
-谔	e;yk
+谔	ee;ye
+谔	ee;yk
 谕	yu;yy
 谖	xr;yy
 谗	ij;yd
@@ -35156,8 +35157,8 @@ min_phrase_weight: 100
 豜	yj;uk
 豝	ba;ub
 豞	hb;uj
-豟	e;uy
-豟	e;ua
+豟	ee;uy
+豟	ee;ua
 豠	iu;uq
 象	xd;ua
 象	xd;uu
@@ -36129,7 +36130,7 @@ min_phrase_weight: 100
 軙	vf;ip
 軙	vf;iy
 軚	dl;it
-軛	e;ie
+軛	ee;ie
 軜	na;in
 軝	qi;iu
 軝	vi;iu
@@ -36165,8 +36166,8 @@ min_phrase_weight: 100
 軴	vu;iv
 軵	fu;if
 軵	rs;if
-軶	e;ia
-軶	e;iy
+軶	ee;ia
+軶	ee;iy
 軷	ba;ib
 軷	bo;ib
 軸	vb;iy
@@ -36347,7 +36348,7 @@ min_phrase_weight: 100
 轪	dl;id
 轫	rf;ir
 转	vr;iv
-轭	e;ie
+轭	ee;ie
 轮	lp;il
 软	rr;iq
 轰	hs;iu
@@ -36485,7 +36486,7 @@ min_phrase_weight: 100
 迕	wu;zw
 迖	ta;zq
 迖	ti;zq
-迗	e;zt
+迗	ee;zt
 还	hl;zb	98.01%
 还	hr;zb	1.99%
 还	xr;zb	0%
@@ -36648,7 +36649,7 @@ min_phrase_weight: 100
 遍	pm;zb	0%
 過	go;zg
 過	go;zk
-遏	e;zh
+遏	ee;zh
 遐	xw;zj
 遐	xw;zy
 遑	hd;zh
@@ -36717,7 +36718,7 @@ min_phrase_weight: 100
 遹	yu;zk
 遺	wz;zg	1.56%
 遺	yi;zg	98.44%
-遻	e;zn
+遻	ee;zn
 遻	wu;zn
 遼	lc;zl
 遼	lc;zx
@@ -36932,8 +36933,8 @@ min_phrase_weight: 100
 郿	mz;em
 鄀	ro;er
 鄁	bz;eb
-鄂	e;ek
-鄂	e;ee
+鄂	ee;ek
+鄂	ee;ee
 鄃	yu;ey
 鄄	jr;et
 鄄	jr;ey
@@ -37340,7 +37341,7 @@ min_phrase_weight: 100
 鈈	pi;jb
 鈉	na;jn
 鈊	xn;jx
-鈋	e;jh
+鈋	ee;jh
 鈌	jt;jd
 鈌	jt;jg
 鈍	dp;jt
@@ -37379,7 +37380,7 @@ min_phrase_weight: 100
 鈥	ho;jh
 鈦	tl;jt
 鈧	kh;jk
-鈪	e;je
+鈪	ee;je
 鈬	do;ji
 鈭	ci;jc
 鈭	zi;jc
@@ -37645,7 +37646,7 @@ min_phrase_weight: 100
 鋥	vg;ji
 鋦	ju;jj
 鋧	xm;jj
-鋨	e;jw
+鋨	ee;jw
 鋩	mh;jm
 鋪	pu;jf
 鋫	li;jl
@@ -37697,7 +37698,7 @@ min_phrase_weight: 100
 錑	lz;jl
 錑	lz;jq
 錒	aa;ja
-錒	e;ja
+錒	ee;ja
 錓	ks;jg
 錓	ks;jq
 錓	qd;jg
@@ -37786,7 +37787,7 @@ min_phrase_weight: 100
 鍒	rb;jr
 鍓	ji;je
 鍓	ji;jq
-鍔	e;je
+鍔	ee;je
 鍕	hv;jj
 鍕	jp;jj
 鍕	rb;jj
@@ -38181,7 +38182,7 @@ min_phrase_weight: 100
 鑤	bk;jb
 鑥	lu;jl
 鑨	ls;jl
-鑩	e;je
+鑩	ee;je
 鑪	lu;jl
 鑫	xn;jj
 鑬	jm;jl
@@ -38374,7 +38375,7 @@ min_phrase_weight: 100
 锅	go;jn
 锅	go;jg
 锆	gk;jg
-锇	e;jw
+锇	ee;jw
 锈	xq;jx
 锉	co;jz
 锊	lt;jc
@@ -38426,8 +38427,8 @@ min_phrase_weight: 100
 锴	kl;jj
 锵	qd;jj
 锶	si;js
-锷	e;je
-锷	e;jk
+锷	ee;je
+锷	ee;jk
 锸	ia;jj
 锸	ia;ji
 锹	qc;jq
@@ -38564,7 +38565,7 @@ min_phrase_weight: 100
 閙	nk;mu
 閚	vj;ml
 閛	pg;mp
-閜	e;mk
+閜	ee;mk
 閜	ke;mk
 閜	xw;mk
 閝	ly;ml
@@ -38614,7 +38615,7 @@ min_phrase_weight: 100
 閺	wf;mm
 閻	yj;mj
 閻	yj;mx
-閼	e;my
+閼	ee;my
 閼	yj;my
 閼	yu;my
 閽	hp;mh
@@ -38735,7 +38736,7 @@ min_phrase_weight: 100
 阍	hp;mh
 阎	yj;mj
 阎	yj;mx
-阏	e;my
+阏	ee;my
 阐	ij;md
 阑	lj;mj
 阒	qu;mq
@@ -38781,7 +38782,7 @@ min_phrase_weight: 100
 阧	db;ed
 阧	tu;ed
 阨	ai;ee
-阨	e;ee
+阨	ee;ee
 阩	ug;eu
 阪	bj;ef
 阫	bz;eb
@@ -38806,8 +38807,8 @@ min_phrase_weight: 100
 阷	ig;ev
 阸	ai;ea
 阸	ai;ey
-阸	e;ea
-阸	e;ey
+阸	ee;ea
+阸	ee;ey
 阹	qu;eq
 阹	qt;eq
 阺	ii;ed
@@ -38818,7 +38819,7 @@ min_phrase_weight: 100
 阽	yj;ev	50%
 阾	ly;el
 阿	aa;ek	99.89%
-阿	e;ek	0.11%
+阿	ee;ek	0.11%
 陀	to;et
 陁	to;ey
 陂	bz;ep
@@ -38963,7 +38964,7 @@ min_phrase_weight: 100
 隖	wu;ew
 隗	wz;eg
 隘	ai;ey
-隘	e;ey
+隘	ee;ey
 隘	ga;ey	0%
 隙	qi;ex	0%
 隙	xi;ex
@@ -39605,7 +39606,7 @@ min_phrase_weight: 100
 頉	yi;yv
 頊	xu;yw
 頊	xu;wy
-頋	e;ye
+頋	ee;ye
 頌	rs;yg	0%
 頌	ss;yg	100%
 頍	kv;yv
@@ -39631,8 +39632,8 @@ min_phrase_weight: 100
 頜	he;yh	91.01%
 頝	jc;yj
 頝	qc;yj
-頞	e;ya
-頟	e;yg
+頞	ee;ya
+頟	ee;yg
 頠	wz;yw
 頡	jw;yj	0%
 頡	jx;yj	95.52%
@@ -39700,8 +39701,8 @@ min_phrase_weight: 100
 顋	sl;ys
 題	ti;uy
 題	ti;yu
-額	e;yk
-顎	e;ye
+額	ee;yk
+顎	ee;ye
 顏	yj;yy
 顐	hp;yj
 顐	wf;yj
@@ -39816,11 +39817,11 @@ min_phrase_weight: 100
 题	ti;uy
 题	ti;yu
 颙	ys;yy
-颚	e;ye
-颚	e;yk
+颚	ee;ye
+颚	ee;yk
 颛	vr;ye
 颜	yj;yy
-额	e;yk
+额	ee;yk
 颞	nx;yn
 颟	mj;yl
 颠	dm;yv
@@ -39985,7 +39986,7 @@ min_phrase_weight: 100
 餑	bo;ub
 餑	bo;uz
 餒	nz;ut
-餓	e;uw
+餓	ee;uw
 餔	bu;uf
 餕	jp;uj
 餕	zp;uj
@@ -40017,7 +40018,7 @@ min_phrase_weight: 100
 餦	vh;ui
 餧	wz;uw
 館	gr;ug
-餩	e;uh
+餩	ee;uh
 餪	nr;ud
 餫	hp;uj
 餫	yp;uj
@@ -40135,7 +40136,7 @@ min_phrase_weight: 100
 饽	bo;ub
 饽	bo;uz
 饾	db;ud
-饿	e;uw
+饿	ee;uw
 馀	yu;uy
 馁	nz;ut
 馂	jp;uj
@@ -40320,7 +40321,7 @@ min_phrase_weight: 100
 駽	xr;mo
 駾	tv;md
 駿	jp;mj
-騀	e;mw
+騀	ee;mw
 騁	ig;mk
 騁	ig;mp
 騁	pn;mk
@@ -40940,7 +40941,7 @@ min_phrase_weight: 100
 魢	ji;yj
 魣	xu;yy
 魣	yu;yy
-魤	e;yh
+魤	ee;yh
 魥	qt;yj
 魦	ua;yu
 魧	hh;yk
@@ -41143,7 +41144,7 @@ min_phrase_weight: 100
 鰎	jm;yj
 鰏	bi;yt
 鰏	bi;yf
-鰐	e;ye
+鰐	ee;ye
 鰑	yh;yy
 鰒	fu;yf
 鰓	sl;ys
@@ -41175,8 +41176,8 @@ min_phrase_weight: 100
 鰧	tg;yy
 鰨	ta;yy
 鰩	yk;yf
-鰪	e;yh
-鰪	e;ym
+鰪	ee;yh
+鰪	ee;ym
 鰪	ge;yh
 鰪	ge;ym
 鰫	rs;yr
@@ -41284,7 +41285,7 @@ min_phrase_weight: 100
 鱴	mx;ym
 鱵	vf;yx
 鱶	xd;yy
-鱷	e;ye
+鱷	ee;ye
 鱸	lu;yl
 鱹	gr;yv
 鱹	hr;yv
@@ -41374,8 +41375,8 @@ min_phrase_weight: 100
 鳁	wf;yw
 鳂	wz;yw
 鳃	sl;ys
-鳄	e;ye
-鳄	e;yk
+鳄	ee;ye
+鳄	ee;yk
 鳅	qq;yq
 鳆	fu;yf
 鳇	hd;yh
@@ -41582,8 +41583,8 @@ min_phrase_weight: 100
 鵛	jy;nj
 鵛	jy;ng
 鵜	ti;nd
-鵝	e;nw
-鵞	e;nw
+鵝	ee;nw
+鵞	ee;nw
 鵟	kd;nk
 鵠	gk;ng
 鵠	gu;ng	50%
@@ -41657,7 +41658,7 @@ min_phrase_weight: 100
 鶗	ti;nu
 鶘	hu;nh
 鶙	ti;nd
-鶚	e;ne
+鶚	ee;ne
 鶛	gl;nj
 鶛	jx;nj
 鶛	kl;nj
@@ -41937,7 +41938,7 @@ min_phrase_weight: 100
 鹃	jr;ny
 鹄	gu;ng	50%
 鹄	hu;ng	50%
-鹅	e;nw
+鹅	ee;nw
 鹆	yu;ng
 鹇	xm;nx
 鹈	ti;nd
@@ -41957,8 +41958,8 @@ min_phrase_weight: 100
 鹔	su;ns
 鹕	hu;nh
 鹖	he;nh
-鹗	e;nk
-鹗	e;ne
+鹗	ee;nk
+鹗	ee;ne
 鹘	hu;gn	50%
 鹙	qq;nq
 鹚	ci;nz
@@ -42380,7 +42381,7 @@ min_phrase_weight: 100
 齁	hb;bj
 齂	li;bl
 齂	xi;bl
-齃	e;bh
+齃	ee;bh
 齃	ge;bh
 齃	he;bh
 齄	va;bi
@@ -42506,7 +42507,7 @@ min_phrase_weight: 100
 齴	yj;iy
 齵	ou;iy
 齵	yu;iy
-齶	e;ie
+齶	ee;ie
 齷	wo;iw
 齸	yi;iy
 齹	ii;ii
@@ -43264,15 +43265,15 @@ min_phrase_weight: 100
 𠤼	dc;zz
 𠤾	hj;zz
 𠥇	ye;zz
-𠥍	e;zz
+𠥍	ee;zz
 𠥎	wz;zz
 𠥐	ch;zz
 𠥑	dc;zz
-𠥕	e;zz
+𠥕	ee;zz
 𠥖	di;zz
 𠥘	sr;zz
 𠥙	qr;zz
-𠥜	e;zz
+𠥜	ee;zz
 𠥝	ou;zz
 𠥞	xr;zz
 𠥢	wu;zz
@@ -43469,7 +43470,7 @@ min_phrase_weight: 100
 𠯠	hv;zz
 𠯩	va;zz
 𠯪	dl;zz
-𠯪	e;zz
+𠯪	ee;zz
 𠯫	ge;zz
 𠯭	pi;zz
 𠯯	pm;zz
@@ -43497,7 +43498,7 @@ min_phrase_weight: 100
 𠰚	ui;zz
 𠰛	gk;zz
 𠰛	hu;zz
-𠰜	e;zz
+𠰜	ee;zz
 𠰴	ui;zz
 𠰹	to;zz
 𠰺	dl;zz
@@ -43525,12 +43526,12 @@ min_phrase_weight: 100
 𠱡	sa;zz
 𠱡	ul;zz
 𠱤	lz;zz
-𠱥	e;zz
+𠱥	ee;zz
 𠱥	hv;zz
 𠱥	za;zz
 𠱧	vs;zz
 𠱨	ji;zz
-𠱫	e;zz
+𠱫	ee;zz
 𠱯	zo;zz
 𠱲	na;zz
 𠱳	yp;zz
@@ -43675,7 +43676,7 @@ min_phrase_weight: 100
 𠷞	gu;zz
 𠷟	jx;zz
 𠷢	xm;zz
-𠷸	e;zz
+𠷸	ee;zz
 𠷸	ys;zz
 𠷺	bo;zz
 𠷻	pc;zz
@@ -43850,7 +43851,7 @@ min_phrase_weight: 100
 𡀺	xx;zz
 𡀽	he;zz
 𡀽	ye;zz
-𡀾	e;zz
+𡀾	ee;zz
 𡀿	lv;zz
 𡁀	hj;zz
 𡁁	kl;zz
@@ -43936,7 +43937,7 @@ min_phrase_weight: 100
 𡅂	bo;zz
 𡅃	ph;zz
 𡅄	tj;zz
-𡅅	e;zz
+𡅅	ee;zz
 𡅅	ei;zz
 𡅆	zh;zz
 𡅇	cs;zz
@@ -43945,7 +43946,7 @@ min_phrase_weight: 100
 𡅖	mh;zz
 𡅘	la;zz
 𡅙	yp;zz
-𡅡	e;zz
+𡅡	ee;zz
 𡅥	dx;zz
 𡅭	gr;zz
 𡅱	hr;zz
@@ -44593,9 +44594,9 @@ min_phrase_weight: 100
 𡩾	ou;zz
 𡪁	an;zz
 𡪅	lb;zz
-𡪑	e;zz
+𡪑	ee;zz
 𡪒	zi;zz
-𡪗	e;zz
+𡪗	ee;zz
 𡪙	an;zz
 𡪞	ho;zz
 𡪠	cg;zz
@@ -44784,7 +44785,7 @@ min_phrase_weight: 100
 𡴎	nx;zz
 𡴔	qr;zz
 𡴭	ya;zz
-𡴯	e;zz
+𡴯	ee;zz
 𡴱	hu;zz
 𡴱	jx;zz
 𡵀	mh;zz
@@ -44895,7 +44896,7 @@ min_phrase_weight: 100
 𡹘	qi;zz
 𡹙	gv;zz
 𡹢	qn;zz
-𡹣	e;zz
+𡹣	ee;zz
 𡹥	zo;zz
 𡹨	ze;zz
 𡹩	qi;zz
@@ -45019,7 +45020,7 @@ min_phrase_weight: 100
 𡾓	cg;zz
 𡾕	dh;zz
 𡾖	lz;zz
-𡾙	e;zz
+𡾙	ee;zz
 𡾛	bg;zz
 𡾜	ho;zz
 𡾜	jt;zz
@@ -45155,7 +45156,7 @@ min_phrase_weight: 100
 𢃯	gv;zz
 𢃰	ui;zz
 𢃱	mb;zz
-𢃲	e;zz
+𢃲	ee;zz
 𢃳	ba;zz
 𢃴	la;zz
 𢃸	vb;zz
@@ -45972,7 +45973,7 @@ min_phrase_weight: 100
 𢨜	jx;zz
 𢨝	ui;zz
 𢨟	xi;zz
-𢨡	e;zz
+𢨡	ee;zz
 𢨥	hu;zz
 𢨦	hu;zz
 𢨨	li;zz
@@ -46342,8 +46343,8 @@ min_phrase_weight: 100
 𢼑	kd;zz
 𢼖	mn;zz
 𢼙	lc;zz
-𢼚	e;zz
-𢼛	e;zz
+𢼚	ee;zz
+𢼛	ee;zz
 𢼛	ge;zz
 𢼛	go;zz
 𢼟	wh;zz
@@ -46535,7 +46536,7 @@ min_phrase_weight: 100
 𣄧	wz;zz
 𣄮	zi;zz
 𣄯	ji;zz
-𣄰	e;zz
+𣄰	ee;zz
 𣄱	ji;zz
 𣄲	kv;zz
 𣄴	ld;zz
@@ -46700,7 +46701,7 @@ min_phrase_weight: 100
 𣎳	pn;zz
 𣎴	ai;zz
 𣎴	dp;zz
-𣎴	e;zz
+𣎴	ee;zz
 𣎵	bz;zz
 𣎵	po;zz
 𣎸	lc;zz
@@ -46864,7 +46865,7 @@ min_phrase_weight: 100
 𣘥	bi;zz
 𣘦	yi;zz
 𣘧	fu;zz
-𣘨	e;zz
+𣘨	ee;zz
 𣘪	lk;zz
 𣘫	hk;zz
 𣘬	li;zz
@@ -47066,7 +47067,7 @@ min_phrase_weight: 100
 𣢖	qm;zz
 𣢗	xw;zz
 𣢚	wa;zz
-𣢛	e;zz
+𣢛	ee;zz
 𣢜	yb;zz
 𣢝	xy;zz
 𣢞	ni;zz
@@ -47141,7 +47142,7 @@ min_phrase_weight: 100
 𣤯	uu;zz
 𣤰	yt;zz
 𣤱	ij;zz
-𣤲	e;zz
+𣤲	ee;zz
 𣤳	xi;zz
 𣤴	xi;zz
 𣤵	yy;zz
@@ -47190,7 +47191,7 @@ min_phrase_weight: 100
 𣦬	vv;zz
 𣦭	gu;zz
 𣦯	li;zz
-𣦵	e;zz
+𣦵	ee;zz
 𣦵	vf;zz
 𣦶	dl;zz
 𣦼	cj;zz
@@ -47756,7 +47757,7 @@ min_phrase_weight: 100
 𤂤	vr;zz
 𤂲	hs;zz
 𤂶	ln;zz
-𤂷	e;zz
+𤂷	ee;zz
 𤂹	yn;zz
 𤂺	lj;zz
 𤂼	yk;zz
@@ -47910,7 +47911,7 @@ min_phrase_weight: 100
 𤎋	cv;zz
 𤎗	ji;zz
 𤎘	uh;zz
-𤎣	e;zz
+𤎣	ee;zz
 𤎤	lk;zz
 𤎥	ij;zz
 𤎥	tj;zz
@@ -48369,7 +48370,7 @@ min_phrase_weight: 100
 𤡲	kl;zz
 𤡳	if;zz
 𤡶	xu;zz
-𤡾	e;zz
+𤡾	ee;zz
 𤡿	li;zz
 𤢀	xi;zz
 𤢁	hr;zz
@@ -48494,7 +48495,7 @@ min_phrase_weight: 100
 𤩱	tm;zz
 𤩲	ge;zz
 𤩽	hr;zz
-𤪄	e;zz
+𤪄	ee;zz
 𤪆	xw;zz
 𤪋	jm;zz
 𤪌	qi;zz
@@ -48581,7 +48582,7 @@ min_phrase_weight: 100
 𤭱	hu;zz
 𤭴	su;zz
 𤭻	ge;zz
-𤭼	e;zz
+𤭼	ee;zz
 𤭽	xu;zz
 𤮆	xi;zz
 𤮊	kh;zz
@@ -48842,7 +48843,7 @@ min_phrase_weight: 100
 𤸬	uy;zz
 𤸮	su;zz
 𤸯	sh;zz
-𤸱	e;zz
+𤸱	ee;zz
 𤸱	kl;zz
 𤸱	ke;zz
 𤸱	ya;zz
@@ -48919,7 +48920,7 @@ min_phrase_weight: 100
 𤻖	bi;zz
 𤻘	yn;zz
 𤻙	ho;zz
-𤻜	e;zz
+𤻜	ee;zz
 𤻜	kl;zz
 𤻝	ny;zz
 𤻢	ai;zz
@@ -49344,7 +49345,7 @@ min_phrase_weight: 100
 𥊿	mm;zz
 𥋁	xi;zz
 𥋌	sa;zz
-𥋙	e;zz
+𥋙	ee;zz
 𥋚	mx;zz
 𥋛	vu;zz
 𥋜	zb;zz
@@ -49528,11 +49529,11 @@ min_phrase_weight: 100
 𥑶	lz;zz
 𥑸	vb;zz
 𥑹	kw;zz
-𥑺	e;zz
+𥑺	ee;zz
 𥑻	xm;zz
 𥑼	dm;zz
 𥑽	no;zz
-𥑾	e;zz
+𥑾	ee;zz
 𥑿	ys;zz
 𥒀	wu;zz
 𥒁	kg;zz
@@ -49561,7 +49562,7 @@ min_phrase_weight: 100
 𥓃	li;zz
 𥓆	ln;zz
 𥓇	du;zz
-𥓈	e;zz
+𥓈	ee;zz
 𥓌	qd;zz
 𥓍	du;zz
 𥓐	jx;zz
@@ -49591,7 +49592,7 @@ min_phrase_weight: 100
 𥔮	qm;zz
 𥔯	hv;zz
 𥔱	uj;zz
-𥔲	e;zz
+𥔲	ee;zz
 𥔻	qq;zz
 𥔽	ke;zz
 𥕀	wg;zz
@@ -50191,7 +50192,7 @@ min_phrase_weight: 100
 𥯪	sb;zz
 𥯬	rr;zz
 𥯮	yu;zz
-𥯳	e;zz
+𥯳	ee;zz
 𥯶	ku;zz
 𥯸	vu;zz
 𥯾	xw;zz
@@ -50828,7 +50829,7 @@ min_phrase_weight: 100
 𦊘	hu;zz
 𦊦	fu;zz
 𦊧	hu;zz
-𦊪	e;zz
+𦊪	ee;zz
 𦊫	gs;zz
 𦊬	gu;zz
 𦊱	gw;zz
@@ -51242,7 +51243,7 @@ min_phrase_weight: 100
 𦚩	wa;zz
 𦚫	xx;zz
 𦚸	gg;zz
-𦛅	e;zz
+𦛅	ee;zz
 𦛏	ku;zz
 𦛐	na;zz
 𦛓	ju;zz
@@ -52369,7 +52370,7 @@ min_phrase_weight: 100
 𧊙	vi;zz
 𧊚	ts;zz
 𧊛	qu;zz
-𧊜	e;zz
+𧊜	ee;zz
 𧊞	xy;zz
 𧊟	ru;zz
 𧊠	uu;zz
@@ -52378,7 +52379,7 @@ min_phrase_weight: 100
 𧊤	yi;zz
 𧊥	xu;zz
 𧊦	fb;zz
-𧊧	e;zz
+𧊧	ee;zz
 𧊧	ge;zz
 𧊬	he;zz
 𧊭	yn;zz
@@ -52412,7 +52413,7 @@ min_phrase_weight: 100
 𧋲	bz;zz
 𧌁	tc;zz
 𧌃	za;zz
-𧌄	e;zz
+𧌄	ee;zz
 𧌄	ye;zz
 𧌅	ub;zz
 𧌆	ks;zz
@@ -52470,7 +52471,7 @@ min_phrase_weight: 100
 𧍩	jx;zz
 𧍪	yu;zz
 𧍫	wz;zz
-𧍬	e;zz
+𧍬	ee;zz
 𧍭	qr;zz
 𧍮	js;zz
 𧍯	fg;zz
@@ -52591,7 +52592,7 @@ min_phrase_weight: 100
 𧒀	bi;zz
 𧒂	fu;zz
 𧒈	li;zz
-𧒎	e;zz
+𧒎	ee;zz
 𧒐	ye;zz
 𧒑	uu;zz
 𧒓	se;zz
@@ -52654,7 +52655,7 @@ min_phrase_weight: 100
 𧔳	to;zz
 𧔴	il;zz
 𧔷	jn;zz
-𧔼	e;zz
+𧔼	ee;zz
 𧕃	ij;zz
 𧕄	yy;zz
 𧕅	ly;zz
@@ -52761,7 +52762,7 @@ min_phrase_weight: 100
 𧙁	pi;zz
 𧙁	vi;zz
 𧙁	zi;zz
-𧙃	e;zz
+𧙃	ee;zz
 𧙄	bo;zz
 𧙅	po;zz
 𧙆	xu;zz
@@ -52791,7 +52792,7 @@ min_phrase_weight: 100
 𧚁	hr;zz
 𧚂	ls;zz
 𧚃	xi;zz
-𧚄	e;zz
+𧚄	ee;zz
 𧚅	lh;zz
 𧚆	fz;zz
 𧚇	wj;zz
@@ -52925,7 +52926,7 @@ min_phrase_weight: 100
 𧠛	ij;zz
 𧠜	ui;zz
 𧠝	vf;zz
-𧠞	e;zz
+𧠞	ee;zz
 𧠟	mi;zz
 𧠡	ui;zz
 𧠢	qu;zz
@@ -53001,7 +53002,7 @@ min_phrase_weight: 100
 𧢹	jn;zz
 𧢹	uf;zz
 𧢼	vo;zz
-𧢽	e;zz
+𧢽	ee;zz
 𧢾	ji;zz
 𧣁	tj;zz
 𧣃	pa;zz
@@ -53151,7 +53152,7 @@ min_phrase_weight: 100
 𧨊	va;zz
 𧨋	hw;zz
 𧨗	ij;zz
-𧨟	e;zz
+𧨟	ee;zz
 𧨡	if;zz
 𧨧	sv;zz
 𧨩	tm;zz
@@ -53280,7 +53281,7 @@ min_phrase_weight: 100
 𧭥	lo;zz
 𧭦	jr;zz
 𧭦	xr;zz
-𧭪	e;zz
+𧭪	ee;zz
 𧭳	he;zz
 𧭵	mz;zz
 𧭸	xx;zz
@@ -53684,7 +53685,7 @@ min_phrase_weight: 100
 𧻼	nx;zz
 𧻿	hb;zz
 𧼊	mi;zz
-𧼎	e;zz
+𧼎	ee;zz
 𧼏	xm;zz
 𧼐	qp;zz
 𧼐	yp;zz
@@ -53751,7 +53752,7 @@ min_phrase_weight: 100
 𧽩	qd;zz
 𧽫	lm;zz
 𧽲	li;zz
-𧽶	e;zz
+𧽶	ee;zz
 𧽷	su;zz
 𧽸	gv;zz
 𧽸	jt;zz
@@ -53809,7 +53810,7 @@ min_phrase_weight: 100
 𧿒	if;zz
 𧿓	hu;zz
 𧿔	nu;zz
-𧿕	e;zz
+𧿕	ee;zz
 𧿖	xs;zz
 𧿗	dp;zz
 𧿘	ug;zz
@@ -53901,7 +53902,7 @@ min_phrase_weight: 100
 𨁿	iu;zz
 𨁿	vo;zz
 𨂀	zu;zz
-𨂁	e;zz
+𨂁	ee;zz
 𨂂	xt;zz
 𨂂	vi;zz
 𨂃	pg;zz
@@ -53931,7 +53932,7 @@ min_phrase_weight: 100
 𨂵	va;zz
 𨂺	wj;zz
 𨂿	wl;zz
-𨃃	e;zz
+𨃃	ee;zz
 𨃄	wz;zz
 𨃅	bl;zz
 𨃇	jd;zz
@@ -54178,7 +54179,7 @@ min_phrase_weight: 100
 𨌣	rs;zz
 𨌤	ig;zz
 𨌥	fu;zz
-𨌧	e;zz
+𨌧	ee;zz
 𨌨	tk;zz
 𨌩	th;zz
 𨌫	jr;zz
@@ -54790,7 +54791,7 @@ min_phrase_weight: 100
 𨤇	zk;zz
 𨤎	yj;zz
 𨤑	jr;zz
-𨤕	e;zz
+𨤕	ee;zz
 𨤘	ff;zz
 𨤚	ff;zz
 𨤡	gd;zz
@@ -54987,7 +54988,7 @@ min_phrase_weight: 100
 𨰿	xi;zz
 𨱀	hu;zz
 𨱁	yi;zz
-𨱂	e;zz
+𨱂	ee;zz
 𨱃	gu;zz
 𨱄	tu;zz
 𨱅	vf;zz
@@ -55139,7 +55140,7 @@ min_phrase_weight: 100
 𨵉	yu;zz
 𨵊	ve;zz
 𨵋	wz;zz
-𨵌	e;zz
+𨵌	ee;zz
 𨵍	ij;zz
 𨵎	qi;zz
 𨵎	xi;zz
@@ -55189,7 +55190,7 @@ min_phrase_weight: 100
 𨶬	hw;zz
 𨶭	wf;zz
 𨶮	ye;zz
-𨶯	e;zz
+𨶯	ee;zz
 𨶰	gd;zz
 𨶱	hw;zz
 𨶲	jc;zz
@@ -55257,7 +55258,7 @@ min_phrase_weight: 100
 𨸰	ju;zz
 𨸱	nm;zz
 𨸱	tm;zz
-𨸷	e;zz
+𨸷	ee;zz
 𨸺	ya;zz
 𨸻	ln;zz
 𨸼	bi;zz
@@ -55301,7 +55302,7 @@ min_phrase_weight: 100
 𨺥	yj;zz
 𨺦	sb;zz
 𨺧	qq;zz
-𨺨	e;zz
+𨺨	ee;zz
 𨺩	qm;zz
 𨺫	qm;zz
 𨺭	ca;zz
@@ -55627,7 +55628,7 @@ min_phrase_weight: 100
 𩇜	vf;zz
 𩇝	qy;zz
 𩇟	qy;zz
-𩇠	e;zz
+𩇠	ee;zz
 𩇠	yj;zz
 𩇣	se;zz
 𩇩	bz;zz
@@ -55707,7 +55708,7 @@ min_phrase_weight: 100
 𩉯	yr;zz
 𩉰	ah;zz
 𩉱	di;zz
-𩉴	e;zz
+𩉴	ee;zz
 𩉵	ff;zz
 𩉸	ju;zz
 𩉹	ni;zz
@@ -55736,7 +55737,7 @@ min_phrase_weight: 100
 𩊜	do;zz
 𩊝	vi;zz
 𩊡	vf;zz
-𩊢	e;zz
+𩊢	ee;zz
 𩊣	vu;zz
 𩊤	ba;zz
 𩊨	vf;zz
@@ -55764,7 +55765,7 @@ min_phrase_weight: 100
 𩋆	qm;zz
 𩋈	nk;zz
 𩋉	yu;zz
-𩋊	e;zz
+𩋊	ee;zz
 𩋋	jm;zz
 𩋌	yi;zz
 𩋍	xc;zz
@@ -55800,7 +55801,7 @@ min_phrase_weight: 100
 𩋹	yy;zz
 𩋺	gk;zz
 𩋻	ko;zz
-𩋽	e;zz
+𩋽	ee;zz
 𩋾	wz;zz
 𩋾	xt;zz
 𩋿	mz;zz
@@ -55976,7 +55977,7 @@ min_phrase_weight: 100
 𩐭	nx;zz
 𩐮	hk;zz
 𩐯	fg;zz
-𩐰	e;zz
+𩐰	ee;zz
 𩐱	ye;zz
 𩐴	ty;zz
 𩐵	ds;zz
@@ -55986,7 +55987,7 @@ min_phrase_weight: 100
 𩐼	su;zz
 𩐾	le;zz
 𩑀	pu;zz
-𩑁	e;zz
+𩑁	ee;zz
 𩑂	vo;zz
 𩑃	ye;zz
 𩑇	xd;zz
@@ -56046,7 +56047,7 @@ min_phrase_weight: 100
 𩒐	ii;zz
 𩒓	hs;zz
 𩒔	nb;zz
-𩒕	e;zz
+𩒕	ee;zz
 𩒕	nx;zz
 𩒕	po;zz
 𩒖	yj;zz
@@ -56065,7 +56066,7 @@ min_phrase_weight: 100
 𩒨	qi;zz
 𩒪	vf;zz
 𩒮	qq;zz
-𩒰	e;zz
+𩒰	ee;zz
 𩒳	hv;zz
 𩒴	hs;zz
 𩒵	qy;zz
@@ -56154,12 +56155,12 @@ min_phrase_weight: 100
 𩕕	wl;zz
 𩕖	xr;zz
 𩕜	kv;zz
-𩕟	e;zz
+𩕟	ee;zz
 𩕠	hj;zz
 𩕡	se;zz
 𩕤	dj;zz
 𩕪	xr;zz
-𩕬	e;zz
+𩕬	ee;zz
 𩕭	gl;zz
 𩕯	dk;zz
 𩕱	mg;zz
@@ -56168,7 +56169,7 @@ min_phrase_weight: 100
 𩕵	pn;zz
 𩕹	ch;zz
 𩕾	yr;zz
-𩖀	e;zz
+𩖀	ee;zz
 𩖁	nx;zz
 𩖁	ya;zz
 𩖄	yn;zz
@@ -56333,7 +56334,7 @@ min_phrase_weight: 100
 𩚥	ba;zz
 𩚪	er;zz
 𩚫	vg;zz
-𩚬	e;zz
+𩚬	ee;zz
 𩚭	pb;zz
 𩚮	ji;zz
 𩚮	ni;zz
@@ -56605,7 +56606,7 @@ min_phrase_weight: 100
 𩣞	sa;zz
 𩣞	yi;zz
 𩣡	bo;zz
-𩣣	e;zz
+𩣣	ee;zz
 𩣩	ve;zz
 𩣫	li;zz
 𩣮	tu;zz
@@ -56649,7 +56650,7 @@ min_phrase_weight: 100
 𩤤	uw;zz
 𩤥	xm;zz
 𩤦	xm;zz
-𩤩	e;zz
+𩤩	ee;zz
 𩤲	la;zz
 𩤸	wz;zz
 𩤹	yb;zz
@@ -56777,7 +56778,7 @@ min_phrase_weight: 100
 𩨫	kp;zz
 𩨬	gp;zz
 𩨭	qt;zz
-𩨮	e;zz
+𩨮	ee;zz
 𩨯	qs;zz
 𩨲	ma;zz
 𩨳	du;zz
@@ -56843,7 +56844,7 @@ min_phrase_weight: 100
 𩪟	yi;zz
 𩪢	qm;zz
 𩪣	yi;zz
-𩪤	e;zz
+𩪤	ee;zz
 𩪥	ly;zz
 𩪧	bi;zz
 𩪭	ho;zz
@@ -57258,12 +57259,12 @@ min_phrase_weight: 100
 𩸂	pf;zz
 𩸃	tu;zz
 𩸄	hw;zz
-𩸇	e;zz
-𩸋	e;zz
+𩸇	ee;zz
+𩸋	ee;zz
 𩸋	ya;zz
 𩸎	dy;zz
 𩸐	ru;zz
-𩸖	e;zz
+𩸖	ee;zz
 𩸞	qi;zz
 𩸞	yj;zz
 𩸟	si;zz
@@ -57374,7 +57375,7 @@ min_phrase_weight: 100
 𩽴	nm;zz
 𩽵	li;zz
 𩽷	ba;zz
-𩽹	e;zz
+𩽹	ee;zz
 𩽺	fu;zz
 𩽻	fu;zz
 𩽼	hp;zz
@@ -57464,7 +57465,7 @@ min_phrase_weight: 100
 𪀘	jd;zz
 𪀚	ss;zz
 𪀛	qs;zz
-𪀝	e;zz
+𪀝	ee;zz
 𪀝	yr;zz
 𪀞	hd;zz
 𪀟	hv;zz
@@ -57628,7 +57629,7 @@ min_phrase_weight: 100
 𪅮	mi;zz
 𪅰	uu;zz
 𪅲	xi;zz
-𪅴	e;zz
+𪅴	ee;zz
 𪅵	zi;zz
 𪅸	jx;zz
 𪅹	ji;zz
@@ -58204,10 +58205,10 @@ min_phrase_weight: 100
 𪘆	xq;zz
 𪘇	vl;zz
 𪘉	do;zz
-𪘊	e;zz
+𪘊	ee;zz
 𪘎	nx;zz
 𪘎	yn;zz
-𪘐	e;zz
+𪘐	ee;zz
 𪘑	sr;zz
 𪘒	an;zz
 𪘓	co;zz
@@ -58250,7 +58251,7 @@ min_phrase_weight: 100
 𪙨	jm;zz
 𪙫	xu;zz
 𪙭	zg;zz
-𪙯	e;zz
+𪙯	ee;zz
 𪙳	zu;zz
 𪙴	yi;zz
 𪙹	vi;zz
@@ -58493,8 +58494,8 @@ min_phrase_weight: 100
 濸	ch;dc
 躾	mz;um
 煀	wz;hq
-鵈	e;en
-鵈	e;ne
+鵈	ee;en
+鵈	ee;ne
 椦	qr;ml
 溊	xw;dj
 爘	cj;hc
@@ -60035,3 +60036,21 @@ min_phrase_weight: 100
 	zu;kv
 	zu;uh
 乼	zu;yv
+_(:з」∠)_	fe;oz
+<(づ￣　³￣)>づ	fe;yo
+o<(*≧▽≦)>ツ	fe;kl
+<(=╯′皿｀)╯ ┫:·'∵:.┻┻:·'.:┣∵·:. ┳┳☆	fe;xm
+┻━┻︵╰<(=‵Д′=)>╯︵┻━┻	fe;xm
+<(=╯‵Д′)╯""┻━┻☆))>○<)	fe;xm
+<(=┘￣Д￣)┘╧═╧	fe;xm
+<(=￣▽￣"=)>	fe;he
+<(=＞﹏＜=)>	fe;mc
+<( >﹏<。=)>	fe;mc
+<(=·ェ·=)>	fe;mk
+o<(=°ω°=)>0	fe;mk
+Σ<(=￣д￣=!)>	fe;jy
+ヾ(^▽^*=)>	fe;hk
+Σ(゜д゜=!)>	fe;jy
+<(=╥﹏╥=)>	fe;lz
+(PД`q。=)>·。'゜	fe;lz
+Σ<(=⊙▽⊙)"	fe;aa
