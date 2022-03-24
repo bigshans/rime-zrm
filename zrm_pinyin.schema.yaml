@@ -64,6 +64,7 @@ speller:
 translator:
   dictionary: zrm_pinyin
   prism: zrm_pinyin
+  spelling_hints: 1
   preedit_format:
     - xform/(?<!;)([bpmnljqxy])n/$1in/
     - xform/(?<!;)(\w)g/$1eng/
