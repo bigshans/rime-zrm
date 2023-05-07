@@ -11,6 +11,7 @@
 | zrm_pinyin.dict.yaml           | 从 zrm2000 词库改造而来，删除了一些非文字字符。                       |
 | zrm_pinyin.dict.yaml-2         | 结合 zrm_pinyin 与 luna_pinyin 生成的词库，内容很全，包含非文字字符。 |
 | zrm.unique_fm.dict.yaml        | 从 zrm_pinyin 改 2 改造过来，目的是为了减少重码。                     |
+| zrm.standard_unique.dict.yaml  | 按照自然码标准确定的辅码方案，由 @sharp-tasting 提供，感谢。          |
 | zrm_pinyin.utf8-lite.dict.yaml | 基于 unique_fm 版再改造而来，去除了不能正常显示的文字。               |
 | zrm_pinyin.cn_en.dict.yaml     | 从 luna_pinyin.cn_en 改造过来，用以适应中英混输的情况。               |
 
