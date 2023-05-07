@@ -1,3 +1,4 @@
 [submodule "scripts/hanzi_chaizi"]
 	path = scripts/hanzi_chaizi
 	url = https://github.com/miaoluda/hanzi_chaizi.git
+	ignore = dirty
