@@ -11,11 +11,12 @@
 | zrm_pinyin.dict.yaml           | 从 zrm2000 词库改造而来，删除了一些非文字字符。                       |
 | zrm_pinyin.dict.yaml-2         | 结合 zrm_pinyin 与 luna_pinyin 生成的词库，内容很全，包含非文字字符。 |
 | zrm.unique_fm.dict.yaml        | 从 zrm_pinyin 改 2 改造过来，目的是为了减少重码。                     |
-| zrm.standard_unique.dict.yaml  | 按照自然码标准确定的辅码方案，由 [@sharp-tasting](https://github.com/sharp-tasting) 提供，感谢。          |
+| zrm.standard_unique.dict.yaml  | 按照自然码标准确定的辅码方案，从 unique_fm 修改并去重，由 [@sharp-tasting](https://github.com/sharp-tasting) 提供，感谢。          |
 | zrm_pinyin.utf8-lite.dict.yaml | 基于 unique_fm 版再改造而来，去除了不能正常显示的文字。               |
+| zrm_pinyin.standard_utf8_lite.dict.yaml  | 按照自然码标准确定的辅码方案，从 utf8-lite 修改并去重，由 [@sharp-tasting](https://github.com/sharp-tasting) 提供。          |
 | zrm_pinyin.cn_en.dict.yaml     | 从 luna_pinyin.cn_en 改造过来，用以适应中英混输的情况。               |
 
-以上文件除了 zrm_pinyin.cn_en.dict.yaml ， zrm_pinyin.utf8-lite.dict.yaml 为生成负担最小，其他几个词典都有较大的内存占用。不过 utf8-lite 版相对不是很完整希望能够注意。
+以上文件除了 zrm_pinyin.cn_en.dict.yaml， zrm_pinyin.utf8-lite.dict.yaml，zrm_pinyin.standard_utf8_lite.dict.yaml 为生成负担最小，其他几个词典都有较大的内存占用。不过 utf8-lite 版相对不是很完整希望能够注意。
 
 以上词典如果出现缺漏的话，建议自行添加即可。
 
@@ -60,6 +61,19 @@ speller:
 因为用了辅助码，编码与拼音不同，所以你不能完全正常的使用拼音词库，你也可以使用我的词库。
 
 如果你想要增加新的词库，可以编写一个脚本来将全拼与自然码进行转换。
+
+### standard 词典所用的自然码标准
+
+standard词典相比于对应的原词典文件更小，去除重复行，并且做了偏旁规范化。
+
+偏旁规范化，指的是让辅助码更符合 `zrm2000` 的映射规则，以此降低一个字同时对应多组辅助码的问题，从而减少重码。
+`zrm2000` 的键位可参考以下链接：
+
+1. https://www.liuchuo.net/archives/2847
+
+2. https://zhuanlan.zhihu.com/p/122866844
+
+3. 键位图 https://blog.csdn.net/pmo992/article/details/104963648
 
 ## License
 
