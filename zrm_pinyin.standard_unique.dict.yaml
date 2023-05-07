@@ -10591,7 +10591,7 @@ use_preset_vocabulary: true
 奋	gh;dt	97%
 奌	dm;dv
 奎	kv;dg
-奏	zb;tf
+奏	zb;ff
 奐	hr;dd
 契	qi;dd	93.95%
 契	qx;dd	0.30%
@@ -13536,130 +13536,130 @@ use_preset_vocabulary: true
 手	ub;ub
 扌	ub;hh
 才	cl;hp
-扎	za;tg	6.72%
-扎	va;tg	93.28%
+扎	za;fg	6.72%
+扎	va;fg	93.28%
 扏	qq;fj
 扐	le;fl
 扑	pi;fb	0.1%
 扑	po;fb	1%
 扑	pb;fb	0.9%
 扑	pu;fb	98%
-扒	ba;tb	72.04%
+扒	ba;fb	72.04%
 扒	pa;fb	27.96%
 打	da;fd
-扔	rg;tn
-払	fu;ts
+扔	rg;fn
+払	fu;fs
 扗	zl;ft
-托	to;tq
+托	to;fq
 扙	vh;fv
-扚	dc;tu
-扛	gh;tg	1%
-扛	kh;tg	99%
+扚	dc;fu
+扛	gh;fg	1%
+扛	kh;fg	99%
 扜	yu;fy
-扝	xu;tk
+扝	xu;fk
 扞	gj;fg
-扞	hj;tg
-扟	uf;tx
+扞	hj;fg
+扟	uf;fx
 扠	ia;fi
 扠	va;fi
 扡	ii;fy
-扡	to;ty
+扡	to;fy
 扡	yi;fy
-扢	gu;tq
-扢	xi;tq
-扣	kb;tk
+扢	gu;fq
+扢	xi;fq
+扣	kb;fk
 扤	wu;fw
-扥	dp;tg
-扥	to;tg
+扥	dp;fg
+扥	to;fg
 扦	qm;fq
 执	vi;fw
-扨	rf;tr
-扩	ko;tg
+扨	rf;fr
+扩	ko;fg
 扪	mf;fm
-扫	sk;tx
-扬	yh;ty
+扫	sk;fx
+扬	yh;fy
 扭	nq;fi
 扮	bj;ff
-扯	ie;tv
-扰	rk;ty	0%
-扰	yb;ty	100%
+扯	ie;fv
+扰	rk;fy	0%
+扰	yb;fy	100%
 扱	ji;fj
 扱	xi;fj
 扲	jn;fj
 扲	qm;fj
-扳	bj;tf	100%
-扳	pj;tf	0%
+扳	bj;ff	100%
+扳	pj;ff	0%
 扴	jw;fj
 扴	jx;fj
-扵	wu;tu
+扵	wu;fu
 扶	fu;ff
 扷	ao;fy
-扸	ve;tp
+扸	ve;fp
 批	pi;fb
 扺	di;fu
 扺	vi;fu
-扻	zi;tq
+扻	zi;fq
 扼	ee;fe
 扽	dp;ft
-找	vk;tg
+找	vk;fg
 承	ig;zd
-技	ji;tv
+技	ji;fv
 抁	yj;fy
 抁	yp;fy
 抂	kd;fw
-抃	bm;tx
-抄	ik;tu
-抅	ju;tg
-抆	wf;td
-抇	gu;tr
-抇	hu;tr
-抇	kb;tr
+抃	bm;fx
+抄	ik;fu
+抅	ju;fg
+抆	wf;fd
+抇	gu;fr
+抇	hu;fr
+抇	kb;fr
 抈	yt;fo
 抉	jt;fd
-把	ba;tb	100%
+把	ba;fb	100%
 把	bl;fb	0%
-抋	qn;tx
+抋	qn;fx
 抌	if;fg
 抌	vf;fg
-抍	vg;tu
-抎	uj;ty
+抍	vg;fu
+抎	uj;fy
 抎	yp;fy
-抏	wj;ty
-抐	ne;tn
+抏	wj;fy
+抐	ne;fn
 抑	yi;fe
 抒	uu;fy
-抓	iw;tv	0%
-抓	vk;tv	0%
-抓	vw;tv	100%
+抓	iw;fv	0%
+抓	vk;fv	0%
+抓	vw;fv	100%
 抔	pb;fb
 投	tb;fu
 抖	db;fd
-抗	kh;tk
+抗	kh;fk
 折	ue;fj	0.86%
 折	ve;fj	99.14%
-抙	pb;tu
+抙	pb;fu
 抚	fu;fw
 抚	wu;fw
-抛	pk;tl
-抜	ba;ty
-抝	ao;th
-抝	nq;th
-抝	yk;th
+抛	pk;fl
+抜	ba;fy
+抝	ao;fh
+抝	nq;fh
+抝	yk;fh
 抝	yu;fh
 択	ze;fi
 択	vl;fi
 抟	tr;fv
-抠	kb;tq
+抠	kb;fq
 抡	lp;fl
 抢	qd;fc
-护	hu;th
-报	bk;ty
+护	hu;fh
+报	bk;fy
 抦	by;fb
 抧	vi;fv
 抨	pg;fp
 抨	py;fp
 抩	nj;fr
-抩	tj;tr
+抩	tj;fr
 抪	bu;fb
 抪	pu;fb
 披	pz;fp
@@ -13667,124 +13667,122 @@ use_preset_vocabulary: true
 抬	tl;ft
 抭	yk;fj
 抮	vf;fp
-抯	va;tq
-抯	zu;tq
+抯	va;fq
+抯	zu;fq
 抰	yh;fy
 抱	bk;fb
-抲	he;tk
+抲	he;fk
 抳	ni;fn
-抴	ye;tu
-抴	yi;tu
+抴	ye;fu
+抴	yi;fu
 抵	di;fd	100%
 抵	vi;fd	0%
-抶	ii;tu
+抶	ii;fu
 抷	pz;fp
 抷	pi;fp
-抸	za;tf
+抸	za;ff
 抹	ma;fm	7.13%
 抹	mo;fm	92.87%
 抺	mz;fw
 抻	if;fu
 抻	uf;fu
 押	ya;fj
-抽	ib;ty
-抾	qi;tq
-抾	qu;tq
+抽	ib;fy
+抾	qi;fq
+抾	qu;fq
 抾	qt;fq
 抿	mn;fm
-拀	vu;tx
+拀	vu;fx
 拁	jw;fj
-拂	bi;tf	0%
-拂	fu;tf	100%
-拃	va;tv
-拃	vj;tv
+拂	bi;ff	0%
+拂	fu;ff	100%
+拃	va;fv
+拃	vj;fv
 拄	vu;fv
-担	dj;td
+担	dj;fd
 拆	il;fi	97.23%
 拆	ie;fi	2.77%
 拇	mu;fm
-拈	nm;tv
+拈	nm;fv
 拉	la;fl
 拊	fu;ff
 拋	pk;fl
 拌	bj;fb	100%
 拌	pj;fb	0%
 拍	pl;fb	100%
-拍	po;tb	0%
+拍	po;fb	0%
 拎	ln;fl
 拎	ly;fl
 拏	na;un
 拏	nu;un
-拐	gy;tl
+拐	gy;fl
 拑	gj;fg
-拑	qm;tg
-拒	ju;tj
-拓	ta;tu	1.19%
-拓	to;tu	98.81%
-拓	vi;tu	0%
-拔	ba;fy
-拔	ba;ty
+拑	qm;fg
+拒	ju;fj
+拓	ta;fu	1.19%
+拓	to;fu	98.81%
+拓	vi;fu	0%
 拔	ba;fy
 拕	to;ft
 拖	to;fy
-拗	ao;ty	60.12%
-拗	nq;ty	39.88%
-拗	yk;ty	0%
-拗	yu;ty	0%
-拘	ju;tj
+拗	ao;fy	60.12%
+拗	nq;fy	39.88%
+拗	yk;fy	0%
+拗	yu;fy	0%
+拘	ju;fj
 拙	vo;fi
 拚	ff;fc	0%
 拚	pj;fc	11.86%
 拚	pn;fc	88.14%
-招	qc;tv	0%
-招	uk;tv	0%
+招	qc;fv	0%
+招	uk;fv	0%
 招	vk;fv	100%
 拜	bl;pa
-拝	bl;tf
-拞	di;tq
-拞	vi;tq
-拟	ni;ty
+拝	bl;ff
+拞	di;fq
+拞	vi;fq
+拟	ni;fy
 拠	ju;fi
 拡	ko;fs
 拢	ls;fl
 拣	jm;fd
 拤	ka;tk
 拥	ys;fy
-拦	lj;tl
-拧	ny;tn
-拨	bo;tf
-择	ze;tf	98.75%
-择	vl;tf	1.25%
-拪	qm;tx
-拫	hf;tg
-括	gw;tu	0.51%
-括	ko;tu	99.49%
+拦	lj;fl
+拧	ny;fn
+拨	bo;ff
+择	ze;ff	98.75%
+择	vl;ff	1.25%
+拪	qm;fx
+拫	hf;fg
+括	gw;fu	0.51%
+括	ko;fu	99.49%
 拭	ui;fu
 拮	jx;fj
 拯	vg;fi
-拰	nn;tr
+拰	nn;fr
 拱	gs;fg
 拲	gs;ug
 拳	qr;uf
-拴	ur;tq
+拴	ur;fq
 拵	cp;fc
 拵	tp;fc
-拶	za;tx	78.95%
-拶	zj;tx	21.05%
-拷	kk;tk
+拶	za;fx	78.95%
+拶	zj;fx	21.05%
+拷	kk;fk
 拸	ie;fd
 拸	ii;fd
 拸	yi;fd
 拹	xx;fx
 拺	ce;fc
-拻	hv;th
+拻	hv;fh
 拼	pn;fb
-拽	ye;ty	0.18%
-拽	vy;ty	99.82%
-拾	ue;th	0.10%
-拾	ui;th	99.90%
+拽	ye;fy	0.18%
+拽	vy;fy	99.82%
+拾	ue;fh	0.10%
+拾	ui;fh	99.90%
 拿	na;uh
-挀	bo;tp
+挀	bo;fp
 持	ii;fs
 挂	gw;fg
 挃	vi;fv
@@ -13794,44 +13792,44 @@ use_preset_vocabulary: true
 指	vi;fv
 挈	qx;ud
 按	an;fa
-挊	ls;tx
-挊	ng;tx
-挊	ns;tx
-挊	nb;tx
+挊	ls;fx
+挊	ng;fx
+挊	ns;fx
+挊	nb;fx
 挋	if;fi
 挋	vf;fi
 挌	ge;fg
 挍	jc;fj
 挍	xc;fj
-挎	ku;tk	0%
-挎	kw;tk	100%
+挎	ku;fk	0%
+挎	kw;fk	100%
 挏	ds;ft
 挐	na;ur
 挐	ru;ur
-挑	tk;tv	0%
-挑	tc;tv	100%
-挒	lx;tl
+挑	tk;fv	0%
+挑	tc;fv	100%
+挒	lx;fl
 挓	va;fv
 挓	vl;fv
 挓	ve;fv
-挔	lv;ty
+挔	lv;fy
 挕	dx;fe
 挖	wa;fy
-挗	jt;ty
+挗	jt;fy
 挙	ju;ux
 挚	vi;uv
 挛	lm;uy
 挛	lr;uy
 挛	lvan;uy
 挜	ya;fy
-挝	vw;tg	74.70%
+挝	vw;fg	74.70%
 挞	ta;fd
-挟	jw;tj
+挟	jw;fj
 挟	xw;fj
-挟	xx;tj
-挠	nk;ty
+挟	xx;fj
+挠	nk;fy
 挡	dh;fd
-挢	jc;tq
+挢	jc;fq
 挣	vg;fv
 挤	ji;fq
 挥	hv;fj
@@ -13841,27 +13839,27 @@ use_preset_vocabulary: true
 挨	ai;fu
 挩	uv;fd
 挩	to;fd
-挪	no;tn
-挫	co;tz
-挬	bo;tz
+挪	no;fn
+挫	co;fz
+挬	bo;fz
 挭	gg;fg
 挮	ti;fd
-振	vf;ti
+振	vf;fi
 挰	ig;fi
-挱	sa;tu
-挱	ua;tu
-挱	so;tu
+挱	sa;fu
+挱	ua;fu
+挱	so;fu
 挲	sa;uu	12.50%
 挲	ua;uu	12.50%
 挲	so;uu	87.50%
 挳	jy;fg
 挳	kg;fg
 挴	mz;fm
-挵	ls;tn
-挵	ng;tn
-挵	ns;tn
-挵	nb;tn
-挶	ju;tj
+挵	ls;fn
+挵	ng;fn
+挵	ns;fn
+挵	nb;fn
+挶	ju;fj
 挷	bh;fb
 挷	bg;fb
 挸	jm;fj
@@ -13871,126 +13869,126 @@ use_preset_vocabulary: true
 挼	hv;ft
 挼	no;ft
 挽	wj;fm
-挾	jw;tj
-挾	xw;tj
-挾	xx;tj
+挾	jw;fj
+挾	xw;fj
+挾	xx;fj
 挿	ia;ti
 捀	fg;ff
 捁	gk;fg
-捁	jc;tg
-捂	wu;tw
+捁	jc;fg
+捂	wu;fw
 捃	jp;fj
-捄	jq;tq
+捄	jq;fq
 捄	qq;fq
-捅	ts;ty
+捅	ts;fy
 捆	kp;fk
 捇	ii;fi
 捇	ho;fi
-捈	tu;ty
-捉	vo;tz
-捊	pb;tf
+捈	tu;fy
+捉	vo;fz
+捊	pb;ff
 捋	le;fl	0%
 捋	lo;fl	6.67%
 捋	lv;fl	93.33%
 捌	ba;fb
 捍	hj;fh
-捎	uk;tx
+捎	uk;fx
 捏	nx;ft
 捏	nx;fn
 捏	nx;ft
-捐	jr;ty
-捑	ue;td
+捐	jr;fy
+捑	ue;fd
 捑	ze;fd
 捒	uu;fu
-捒	ss;tu
-捒	sb;tu
-捓	ye;tx
-捔	jc;tj
+捒	ss;fu
+捒	sb;fu
+捓	ye;fx
+捔	jc;fj
 捔	jt;fj
-捕	bu;tf
+捕	bu;ff
 捖	hr;fw
 捖	wj;fw
-捗	bu;tb
+捗	bu;fb
 捘	zp;fj
 捙	yi;fi
 捚	li;fl
-捚	vl;tl
-捛	lv;tl
-捜	sb;ts
-捝	uv;td
-捝	to;td
-捞	lk;tl
+捚	vl;fl
+捛	lv;fl
+捜	sb;fs
+捝	uv;fd
+捝	to;fd
+捞	lk;fl
 损	sp;fy
-捠	bh;tb
-捡	jm;th
-换	hr;th
+捠	bh;fb
+捡	jm;fh
+换	hr;fh
 捣	dk;fd
 捥	wj;fw
 捦	qn;fj
 捧	pg;ff
 捨	ue;fu
-捩	lz;tq
-捩	li;tq
-捩	lx;tq
-捪	mn;th
-捫	mf;tm
+捩	lz;fq
+捩	li;fq
+捩	lx;fq
+捪	mn;fh
+捫	mf;fm
 捬	fu;ff
-捬	wu;tf
+捬	wu;ff
 捭	bl;fb
 捭	bi;fb	1%
-捭	bo;tb
-据	ju;tj
-捯	dk;td
+捭	bo;fb
+据	ju;fj
+捯	dk;fd
 捰	go;fg
-捰	wo;tg
+捰	wo;fg
 捱	ai;fy
 捲	jr;fj
 捳	yt;fy
-捴	zs;tx
+捴	zs;fx
 捵	if;fd
 捶	iv;fi
 捷	jx;fj
-捸	tu;tl
+捸	tu;fl
 捹	bf;fb
-捺	na;tn
+捺	na;fn
 捻	nm;fn
 捻	nx;fn
 捼	no;fw
-捽	zu;tz
-捽	zo;tz
+捽	zu;fz
+捽	zo;fz
 捾	wo;fg
-捾	xw;tg
+捾	xw;fg
 捿	qi;fq
 捿	xi;fq
-掀	xm;tx	100%
-掀	xn;tx	0%
+掀	xm;fx	100%
+掀	xn;fx	0%
 掁	ig;fi
 掂	dm;fd
 掃	sk;fv
 掄	lp;fl
-掅	qy;tq
-掆	gh;tg
+掅	qy;fq
+掆	gh;fg
 掇	do;fv
 掇	vv;fv
 授	ub;fu
-掉	dc;tv
+掉	dc;fv
 掊	pb;fp
 掋	di;fd
 掌	vh;dk
-掍	gp;tk
-掍	hp;tk
+掍	gp;fk
+掍	hp;fk
 掎	ji;fq
 掏	tk;ff
-掐	qw;tj
+掐	qw;fj
 掑	qi;fq
-排	pl;tf
+排	pl;ff
 掓	uu;fu
 掔	jn;uy
 掔	na;uy
 掔	qm;uy
-掕	lg;tl
+掕	lg;fl
 掕	ly;fl
-掖	ye;ty
+掖	ye;fy
 掖	yi;fy
 掗	ya;fy
 掘	jt;fq
@@ -13998,8 +13996,8 @@ use_preset_vocabulary: true
 掚	ld;fl
 掛	gw;fg
 掜	ni;fe
-掜	yi;te
-掝	ho;th
+掜	yi;fe
+掝	ho;fh
 掝	yu;fh
 掞	uj;fy
 掞	yj;fy
@@ -14010,96 +14008,90 @@ use_preset_vocabulary: true
 探	tj;fm
 掣	ie;uv
 掣	vi;uv
-掤	by;tp
-接	jx;tq
-掦	ti;ty
+掤	by;fp
+接	jx;fq
+掦	ti;fy
 控	ks;fk
-推	tv;tv
+推	tv;fv
 掩	yj;fd
-措	co;tx
-掫	zb;tq
-掬	ju;tm
+措	co;fx
+掫	zb;fq
 掬	ju;fm
-掬	ju;tm
 掭	tm;fx
 掭	tm;ft
 掭	tm;fx
-掮	jm;tj
-掮	qm;tj
-掯	kf;tk
+掮	jm;fj
+掮	qm;fj
+掯	kf;fk
 掰	bl;fu
 掱	pa;uu
 掱	ub;uu
-掲	jx;tb
-掲	qi;tb
+掲	jx;fb
+掲	qi;fb
 掳	lu;fl
-掴	go;tg	97.33%
+掴	go;fg	97.33%
 掷	vi;fv
 掸	dj;fd	50%
 掺	cj;fc
 掺	ij;fc
 掺	uj;fc
 掻	sk;fi
-掼	gr;tg
+掼	gr;fg
 掽	pg;fb
-掾	yr;tt
-掿	ni;tr
-掿	no;tr
-掿	ro;tr
-揀	jm;tj
-揁	kg;tv
+掾	yr;ft
+掿	ni;fr
+掿	no;fr
+掿	ro;fr
+揀	jm;fj
+揁	kg;fv
 揂	jq;fq
 揂	qq;fq
 揃	jm;fq
 揃	qm;fq
 揄	yk;fy
-揄	yb;ty
+揄	yb;fy
 揄	yu;fy
 揅	yj;uy
-揆	kv;tt
 揆	kv;ft
-揆	kv;tt
-揇	nj;tn
-揈	hs;ty
-揉	rb;tr
-揊	pi;tt
+揇	nj;fn
+揈	hs;fy
+揉	rb;fr
 揊	pi;ft
-揊	pi;tt
 揋	wz;fw
 揌	sl;fs
-揍	zb;tz
+揍	zb;fz
 揎	xr;fx
 描	mc;fm
 提	di;fu	0.05%
-提	ui;tu	0%
+提	ui;fu	0%
 提	ti;fu	99.95%
-揑	nx;tg
-插	ia;ti
+揑	nx;fg
+插	ia;fi
 揓	ui;fu
 揔	zs;fc
-揕	vf;tu
+揕	vf;fu
 揖	ji;fe	0%
 揖	yi;fe	100%
 揗	up;fd
 揘	hg;fh
 揘	hd;fh
-揙	bm;tb
+揙	bm;fb
 揚	yh;fy
 換	hr;fh
-揜	yj;tc
+揜	yj;fc
 揝	zj;fo
 揝	zr;fo
 揞	an;fy
-揟	ju;tx
+揟	ju;fx
 揟	xu;fx
-揠	ya;tn
+揠	ya;fn
 握	wo;fw
 揢	ke;fk
 揣	iy;fe	100%
 揣	ir;fe	0%
 揤	ji;fj
-揤	jx;tj
-揥	ti;td
+揤	jx;fj
+揥	ti;fd
 揦	la;fd
 揦	la;fl
 揦	la;fd
@@ -14107,84 +14099,82 @@ use_preset_vocabulary: true
 揨	ig;ft
 揩	ka;fj
 揩	kl;fj
-揪	jq;tq	100%
-揪	qq;tq	0%
+揪	jq;fq	100%
+揪	qq;fq	0%
 揫	jq;uq
 揫	qq;uq
 揬	tu;ft
-揭	jx;th
-揭	qi;th
-揮	hv;tj
+揭	jx;fh
+揭	qi;fh
+揮	hv;fj
 揯	gg;fh
 揯	hg;fh
-揰	is;tv
+揰	is;fv
 揱	uo;ux
 揱	xc;ux
-揲	dx;tm
-揲	ue;tm
+揲	dx;fm
+揲	ue;fm
 揳	qi;fq
-揳	xx;tq
+揳	xx;fq
 援	yr;fy
-揵	jm;tj
-揵	qm;tj
+揵	jm;fj
+揵	qm;fj
 揶	ye;fy
-揷	ia;tj
-揷	ia;ti
-揷	ia;tj
-揸	va;ti
+揷	ia;fj
+揷	ia;fi
+揷	ia;fj
+揸	va;fi
 揹	bz;fb
 揺	yk;fk
 揻	wz;tw
 揽	lj;fl
 揾	wf;fw
-揿	qn;tq
+揿	qn;fq
 搀	ij;fd
 搁	ge;fg
 搂	lb;fl
-搃	zs;tz
+搃	zs;fz
 搄	gg;fh
-搅	jc;tj
+搅	jc;fj
 搆	gb;fg
-搇	qn;ty
+搇	qn;fy
 搈	ys;fr
-搉	qt;tv
-搊	ib;tc
+搉	qt;fv
+搊	ib;fc
 搋	ii;fh
-搋	iy;th
+搋	iy;fh
 搋	di;fh
-搌	vj;tv
+搌	vj;fv
 損	sp;fy
 搎	sp;fs
-搏	bo;tc
-搐	ib;ti
+搏	bo;fc
+搐	ib;fi
 搐	iu;fx
-搐	iu;tx
-搐	iu;fx
-搐	xu;ti
-搑	nh;tr
+搐	xu;fi
+搑	nh;fr
 搑	rs;fr
-搒	bh;tp	50%
-搒	pg;tp	50%
+搒	bh;fp	50%
+搒	pg;fp	50%
 搓	co;fi
-搔	sk;tz
+搔	sk;fz
 搕	ke;fm
-搖	yk;tf
-搗	dk;td
+搖	yk;ff
+搗	dk;fd
 搘	qi;fo
-搘	qi;tr
+搘	qi;fr
 搘	qi;fo
 搘	vi;fo
-搘	vi;tr
+搘	vi;fr
 搘	vi;fo
-搙	nb;tr
-搙	nu;tr
+搙	nb;fr
+搙	nu;fr
 搙	no;fr
 搚	la;fo
 搚	xx;fo
-搛	jm;tj
-搜	sb;ty
-搜	sb;ts
-搜	sb;ty
+搛	jm;fj
+搜	sb;fy
+搜	sb;fs
+搜	sb;fy
 搝	qq;fi
 搞	gk;fg
 搟	xm;fx
@@ -14194,7 +14184,7 @@ use_preset_vocabulary: true
 搢	jn;fj
 搣	mx;fm
 搤	ee;fy
-搥	iv;tv
+搥	iv;fv
 搦	ni;fr
 搦	no;fr
 搦	ro;fr
@@ -14206,27 +14196,27 @@ use_preset_vocabulary: true
 搬	bj;fb
 搭	da;fh
 搮	li;fl
-搯	tk;ty
-搰	hu;tg
-搱	nl;tx
-搱	vi;tx
+搯	tk;fy
+搰	hu;fg
+搱	nl;fx
+搱	vi;fx
 搲	wa;fg
 搳	hl;fh
 搳	hw;fh
-搳	xw;th
+搳	xw;fh
 搴	qm;ub
 搵	wf;fm
-搵	wf;tw
+搵	wf;fw
 搵	wf;fm
 搶	id;fc	0%
 搶	qd;fc	100%
-搷	if;tv
+搷	if;fv
 搷	tm;fv
-搸	vf;tq
-搹	ee;tg
+搸	vf;fq
+搹	ee;fg
 搹	ge;fg
-携	xi;tn
-携	xx;tn
+携	xi;fn
+携	xx;fn
 搻	ni;hu
 搻	no;hu
 搻	ro;hu
@@ -14236,18 +14226,18 @@ use_preset_vocabulary: true
 搾	va;fv
 搿	bl;hu
 搿	ge;hu
-摀	wu;tw
+摀	wu;fw
 摁	en;fe
 摂	ue;fd
 摃	gh;fg
 摃	gs;fg
-摄	ue;tn	99.72%
-摅	uu;tl
-摆	bl;tb
-摇	yk;tf
+摄	ue;fn	99.72%
+摅	uu;fl
+摆	bl;fb
+摇	yk;ff
 摈	bn;fb
-摉	sb;tx
-摊	tj;tn
+摉	sb;fx
+摊	tj;fn
 摋	sa;fu
 摋	ua;fu
 摌	ij;fi
@@ -14255,12 +14245,12 @@ use_preset_vocabulary: true
 摍	su;fs
 摍	so;fs
 摎	jc;fp
-摎	lc;tp
+摎	lc;fp
 摎	lq;fp
 摎	mq;fp
-摏	is;tj
+摏	is;fj
 摏	is;fi
-摏	is;tj
+摏	is;fj
 摐	id;fv
 摐	cs;fv
 摑	go;fg
@@ -14270,29 +14260,29 @@ use_preset_vocabulary: true
 摔	uy;fl
 摕	di;fd
 摕	tu;fd
-摖	ia;tj
+摖	ia;fj
 摖	qi;fj
 摗	ss;fu
 摗	sb;tq
 摘	vl;fd	100%
 摘	ve;fd	0%
-摙	lm;tl
-摚	th;tt
-摛	ii;tl
+摙	lm;fl
+摚	th;ft
+摛	ii;fl
 摜	gr;fg
 摝	lu;fl
-摞	lo;tl
+摞	lo;fl
 摟	lb;fl
 摠	zs;fx
-摠	zs;tc
+摠	zs;fc
 摠	zs;fx
 摡	gl;fj
-摡	xi;tj
-摢	iu;th
+摡	xi;fj
+摢	iu;fh
 摢	hu;fh
-摣	va;tc
-摤	id;tu
-摤	qd;tu
+摣	va;fc
+摤	id;fu
+摤	qd;fu
 摥	th;fy
 摦	hu;fg
 摦	hu;fh
@@ -14304,69 +14294,69 @@ use_preset_vocabulary: true
 摩	mo;mu	99.90%
 摪	jd;fj
 摪	qd;fj
-摫	gv;tg
+摫	gv;fg
 摬	jy;fj
 摬	yy;fj
-摭	uu;th
-摭	vi;th
+摭	uu;fh
+摭	vi;fh
 摮	ao;ua
 摯	vi;uv
 摰	ii;uv
 摰	nx;uv
 摱	mj;fm
-摲	jm;tv
-摲	uj;tv
-摳	kb;tq	100%
-摳	qu;tq	0%
+摲	jm;fv
+摲	uj;fv
+摳	kb;fq	100%
+摳	qu;fq	0%
 摴	uu;fk
-摵	se;tq
-摵	so;tq
-摶	bo;tv
+摵	se;fq
+摵	so;fq
+摶	bo;fv
 摶	tr;fv
 摷	ik;fi
 摷	jc;fi
 摸	mk;fm	0%
-摸	mo;tm	100%
+摸	mo;fm	100%
 摹	mo;cu
-摺	ve;tx
+摺	ve;fx
 摻	cj;fc	0%
 摻	ij;fc	100%
 摻	uj;fc	0%
-摼	kg;tj
-摼	qm;tj
-摽	bc;tp
-摽	pc;tp
-摾	jd;tq
-摾	jy;tq
-摾	lt;tq
+摼	kg;fj
+摼	qm;fj
+摽	bc;fp
+摽	pc;fp
+摾	jd;fq
+摾	jy;fq
+摾	lt;fq
 摿	yn;fy
 撀	gb;uq
 撁	qm;fq
-撂	lc;tg
+撂	lc;fg
 撂	lt;fg
 撃	ji;uu
-撄	yy;ty
+撄	yy;fy
 撅	jt;fq
 撆	px;ub
-撇	px;tb
+撇	px;fb
 撈	lk;fl
 撉	dp;ud
 撊	xm;fx
-撋	rr;tr
-撋	rp;tr
+撋	rr;fr
+撋	rp;fr
 撌	gv;fg
 撌	kv;fg
 撍	qm;fo
-撍	qm;tr
+撍	qm;fr
 撍	qm;fo
 撍	zj;fq
 撎	yi;fy
 撏	xm;fx
 撏	xp;fx
-撐	ig;ty
-撑	ig;tv
+撐	ig;fy
+撑	ig;fv
 撒	sa;fs
-撓	nk;ty	100%
+撓	nk;fy	100%
 撓	rk;fy	0%
 撔	hg;fj
 撕	si;fs	100%
@@ -14376,122 +14366,116 @@ use_preset_vocabulary: true
 撗	hd;fh
 撘	da;fd
 撙	zp;fz
-撚	nm;tr
+撚	nm;fr
 撛	ln;fl
 撜	ig;fd
 撜	dg;fd
-撜	vg;td
+撜	vg;fd
 撝	hv;fw
-撝	wz;tw
+撝	wz;fw
 撞	id;ft
 撞	vd;ft
 撟	jc;fq
-撟	qc;tq
+撟	qc;fq
 撠	ji;fg
-撡	cj;tx
-撡	ck;tx
-撡	ij;tx
-撡	uj;tx
+撡	cj;fx
+撡	ck;fx
+撡	ij;fx
+撡	uj;fx
 撢	dj;ft
-撢	tj;tt
-撣	dj;td	95%
+撢	tj;ft
+撣	dj;fd	95%
 撣	uj;fd	5%
 撤	ie;fw
 撥	bo;ff
-撦	ie;tu
+撦	ie;fu
 撦	ue;fu
-撧	jt;tj
+撧	jt;fj
 撨	sb;fj
-撨	xc;tj
-撩	lc;tx
-撪	bf;ti
+撨	xc;fj
+撩	lc;fx
+撪	bf;fi
 撫	fu;fw	100%
 撫	wu;fw	0%
-撬	qc;tm
+撬	qc;fm
 撬	qc;fq
-撬	qc;tm
+撬	qc;fm
 播	bo;ff
-撮	co;tz	99.90%
-撮	zv;tz	0%
-撮	zo;tz	0.10%
+撮	co;fz	99.90%
+撮	zv;fz	0%
+撮	zo;fz	0.10%
 撯	vo;fv
-撰	vr;tg
+撰	vr;fg
 撱	to;fs
 撲	pu;fd
-撲	pu;tf
+撲	pu;ff
 撲	pu;fd
 撳	qn;fq
 撴	dp;fd
 撵	nm;fi
 撶	hw;fh
-撷	xx;tj
+撷	xx;fj
 撸	lu;fl
 撹	gk;fj
-撹	jc;tj
+撹	jc;fj
 撺	cr;fc
-撻	da;td
-撻	ta;td
+撻	da;fd
+撻	ta;fd
 撼	hj;fg
 撽	jc;fw
-撽	qc;tw
+撽	qc;fw
 撾	go;fg
-撾	vw;tg
+撾	vw;fg
 撿	jm;fq
 擀	gj;fg
 擁	ys;fv
 擂	lz;fl
-擃	ko;tn
+擃	ko;fn
 擃	ns;fn
 擄	lu;fn
 擄	lo;fn
 擅	uj;fd
 擆	vo;fv
-擇	ze;tx	98.75%
-擇	vl;tx	1.25%
+擇	ze;fx	98.75%
+擇	vl;fx	1.25%
 擈	pu;fy
 擉	iu;fu
-擉	iu;tu
-擉	iu;fu
-擉	io;ti
+擉	io;fi
 擊	ji;fu
 擋	dh;fd
 擌	so;fj
-操	ck;tz
+操	ck;fz
 擎	jy;uj	0%
 擎	qy;uj	100%
-擏	jy;tj
+擏	jy;fj
 擏	qy;fj
-擐	hr;ty
+擐	hr;fy
 擐	hr;fh
-擐	hr;ty
+擐	hr;fy
 擑	jx;fg
-擑	jx;tj
+擑	jx;fj
 擑	jx;fg
 擒	qn;fq
-擓	ky;th
+擓	ky;fh
 擔	dj;fv
 擕	xi;fg
-擕	xi;tj
+擕	xi;fj
 擕	xi;fg
 擕	xx;fg
-擕	xx;tj
+擕	xx;fj
 擕	xx;fg
 擖	ge;fg
-擗	pi;fx
-擗	pi;tx
 擗	pi;fx
 擘	bi;ub	17.65%
 擘	bo;ub	82.35%
 擙	ao;fa
-據	ju;fu
-據	ju;tu
 據	ju;fu
 擛	ye;fm
 擜	ee;tx
 擞	sb;fu
 擟	mi;fe
 擠	ji;fq
-擡	tl;tt
+擡	tl;ft
 擢	vo;fd
 擢	vo;fv
 擢	vo;fd
@@ -14501,47 +14485,43 @@ use_preset_vocabulary: true
 擦	ca;fi
 擧	ju;uy
 擨	ii;fy
-擨	ye;tq
-擨	yi;tq
+擨	ye;fq
+擨	yi;fq
 擩	ru;fx
 擪	yj;uq
 擪	ye;uq
-擫	yj;tq
+擫	yj;fq
 擫	ye;fq
 擬	ni;fy
-擭	ho;ty
+擭	ho;fy
 擭	ho;fh
-擭	ho;ty
-擮	jw;tj
-擮	jx;tj
-擯	bn;tb
+擭	ho;fy
+擮	jw;fj
+擮	jx;fj
+擯	bn;fb
 擰	ny;fn
 擱	ge;fg
-擲	vi;te
 擲	vi;fe
-擲	vi;te
-擳	jx;tj
+擳	jx;fj
 擴	ko;fg
 擵	mo;fm
 擶	jm;fq
 擷	ji;fj
-擷	jx;tj
-擷	xx;tj
+擷	jx;fj
+擷	xx;fj
 擸	la;fl
 擸	lx;fl
-擹	tj;tq
-擺	bl;fn
-擺	bl;tn
+擹	tj;fq
 擺	bl;fn
 擻	sb;fu
 擼	lu;fl
-擽	li;ty
+擽	li;fy
 擽	li;fl
-擽	li;ty
-擽	lt;ty
-擾	rk;ty
+擽	li;fy
+擽	lt;fy
+擾	rk;fy
 擿	ui;fu
-擿	ti;tu
+擿	ti;fu
 擿	vi;fu
 攀	pj;mu
 攁	yh;fy
@@ -14549,56 +14529,46 @@ use_preset_vocabulary: true
 攃	ca;fc
 攃	sa;fc
 攄	uu;fl
-攅	cr;tz
-攅	zj;tz
+攅	cr;fz
+攅	zj;fz
 攆	nm;fn
 攇	xm;fx
-攈	jp;th
+攈	jp;fh
 攉	ho;fv
 攊	li;fv
 攋	la;fl
-攋	ll;tl
+攋	ll;fl
 攋	lj;fl
 攌	hj;fh
 攌	hr;fh
 攍	yy;fy
 攎	lu;fl
 攏	ls;fl
-攐	qm;ty
+攐	qm;fy
 攐	qm;fq
-攐	qm;ty
-攑	qm;tj
-攒	cr;tz	10%
-攒	zj;tz	90%
-攓	jm;fz
-攓	jm;tz
+攐	qm;fy
+攑	qm;fj
+攒	cr;fz	10%
+攒	zj;fz	90%
 攓	jm;fz
 攓	qm;fz
-攓	qm;tz
-攓	qm;fz
-攔	lj;tj
+攔	lj;fj
 攕	xm;fg
 攖	yy;fy
 攗	jp;fm
-攗	mz;tm
+攗	mz;fm
 攘	rh;fy
-攘	rh;ty
-攘	rh;fy
-攙	ij;tt
-攙	ij;ti
-攙	ij;tt
+攙	ij;ft
+攙	ij;fi
+攙	ij;ft
 攛	cr;fu
-攛	cr;tc
+攛	cr;fc
 攛	cr;fu
 攜	xi;fk
-攜	xi;tk
-攜	xi;fk
 攜	xx;fk
-攜	xx;tk
-攜	xx;fk
-攝	nx;tn	0.28%
+攝	nx;fn	0.28%
 攝	ue;fn	99.72%
-攞	lo;tw
+攞	lo;fw
 攟	jp;fh
 攠	mi;ff
 攡	li;fl
@@ -14609,21 +14579,19 @@ use_preset_vocabulary: true
 攣	lvan;us
 攤	tj;fn
 攥	cr;fz
-攥	zr;tz
+攥	zr;fz
 攦	li;fl
-攧	dm;td
+攧	dm;fd
 攨	wa;fg
-攩	dh;td
-攪	gk;tj
-攪	jc;tj
-攫	jt;fy
-攫	jt;ty
+攩	dh;fd
+攪	gk;fj
+攪	jc;fj
 攫	jt;fy
 攬	lj;fl
-攭	li;ti
-攭	lo;ti
+攭	li;fi
+攭	lo;fi
 攮	nj;fn
-攮	nh;tn
+攮	nh;fn
 支	vi;uy
 攰	gv;vl
 攱	gv;lv
@@ -49020,7 +48988,7 @@ use_preset_vocabulary: true
 楾	qr;mq
 鈨	yr;jy
 鞐	qw;gx
-揼	bg;tb
+揼	bg;fb
 枦	lu;mh
 茐	cs;cc
 櫤	jd;mj
@@ -49312,7 +49280,7 @@ use_preset_vocabulary: true
 軅	yj;uy
 燵	da;hd
 銯	si;js
-掹	mg;tm
+掹	mg;fm
 靍	he;yn
 笽	mn;vm
 硓	lk;ul

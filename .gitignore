@@ -1,0 +1,5 @@
+.vscode/*
+.DS_Store
+*/.DS_Store
+scripts/.ipynb_checkpoints/*
+scripts/temp.yaml
