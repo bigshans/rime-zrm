@@ -6846,6 +6846,7 @@ use_preset_vocabulary: true
 丏	mm;ag
 丐	gl;hg
 丑	ib;vt
+丒	ib;rh
 专	vr;fs
 且	ju;uh	0%
 且	qx;aa	100%
@@ -6860,6 +6861,7 @@ use_preset_vocabulary: true
 丙	by;an
 业	qq;aa
 业	ye;aa	0%
+丛	cs;ra
 东	ds;qx
 丝	si;hv
 丞	ig;la
@@ -6926,6 +6928,7 @@ use_preset_vocabulary: true
 义	yi;wd	1%
 之	vi;dd
 乌	wu;ph
+乍	va;re
 乎	hu;pu
 乏	fa;pv
 乐	le;px	95%
@@ -7082,8 +7085,11 @@ use_preset_vocabulary: true
 亹	mf;dq
 亹	wz;dq
 人	rf;pd
+亻	rf;rf
 亼	ji;rh
 亽	ji;rd
+亾	wh;ra
+亾	wu;rv
 亿	yi;ry
 什	ue;ru	0%
 什	uf;ru	84.20%
@@ -7139,9 +7145,11 @@ use_preset_vocabulary: true
 仢	vo;ru
 代	dl;ry
 令	ly;rs
+以	yi;rd
 仦	ik;rx
 仦	mc;rx
 仧	ih;ur
+仧	vh;ru
 仨	sa;rs	100%
 仨	sj;rs	0%
 仩	uh;ru
@@ -7480,6 +7488,7 @@ use_preset_vocabulary: true
 俫	ll;rl
 俬	si;rs
 俭	jm;rh
+修	xq;rp
 俯	fu;rf
 俰	ho;rh
 俱	ju;rj
@@ -7519,6 +7528,8 @@ use_preset_vocabulary: true
 倌	gr;rg
 倍	bz;rk
 倎	tm;rd
+倏	uu;rq
+倐	uu;rh
 們	mf;rm
 倒	dk;rd
 倓	tj;ry
@@ -7646,6 +7657,7 @@ use_preset_vocabulary: true
 偶	ou;ry
 偷	tb;ry
 偸	tb;rd
+偹	bz;rb
 偺	za;rz
 偺	zj;rr
 偻	lb;rl	63.64%
@@ -7792,6 +7804,7 @@ use_preset_vocabulary: true
 僮	ts;rt	60.71%
 僮	vd;rt	39.29%
 僯	ln;rl
+僰	bo;rc
 僱	gu;rg
 僳	su;rs
 僴	xm;rj
@@ -7875,6 +7888,7 @@ use_preset_vocabulary: true
 儲	iu;rv
 儳	ij;rt
 儴	rh;rx
+儵	uu;rh
 儶	hv;rk
 儶	xi;rk
 儷	li;rl
@@ -7937,10 +7951,14 @@ use_preset_vocabulary: true
 兤	kd;gg
 入	ri;pd	0%
 入	ru;pd	100%
+兦	wh;ra
+兦	wu;ra
 內	na;kr	0%
 內	nz;kr	100%
 全	qr;rw
 兩	ld;hr
+兪	uu;rd	0%
+兪	yu;rd	100%
 八	ba;pd
 公	gs;bs
 六	lq;db	99.90%
@@ -7986,15 +8004,24 @@ use_preset_vocabulary: true
 冎	gw;kk
 冎	go;kk
 冏	js;kk
+冐	mk;ry
 冐	mk;oy
+冐	mk;ry
+冐	mo;ry
 冐	mo;oo
+冐	mo;ry
 冑	vb;yy
 冒	mk;oo	99.79%
+冒	mk;rm	99.79%
+冒	mk;oo	99.79%
+冒	mo;oo	0.21%
+冒	mo;rm	0.21%
 冒	mo;oo	0.21%
 冓	gb;hh
 冓	gb;jz
 冓	gb;hh
 冔	xu;oy
+冕	mm;rm
 冖	mi;bk
 冖	mu;bk
 冗	rs;bj
@@ -8187,6 +8214,7 @@ use_preset_vocabulary: true
 刹	ua;du	92.42%
 刺	ci;dc
 刻	ke;dh
+刼	jx;rq
 刽	id;dh
 刽	gv;dh
 刾	ci;dj
@@ -8210,6 +8238,7 @@ use_preset_vocabulary: true
 前	qm;qd
 剎	ia;du	7.58%
 剎	ua;du	92.42%
+剏	id;rb
 剐	gw;dn
 剑	jm;da
 剒	co;dx
@@ -8300,6 +8329,7 @@ use_preset_vocabulary: true
 劑	ji;dq
 劒	jm;pd
 劓	yi;db
+劔	jm;rq
 劕	vi;dv
 劖	ij;dt
 劗	cr;dz
@@ -8843,6 +8873,8 @@ use_preset_vocabulary: true
 吨	tp;kt	50%
 吩	ff;kf
 吪	ee;kh
+含	hj;rk	100%
+含	hf;rk	0%
 听	ty;kj	1%
 听	yi;kj	1%
 听	yn;kj	98%
@@ -10426,6 +10458,7 @@ use_preset_vocabulary: true
 壞	hy;th	100%
 壟	ls;tl
 壠	ls;tl
+壡	rv;ru
 壢	li;tv
 壣	ln;tl
 壤	rh;tx
@@ -11595,6 +11628,7 @@ use_preset_vocabulary: true
 屰	ni;qc
 屰	po;qc
 山	uj;aa
+屳	xm;ru
 屴	li;ul
 屵	ee;ui
 屸	ls;ug
@@ -13011,6 +13045,7 @@ use_preset_vocabulary: true
 惔	tj;xy
 惔	yj;xy
 惕	ti;xy
+惖	ti;rh
 惗	nx;xn
 惘	wh;xw
 惙	io;xv
@@ -14631,6 +14666,7 @@ use_preset_vocabulary: true
 敐	if;wi
 敐	vf;wi
 救	jq;wq
+敒	uf;rw
 敓	do;wd
 敔	yu;ww
 敕	ii;uw
@@ -14834,6 +14870,8 @@ use_preset_vocabulary: true
 旣	ji;bg
 旣	ji;jb
 旤	ho;jk
+日	mi;ri	0%
+日	ri;ri	100%
 旦	dj;oh
 旧	jq;ao
 旨	vi;ob
@@ -15143,6 +15181,7 @@ use_preset_vocabulary: true
 曋	uf;ot
 曋	tj;ot
 曌	ks;ok
+曌	vk;rk
 曍	gk;ou
 曍	hk;ou
 曍	hk;og
@@ -15202,6 +15241,9 @@ use_preset_vocabulary: true
 曱	ya;ss
 曱	ya;oa
 曱	yt;oa
+曱	yt;ru
+曱	yt;oa
+曲	qu;ru
 曳	ye;ap
 曳	ye;sp
 曳	ye;ap
@@ -15214,6 +15256,8 @@ use_preset_vocabulary: true
 曵	ye;sd
 曵	ye;yd
 曵	yi;sd
+曶	hu;rw
+曶	wf;rw
 曶	wu;wo
 曷	he;oa
 書	uu;yo
@@ -15222,10 +15266,14 @@ use_preset_vocabulary: true
 曼	mj;oy	100%
 曼	wj;oy	0%
 曽	cg;br
+曾	cg;rb	59.66%
+曾	zg;rb	40.34%
+替	ti;rf
 最	zv;oq
 朁	cj;jr
 朁	cj;jo
 朁	cj;jr
+朂	xu;rl
 會	gv;rr	0%
 會	hv;rr	99.98%
 會	ky;rr	0.02%
@@ -15727,6 +15775,8 @@ use_preset_vocabulary: true
 梛	no;mn
 梜	jw;mj
 梜	jx;mj
+條	di;rt	0%
+條	tc;rt	100%
 梞	ji;mj
 梟	xc;nm
 梠	lv;ml
@@ -16236,6 +16286,7 @@ use_preset_vocabulary: true
 橄	gj;mg
 橅	mo;mw
 橅	mu;mw
+橆	wu;rl
 橇	qc;mm
 橈	nk;my
 橈	rk;my
@@ -16591,6 +16642,7 @@ use_preset_vocabulary: true
 歭	ii;vs
 歮	se;vv
 歯	ii;vk
+歰	se;rv
 歱	vs;vv
 歲	sv;vx
 歳	sv;vx
@@ -16711,6 +16763,7 @@ use_preset_vocabulary: true
 毋	wu;vp
 毌	gr;vh
 母	mu;vd
+毎	mz;rm
 每	mz;pm
 毐	ai;wu
 毑	jx;my
@@ -16798,6 +16851,7 @@ use_preset_vocabulary: true
 氒	jt;uu
 氓	mh;wm	93.15%
 氓	mg;wm	6.85%
+气	qi;ry
 氕	px;qp
 氖	nl;qn
 気	qi;qw
@@ -16853,6 +16907,7 @@ use_preset_vocabulary: true
 汃	pa;db
 汄	ze;dr
 汅	mm;dk
+汆	cr;ru
 汆	tp;ur
 汇	hv;dk
 汈	dc;dd
@@ -18417,8 +18472,14 @@ use_preset_vocabulary: true
 焞	tp;hx
 焟	xi;hx
 焠	cv;hz
+無	mo;rd	0%
+無	mo;rh	0%
 無	mo;dh	0%
+無	mo;rd	0%
+無	wu;rd	100%
+無	wu;rh	100%
 無	wu;dh	100%
+無	wu;rd	100%
 焢	hs;hk
 焢	ks;hk
 焣	ju;hq
@@ -19189,6 +19250,7 @@ use_preset_vocabulary: true
 王	wh;aa	100%
 王	yu;hh	0%
 玌	ba;wg
+玍	ga;rt
 玎	dy;wd
 玎	vg;wd
 玏	le;wl
@@ -19694,6 +19756,7 @@ use_preset_vocabulary: true
 甯	ny;by
 田	tm;aa
 由	yb;ur
+甲	jw;ru
 申	uf;oa
 甴	yb;uh
 甴	va;aa
@@ -19782,6 +19845,7 @@ use_preset_vocabulary: true
 畯	zp;tj
 異	yi;tg
 畱	lq;tk
+畲	ue;rt
 畳	dx;tq
 畴	ib;tu
 畵	hw;yk
@@ -21176,6 +21240,7 @@ use_preset_vocabulary: true
 禺	ou;od
 禺	ou;ad
 禺	ou;od
+禺	yu;rd
 离	ii;ds
 离	li;ds
 禼	xx;br
@@ -21986,6 +22051,7 @@ use_preset_vocabulary: true
 籱	vk;vh
 籲	yu;vy
 米	mi;dd
+籴	di;rm
 籵	fj;mu
 籵	ui;mu
 籶	uf;mj
@@ -22137,6 +22203,7 @@ use_preset_vocabulary: true
 糱	nx;cb
 糲	li;mw
 糳	zo;mu
+糴	di;rv
 糵	nx;cm
 糶	tc;id
 糷	lj;ml
@@ -22264,6 +22331,9 @@ use_preset_vocabulary: true
 絙	hr;sg
 絚	gg;sa
 絚	hg;sa
+絛	di;rs
+絛	tk;rs
+絛	tc;rs
 絜	jx;sd
 絜	xx;sd
 絝	ku;sk
@@ -23042,6 +23112,8 @@ use_preset_vocabulary: true
 翘	qc;hh
 翙	hv;ys
 翚	hv;yj
+翛	uu;ry
+翛	xc;ry
 翜	jw;yj
 翜	se;yj
 翜	ua;yj
@@ -23264,6 +23336,7 @@ use_preset_vocabulary: true
 肍	qq;oj
 肎	kf;bo
 肎	kg;bo
+肏	ck;rr
 肐	ge;oq
 肑	bo;ou
 肒	hr;ow
@@ -23394,6 +23467,8 @@ use_preset_vocabulary: true
 胩	ka;ok
 胪	lu;ol
 胫	jy;og
+胬	nu;rn
+胬	nv;rn
 胭	yj;oy
 胮	ph;oj
 胯	kw;ok
@@ -23475,6 +23550,7 @@ use_preset_vocabulary: true
 脧	jp;oj
 脧	zv;oj
 脨	ji;ou
+脩	xq;ry
 脪	ii;ox
 脫	to;od
 脬	pk;of
@@ -23614,6 +23690,7 @@ use_preset_vocabulary: true
 膏	gk;ok
 膏	gk;dy
 膏	gk;ok
+膐	lv;rl
 膑	bn;ob
 膒	ou;oq
 膓	ih;ow
@@ -23637,6 +23714,7 @@ use_preset_vocabulary: true
 膡	yy;oj
 膢	lv;ol
 膣	vi;ov
+膥	ip;ri
 膦	lm;ol
 膦	ln;ol
 膧	ts;ot
@@ -23696,6 +23774,7 @@ use_preset_vocabulary: true
 臈	la;og
 臉	lm;oq
 臊	sk;oz
+臋	tp;rd
 臌	gu;og
 臍	qi;oq
 臎	cv;oc
@@ -23722,6 +23801,9 @@ use_preset_vocabulary: true
 臝	lo;dd
 臞	qu;ov
 臟	zh;oc
+臠	lr;rs
+臠	lvan;rs
+臡	ni;rn
 臢	za;oz
 臢	zj;oz
 臢	zh;oz
@@ -25784,12 +25866,14 @@ use_preset_vocabulary: true
 衋	xi;xb
 行	hh;xi	8.22%
 行	xy;xi	91.78%
+衍	yj;ri
 衎	kj;xg
 衏	yr;xi
 衑	ly;xi
 衒	xr;xi
 術	uu;xu	100%
 術	sv;xu	0%
+衔	xm;ri
 衕	ts;xi
 衖	ls;xg
 街	jx;xi
@@ -25804,6 +25888,7 @@ use_preset_vocabulary: true
 衟	dk;xb
 衠	vp;xv
 衡	hg;xd
+衢	qu;ri
 衣	yi;dd
 衤	yi;yi
 补	bu;yb
@@ -27382,6 +27467,7 @@ use_preset_vocabulary: true
 货	ho;bh
 质	vi;bu
 贩	fj;bf
+贪	tj;rb
 贫	pn;bf
 贬	bm;bf
 购	gb;bg
@@ -30079,6 +30165,7 @@ use_preset_vocabulary: true
 闧	ta;my
 门	mf;dg
 闩	ur;mh
+闪	uj;rm
 闫	yj;ms
 闬	hj;mg
 闭	bi;mc
@@ -30630,6 +30717,7 @@ use_preset_vocabulary: true
 鞔	wj;gm
 鞕	yy;gg
 鞖	sv;gt
+鞗	tc;rg
 鞘	qc;gx
 鞙	jr;go
 鞙	xr;gy
@@ -31931,6 +32019,9 @@ use_preset_vocabulary: true
 鯆	bu;yf
 鯆	fu;yf
 鯇	hr;yw
+鯈	ib;ry
+鯈	uu;ry
+鯈	yb;ry
 鯉	li;yl
 鯊	ua;yu
 鯋	ua;yu
@@ -32634,6 +32725,7 @@ use_preset_vocabulary: true
 鸷	vi;nv
 鸸	er;ne
 鸹	gw;nu
+鸺	xq;rn
 鸻	hg;nx
 鸼	vb;nv
 鸽	ge;nh
