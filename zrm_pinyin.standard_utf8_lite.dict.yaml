@@ -13483,7 +13483,7 @@ min_phrase_weight: 100
 戨	ge;gg
 戩	jm;gj
 戩	jn;gj
-截	jx;vg
+截	jx;gv
 戫	yu;yh
 戬	jm;gj
 戬	jn;gj
@@ -19722,10 +19722,10 @@ min_phrase_weight: 100
 甮	fs;wy
 甯	ny;by
 田	tm;aa
-由	yb;ur
-甲	jw;ru
-申	uf;oa
-甴	yb;uh
+由	yb;aa
+甲	jw;aa
+申	uf;aa
+甴	yb;aa
 甴	va;aa
 电	dm;ag
 甶	fu;pt
