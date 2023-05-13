@@ -7051,21 +7051,21 @@ use_preset_vocabulary: true
 亠	tb;wf
 亡	wh;dv	99.46%
 亡	wu;dv	0.54%
-亢	gh;dj	0%
-亢	kh;dj	100%
+亢	gh;wj	0%
+亢	kh;wj	100%
 亣	da;du
 亣	dl;du
 亣	tl;du
 交	jc;lw
-亥	hl;dd
+亥	hl;wd
 亦	yi;wb
 产	ij;li
 亨	hg;wl	100%
 亨	pg;wl	0%
-亩	mu;dt
+亩	mu;wt
 享	xd;wz
-京	jy;dx	100%
-京	yr;dx	0%
+京	jy;wx	100%
+京	yr;wx	0%
 亭	ty;wd
 亮	ld;wj
 亯	xd;wo
@@ -7076,14 +7076,14 @@ use_preset_vocabulary: true
 亲	qy;lm	0%
 亲	xn;lm	10%
 亲	vf;lm	90%
-亳	bo;dq
+亳	bo;wq
 亴	yb;wj
 亵	xx;yv
 亶	dj;wd
 亷	lm;lj
 亸	do;xd
-亹	mf;dq
-亹	wz;dq
+亹	mf;wq
+亹	wz;wq
 人	rf;pd
 亻	rf;rf
 亼	ji;rh
@@ -7907,7 +7907,7 @@ use_preset_vocabulary: true
 兂	zj;hg
 元	yr;ee
 兄	xs;ke
-充	is;dy
+充	is;wy
 兆	vk;ed
 兇	xs;ex
 先	xm;en
@@ -7961,8 +7961,8 @@ use_preset_vocabulary: true
 兪	yu;rd	100%
 八	ba;pd
 公	gs;bs
-六	lq;db	99.90%
-六	lu;db	0.10%
+六	lq;wb	99.90%
+六	lu;wb	0.10%
 兮	xi;bk
 兰	lj;bs
 共	gs;bc
@@ -8558,8 +8558,8 @@ use_preset_vocabulary: true
 协	xx;ub
 卐	wj;aa
 卑	bz;pu
-卒	cu;du	1.88%
-卒	zu;du	98.12%
+卒	cu;wu	1.88%
+卒	zu;wu	98.12%
 卓	vo;uo
 協	xx;ul
 单	ij;bd	0.10%
@@ -10524,8 +10524,6 @@ use_preset_vocabulary: true
 夙	su;jd
 多	do;xx
 夛	do;xa
-夜	ye;ww
-夜	ye;dw
 夜	ye;ww
 夝	qy;xu
 夞	wl;wi
@@ -14777,9 +14775,7 @@ use_preset_vocabulary: true
 斶	iu;ju
 斷	dr;ja
 斸	vu;ji
-方	fh;dw
 方	fh;dp
-方	fh;dw
 斺	xx;fj
 斻	hh;fj
 斻	kh;fj
@@ -15879,7 +15875,7 @@ use_preset_vocabulary: true
 椈	ju;mj
 椉	ig;wj
 椉	ug;wm
-椉	ug;dj
+椉	ug;wj
 椉	ug;wm
 椊	cv;mz
 椊	zo;mz
@@ -21136,8 +21132,8 @@ use_preset_vocabulary: true
 祾	lg;ul
 祾	ly;ul
 祿	lu;uu
-禀	bn;du
-禀	by;du
+禀	bn;wu
+禀	by;wu
 禀	ln;uh
 禁	jn;ul
 禂	dk;uv
@@ -27191,7 +27187,7 @@ use_preset_vocabulary: true
 豧	pu;uf
 豨	xi;ux
 豩	bn;uu
-豪	hk;du
+豪	hk;wu
 豫	yu;yx
 豬	vu;uv
 豭	jw;uj
@@ -31678,7 +31674,7 @@ use_preset_vocabulary: true
 髕	bn;gb
 髖	kr;gk
 髗	lu;gl
-高	gk;dk
+高	gk;wk
 髙	gk;wk
 髚	qc;gk
 髛	kk;gk
@@ -33041,10 +33037,10 @@ use_preset_vocabulary: true
 齇	va;bc
 齈	ns;bn
 齉	nh;bn
-齊	ji;de	0%
-齊	qi;de	100%
-齊	vl;de	0%
-齊	zi;de	0%
+齊	ji;we	0%
+齊	qi;we	100%
+齊	vl;we	0%
+齊	zi;we	0%
 齋	vl;wu
 齋	vl;dx
 齋	vl;wu
@@ -33053,12 +33049,12 @@ use_preset_vocabulary: true
 齍	ji;dm
 齍	zi;qm
 齎	ji;wb
-齏	ji;da
+齏	ji;wa
 齏	ji;qj
-齏	ji;da
-齏	jq;da
+齏	ji;wa
+齏	jq;wa
 齏	jq;qj
-齏	jq;da
+齏	jq;wa
 齐	ji;wp	0%
 齐	qi;wp	100%
 齐	vl;wp	0%
