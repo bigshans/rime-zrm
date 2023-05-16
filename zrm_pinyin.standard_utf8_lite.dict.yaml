@@ -6818,9 +6818,7 @@ min_phrase_weight: 100
 䶲	nj;zz
 䶳	yt;zz
 䶵	ii;zz
-一	yi;ah
 一	yi;aa
-一	yi;ah
 丁	dy;aa	99.93%
 丁	vg;aa	0.07%
 丂	kk;ag
@@ -6854,7 +6852,6 @@ min_phrase_weight: 100
 丕	pi;ba
 世	ui;ca
 世	ui;hv
-世	ui;ca
 丗	ui;uh
 丘	qq;ja
 丙	by;an
@@ -6865,7 +6862,6 @@ min_phrase_weight: 100
 丝	si;hv
 丞	ig;la
 丞	ig;lh
-丞	ig;la
 丟	dq;pq
 丠	qq;hb
 両	ld;hu
@@ -6885,9 +6881,7 @@ min_phrase_weight: 100
 丮	ji;yf
 丮	xp;yf
 丯	jx;pu
-丰	fg;sa
-丰	fg;hu
-丰	fg;sa
+丰	fg;aa
 丱	gr;vu
 丱	kd;vu
 串	ir;uu
@@ -6935,7 +6929,6 @@ min_phrase_weight: 100
 乑	vs;pd
 乒	py;pp
 乒	py;pq
-乒	py;pp
 乓	ph;pd
 乔	jc;pp	0%
 乔	qc;pp	100%
@@ -7023,10 +7016,8 @@ min_phrase_weight: 100
 亗	sv;ue
 亘	gf;hd
 亘	gf;hh
-亘	gf;hd
 亘	gg;hd
 亘	gg;ad
-亘	gg;hd
 亘	hr;hd
 亘	xr;hh
 亙	gf;hh
@@ -7042,11 +7033,9 @@ min_phrase_weight: 100
 亞	ya;hh
 亟	ji;hh	95.11%
 亟	ji;ay	95.11%
-亟	ji;hh	95.11%
 亟	qi;la	4.89%
 亟	qi;ay	4.89%
 亟	qi;aa	4.89%
-亟	qi;la	4.89%
 亠	tb;wf
 亡	wh;dv	99.46%
 亡	wu;dv	0.54%
@@ -8005,20 +7994,15 @@ min_phrase_weight: 100
 冏	js;kk
 冐	mk;ry
 冐	mk;oy
-冐	mk;ry
 冐	mo;ry
 冐	mo;oo
-冐	mo;ry
 冑	vb;yy
 冒	mk;oo	99.79%
 冒	mk;rm	99.79%
-冒	mk;oo	99.79%
 冒	mo;oo	0.21%
 冒	mo;rm	0.21%
-冒	mo;oo	0.21%
 冓	gb;hh
 冓	gb;jz
-冓	gb;hh
 冔	xu;oy
 冕	mm;rm
 冖	mi;bk
@@ -8171,7 +8155,6 @@ min_phrase_weight: 100
 刕	li;dd
 刖	yt;od
 刖	yt;yd
-刖	yt;od
 列	lx;dd
 刘	lq;dw
 则	ze;bd
@@ -8472,7 +8455,6 @@ min_phrase_weight: 100
 匏	pk;bk
 匐	fu;gt
 匐	fu;gf
-匐	fu;gt
 匑	gs;gg
 匑	ju;gg
 匒	da;gh
@@ -8773,10 +8755,8 @@ min_phrase_weight: 100
 古	gu;uk
 句	gb;bk	0%
 句	gb;pk	0%
-句	gb;bk	0%
 句	ju;bk	100%
 句	ju;pk	100%
-句	ju;bk	100%
 另	ly;kl
 叧	go;kd
 叧	kw;kd
@@ -9794,7 +9774,6 @@ min_phrase_weight: 100
 囉	lo;kw
 囊	nh;ky
 囊	nh;hy
-囊	nh;ky
 囋	zj;kz
 囌	su;kh
 囍	xi;xx
@@ -9867,7 +9846,6 @@ min_phrase_weight: 100
 圄	yu;kw
 圅	hj;sy
 圅	hj;su
-圅	hj;sy
 圆	yr;ky
 圇	lp;kl
 圈	jr;kj	2.17%
@@ -10420,7 +10398,6 @@ min_phrase_weight: 100
 壄	ye;tm
 壅	ys;wt
 壅	ys;dt
-壅	ys;wt
 壆	bo;jt
 壆	xt;tb
 壇	tj;td
@@ -10616,7 +10593,6 @@ min_phrase_weight: 100
 奠	dm;dq
 奡	ao;aa
 奡	ao;dd
-奡	ao;aa
 奢	ue;dv
 奣	wg;ym
 奤	ha;dm
@@ -11260,7 +11236,6 @@ min_phrase_weight: 100
 子	zi;aa
 孑	jx;vh
 孑	jx;aa
-孑	jx;vh
 孒	gs;lh
 孒	jt;lh
 孓	jt;vd
@@ -11473,7 +11448,6 @@ min_phrase_weight: 100
 封	fg;cg
 専	vr;ca
 専	vr;ac
-専	vr;ca
 尃	fu;fc
 射	ue;cu	100%
 射	ui;cu	0%
@@ -12083,7 +12057,6 @@ min_phrase_weight: 100
 巯	qq;vi
 巰	lq;ai
 巰	lq;hz
-巰	lq;ai
 巰	qq;ai
 己	ji;ag
 已	yi;vg
@@ -12117,7 +12090,6 @@ min_phrase_weight: 100
 帇	nx;vu
 师	ui;db
 师	ui;aj
-师	ui;db
 帉	ff;jf
 帊	pa;jb
 帋	vi;uj
@@ -12138,7 +12110,6 @@ min_phrase_weight: 100
 帗	fu;jb
 帘	lm;jb
 帘	lm;xj
-帘	lm;jb
 帙	vi;ju
 帚	vb;xj
 帛	bo;bj
@@ -12409,7 +12380,6 @@ min_phrase_weight: 100
 廪	ln;gu
 廫	lc;gj
 廫	lc;gp
-廫	lc;gj
 廬	lu;gl
 廮	yy;gy
 廯	xm;gx
@@ -12429,7 +12399,6 @@ min_phrase_weight: 100
 廽	hv;zh
 廾	gs;ck
 廾	gs;hu
-廾	gs;ck
 廾	nm;ck
 廿	nm;hh
 开	jm;ac	95%
@@ -12461,7 +12430,6 @@ min_phrase_weight: 100
 弓	gs;ag
 弔	dc;aa
 弔	dc;vu
-弔	dc;aa
 引	yn;ga
 弖	hu;ga
 弗	fu;gp
@@ -12548,20 +12516,16 @@ min_phrase_weight: 100
 当	dh;xx
 彔	lu;uj
 彔	lu;ju
-彔	lu;uj
 录	lu;au
 彖	hv;ju
 彖	hv;uv
-彖	hv;ju
 彖	tr;ju
 彖	tr;uv
-彖	tr;ju
 彗	hv;xf
 彘	vi;jb
 彙	hv;jg
 彚	hv;ag
 彚	hv;zd
-彚	hv;ag
 彛	yi;ac
 彜	yi;jc
 彝	yi;vc
@@ -12569,7 +12533,6 @@ min_phrase_weight: 100
 彟	ho;zd
 彠	ho;xy
 彠	ho;zd
-彠	ho;xy
 彡	xm;px
 形	xy;pk
 彣	wf;pw
@@ -12689,7 +12652,6 @@ min_phrase_weight: 100
 徿	ls;xl
 忀	xd;xy
 忀	xd;xx
-忀	xd;xy
 忁	bk;xu
 忂	qu;xv
 心	xn;dd
@@ -13468,10 +13430,8 @@ min_phrase_weight: 100
 戡	kj;gu
 戢	ji;gq
 戢	ji;kg
-戢	ji;gq
 戢	vi;ge
 戢	vi;ad
-戢	vi;ge
 戣	kv;gg
 戤	gl;gy
 戥	dg;gx
@@ -13599,7 +13559,7 @@ min_phrase_weight: 100
 扼	ee;fe
 扽	dp;ft
 找	vk;fg
-承	ig;zd
+承	ig;ad
 技	ji;fv
 抁	yj;fy
 抁	yp;fy
@@ -13833,7 +13793,6 @@ min_phrase_weight: 100
 挦	xm;fx
 挨	ai;fu
 挨	ai;fy
-挨	ai;fu
 挩	uv;fd
 挩	to;fd
 挪	no;fn
@@ -13892,7 +13851,6 @@ min_phrase_weight: 100
 捎	uk;fx
 捏	nx;ft
 捏	nx;fn
-捏	nx;ft
 捐	jr;fy
 捑	ue;fd
 捑	ze;fd
@@ -14016,7 +13974,6 @@ min_phrase_weight: 100
 掬	ju;fm
 掭	tm;fx
 掭	tm;ft
-掭	tm;fx
 掮	jm;fj
 掮	qm;fj
 掯	kf;fk
@@ -14091,7 +14048,6 @@ min_phrase_weight: 100
 揥	ti;fd
 揦	la;fd
 揦	la;fl
-揦	la;fd
 揧	la;ud
 揨	ig;ft
 揩	ka;fj
@@ -14119,7 +14075,6 @@ min_phrase_weight: 100
 揶	ye;fy
 揷	ia;fj
 揷	ia;fi
-揷	ia;fj
 揸	va;fi
 揹	bz;fb
 揺	yk;fk
@@ -14159,10 +14114,8 @@ min_phrase_weight: 100
 搗	dk;fd
 搘	qi;fo
 搘	qi;fr
-搘	qi;fo
 搘	vi;fo
 搘	vi;fr
-搘	vi;fo
 搙	nb;fr
 搙	nu;fr
 搙	no;fr
@@ -14171,7 +14124,6 @@ min_phrase_weight: 100
 搛	jm;fj
 搜	sb;fy
 搜	sb;fs
-搜	sb;fy
 搝	qq;fi
 搞	gk;fg
 搟	xm;fx
@@ -14204,7 +14156,6 @@ min_phrase_weight: 100
 搴	qm;ub
 搵	wf;fm
 搵	wf;fw
-搵	wf;fm
 搶	id;fc	0%
 搶	qd;fc	100%
 搷	if;fv
@@ -14247,7 +14198,6 @@ min_phrase_weight: 100
 摎	mq;fp
 摏	is;fj
 摏	is;fi
-摏	is;fj
 摐	id;fv
 摐	cs;fv
 摑	go;fg
@@ -14272,7 +14222,6 @@ min_phrase_weight: 100
 摟	lb;fl
 摠	zs;fx
 摠	zs;fc
-摠	zs;fx
 摡	gl;fj
 摡	xi;fj
 摢	iu;fh
@@ -14283,7 +14232,6 @@ min_phrase_weight: 100
 摥	th;fy
 摦	hu;fg
 摦	hu;fh
-摦	hu;fg
 摦	hw;fg
 摧	cv;fc
 摨	nl;fx
@@ -14345,7 +14293,6 @@ min_phrase_weight: 100
 撌	kv;fg
 撍	qm;fo
 撍	qm;fr
-撍	qm;fo
 撍	zj;fq
 撎	yi;fy
 撏	xm;fx
@@ -14396,7 +14343,6 @@ min_phrase_weight: 100
 撫	wu;fw	0%
 撬	qc;fm
 撬	qc;fq
-撬	qc;fm
 播	bo;ff
 撮	co;fz	99.90%
 撮	zv;fz	0%
@@ -14406,7 +14352,6 @@ min_phrase_weight: 100
 撱	to;fs
 撲	pu;fd
 撲	pu;ff
-撲	pu;fd
 撳	qn;fq
 撴	dp;fd
 撵	nm;fi
@@ -14448,19 +14393,15 @@ min_phrase_weight: 100
 擏	qy;fj
 擐	hr;fy
 擐	hr;fh
-擐	hr;fy
 擑	jx;fg
 擑	jx;fj
-擑	jx;fg
 擒	qn;fq
 擓	ky;fh
 擔	dj;fv
 擕	xi;fg
 擕	xi;fj
-擕	xi;fg
 擕	xx;fg
 擕	xx;fj
-擕	xx;fg
 擖	ge;fg
 擗	pi;fx
 擘	bi;ub	17.65%
@@ -14475,7 +14416,6 @@ min_phrase_weight: 100
 擡	tl;ft
 擢	vo;fd
 擢	vo;fv
-擢	vo;fd
 擣	dk;fu
 擤	xy;fb
 擥	lj;us
@@ -14492,7 +14432,6 @@ min_phrase_weight: 100
 擬	ni;fy
 擭	ho;fy
 擭	ho;fh
-擭	ho;fy
 擮	jw;fj
 擮	jx;fj
 擯	bn;fb
@@ -14514,7 +14453,6 @@ min_phrase_weight: 100
 擼	lu;fl
 擽	li;fy
 擽	li;fl
-擽	li;fy
 擽	lt;fy
 擾	rk;fy
 擿	ui;fu
@@ -14543,7 +14481,6 @@ min_phrase_weight: 100
 攏	ls;fl
 攐	qm;fy
 攐	qm;fq
-攐	qm;fy
 攑	qm;fj
 攒	cr;fz	10%
 攒	zj;fz	90%
@@ -14557,10 +14494,8 @@ min_phrase_weight: 100
 攘	rh;fy
 攙	ij;ft
 攙	ij;fi
-攙	ij;ft
 攛	cr;fu
 攛	cr;fc
-攛	cr;fu
 攜	xi;fk
 攜	xx;fk
 攝	nx;fn	0.28%
@@ -14825,13 +14760,11 @@ min_phrase_weight: 100
 旟	yu;fy
 无	mo;hg
 无	mo;ag
-无	mo;hg
 无	wu;ee
 旡	ji;hg
 既	ji;gg
 旣	ji;jb
 旣	ji;bg
-旣	ji;jb
 旤	ho;jk
 日	mi;ri	0%
 日	ri;ri	100%
@@ -14844,7 +14777,6 @@ min_phrase_weight: 100
 旬	xp;ob
 旬	xp;gr
 旬	xp;br
-旬	xp;ob
 旭	xu;jo
 旮	ga;jr
 旮	xu;jr
@@ -14860,7 +14792,6 @@ min_phrase_weight: 100
 旸	yh;oy
 旹	ui;oa
 旹	ui;oh
-旹	ui;oa
 旺	wh;ow
 旻	mn;wo
 旼	mn;ow
@@ -14873,7 +14804,6 @@ min_phrase_weight: 100
 昂	ah;oe
 昃	ze;oz
 昃	ze;or
-昃	ze;oz
 昄	bj;of
 昅	ji;oj
 昅	jx;oj
@@ -14920,10 +14850,8 @@ min_phrase_weight: 100
 春	ip;of
 昦	hk;od
 昦	hk;ss
-昦	hk;od
 昦	jx;oa
 昦	jx;od
-昦	jx;oa
 昧	mz;ow
 昨	zo;ov
 昩	mo;om
@@ -14953,7 +14881,6 @@ min_phrase_weight: 100
 显	xm;oy
 昿	kd;os
 昿	kd;og
-昿	kd;os
 晀	tc;ov
 晁	ik;ov	100%
 晁	vk;ov	0%
@@ -15022,17 +14949,14 @@ min_phrase_weight: 100
 晷	gv;ok
 晷	jq;oj
 晷	jq;ok
-晷	jq;oj
 晸	vf;ov
 晸	vg;ov
 晹	yi;oy
 智	vi;ov
 晻	an;ou
 晻	an;od
-晻	an;ou
 晻	yj;ou
 晻	yj;od
-晻	yj;ou
 晼	wj;ow
 晽	ln;ol
 晾	ld;oj
@@ -15081,14 +15005,11 @@ min_phrase_weight: 100
 暣	qi;oq
 暤	gk;ou
 暤	gk;og
-暤	gk;ou
 暤	hk;ou
 暤	hk;og
-暤	hk;ou
 暥	yj;oa
 暦	li;io
 暦	li;ir
-暦	li;io
 暧	ai;oa
 暨	ji;zh
 暩	gv;oj
@@ -15100,13 +15021,10 @@ min_phrase_weight: 100
 暬	xx;ov
 暭	gk;ou
 暭	gk;og
-暭	gk;ou
 暭	hk;ou
 暭	hk;og
-暭	hk;ou
 暮	mu;co
 暮	mu;cr
-暮	mu;co
 暯	mo;om
 暰	cs;ov
 暱	ni;on
@@ -15128,14 +15046,12 @@ min_phrase_weight: 100
 曀	yi;oy
 曁	ji;bd
 曁	ji;oj
-曁	ji;bd
 曂	hd;oh
 曃	tl;od
 曄	ye;oh
 曅	ye;oh
 曆	li;oh
 曆	li;io
-曆	li;oh
 曇	tj;oy
 曈	ts;ot
 曉	xc;oy
@@ -15148,7 +15064,6 @@ min_phrase_weight: 100
 曍	gk;ou
 曍	hk;ou
 曍	hk;og
-曍	hk;ou
 曎	yi;ox
 曏	xd;ox
 曐	xy;ju
@@ -15182,16 +15097,13 @@ min_phrase_weight: 100
 曥	lv;ol
 曦	xi;og
 曦	xi;ox
-曦	xi;og
 曧	rs;or
 曨	ls;ol
 曩	nh;oy
 曩	xd;oy
 曩	xd;ox
-曩	xd;oy
 曪	lo;ow
 曪	lo;ol
-曪	lo;ow
 曫	lr;so
 曬	ul;ol
 曭	th;od
@@ -15199,25 +15111,19 @@ min_phrase_weight: 100
 曯	vu;ou
 曰	yt;uh
 曰	yt;yt
-曰	yt;uh
 曱	ya;oa
 曱	ya;ss
-曱	ya;oa
 曱	yt;oa
 曱	yt;ru
-曱	yt;oa
 曲	qu;ru
 曳	ye;ap
 曳	ye;sp
-曳	ye;ap
 曳	yi;ap
 曳	yi;sp
-曳	yi;ap
 更	gg;hg	99.90%
 更	jy;hg	0.10%
 曵	ye;yd
 曵	ye;sd
-曵	ye;yd
 曵	yi;sd
 曶	hu;rw
 曶	wf;rw
@@ -15235,7 +15141,6 @@ min_phrase_weight: 100
 最	zv;oq
 朁	cj;jr
 朁	cj;jo
-朁	cj;jr
 朂	xu;rl
 會	gv;rr	0%
 會	hv;rr	99.98%
@@ -15279,10 +15184,8 @@ min_phrase_weight: 100
 朞	qi;qo
 期	ji;qy	0.01%
 期	ji;qo	0.01%
-期	ji;qy	0.01%
 期	qi;qy	99.99%
 期	qi;qo	99.99%
-期	qi;qy	99.99%
 朠	yy;yy
 朡	zs;ow
 朢	wh;wy
@@ -15823,7 +15726,6 @@ min_phrase_weight: 100
 棟	ds;md
 棠	th;xm
 棠	th;mk
-棠	th;xm
 棡	gh;mg
 棢	wh;mw
 棣	di;ml
@@ -15875,7 +15777,6 @@ min_phrase_weight: 100
 椉	ig;wj
 椉	ug;wm
 椉	ug;wj
-椉	ug;wm
 椊	cv;mz
 椊	zo;mz
 椋	ld;mj
@@ -16263,7 +16164,6 @@ min_phrase_weight: 100
 橏	vj;mu
 橐	to;hm
 橐	to;am
-橐	to;hm
 橑	lk;mx
 橒	yp;my
 橓	up;mu
@@ -16393,7 +16293,6 @@ min_phrase_weight: 100
 檾	qy;lb
 檿	yj;im
 檿	yj;mq
-檿	yj;im
 櫀	ji;ms
 櫀	qi;ms
 櫁	mi;mm
@@ -17547,7 +17446,6 @@ min_phrase_weight: 100
 湙	yi;dd
 湚	yn;do
 湚	yn;dg
-湚	yn;do
 湛	dj;du	0%
 湛	vj;du	100%
 湜	ui;du
@@ -18107,7 +18005,6 @@ min_phrase_weight: 100
 瀢	wz;dy
 瀣	xx;da
 瀣	xx;dx
-瀣	xx;da
 瀤	hy;dh
 瀥	gk;dh
 瀥	hk;dh
@@ -18153,7 +18050,6 @@ min_phrase_weight: 100
 灉	ys;dv
 灊	qm;dz
 灊	qm;dg
-灊	qm;dz
 灋	fa;dq
 灌	gr;dv
 灍	qt;dq
@@ -18333,7 +18229,6 @@ min_phrase_weight: 100
 烔	ts;ht
 烕	mx;hg
 烕	mx;wm
-烕	mx;hg
 烖	zl;hg
 烗	gl;hh
 烗	kl;hh
@@ -18438,11 +18333,9 @@ min_phrase_weight: 100
 無	mo;rd	0%
 無	mo;rh	0%
 無	mo;dh	0%
-無	mo;rd	0%
 無	wu;rd	100%
 無	wu;rh	100%
 無	wu;dh	100%
-無	wu;rd	100%
 焢	hs;hk
 焢	ks;hk
 焣	ju;hq
@@ -18451,7 +18344,6 @@ min_phrase_weight: 100
 焥	yt;hw
 焦	jc;vh
 焦	jc;vd
-焦	jc;vh
 焧	zs;hx
 焨	fg;ho
 焩	py;hp
@@ -18540,7 +18432,6 @@ min_phrase_weight: 100
 煬	yh;hy
 煭	lx;hd
 煭	lx;dd
-煭	lx;hd
 煮	vu;hv
 煯	jx;hj
 煰	gk;hp
@@ -18632,7 +18523,6 @@ min_phrase_weight: 100
 熷	zg;hc
 熸	jm;hr
 熸	jm;ho
-熸	jm;hr
 熸	qm;ho
 熹	xi;dx
 熺	xi;hx
@@ -18744,7 +18634,6 @@ min_phrase_weight: 100
 爑	jt;hj
 爒	lc;yx
 爒	lc;hl
-爒	lc;yx
 爓	yj;hy
 爔	xi;hx
 爕	xx;hh
@@ -18766,7 +18655,6 @@ min_phrase_weight: 100
 爡	ta;hi
 爢	mi;md
 爢	mi;mh
-爢	mi;md
 爣	th;hd
 爤	lj;hl
 爥	vu;hu
@@ -18967,7 +18855,6 @@ min_phrase_weight: 100
 狉	pi;qp
 狊	ib;qm
 狊	ib;qo
-狊	ib;qm
 狊	hk;oq
 狊	ju;oq
 狋	ni;qu
@@ -19556,7 +19443,6 @@ min_phrase_weight: 100
 璦	ai;wa
 璧	bi;wx
 璧	bi;yx
-璧	bi;wx
 璨	cj;wc
 璩	ju;wu
 璩	qu;wj
@@ -19838,10 +19724,8 @@ min_phrase_weight: 100
 疈	pi;ff
 疉	da;la
 疉	da;lh
-疉	da;la
 疉	dx;la
 疉	dx;lj
-疉	dx;la
 疊	da;la	1%
 疊	dx;ta
 疋	pi;av	30.77%
@@ -20200,7 +20084,6 @@ min_phrase_weight: 100
 皭	jt;bj
 皮	pi;yu
 皮	pi;ay
-皮	pi;yu
 皯	gj;pg
 皰	bk;pb
 皰	pk;pb
@@ -20333,7 +20216,6 @@ min_phrase_weight: 100
 眗	kb;oj
 眘	uf;do
 眘	uf;ob
-眘	uf;do
 眙	ii;ot
 眙	yi;ot
 眚	ug;ou
@@ -20427,7 +20309,6 @@ min_phrase_weight: 100
 督	du;ou
 睤	bi;oq
 睤	bi;ob
-睤	bi;oq
 睥	bi;ob
 睦	mu;ot
 睧	hp;oh
@@ -20441,10 +20322,8 @@ min_phrase_weight: 100
 睮	yu;oy
 睯	hp;om
 睯	hp;ow
-睯	hp;om
 睯	mn;om
 睯	mn;ow
-睯	mn;om
 睰	ma;or
 睱	xw;oj
 睲	xy;ox
@@ -20483,7 +20362,6 @@ min_phrase_weight: 100
 瞌	ke;om
 瞍	sb;oy
 瞍	sb;os
-瞍	sb;oy
 瞎	xw;oh
 瞏	qs;sy
 瞏	yr;sy
@@ -20518,7 +20396,6 @@ min_phrase_weight: 100
 瞧	qc;oj
 瞨	pu;od
 瞨	pu;op
-瞨	pu;od
 瞩	vu;ou
 瞪	dg;od
 瞫	uf;ot
@@ -20545,13 +20422,11 @@ min_phrase_weight: 100
 瞺	ky;oh
 瞻	vj;oy
 瞻	vj;ov
-瞻	vj;oy
 瞼	jm;oq	100%
 瞼	lm;oq	0%
 瞽	gu;og
 瞾	vk;ko
 瞾	vk;ok
-瞾	vk;ko
 瞿	ju;ov	0%
 瞿	qu;ov	100%
 矀	wz;ow
@@ -20564,19 +20439,16 @@ min_phrase_weight: 100
 矅	yk;ov
 矆	ho;oh
 矆	ho;oy
-矆	ho;oh
 矇	mg;om
 矈	mm;of
 矉	pn;ob
 矊	mm;om
 矋	li;ow
 矋	li;ol
-矋	li;ow
 矌	gd;og
 矌	kd;og
 矍	jt;oy
 矍	jt;yq
-矍	jt;oy
 矎	qs;ox
 矎	xy;ow
 矎	xr;ow
@@ -20623,10 +20495,8 @@ min_phrase_weight: 100
 矲	ba;un
 石	dj;hh	0.14%
 石	dj;pk	0.14%
-石	dj;hh	0.14%
 石	ui;hh	99.86%
 石	ui;pk	99.86%
-石	ui;hh	99.86%
 矴	dy;ud
 矵	qi;ud
 矵	qx;ud
@@ -21202,7 +21072,6 @@ min_phrase_weight: 100
 禹	yu;pd
 禺	ou;od
 禺	ou;ad
-禺	ou;od
 禺	yu;rd
 离	ii;ds
 离	li;ds
@@ -21478,7 +21347,6 @@ min_phrase_weight: 100
 窜	cr;bi
 窝	wo;xn
 窝	wo;bn
-窝	wo;xn
 窞	dj;xx
 窞	xm;bj
 窟	jc;xq	0%
@@ -21486,7 +21354,6 @@ min_phrase_weight: 100
 窠	ke;xg
 窡	vo;bu
 窡	vo;xu
-窡	vo;bu
 窢	ho;bh
 窢	xu;bh
 窣	su;xz
@@ -21497,7 +21364,6 @@ min_phrase_weight: 100
 窨	yn;xy	50%
 窩	wo;bg
 窩	wo;bk
-窩	wo;bg
 窪	wa;xw
 窫	ya;xq
 窬	yu;by
@@ -21518,7 +21384,6 @@ min_phrase_weight: 100
 窺	kv;bg
 窻	id;xx
 窻	id;bc
-窻	id;xx
 窼	ke;bi
 窼	vk;bi
 窽	kr;xq
@@ -21529,10 +21394,8 @@ min_phrase_weight: 100
 竁	cv;xq
 竂	lc;xx
 竂	lc;bx
-竂	lc;xx
 竃	zk;bd
 竃	zk;xg
-竃	zk;bd
 竄	cr;xu
 竅	qc;xw
 竆	qs;xl
@@ -22060,7 +21923,6 @@ min_phrase_weight: 100
 粛	su;ma
 粛	su;yu
 粛	su;vu
-粛	su;ma
 粜	tc;mi
 粝	li;ml
 粞	xi;mx
@@ -22451,7 +22313,6 @@ min_phrase_weight: 100
 緔	uh;su
 緖	xu;so
 緖	xu;sr
-緖	xu;so
 緗	xd;sx
 緘	jm;sx
 緙	ge;sg
@@ -22839,7 +22700,6 @@ min_phrase_weight: 100
 编	bm;sb
 缗	mn;so
 缗	mn;sr
-缗	mn;so
 缘	yr;st
 缙	jn;sj
 缚	fu;sc
@@ -23241,7 +23101,6 @@ min_phrase_weight: 100
 聙	jy;eq
 聚	ju;qd
 聚	ju;ed
-聚	ju;qd
 聛	bi;eb
 聜	di;ek
 聝	go;eh
@@ -23311,7 +23170,6 @@ min_phrase_weight: 100
 肕	rf;or
 肖	xc;xo
 肖	xc;ox
-肖	xc;xo
 肗	ru;on
 肘	vb;oc
 肙	yr;ko
@@ -23363,7 +23221,6 @@ min_phrase_weight: 100
 肺	pz;og	0%
 肻	kf;yb
 肻	kf;ob
-肻	kf;yb
 肼	jy;oj
 肽	tl;ot
 肾	uf;oy
@@ -23501,7 +23358,6 @@ min_phrase_weight: 100
 脢	mz;om
 脣	ip;iy
 脣	ip;io
-脣	ip;iy
 脤	if;oi
 脤	uf;oi
 脥	jw;oj
@@ -23562,10 +23418,8 @@ min_phrase_weight: 100
 腎	uf;oy
 腏	io;ou
 腏	io;ov
-腏	io;ou
 腏	do;ou
 腏	do;ov
-腏	do;ou
 腏	vo;ou
 腐	fu;gr
 腑	fu;of
@@ -23598,7 +23452,6 @@ min_phrase_weight: 100
 腥	xy;ox
 腦	nk;ow
 腦	nk;oi
-腦	nk;ow
 腧	uu;oy
 腧	yu;oy
 腨	ir;oe
@@ -23626,7 +23479,6 @@ min_phrase_weight: 100
 腽	wa;om
 腽	wf;om
 腽	wf;ow
-腽	wf;om
 腾	tg;om
 腿	tv;ot
 膀	bh;op	81.25%
@@ -23638,7 +23490,6 @@ min_phrase_weight: 100
 膃	wa;ow
 膃	wf;om
 膃	wf;ow
-膃	wf;om
 膄	ub;os
 膅	th;ot
 膆	su;os
@@ -23652,7 +23503,6 @@ min_phrase_weight: 100
 膎	xx;ox
 膏	gk;ok
 膏	gk;dy
-膏	gk;ok
 膐	lv;rl
 膑	bn;ob
 膒	ou;oq
@@ -23686,7 +23536,6 @@ min_phrase_weight: 100
 膪	vl;ok
 膫	lc;ox
 膫	lc;ol
-膫	lc;ox
 膬	cv;om
 膭	gv;og
 膭	hv;og
@@ -23707,7 +23556,6 @@ min_phrase_weight: 100
 膸	sv;os
 膸	wz;os
 膸	wz;oo
-膸	wz;os
 膹	ff;ob
 膺	yy;go
 膻	dj;od
@@ -23729,7 +23577,6 @@ min_phrase_weight: 100
 臄	ju;ou
 臄	jt;oj
 臄	jt;ou
-臄	jt;oj
 臅	iu;ou
 臆	yi;oy
 臇	jr;og
@@ -23753,7 +23600,6 @@ min_phrase_weight: 100
 臔	xm;ox
 臕	bc;od
 臕	bc;oh
-臕	bc;od
 臖	xy;ox
 臗	kr;ok
 臘	la;ol
@@ -23782,7 +23628,6 @@ min_phrase_weight: 100
 臨	ln;ik
 臩	gd;id
 臩	gd;iu
-臩	gd;id
 臩	jx;hs
 自	zi;pm
 臫	jc;zg
@@ -23826,7 +23671,6 @@ min_phrase_weight: 100
 與	yu;ba
 興	xy;jb
 興	xy;tb
-興	xy;jb
 舉	ju;ps
 舊	jq;cj
 舋	xn;qb
@@ -23976,7 +23820,6 @@ min_phrase_weight: 100
 芇	mm;cj
 芈	mi;aa
 芈	mi;ss
-芈	mi;aa
 芉	gj;cq
 芊	qm;cq
 芋	yu;cy
@@ -24448,7 +24291,6 @@ min_phrase_weight: 100
 萄	tk;cf
 萅	ip;co
 萅	ip;ot
-萅	ip;co
 萆	bz;cb
 萆	bi;cb
 萇	ih;ci
@@ -24671,7 +24513,6 @@ min_phrase_weight: 100
 蒷	yp;cy
 蒸	vg;ch
 蒸	vg;cd
-蒸	vg;ch
 蒹	jm;cj
 蒺	ji;cj
 蒻	ro;cr
@@ -25699,7 +25540,6 @@ min_phrase_weight: 100
 蟧	lk;il
 蟨	jt;ii
 蟨	jt;iq
-蟨	jt;ii
 蟩	jt;iq
 蟪	hv;ih
 蟫	tj;it
@@ -25800,7 +25640,6 @@ min_phrase_weight: 100
 蠸	qr;iv
 蠹	du;ai
 蠹	du;hi
-蠹	du;ai
 蠺	cj;io
 蠻	mj;is
 蠼	jt;iy
@@ -25907,7 +25746,6 @@ min_phrase_weight: 100
 袋	dl;yd
 袌	bk;dy
 袌	bk;wy
-袌	bk;dy
 袌	pk;wy
 袍	pk;yb
 袎	yk;yy
@@ -25954,7 +25792,6 @@ min_phrase_weight: 100
 被	pi;yp	0%
 袬	gp;yt
 袬	gp;wy
-袬	gp;yt
 袬	yu;yt
 袭	xi;ly
 袮	mi;yx
@@ -26150,7 +25987,6 @@ min_phrase_weight: 100
 褺	dx;yv
 褻	xx;dy
 褻	xx;wy
-褻	xx;dy
 褼	qm;ys
 褼	xm;ys
 褽	wz;yw
@@ -26236,7 +26072,6 @@ min_phrase_weight: 100
 西	xi;hh
 覀	xi;xi
 覀	xi;hh
-覀	xi;xi
 要	yk;xn
 覂	fg;xf
 覃	qn;xz	80%
@@ -26415,7 +26250,6 @@ min_phrase_weight: 100
 言	yn;dk	0%
 訁	yj;wk
 訁	yj;da
-訁	yj;wk
 訂	dy;yd
 訃	bu;yb
 訃	fu;yb
@@ -27157,7 +26991,6 @@ min_phrase_weight: 100
 豒	vi;fd
 豓	yj;qm
 豓	yj;fh
-豓	yj;qm
 豔	yj;fm
 豕	ui;ad
 豖	iu;hd
@@ -27410,7 +27243,6 @@ min_phrase_weight: 100
 贗	yj;by
 贗	yy;bn
 贗	yy;by
-贗	yy;bn
 贘	uh;bu
 贙	xr;bh
 贚	ls;bl
@@ -28097,7 +27929,6 @@ min_phrase_weight: 100
 輾	vj;iv	56.52%
 輿	yu;jb
 輿	yu;ba
-輿	yu;jb
 轀	wf;im
 轁	dk;iy
 轁	tk;iy
@@ -28687,7 +28518,6 @@ min_phrase_weight: 100
 鄧	dg;ed
 鄨	bi;bk
 鄨	bi;yw
-鄨	bi;bk
 鄩	xn;ex
 鄪	bi;ef
 鄫	cg;ec
@@ -28905,7 +28735,6 @@ min_phrase_weight: 100
 釛	he;jl
 釜	fu;fa
 釜	fu;fq
-釜	fu;fa
 針	vf;ju
 釞	vi;jr
 釟	ba;jb
@@ -30001,7 +29830,6 @@ min_phrase_weight: 100
 长	vh;pd	39.74%
 門	mf;xa
 門	mf;aa
-門	mf;xa
 閁	ma;mp
 閂	ur;ma
 閃	uj;mr
@@ -30606,10 +30434,8 @@ min_phrase_weight: 100
 靡	mi;mf
 面	mm;ph
 面	mm;aa
-面	mm;ph
 靣	mm;ah
 靣	mm;hk
-靣	mm;ah
 靤	bk;mb
 靤	pk;mb
 靥	ye;im
@@ -30618,11 +30444,9 @@ min_phrase_weight: 100
 靧	hv;mg
 靨	yj;im
 靨	yj;mq
-靨	yj;im
 靨	ye;mq
 革	ge;ca	98.54%
 革	ge;cu	98.54%
-革	ge;ca	98.54%
 革	ji;hu	1.46%
 靪	dy;gd
 靫	il;gi
@@ -30742,7 +30566,6 @@ min_phrase_weight: 100
 韈	wa;gm
 韉	jm;gh
 韉	jm;gd
-韉	jm;gh
 韊	lj;gl
 韋	wz;wf
 韌	rf;wr
@@ -30786,10 +30609,8 @@ min_phrase_weight: 100
 韭	jq;fh
 韮	jq;ch
 韮	jq;ca
-韮	jq;ch
 韯	qm;ug
 韯	qm;gh
-韯	qm;ug
 韯	xm;ga
 韰	jq;cj
 韰	xx;cj
@@ -31612,7 +31433,6 @@ min_phrase_weight: 100
 骧	xd;my
 骨	gu;ob
 骨	gu;gy
-骨	gu;ob
 骩	wz;gj
 骪	wz;gf
 骫	wz;gw
@@ -31692,11 +31512,9 @@ min_phrase_weight: 100
 髦	mk;mb
 髧	dj;bg
 髧	dj;iy
-髧	dj;bg
 髨	kp;by
 髩	bn;ig
 髩	bn;im
-髩	bn;ig
 髪	fa;by
 髫	tc;bv
 髫	vk;iv
@@ -31709,7 +31527,6 @@ min_phrase_weight: 100
 髲	bi;ip
 髲	pi;pb
 髲	pi;ip
-髲	pi;pb
 髳	mk;bm
 髴	fu;bf
 髵	er;be
@@ -31741,11 +31558,9 @@ min_phrase_weight: 100
 鬍	hu;bh
 鬎	la;bd
 鬎	la;id
-鬎	la;bd
 鬏	jq;bq
 鬐	qi;ir
 鬐	qi;br
-鬐	qi;ir
 鬑	lm;bj
 鬒	vf;iv
 鬓	bn;ib
@@ -31765,7 +31580,6 @@ min_phrase_weight: 100
 鬞	ns;in
 鬟	hr;ih
 鬟	hr;by
-鬟	hr;ih
 鬠	hv;bh
 鬠	ky;ih
 鬠	ko;bh
@@ -31776,7 +31590,6 @@ min_phrase_weight: 100
 鬤	rh;bx
 鬥	db;aa
 鬥	db;hs
-鬥	db;aa
 鬦	db;dd
 鬧	nk;du
 鬨	hs;dg
@@ -31794,11 +31607,9 @@ min_phrase_weight: 100
 鬰	yu;yp
 鬱	yu;fp
 鬱	yu;mp
-鬱	yu;fp
 鬲	ge;ay	50%
 鬲	li;aa	50%
 鬲	li;ay	50%
-鬲	li;aa	50%
 鬳	ge;hg
 鬳	jr;hg
 鬴	ge;gf
@@ -32263,7 +32074,6 @@ min_phrase_weight: 100
 鳌	ao;yw
 鳍	qi;yr
 鳍	qi;yo
-鳍	qi;yr
 鳎	ta;yy
 鳏	gr;yd
 鳐	yk;yf
@@ -32330,7 +32140,6 @@ min_phrase_weight: 100
 鴅	hr;nd
 鴆	vf;na
 鴆	vf;ng
-鴆	vf;na
 鴇	bk;nu
 鴈	yj;in
 鴉	ya;yn
@@ -32671,7 +32480,6 @@ min_phrase_weight: 100
 鸨	bk;nu
 鸩	vf;ny
 鸩	vf;ng
-鸩	vf;ny
 鸪	gu;ng
 鸫	ds;nd
 鸬	lu;nl
@@ -32870,10 +32678,8 @@ min_phrase_weight: 100
 黐	ii;hl
 黑	he;hh	0%
 黑	he;ha	0%
-黑	he;hh	0%
 黑	hz;dh	100%
 黑	hz;ha	100%
-黑	hz;dh	100%
 黒	he;ld
 黒	hz;lh
 黓	yi;hy
@@ -32931,7 +32737,6 @@ min_phrase_weight: 100
 黾	mn;kd
 黿	yr;hh
 黿	yr;ym
-黿	yr;hh
 鼀	cu;tm
 鼁	qu;hh
 鼂	ik;sh
@@ -32941,22 +32746,17 @@ min_phrase_weight: 100
 鼆	mg;ml
 鼇	ao;hh
 鼇	ao;ma
-鼇	ao;hh
 鼈	bx;dh
 鼉	to;sh
 鼉	to;mh
-鼉	to;sh
 鼊	bi;zh
 鼋	yr;yd
 鼌	ik;md
 鼌	ik;om
-鼌	ik;md
 鼍	to;kd
 鼍	to;ma
-鼍	to;kd
 鼎	dy;oa
 鼎	dy;ov
-鼎	dy;oa
 鼏	dy;bd
 鼏	mi;bd
 鼐	nl;nd
@@ -32965,7 +32765,6 @@ min_phrase_weight: 100
 鼓	gu;vd
 鼔	gu;pd
 鼔	gu;uy
-鼔	gu;pd
 鼕	ds;gd
 鼖	ff;gh
 鼗	tk;vg
@@ -33042,7 +32841,6 @@ min_phrase_weight: 100
 齊	zi;we	0%
 齋	vl;wu
 齋	vl;dx
-齋	vl;wu
 齌	ji;qh
 齌	qi;wh
 齍	ji;dm
@@ -33050,10 +32848,8 @@ min_phrase_weight: 100
 齎	ji;wb
 齏	ji;wa
 齏	ji;qj
-齏	ji;wa
 齏	jq;wa
 齏	jq;qj
-齏	jq;wa
 齐	ji;wp	0%
 齐	qi;wp	100%
 齐	vl;wp	0%
@@ -34685,7 +34481,6 @@ min_phrase_weight: 100
 兀	pp;wu
 兀	wu;he
 兀	wu;ag
-兀	wu;he
 	pp;xc
 	xc;dp
 	pp;xn

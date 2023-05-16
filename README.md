@@ -68,7 +68,6 @@ speller:
 `自然码2000`的规则和键位分布可参考以下链接:
 
 1. 官方链接: [自然码2000手册](http://ziranma.com.cn/uiysuomy.htm)
-
 2. 民间整理:
     - [【双拼输入法】自然码辅助码入门教程（辅助码表）](https://www.liuchuo.net/archives/2847)
     - [双拼自然码辅助码方案及键位分布](https://zhuanlan.zhihu.com/p/122866844)
