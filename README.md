@@ -11,9 +11,9 @@
 | zrm_pinyin.dict.yaml           | 从 zrm2000 词库改造而来，删除了一些非文字字符。                       |
 | zrm_pinyin.dict.yaml-2         | 结合 zrm_pinyin 与 luna_pinyin 生成的词库，内容很全，包含非文字字符。 |
 | zrm_pinyin.unique_fm.dict.yaml        | 从 zrm_pinyin 改 2 改造过来，目的是为了减少重码。                     |
-| zrm_pinyin.standard_unique.dict.yaml  | 从`unique_fm`统一辅助码规则并去重, 由 [@sharp-tasting](https://github.com/sharp-tasting) 提供.         |
+| zrm_pinyin.standard_unique.dict.yaml  | 从`unique_fm`统一辅助码规则并去重，由 [@sharp-tasting](https://github.com/sharp-tasting) 提供。        |
 | zrm_pinyin.utf8-lite.dict.yaml | 基于 unique_fm 版再改造而来，去除了不能正常显示的文字。               |
-| zrm_pinyin.standard_utf8_lite.dict.yaml  | 从`utf8-lite`统一辅助码规则并去重, 由 [@sharp-tasting](https://github.com/sharp-tasting) 提供.          |
+| zrm_pinyin.standard_utf8_lite.dict.yaml  | 从`utf8-lite`统一辅助码规则并去重，由 [@sharp-tasting](https://github.com/sharp-tasting) 提供。         |
 | zrm_pinyin.cn_en.dict.yaml     | 从 luna_pinyin.cn_en 改造过来，用以适应中英混输的情况。               |
 
 以上文件除了 zrm_pinyin.cn_en.dict.yaml， zrm_pinyin.utf8-lite.dict.yaml，zrm_pinyin.standard_utf8_lite.dict.yaml 为生成负担最小，其他几个词典都有较大的内存占用。不过 utf8-lite 版相对不是很完整希望能够注意。
@@ -64,16 +64,16 @@ speller:
 
 ### `standard`字典
 
-`zrm_pinyin.standard_unique.dict.yaml`和`zrm_pinyin.standard_utf8_lite.dict.yaml`把对应的原文件的辅助码统一到了 `自然码2000` 的规则, 并进行了去重. 在这两个字典里, 单音字只对应一组符合`自然码2000`规则的辅助码, 多音字的每个音只对应一组辅助码.
-`自然码2000`的规则和键位分布可参考以下链接:
+`zrm_pinyin.standard_unique.dict.yaml`和`zrm_pinyin.standard_utf8_lite.dict.yaml`把对应的原文件的辅助码统一到了 `自然码2000` 的规则，并进行了去重。在这两个字典里，单音字只对应一组符合`自然码2000`规则的辅助码，多音字的每个音只对应一组辅助码。
+`自然码2000`的规则和键位分布可参考以下链接：
 
-1. 官方链接: [自然码2000手册](http://ziranma.com.cn/uiysuomy.htm)
-2. 民间整理:
+1. 官方链接： [自然码2000手册](http://ziranma.com.cn/uiysuomy.htm)
+2. 民间整理：
     - [【双拼输入法】自然码辅助码入门教程（辅助码表）](https://www.liuchuo.net/archives/2847)
     - [双拼自然码辅助码方案及键位分布](https://zhuanlan.zhihu.com/p/122866844)
     - [自然码辅助码键位图](https://blog.csdn.net/pmo992/article/details/104963648)
 
-更多关于这两个字典的说明, 请查阅 [偏旁规范化以及去重](scripts/standardize.ipynb).
+更多关于这两个字典的说明，请查阅 [偏旁规范化以及去重](scripts/standardize.ipynb)。
 
 ## License
 
