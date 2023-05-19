@@ -19616,7 +19616,7 @@ use_preset_vocabulary: true
 甹	py;yk
 町	dy;td	89.87%
 町	ty;td	10.13%
-画	hw;hk
+画	hw;tk
 甼	ty;td
 甽	jp;ti
 甽	qr;ti
@@ -26066,9 +26066,8 @@ use_preset_vocabulary: true
 襼	yi;yy
 襽	lj;yl
 襾	ya;aa
-西	xi;hh
-覀	xi;xi
-覀	xi;hh
+西	xi;aa
+覀	xi;aa
 要	yk;xn
 覂	fg;xf
 覃	qn;xz	80%
