@@ -73,7 +73,7 @@ speller:
     - [双拼自然码辅助码方案及键位分布](https://zhuanlan.zhihu.com/p/122866844)
     - [自然码辅助码键位图](https://blog.csdn.net/pmo992/article/details/104963648)
 
-更多关于这两个字典的说明，请查阅 [偏旁规范化以及去重](scripts/standardize.ipynb)。
+更多关于这两个字典的说明，请查阅 [偏旁规范化以及去重](scripts/standardize.md)。
 
 ## License
 
