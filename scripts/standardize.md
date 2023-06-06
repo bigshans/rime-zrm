@@ -14,7 +14,11 @@
     - [双拼自然码辅助码方案及键位分布](https://zhuanlan.zhihu.com/p/122866844)
     - [自然码辅助码键位图](https://blog.csdn.net/pmo992/article/details/104963648)
 
-如果一个文件(比如 `zrm-pinyin.dict.yaml`) 存在一个字同一发音多个辅码的情况, 比如说 `星` 字, 有 `xy;ou` 和 `xy;ru` 两个码, 则可以通过 `convert.py` 将辅助码统一到 `xy;ou`, 并且移除重复条目.
+如果一个文件(比如 `zrm-pinyin.dict.yaml`) 存在一个字同一发音多个辅码的情况. 例如该 dict 的 `日` 旁的辅助码同时有 `日=o` 和 `日=r`, 这造成每个带 `日` 字旁的字都有双重冗余, 比如同时存在 `星=xy;ru` 和 `星=xy;ou`. 对此, 可以通过 `convert.py` 将辅助码统一到标准的 `日=o`, 即只留下 `星=xy;ou`, 并且移除重复条目.
+
+而 `zrm_pinyin.unique_fm.dict.yaml` 则存在一个偏旁对应不同辅码的情况. 例如, 该 dict 的 `日` 旁的辅助码在 `日=o` 和 `日=r` 之间随机变化 (该 dict 中 `昙=tj;oy`, `星=xy;ru≠xy;ou`), 这将导致我们输入 `tj;oy` 得到 `昙`, 却无法输入 `xy;ou` 得到 `星`, 导致每次输入一个 `日` 字旁的字之前, 都得先猜一猜究竟是 `日=o` 还是 `日=r`, 非常影响效率. 对此, 可以通过 `convert.py` 将辅助码统一到标准的 `日=o`, 以后输入 `日` 字旁的字就不用猜辅助码了, 都是 `日=o`.
+
+具体过程:
 
 1. 用`resh3`函数对`zrm-pinyin.dict.yaml`修改, 将辅助码重新映射以符合规范(例如`xy;ru -> xy;ou`), 输出至文件`zrm-pinyin.temp.dict.yaml`.
 2. 用`rm_repeat`函数对`zrm-pinyin.temp.dict.yaml`操作, 对相邻行且重复的条目进行去重, 输出至文件`zrm-pinyin.wanted.dict.yaml`.

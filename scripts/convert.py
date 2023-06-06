@@ -1,18 +1,18 @@
 '''convert the 3rd code of zrm_pinyin.'''
 
-# import string
+import string
 import os
 from cnradical import Radical, RunOption
 radical = Radical(RunOption.Radical)  # 获取偏旁
 
-# bs_map = {}  # 部首 -> 辅助码 的字典
-# with open('aux_code.txt', "r", encoding="utf-8") as f0:
-#     for li0 in f0:
-#         lst = list(li0)  # 拆成单个字符(含空格, 换行符等)
-#         for i in lst[1:]:  # 排除首个字符(因其是辅码)
-#             if i not in string.whitespace:
-#                 # 排除掉 whitespace, 剩下的就是部首
-#                 bs_map[i] = lst[0]
+bs_map = {}  # 部首 -> 辅助码 的字典
+with open('aux_code.txt', "r", encoding="utf-8") as f0:
+    for li0 in f0:
+        lst = list(li0)  # 拆成单个字符(含空格, 换行符等)
+        for i in lst[1:]:  # 排除首个字符(因其是辅码)
+            if i not in string.whitespace:
+                # 排除掉 whitespace, 剩下的就是部首
+                bs_map[i] = lst[0]
 
 # 用于调整部首的辅助码, item的形式为 'bs_ch':{'orig_ac':'new_ac'}
 bs_convert = {}
