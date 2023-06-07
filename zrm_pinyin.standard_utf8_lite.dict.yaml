@@ -8431,16 +8431,16 @@ min_phrase_weight: 100
 勹	bk;pg
 勺	uk;gd
 勺	uo;gd
-勻	yp;be
+勻	yp;ge
 勼	jq;gj
 勽	bk;gr
 勽	wf;gr
 勾	gb;gs
-勿	wu;bp
+勿	wu;gp
 匀	yp;gd
 匃	gw;ga
 匄	gl;gw
-包	bk;bs
+包	bk;gs
 匆	cs;wd
 匇	cs;gx
 匈	xs;bx
@@ -14774,9 +14774,7 @@ min_phrase_weight: 100
 早	zk;ou
 旪	xx;ou
 旫	tc;od
-旬	xp;ob
-旬	xp;gr
-旬	xp;br
+旬	xp;go
 旭	xu;jo
 旮	ga;jr
 旮	xu;jr
@@ -15024,7 +15022,6 @@ min_phrase_weight: 100
 暭	hk;ou
 暭	hk;og
 暮	mu;co
-暮	mu;cr
 暯	mo;om
 暰	cs;ov
 暱	ni;on
@@ -23340,7 +23337,7 @@ min_phrase_weight: 100
 脕	mm;om
 脕	wj;om
 脕	wf;om
-脖	bo;oz
+脖	bo;ob
 脗	wf;ok
 脘	gr;ow
 脘	wj;ow
@@ -28285,7 +28282,7 @@ min_phrase_weight: 100
 遫	su;zi
 遬	io;zi
 遭	zk;zc
-遮	ve;zd
+遮	ve;zu
 遯	dp;zt
 遯	tp;zt
 遰	di;zd
