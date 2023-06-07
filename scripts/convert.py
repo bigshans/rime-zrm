@@ -38,10 +38,10 @@ def resh3(src, temp):
             elif bs_ch in bs_convert and line[5] in bs_convert[bs_ch]:
                 line2 = line.replace(';'+line[5],
                                      ';'+bs_convert[bs_ch][line[5]])
-            elif bs_ch in bs_map and line[6] == bs_map[bs_ch]:
-                # 部首被放在第四码, 则置换第三码和第四码
-                line2 = line.replace(';'+line[5]+line[6],
-                                     ';'+line[6]+line[5])
+            # elif bs_ch in bs_map and line[6] == bs_map[bs_ch]:
+            #     # 部首被放在第四码, 则置换第三码和第四码(会导致 dict 文件非常难用)
+            #     line2 = line.replace(';'+line[5]+line[6],
+            #                          ';'+line[6]+line[5])
             else:
                 line2 = line
 
