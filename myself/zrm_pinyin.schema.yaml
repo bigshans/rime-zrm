@@ -58,8 +58,8 @@ custom_phrase:
   dictionary: ""
   user_dict: custom_phrase
   db_class: stabledb
-  enable_completion: false
-  enable_sentence: false
+  enable_completion: true
+  enable_sentence: true
   initial_quality: 1
 
 speller:
@@ -68,11 +68,9 @@ speller:
   algebra:
     - derive/^(\w+);(\w)(\w+)$/$1;$2/
     - derive/^(\w+);(\w+)$/$1/
-    - derive/['\-_+,.]+//
-    # 以下代码将允许大小写混合输入
-    # - derive/^([a-z].+)$/\U$1/
-    # - derive/^([a-zA-Z])/\U$1/
-    # - derive/^([a-z][a-z])/\U$1/
+    - derive/^([a-z].+)$/\U$1/
+    - derive/^([a-zA-Z])/\U$1/
+    - derive/^([a-z][a-z])/\U$1/
 
 translator:
   dictionary: zrm_pinyin
