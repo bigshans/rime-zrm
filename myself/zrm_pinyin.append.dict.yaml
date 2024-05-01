@@ -1,0 +1,51 @@
+---
+name: zrm_pinyin.append
+version: "2021.07.11"
+sort: by_weight
+use_preset_vocabulary: false
+...
+
+の	de
+°	du
+℉	hw ui du
+℃	ue ui du
+ü	v
+Σ	sigma
+Φ	phi
+φ	phi
+Ω	omega
+ω	omega
+α	alpha
+β	beta
+γ	gamma
+Δ	delta
+ε	epsilon
+ζ	zeta
+η	eta
+θ	theta
+ι	iota
+κ	kappa
+λ	lambda
+μ	mu
+μ	micro
+ν	nu
+ξ	xi
+ο	omicron
+π	pi
+π	pl
+ρ	rho
+σ	sigma
+τ	tau
+υ	upsilon
+χ	chi
+ψ	psi
+I'	i
+K歌	Kge
+i了	ile
+U盘	upan
+AKB48	AKB48
+SNH48	SNH48
+Code::Blocks	CodeBlocks
+I2C	IIC
+嗑CP	keCP
+

@@ -20,7 +20,7 @@
 
 以上词典如果出现缺漏的话，建议自行添加即可。
 
-myself 是我个人使用的字词库。
+myself 是我个人使用的字词库，[zrm_pinyin.schema.yaml](./myself/zrm_pinyin.schema.yaml) 是我个人目前在用的方案。
 
 ## Feature
 
@@ -74,6 +74,26 @@ speller:
     - [自然码辅助码键位图](https://blog.csdn.net/pmo992/article/details/104963648)
 
 更多关于这两个字典的说明，请查阅 [偏旁规范化以及去重](scripts/standardize.md)。
+
+### 关于英文支持
+
+由于我们使用的是 `derive` 而非 `xform` ，因此只需这样在词库里直接对应编码即可。
+
+```yaml
+iの	de
+°	du
+℉	hw ui du
+℃	ue ui du
+```
+
+在 schema 中添加这段可以允许大小写混合输入。
+
+```yaml
+speller:
+    - derive/^([a-z].+)$/\U$1/
+    - derive/^([a-zA-Z])/\U$1/
+    - derive/^([a-z][a-z])/\U$1/
+```
 
 ## License
 
