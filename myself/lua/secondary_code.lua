@@ -25,8 +25,8 @@ local function filter(input)
        end
        local prefix = my_split(sp[1], "%s")
        table.remove(prefix, #prefix)
-       cand.comment = ";" .. sp[2]
-       yield(cand)
+       local comment = ";" .. sp[2]
+       yield(Candidate("secondary_code_filter", cand.start, cand._end, cand.text, comment))
        ::continue::
    end
 end

@@ -70,8 +70,6 @@ engine:
     - lua_filter@secondary_code_filter
 ```
 
-不能完全将辅码处理干净。
-
 效果如下：
 
 ![second_code_filter](./imgs/second_code_effect.png)
