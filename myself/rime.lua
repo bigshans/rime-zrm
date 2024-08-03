@@ -18,3 +18,4 @@ emoji_translator = emoji.translator
 remove_duplicate_filter = require("remove_duplicate")
 -- ]]
 select_character_processor = require("select_character")
+w2c_filter = require("w2c")

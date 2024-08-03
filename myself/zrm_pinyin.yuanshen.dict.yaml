@@ -1,0 +1,556 @@
+---
+name: zrm_pinyin.yuanshen
+version: "2022.10.09"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+阿贝多	aa;ek bz;kr do;xx	431
+阿莫斯之弓	aa;ek mo;cd si;jq vi;dd gs;ag	199
+阿斯托洛吉斯	aa;ek si;jq to;tq lo;dg ji;ku si;jq	448
+埃洛伊	ai;tu lo;dg yi;ry	95
+安柏	an;bn bo;mb	526
+暗铁剑	an;ry tx;ju jm;da	244
+奥藏山	ao;dm ch;ci uj;aa	514
+奥兹	ao;dm zi;by	457
+芭芭拉	ba;cb ba;cb la;fl	466
+芭芭拉冲呀	ba;cb ba;cb la;fl is;dv ya;ky	465
+巴巴托斯	ba;ag ba;ag to;tq si;jq	463
+八重神子	ba;pd is;ph uf;uu zi;aa	73
+巴尔	ba;ag er;xd	81
+白辰之环	bl;pr if;iy vi;dd hr;wb	20
+白铁块	bl;pr tx;ju ky;td	336
+白影剑	bl;pr yy;pj jm;da	222
+白缨枪	bl;pr yy;sy qd;mc	194
+班尼特	bj;dw ni;ub te;ns	460
+暴击头	bk;ru ji;fk tb;dd	388
+暴伤头	bk;ru uh;rl tb;dd	5
+爆炎树	bk;hb yj;hh uu;md	397
+北地烟熏鸡	bz;bj di;ty yj;hy xp;pd ji;yn	148
+北斗	bz;bj db;du	454
+北风的魂匣	bz;bj fg;ji de;bu hp;yg xw;kj	138
+北风狼	bz;bj fg;ji lh;ql	394
+北风之环	bz;bj fg;ji vi;dd hr;wb	139
+北风之尾	bz;bj fg;ji vi;dd wz;um	140
+奔狼领	bf;dc lh;ql ly;yl	498
+碧水原	bi;up uv;ad yr;ix	276
+便携营养袋	bm;rg xx;tn yy;cl yh;ya dl;yd	305
+冰晶蝶	by;du jy;rr dx;iy	47
+冰胖子	by;du ph;yb zi;aa	401
+冰伤杯	by;du uh;rl bz;mb	378
+冰深渊法师	by;du uf;dm yr;dm fa;dq ui;db	418
+冰史莱姆	by;du ui;ki ll;cl mu;nm	108
+冰霜骗骗花	by;du ud;yx pm;mb pm;mb hw;ch	408
+冰套	by;du tk;di	359
+冰雾花	by;du wu;yw hw;ch	331
+冰萤术士	by;du yy;ci uu;md ui;hh	61
+博士	bo;uc ui;hh	69
+不卜庐	bu;ax bu;ud lu;gh	294
+不灭月华	bu;ax mx;hh yt;oy hw;uh	19
+苍翠猎弓	ch;cc cv;yz lx;qx gs;ag	200
+苍风高地	ch;cc fg;ji gk;dk di;ty	280
+藏镜仕女	ch;ci jy;jj ui;ru nv;aa	60
+草史莱姆	ck;cz ui;ki ll;cl mu;nm	106
+层岩巨渊	cg;uy yj;uu ju;kk yr;dm	487
+常燃火种	ih;dd rj;hr ho;dd vs;hv	130
+长生仙	ih;pd ug;nh xm;ru	15
+尘世之锁	if;tx ui;ca vi;dd so;jb	166
+晨曦酒庄	if;oi xi;rg jq;dy vd;gt	499
+螭骨剑	ii;il gu;ob jm;da	216
+吃虎岩	ii;kq hu;hj yj;uu	277
+吃虎鱼刀	ii;kq hu;hj yu;da dk;gp	245
+赤糜饵	ii;tb mi;mm er;ue	11
+炽热骗骗花	ii;hv re;dv pm;mb pm;mb hw;ch	407
+丑角	ib;vt jt;dy	64
+串雷引钥真君	ir;uu lz;yt yn;ga yk;jo vf;uj jp;ky	469
+传送锚点	ir;rv ss;zg mk;jm dm;dv	341
+纯水精灵	ip;st uv;ad jy;mq ly;xh	396
+璀璨原钻	cv;wc cj;wc yr;ix zr;jv	128
+翠玦坡	cv;yz jt;wd po;tp	502
+达达利亚	da;zd da;zd li;dh ya;ay	441
+达达乌帕谷	da;zd da;zd wu;ph pa;jb gu;bk	490
+大姐头	da;ad jx;nq tb;dd	90
+大伟丘	da;ad wz;rw qq;ja	399
+大月卡	da;ad yt;oy ka;bx	344
+盗宝团	dk;mc bk;by tr;kc	415
+稻妻	dk;hy qi;nu	266
+稻妻城	dk;hy qi;nu ig;ti	34
+迪奥娜	di;zy ao;dm na;nn	440
+荻花洲	di;cd hw;ch vb;dv	274
+笛剑	di;vy jm;da	243
+涤净青金	di;dt jy;dv qy;fy jn;pa	126
+迪老爷	di;zy lk;bl ye;fe	97
+地灵龛	di;ty ly;xh kj;lh	337
+迪卢克	di;zy lu;bu ke;eg	523
+低语森林	di;rd yu;yw sf;ml ln;mm	287
+地中之盐	di;ty vs;ku vi;dd yj;mb	506
+电气骗骗花	dm;ag qi;ry pm;mb pm;mb hw;ch	59
+电气水晶	dm;ag qi;ry uv;ad jy;rr	332
+点赞哥	dm;dv zj;bx ge;kk	459
+东风的吐息	ds;qx fg;ji de;bu tu;kt xi;xz	141
+东风之翎	ds;qx fg;ji vi;dd ly;yl	143
+东风之爪	ds;qx fg;ji vi;dd vk;pd	142
+嘟嘟莲	du;kd du;kd lm;cl	323
+渡厄真君	du;dd ee;ie vf;uj jp;ky	4
+渡火	du;dd ho;dd	367
+杜冥鸦	du;mt my;bl ya;yn	255
+赌徒套	du;bv tu;xz tk;di	373
+独眼小宝	du;qi yj;mg xc;du bk;by	411
+堆高高	dv;tv gk;dk gk;dk	145
+队长	dv;er vh;pd	65
+遁玉陵	dp;zd yu;hd ly;ew	503
+发光髓	fa;fd gd;ea sv;gz	329
+反应工具人	fj;py yy;gh gs;hh ju;ba rf;pd	478
+放火烧山真君	fh;wf ho;dd uk;hy uj;aa vf;uj jp;ky	92
+飞雷之弦振	fz;yd lz;yt vi;dd xm;gx vf;ti	21
+绯木村	fz;sf mu;hd cp;mc	36
+飞天大御剑	fz;yd tm;ad da;ad yu;rx jm;da	228
+飞天小宝	fz;yd tm;ad xc;du bk;by	18
+飞天御剑	fz;yd tm;ad yu;rx jm;da	249
+菲谢尔	fz;cf xx;yu er;xd	458
+绯樱绣球	fz;sf yy;my xq;sx qq;wq	44
+翡玉法球	fz;yf yu;hd fa;dq qq;wq	180
+翡玉什锦袋	fz;yf yu;hd ui;ru jn;jb dl;yd	147
+绯云坡	fz;sf yp;es po;tp	278
+飞云商会	fz;yd yp;es uh;wk hv;ry	295
+焚棘燃炬真君	ff;hl ji;cc rj;hr ju;hj vf;uj jp;ky	93
+风本	fg;ji bf;hh	114
+风车菊	fg;ji ie;hu ju;cm	319
+枫丹	fg;mf dj;pd	264
+风花节	fg;ji hw;ch jx;ce	50
+风晶蝶	fg;ji jy;rr dx;iy	327
+风龙废墟	fg;ji ls;ad fz;gf xu;tx	494
+风魔龙	fg;ji mo;mg ls;ad	395
+风起地	fg;ji qi;zj di;ty	285
+风伤杯	fg;ji uh;rl bz;mb	380
+风神	fg;ji uf;uu	464
+风神瞳	fg;ji uf;uu ts;ot	339
+风史莱姆	fg;ji ui;ki ll;cl mu;nm	105
+风啸山坡	fg;ji xc;ks uj;aa po;tp	286
+奉行社	fg;ff xy;ri ue;ut	46
+风鹰剑	fg;ji yy;gn jm;da	232
+风主	fg;ji vu;dw	477
+腐殖之剑	fu;gr vi;dv vi;dd jm;da	233
+绀田村	gj;sg tm;aa cp;mc	33
+甘雨	gj;ca yu;ad	430
+钢轮弓	gh;jg lp;il gs;ag	205
+高塔孤王	gk;dk ta;th gu;zg wh;aa	122
+弓藏	gs;ag ch;ci	206
+公鸡	gs;bs ji;yn	66
+攻击杯	gs;gw ji;fk bz;mb	384
+攻击沙漏	gs;gw ji;fk ua;du lb;dy	386
+公子	gs;bs zi;aa	88
+钩钩果	gb;jg gb;jg go;tm	322
+古华派	gu;uk hw;uh pl;dp	296
+孤云阁	gu;zg yp;es ge;mg	267
+孤云寒林	gu;zg yp;es hj;bd ln;mm	119
+贯虹之槊	gr;mb hs;ig vi;dd uo;my	183
+归离原	gv;ux li;ds yr;ix	509
+桂木斩长正	gv;mg mu;hd vj;ji ih;pd vg;av	25
+果酒湖	go;tm jq;dy hu;dh	496
+海灯节	hl;dm dg;hd jx;ce	352
+海灵芝	hl;dm ly;xh vi;cv	40
+和璞鸢	he;hk pu;wd yr;yn	184
+黑剑	hz;dh jm;da	235
+黑岩长剑	hz;dh yj;uu ih;pd jm;da	241
+黑岩刺枪	hz;dh yj;uu ci;dc qd;mc	189
+黑岩绯玉	hz;dh yj;uu fz;sf yu;hd	170
+黑岩斩刀	hz;dh yj;uu vj;ji dk;gp	217
+黑岩战弓	hz;dh yj;uu vj;gv gs;ag	201
+黑缨枪	hz;dh yy;sy qd;mc	195
+很会聊天真君	hf;xg hv;ry lc;em tm;ad vf;uj jp;ky	32
+恒常机关	hg;xg ih;dd ji;mj gr;bt	51
+恒常机关阵列	hg;xg ih;dd ji;mj gr;bt vf;ei lx;dd	52
+护法夜叉	hu;th fa;dq ye;ww ia;yd	427
+琥牢山	hu;wh lk;bn uj;aa	511
+胡桃	hu;yg tk;mv	87
+华光林	hw;uh gd;ea ln;mm	488
+花鳉	hw;ch jd;yj	10
+花玲	hw;ch ly;wl	259
+皇女	hd;bw nv;aa	455
+火本	ho;dd bf;hh	113
+火花骑士	ho;dd hw;ch qi;mq ui;hh	467
+火枪手	ho;dd qd;mc ub;ub	400
+火伤杯	ho;dd uh;rl bz;mb	383
+火深渊法师	ho;dd uf;dm yr;dm fa;dq ui;db	419
+火史莱姆	ho;dd ui;ki ll;cl mu;nm	107
+急冻树	ji;xx ds;dd uu;md	398
+极寒之核	ji;mj hj;bd vi;dd he;mh	131
+祭礼残章	ji;ou li;ug cj;dj vh;lz	177
+祭礼大剑	ji;ou li;ug da;ad jm;da	224
+祭礼弓	ji;ou li;ug gs;ag	203
+祭礼剑	ji;ou li;ug jm;da	242
+纪行	ji;sj xy;ri	343
+甲级宝珏	jw;ru ji;sj bk;by jt;wy	178
+坚牢黄玉	jm;ty lk;bn hd;ad yu;hd	123
+降临之剑	jd;ej ln;do vi;dd jm;da	234
+角斗士套	jc;dy db;du ui;hh tk;di	363
+教官套	jc;wx gr;bk tk;di	374
+晶蝶	jy;rr dx;iy	328
+晶核	jy;rr he;mh	325
+晶化骨髓	jy;rr hw;rb gu;ob sv;gz	42
+净水之心	jy;dv uv;ad vi;dd xn;dd	129
+精通沙漏	jy;mq ts;zy ua;du lb;dy	385
+纠缠之缘	jq;sj ij;sl vi;dd yr;st	355
+救苦渡厄真君	jq;wq ku;cg du;dd ee;ie vf;uj jp;ky	442
+九条裟罗	jq;py tc;wm ua;yu lo;sx	75
+飓风之种	ju;fj fg;ji vi;dd vs;hv	134
+决斗之枪	jt;dd db;du vi;dd qd;mc	188
+绝弦	jt;ss xm;gx	202
+绝云间	jt;ss yp;es jm;om	513
+绝云椒椒	jt;ss yp;es jc;mu jc;mu	317
+凯亚	kl;jj ya;ay	525
+坎瑞亚	kj;tq rv;we ya;ay	28
+可莉	ke;dk li;cl	468
+刻晴	ke;dh qy;oq	445
+刻师傅	ke;dh ui;db fu;rc	444
+空之杯	ks;bg vi;dd bz;mb	390
+口袋锚点	kb;aa dl;yd mk;jm dm;dv	308
+矿工头子	kd;ug gs;hh tb;dd zi;aa	98
+来来菜	ll;hm ll;hm cl;cc	144
+莱垠芬德	ll;cl yn;tg ff;cf de;xx	472
+狼的末路	lh;ql de;bu mo;hd lu;zg	215
+雷本	lz;yt bf;hh	112
+雷锤哥	lz;yt iv;ji ge;kk	403
+雷电将军	lz;yt dm;ag jd;jc jp;bi	83
+雷光棱镜	lz;yt gd;ea lg;mw jy;jj	133
+雷晶蝶	lz;yt jy;rr dx;iy	48
+雷鸣仙	lz;yt my;kn xm;ru	13
+雷伤杯	lz;yt uh;rl bz;mb	379
+雷神	lz;yt uf;uu	82
+雷神瞳	lz;yt uf;uu ts;ot	49
+雷深渊法师	lz;yt uf;dm yr;dm fa;dq ui;db	71
+雷史莱姆	lz;yt ui;ki ll;cl mu;nm	104
+雷萤术士	lz;yt yy;ci uu;md ui;hh	413
+雷泽	lz;yt ze;df	462
+雷种子	lz;yt vs;hv zi;aa	41
+雷主	lz;yt vu;dw	475
+冷刃	lg;dl rf;dd	247
+历练的猎弓	li;il lm;sd de;bu lx;qx gs;ag	211
+黎明神剑	li;hu my;ry uf;uu jm;da	248
+丽莎	li;ad ua;cu	524
+璃沙郊	li;wl ua;du jc;ej	269
+理水叠山真君	li;wl uv;ad dx;yy uj;aa vf;uj jp;ky	301
+璃月	li;wl yt;oy	520
+璃月港	li;wl yt;oy gh;dx	519
+璃月罗翔	li;wl yt;oy lo;sx xd;yy	16
+璃月七星	li;wl yt;oy qi;ag xy;ru	298
+理之冠	li;wl vi;dd gr;bc	389
+猎弓	lx;qx gs;ag	212
+烈焰花	lx;dl yj;hx hw;ch	330
+凛风奔狼	ln;du fg;ji bf;dc lh;ql	121
+林簌	ln;mm su;vq	257
+灵矩关	ly;xh ju;uj gr;bt	504
+零氪	ly;yl ke;qk	349
+零命	ly;yl my;re	481
+流浪武士	lq;di lh;dl wu;vy ui;hh	62
+流狼乐章	lq;di lh;ql yt;px vh;lz	175
+琉璃百合	lq;wi li;wl bl;hb he;rk	314
+琉璃袋	lq;wi li;wl dl;yd	313
+流月针	lq;di yt;oy vf;ju	192
+留云借风真君	lq;td yp;es jx;rx fg;ji vf;uj jp;ky	299
+龙哥	ls;ad ge;kk	260
+龙脊雪山	ls;ad ji;od xt;yx uj;aa	489
+卢锅巴	lu;bu go;jn ba;ag	461
+渌华池	lu;dl hw;uh ii;dy	515
+鹿喑	lu;gb yn;ky	261
+掠食者	lt;fj ui;rl ve;ol	22
+落落莓	lo;cl lo;cl mz;cm	321
+罗莎利亚	lo;sx ua;cu li;dh ya;ay	432
+旅行剑	lv;fp xy;ri jm;da	246
+马斯克礁	ma;aa si;jq ke;eg jc;uj	281
+卖唱的	ml;um ih;ki de;bu	96
+满精炼	mj;dl jy;mq lm;hd	253
+满命	mj;dl my;re	480
+满破	mj;dl po;up	252
+梅姬斯图斯	mz;mm ji;ni si;jq tu;kd si;jq	447
+蒙德	mg;cu de;xx	293
+蒙德城	mg;cu de;xx ig;ti	497
+米哈游	mi;dd ha;kh yb;dz	521
+蜜酱胡萝卜煎肉	mi;ib jd;yx hu;yg lo;cl bo;ud jm;hq rb;kr	149
+喵酱	mc;km jd;yx	256
+珉林	mn;wm ln;mm	271
+鸣草	my;kn ck;cz	43
+明冠山地	my;ry gr;bc uj;aa di;ty	279
+明冠峡	my;ry gr;bc xw;uj	495
+鸣神大社	my;kn uf;uu da;ad ue;ut	45
+明蕴镇	my;ry yp;cm vf;jv	508
+命之座	my;re vi;dd zo;gz	483
+命座	my;re zo;gz	482
+魔晶块	mo;mg jy;rr ky;td	334
+摩拉	mo;mu la;fl	358
+摩拉克斯	mo;mu la;fl ke;eg si;jq	434
+摩拉肉	mo;mu la;fl rb;kr	150
+莫娜	mo;cd na;nn	449
+魔女套	mo;mg nv;aa tk;di	369
+魔偶剑鬼	mo;mg ou;ry jm;da gv;ps	53
+魔王之刃残片	mo;mg wh;aa vi;dd rf;dd cj;dj pm;pa	136
+慕风蘑菇	mu;cx fg;ji mo;cm gu;cg	318
+木漏茶室	mu;hd lb;dy ia;cm ui;bv	31
+木偶	mu;hd ou;ry	67
+沐浴龙血的剑	mu;dm yu;dg ls;ad xt;pa de;bu jm;da	227
+纳塔	na;sn ta;th	30
+南天门	nj;ua tm;ad mf;dg	270
+霓裳花	ni;ye ih;dy hw;ch	315
+凝冰渡海真君	ny;dy by;du du;dd hl;dm vf;uj jp;ky	470
+凝光	ny;dy gd;ea	453
+牛头人	nq;pu tb;dd rf;pd	421
+牛杂师傅	nq;pu za;mj ui;db fu;rc	89
+浓缩树脂	ns;dn so;ss uu;md vi;ov	309
+诺艾尔	no;yr ai;ci er;xd	516
+女仆	nv;aa pu;rb	94
+女士	nv;aa ui;hh	70
+派蒙	pl;dp mg;cu	527
+彭导	pg;pd dk;cs	258
+骗骗花	pm;mb pm;mb hw;ch	409
+平雷套	py;hu lz;yt tk;di	371
+破盾工具人	po;up dp;pm gs;hh ju;ba rf;pd	479
+破魔之弓	po;up mo;mg vi;dd gs;ag	23
+蒲公英籽	pu;cp gs;bs yy;cy zi;mz	311
+骑兵队长	qi;mq by;qb dv;er ih;pd	471
+漆黑陨铁	qi;du hz;dh yp;ey tx;ju	117
+七七	qi;ag qi;ag	443
+七天神像	qi;ag tm;ad uf;uu xd;rx	342
+千风神殿	qm;pu fg;ji uf;uu dm;ug	492
+轻策庄	qy;ig ce;vc vd;gt	501
+清泉镇	qy;dq qr;ub vf;jv	284
+青墟浦	qy;fy xu;tx pu;df	486
+庆云顶	qy;gd yp;es dy;dy	512
+琼玑野	qs;wj ji;wj ye;ly	273
+丘丘暴徒	qq;ja qq;ja bk;ru tu;xz	422
+丘丘人	qq;ja qq;ja rf;pd	425
+丘丘萨满	qq;ja qq;ja sa;ci mj;dl	423
+丘丘射手	qq;ja qq;ja ue;cu ub;ub	109
+丘丘岩盔王	qq;ja qq;ja yj;uu kv;mh wh;aa	405
+染血的骑士	rj;mj xt;pa de;bu qi;mq ui;hh	364
+燃愿玛瑙	rj;hr yr;xy ma;wm nk;wx	127
+日落果	ri;ri lo;cl go;tm	333
+蠕虫假饵	ru;ix is;vd jw;ry er;ue	12
+如雷套	ru;nk lz;yt tk;di	370
+塞西莉亚花	sl;bt xi;hh li;cl ya;ay hw;ch	320
+散兵	sj;wo by;qb	68
+三眼五显仙人	sj;aa yj;mg wu;aa xm;oy xm;ru rf;pd	302
+砂糖	ua;uu th;mt	450
+珊瑚宫心海	uj;wc hu;wh gs;bl xn;dd hl;dm	78
+少女本	uk;xp nv;aa bf;hh	110
+少女套	uk;xp nv;aa tk;di	368
+射手丘丘人	ue;cu ub;ub qq;ja qq;ja rf;pd	424
+深境螺旋	uf;dm jy;tj lo;il xr;fp	517
+神里	uf;uu li;aa	84
+绫华	ly;sw hw;uh	428
+绫人	ly;sw rf;pd	428
+神里绫华	uf;uu li;aa ly;sw hw;uh	428
+神里绫人	uf;uu li;aa ly;sw rf;pd	428
+神射手之誓	uf;uu ue;cu ub;ub vi;dd ui;yv	210
+深邃之血	uf;dm sv;zu vi;dd xt;pa	116
+神瞳	uf;uu ts;ot	340
+神瞳共鸣石	uf;uu ts;ot gs;bc my;kn ui;pk	307
+深渊法师	uf;dm yr;dm fa;dq ui;db	420
+神之眼	uf;uu vi;dd yj;mg	484
+神子	uf;uu zi;aa	72
+声优	ug;um yb;ry	263
+生之花	ug;nh vi;dd hw;ch	393
+史莱姆	ui;ki ll;cl mu;nm	426
+石门	ui;pk mf;dg	275
+石珀	ui;pk po;wb	310
+狮牙斗士	ui;qu ya;hp db;du ui;hh	120
+誓言岬	ui;yv yj;dk jw;uj	282
+时之沙	ui;oc vi;dd ua;du	391
+试作澹月	ui;yu zo;rv dj;dv yt;oy	207
+试作古华	ui;yu zo;rv gu;uk hw;uh	223
+试作金珀	ui;yu zo;rv jn;pa po;wb	171
+试作星镰	ui;yu zo;rv xy;ru lm;jl	190
+试作斩岩	ui;yu zo;rv vj;ji yj;uu	236
+首充	ub;qz is;dy	350
+双冰	ud;yy by;du	164
+双风	ud;yy fg;ji	159
+双火	ud;yy ho;dd	163
+双雷	ud;yy lz;yt	160
+双水	ud;yy uv;ad	162
+双岩	ud;yy yj;uu	161
+水晶块	uv;ad jy;rr ky;td	335
+水胖子	uv;ad ph;yb zi;aa	402
+水伤杯	uv;ad uh;rl bz;mb	381
+水深渊法师	uv;ad uf;dm yr;dm fa;dq ui;db	417
+水套	uv;ad tk;di	360
+水煮黑背鲈	uv;ad vu;hv hz;dh bz;ob lu;yl	153
+死之羽	si;db vi;dd yu;xx	392
+四宗室	si;ke zs;bu ui;bv	365
+太郎丸	tl;dd lh;el wj;jd	8
+贪生怕死角斗士	tj;rb ug;nh pa;xb si;db jc;dy db;du ui;hh	17
+讨龙	tk;yc ls;ad	182
+讨龙英杰谭	tk;yc ls;ad yy;cy jx;hm tj;yt	181
+薙草之稻光	ti;cv ck;cz vi;dd dk;hy gd;ea	24
+提米	ti;fu mi;dd	304
+提瓦特	ti;fu wa;ad te;ns	528
+提瓦特煎蛋	ti;fu wa;ad te;ns jm;hq dj;ip	151
+天衡山	tm;ad hg;xd uj;aa	505
+天空之傲	tm;ad ks;bg vi;dd ao;rw	214
+天空之脊	tm;ad ks;bg vi;dd ji;od	185
+天空之卷	tm;ad ks;bg vi;dd jr;je	167
+天空之刃	tm;ad ks;bg vi;dd rf;dd	231
+天空之翼	tm;ad ks;bg vi;dd yi;yg	198
+天目影打刀	tm;ad mu;uh yy;pj da;fd dk;gp	27
+天遒谷	tm;ad qq;zq gu;bk	510
+甜甜花	tm;ug tm;ug hw;ch	324
+甜甜花鳉鱼	tm;ug tm;ug hw;ch jd;yj yu;da	9
+甜甜花酿鸡	tm;ug tm;ug hw;ch nd;yl ji;yn	155
+铁蜂刺	tx;ju fg;if ci;dc	237
+铁尖枪	tx;ju jm;xd qd;mc	196
+铁影阔剑	tx;ju yy;pj ko;mh jm;da	225
+兔兔伯爵	tu;dd tu;dd bo;rb jt;vc	473
+吞天之鲸只角	tp;kt tm;ad vi;dd jy;yj vi;kb jc;dy	137
+托马	to;tq ma;aa	79
+挖矿	wa;fy kd;ug	103
+万国诸海图谱	wj;hg go;ky vu;yv hl;dm tu;kd pu;yp	176
+万民堂	wj;hg mn;ag th;tk	297
+万叶	wj;hg ye;ku	74
+望风角	wh;wo fg;ji jc;dy	289
+望风山地	wh;wo fg;ji uj;aa di;ty	290
+望舒客栈	wh;wo uu;uy ke;bg vj;mj	507
+王小美	wh;aa xc;du mz;yd	101
+微氪	wz;xw ke;qk	348
+未名的剑冢	wz;hd my;xk de;bu jm;da vs;bi	283
+温迪	wf;dm di;zy	522
+温妮莎	wf;dm ni;nn ua;cu	303
+无锋剑	wu;hg fg;jf jm;da	251
+无工之剑	wu;hg gs;hh vi;dd jm;da	213
+雾海云间	wu;yw hl;dm yp;es jm;om	118
+五郎	wu;aa lh;el	76
+武炼之魂孤影	wu;vy lm;hd vi;dd hp;yg gu;zg yy;pj	135
+雾切之回光	wu;yw qx;qd vi;dd hv;kk gd;ea	26
+物伤杯	wu;nw uh;rl bz;mb	377
+无妄坡	wu;hg wh;nw po;tp	500
+无相冰	wu;hg xd;mo by;du	54
+无相风	wu;hg xd;mo fg;ji	58
+无相火	wu;hg xd;mo ho;dd	55
+无相雷	wu;hg xd;mo lz;yt	57
+无相岩	wu;hg xd;mo yj;uu	56
+无主的星尘	wu;hg vu;dw de;bu xy;ru if;tx	354
+无主的星辉	wu;hg vu;dw de;bu xy;ru hv;gj	353
+喜多院十文字	xi;uk do;xx yr;ew ui;hu wf;dd zi;bz	7
+西风长枪	xi;hh fg;ji ih;pd qd;mc	187
+西风大剑	xi;hh fg;ji da;ad jm;da	218
+西风大教堂	xi;hh fg;ji da;ad jc;wx th;tk	292
+西风剑	xi;hh fg;ji jm;da	239
+西风猎弓	xi;hh fg;ji lx;qx gs;ag	208
+西风秘典	xi;hh fg;ji mi;hb dm;bh	174
+西风原典	xi;hh fg;ji yr;ix dm;bh	168
+夏祭套	xw;wz ji;ou tk;di	361
+匣里龙吟	xw;kj li;aa ls;ad yn;kj	238
+匣里灭辰	xw;kj li;aa mx;hh if;iy	191
+匣里日月	xw;kj li;aa ri;ri yt;oy	172
+仙跳墙	xm;ru tc;zv qd;th	146
+香菱	xd;ho ly;cw	518
+降魔大圣	xd;ej mo;mg da;ad ug;yt	86
+相遇之缘	xd;mo yu;zy vi;dd yr;st	356
+小艾咪	xc;du ai;ci mi;km	3
+宵宫	xc;bx gs;bl	85
+蟹黄火腿焗时蔬	xx;ij hd;ad ho;dd tv;ot ju;hj ui;oc uu;cu	152
+心海	xn;dd hl;dm	77
+新手长枪	xn;jq ub;ub ih;pd qd;mc	197
+辛焱	xn;lu yj;hh	433
+星螺	xy;ru lo;il	312
+星落湖	xy;ru lo;cl hu;dh	288
+行秋	xy;ri qq;hh	452
+星天水镜	xy;ru tm;ad uv;ad jy;jj	446
+须弥	xu;py mi;ge	265
+玄岩之塔	xr;wy yj;uu vi;dd ta;th	132
+血斛	xt;pa hu;jd	39
+学士套	xt;dz ui;hh tk;di	372
+削月筑阳真君	xt;dx yt;oy vu;vg yh;er vf;uj jp;ky	300
+雪中君	xt;yx vs;ku jp;ky	14
+寻宝罗盘	xp;xc bk;by lo;sx pj;mv	306
+训练大剑	xp;yi lm;sd da;ad jm;da	230
+鸦羽弓	ya;yn yu;xx gs;ag	209
+岩本	yj;uu bf;hh	111
+烟绯	yj;hy fz;sf	100
+岩晶蝶	yj;uu jy;rr dx;iy	326
+宴宁	yj;bn ny;bd	262
+岩伤杯	yj;uu uh;rl bz;mb	382
+岩神	yj;uu uf;uu	437
+岩神瞳	yj;uu uf;uu ts;ot	338
+岩套	yj;uu tk;di	362
+岩王帝君	yj;uu wh;aa di;lj jp;ky	435
+岩王爷	yj;uu wh;aa ye;fe	436
+岩主	yj;uu vu;dw	476
+瑶光滩	yk;wf gd;ea tj;dn	272
+夜泊石	ye;ww bo;db ui;pk	316
+野伏众	ye;ly fu;rq vs;rc	63
+椰羊	ye;my yh;da	429
+遗迹猎者	yi;zg ji;zy lx;qx ve;ol	410
+遗迹守卫	yi;zg ji;zy ub;bc wz;ga	412
+一精炼	yi;ah jy;mq lm;hd	254
+以理服人	yi;rd li;wl fu;yy rf;pd	226
+异世界行记	yi;sc ui;ca jx;tj xy;ri ji;yj	179
+银剑	yn;jg jm;da	250
+应急食品	yy;gh ji;xx ui;rl pn;kk	99
+鹰翔海滩	yy;gn xd;yy hl;dm tj;dn	491
+影向山	yy;pj xd;pk uj;aa	38
+佣兵重剑	ys;ry by;qb vs;ph jm;da	229
+勇往直前少女心	ys;ly wh;xv vi;hh qm;qd uk;xp nv;aa xn;dd	102
+优菈	yb;ry la;cl	91
+幼岩龙蜥	yb;yl yj;uu ls;ad xi;ix	406
+幽夜净土	yb;uy ye;ww jy;dv tu;aa	456
+雨裁	yu;ad cl;yg	221
+渔获	yu;dy ho;cq	6
+羽球节	yu;xx qq;wq jx;ce	351
+渔人吐司	yu;dy rf;pd tu;kt si;ka	154
+愚人众	yu;xy rf;pd vs;rc	416
+愚人众先遣队	yu;xy rf;pd vs;rc xm;en qm;zg dv;er	404
+原粹树脂	yr;ix cv;mz uu;md vi;ov	2
+原神	yr;ix uf;uu	485
+原石	yr;ix ui;pk	357
+元素爆发	yr;ee su;sf bk;hb fa;fd	157
+元素反应	yr;ee su;sf fj;py yy;gh	158
+元素共鸣	yr;ee su;sf gs;bc my;kn	165
+元素战技	yr;ee su;sf vj;gv ji;tv	156
+月卡党	yt;oy ka;bx dh;ek	345
+钺矛	yt;jy mk;ap	193
+云来海	yp;es ll;hm hl;dm	268
+早柚	zk;ru yb;my	80
+债务处理人	vl;rz wu;wl iu;wb li;wl rf;pd	414
+摘星崖	vl;fd xy;ru ya;uy	493
+战狂	vj;gv kd;qw	376
+战狂套	vj;gv kd;qw tk;di	375
+昭心	vk;ov xn;dd	169
+侦察骑士	vf;rv ia;bj qi;mq ui;hh	474
+镇石断片	vf;jv ui;pk dr;jm pm;pa	115
+镇守之森	vf;jv ub;bc vi;dd sf;ml	35
+至冬	vi;vt ds;wd	29
+治疗头	vi;dt lc;bl tb;dd	387
+钟剑	vs;jv jm;da	220
+中氪	vs;ku ke;qk	347
+重氪	vs;ph ke;qk	346
+钟离	vs;jv li;ds	439
+钟师傅	vs;jv ui;db fu;rc	438
+重云	vs;ph yp;es	451
+逐月节	vu;zu yt;oy jx;ce	1
+坠星山谷	vv;td xy;ru uj;aa gu;bk	291
+自在松石	zi;pm zl;ta ss;mg ui;pk	124
+宗室长弓	zs;bu ui;bv ih;pd gs;ag	204
+宗室长剑	zs;bu ui;bv ih;pd jm;da	240
+宗室大剑	zs;bu ui;bv da;ad jm;da	219
+宗室猎枪	zs;bu ui;bv lx;qx qd;mc	186
+宗室秘法录	zs;bu ui;bv mi;hb fa;dq lu;au	173
+宗室套	zs;bu ui;bv tk;di	366
+最胜紫金	zv;oq ug;yu zi;sc jn;pa	125
+申鹤	uf;oa he;nv	7
+云堇
+坎蒂丝
+鹿野院平藏
+柯莱
+荒泷一斗
+赛诺
+久岐忍
+多莉
+PV	pv
+迪希雅
+纳西妲
+鹿野院平藏
+米卡
+瑶瑶
+妮露
+提纳里
+艾森海尔
+流浪者

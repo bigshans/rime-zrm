@@ -1,0 +1,16 @@
+---
+name: zrm_pinyin.extended
+version: "2024.5.1"
+sort: by_weight
+use_preset_vocabulary: true
+import_tables:
+  - zrm_pinyin
+  - zrm_pinyin.user
+  - zrm_pinyin.poem
+  - zrm_pinyin.phrase
+  - zrm_pinyin.computer
+  - zrm_pinyin.shopping
+  - zrm_pinyin.sogou
+  - zrm_pinyin.yuanshen
+  - zrm_pinyin.append
+  # - zrm_pinyin.cn_en

@@ -25,7 +25,7 @@ local function filter(input)
        end
        local prefix = my_split(sp[1], "%s")
        table.remove(prefix, #prefix)
-       cand.comment = table.concat(prefix, " ") .. ";" .. sp[2]
+       cand.comment = ";" .. sp[2]
        yield(cand)
        ::continue::
    end

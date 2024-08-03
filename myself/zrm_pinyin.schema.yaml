@@ -52,28 +52,30 @@ engine:
     - simplifier
     - lua_filter@secondary_code_filter
     - lua_filter@charset_filter
+    - lua_filter@w2c_filter
     - uniquifier
 
 custom_phrase:
   dictionary: ""
   user_dict: custom_phrase
   db_class: stabledb
-  enable_completion: true
+  enable_completion: true 
   enable_sentence: true
   initial_quality: 1
 
 speller:
-  alphabet: "zyxwvutsrqponmlkjihgfedcba;ZYXWVUTSRQPONMLKJIHGFEDCBA"
+  alphabet: "zyxwvutsrqponmlkjihgfedcba;ZYXWVUTSRQPONMLKJIHGFEDCBA|"
   delimiter: " '"
+  finals: '|'
   algebra:
-    - derive/^(\w+);(\w)(\w+)$/$1;$2/
-    - derive/^(\w+);(\w+)$/$1/
+    - derive/^(\w*);(\w)(\w*)$/$1;$2/
+    - derive/^(\w*);(\w*)$/$1/
     - derive/^([a-z].+)$/\U$1/
     - derive/^([a-zA-Z])/\U$1/
     - derive/^([a-z][a-z])/\U$1/
 
 translator:
-  dictionary: zrm_pinyin
+  dictionary: zrm_pinyin.extended
   prism: zrm_pinyin
   spelling_hints: 1
   enable_encoder: true
@@ -136,4 +138,3 @@ recognizer:
   import_preset: default
   patterns:
     reverse_lookup: "`[a-z]*'?$"
-

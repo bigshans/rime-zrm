@@ -1,0 +1,2550 @@
+# Rime user dictionary
+#@/db_name	zrm_pinyin.userdb
+#@/db_type	userdb
+#@/rime_version	1.3.2
+#@/tick	7349
+#@/user_id	db60737d-968e-4e89-83d1-841eace75b82
+a 	啊	c=2 d=1.92654 t=7349
+aa;ek li;aa 	阿里	c=2 d=0.0196437 t=7349
+aa;ek li;aa yp;yy 	阿里雲	c=1 d=0.571209 t=7349
+aa;ek li;aa yr;dy 	阿里源	c=2 d=0.000322518 t=7349
+aa;ek mz;nw 	阿妹	c=1 d=0.0492917 t=7349
+aa;ka 	啊	c=15 d=2.57027 t=7349
+ai;ci 	艾	c=1 d=8.87222e-05 t=7349
+ai;ku 	唉	c=1 d=0.00033379 t=7349
+ai;vw 	愛	c=3 d=0.436136 t=7349
+an;bm li;rl 	案例	c=1 d=0.83527 t=7349
+an;bn qr;rw 	安全	c=8 d=0.00478933 t=7349
+an;bn vd;yv 	安裝	c=9 d=0.640668 t=7349
+an;bn vo;bu 	安卓	c=3 d=0.519634 t=7349
+an;fa 	按	c=1 d=5.0933e-05 t=7349
+an;fa mo;mu yi;mq 	按摩椅	c=1 d=7.88932e-06 t=7349
+an;fa vk;dv 	按照	c=1 d=0.29523 t=7349
+ba;ag 	巴	c=1 d=0.0410167 t=7349
+ba;ag ui;ru bo;uc yi;cy 	巴什博弈	c=2 d=0.0861323 t=7349
+ba;fb 	把	c=16 d=2.10715 t=7349
+ba;kb 	吧	c=9 d=0.203926 t=7349
+ba;pd uf;uu 	八神	c=1 d=0.0464212 t=7349
+ba;sn le;aa 	罷了	c=1 d=0.339596 t=7349
+ban 	版	c=2 d=1 t=7349
+ban ben 	版本	c=2 d=0.986198 t=7349
+bc;fy 	表	c=2 d=0.574078 t=7349
+bc;fy da;zy 	表達	c=2 d=0.00425686 t=7349
+bc;fy da;zy ui;gy 	表達式	c=0 d=0.0822835 t=7349
+bc;fy ge;mg 	表格	c=1 d=0.0146986 t=7349
+bc;fy ui;ad 	表示	c=3 d=0.964955 t=7349
+bc;fy xm;wj 	表現	c=1 d=0.447088 t=7349
+bc;fy yj;dy 	表演	c=1 d=7.67467e-05 t=7349
+bc;mp ji;yj 	標記	c=9 d=3.25679 t=7349
+bc;mp qm;vg 	標籤	c=1 d=0.806541 t=7349
+bc;mp ti;uy 	標題	c=2 d=0.000426098 t=7349
+bc;mp vi;yv 	標誌	c=1 d=0.162026 t=7349
+bc;mp vp;uh 	標準	c=3 d=0.587793 t=7349
+bf;aa 	本	c=1 d=0.0523397 t=7349
+bf;aa ll;ad 	本來	c=3 d=0.0230864 t=7349
+bf;aa ng;sb 	本能	c=10 d=0.0656916 t=7349
+bf;aa uf;pp 	本身	c=4 d=0.0568496 t=7349
+bf;aa xy;xu 	本性	c=2 d=0.0112228 t=7349
+bf;aa ya;vy my;oo 	本雅明	c=1 d=0.0611149 t=7349
+bf;dc 	奔	c=1 d=0.000376347 t=7349
+bg;up kv;dg 	崩潰	c=1 d=0.0837432 t=7349
+bh;bf vu;lq 	幫助	c=0 d=0.000386807 t=7349
+bh;mf 	棒	c=1 d=0.000382034 t=7349
+bi;bb 	比	c=11 d=0.634448 t=7349
+bi;bb jc;ij 	比較	c=3 d=0.731539 t=7349
+bi;bb qi;zj 	比起	c=1 d=0.171187 t=7349
+bi;bb ru;nk 	比如	c=2 d=0.251579 t=7349
+bi;dd rj;dq 	必然	c=3 d=0.0411719 t=7349
+bi;dd xu;yp 	必須	c=2 d=0.509156 t=7349
+bi;dd yb;ou 	必有	c=1 d=0.0391639 t=7349
+bi;kb li;kl bi;kb li;kl 	嗶哩嗶哩	c=2 d=0.904919 t=7349
+bi;tb vi;su 	壁紙	c=5 d=0.0728029 t=7349
+biao shi 	表示	c=1 d=0.755784 t=7349
+bj;bf 	半	c=1 d=0.301194 t=7349
+bj;bf tb;zx my;oo 	半透明	c=2 d=0.716011 t=7349
+bj;lx 	辦	c=1 d=2.03468e-05 t=7349
+bj;lx fa;dq 	辦法	c=3 d=0.666977 t=7349
+bj;pf 	版	c=4 d=0.634448 t=7349
+bj;pf bf;aa 	版本	c=20 d=0.13183 t=7349
+bj;pf bf;aa hk;hh 	版本號	c=1 d=0.213312 t=7349
+bk;bb dk;nu 	寶島	c=0 d=0.0177284 t=7349
+bk;bb dm;ba 	寶典	c=1 d=0.00869506 t=7349
+bk;bs 	包	c=7 d=1.00442 t=7349
+bk;bs hj;kj 	包含	c=1 d=0.305746 t=7349
+bk;bs rs;bg 	包容	c=1 d=0.261846 t=7349
+bk;bs wz;kw 	包圍	c=1 d=0.0581343 t=7349
+bk;ex gk;kn 	報告	c=3 d=0.188 t=7349
+bk;hb 	爆	c=3 d=0.29523 t=7349
+bk;hb nz;kr cp;uz 	爆內存	c=1 d=0.955997 t=7349
+bk;hb po;up 	爆破	c=2 d=0.00103494 t=7349
+bk;hb va;hv 	爆炸	c=1 d=0.0337087 t=7349
+bk;rd cp;uz 	保存	c=2 d=0.351695 t=7349
+bk;rd hu;yh 	保護	c=0 d=0.00682212 t=7349
+bk;rd lq;lt 	保留	c=1 d=0.305746 t=7349
+bk;rd ub;bc 	保守	c=1 d=0.136014 t=7349
+bl;ab du;gy 	百度	c=2 d=0.107873 t=7349
+bl;ab nm;pa 	百年	c=1 d=0.0957898 t=7349
+bl;ab nm;pa gu;zg du;qi 	百年孤獨	c=1 d=0.0867261 t=7349
+bl;pa 	白	c=1 d=0.0002139 t=7349
+bl;pa lm;sj 	白練	c=1 d=0.00694315 t=7349
+bl;pa nm;pa 	拜年	c=0 d=8.9167e-06 t=7349
+bl;pa nm;pa ji;mv 	拜年集	c=1 d=8.96139e-05 t=7349
+bl;pa se;db 	白色	c=1 d=0.0599047 t=7349
+bl;pa uh;aa 	白上	c=1 d=0.000214973 t=7349
+bm;ib fu;if xw;rj 	蝙蝠俠	c=1 d=0.0308074 t=7349
+bm;sb ig;hi 	編程	c=1 d=0.0001441 t=7349
+bm;sb ma;um 	編碼	c=1 d=0.280832 t=7349
+bm;sb xx;bd 	編寫	c=1 d=0.499074 t=7349
+bm;ws ld;ol 	變量	c=1 d=8.35555e-05 t=7349
+bm;zb 	遍	c=1 d=9.18825e-05 t=7349
+bm;zb li;iv 	遍歷	c=1 d=0.0169922 t=7349
+bm;zf jx;tj 	邊界	c=8 d=3.23153 t=7349
+bm;zf jx;tj dm;hv 	邊界點	c=1 d=0.522046 t=7349
+bm;zf kd;mk 	邊框	c=2 d=1.98506 t=7349
+bm;zf yr;st 	邊緣	c=1 d=0.50409 t=7349
+bo za 	駁雜	c=1 d=0.650509 t=7349
+bo;dl xw;ij 	剝蝦	c=1 d=0.0155297 t=7349
+bo;dp 	波	c=1 d=0.203926 t=7349
+bo;dp ds;lv 	波動	c=1 d=5.32773e-05 t=7349
+bo;uc ke;bg 	博客	c=2 d=0.189243 t=7349
+bo;uc yi;cy 	博弈	c=1 d=0.0413911 t=7349
+bo;uc yi;cy lp;yl 	博弈論	c=1 d=0.0490458 t=7349
+bo;wp li;wl 	玻璃	c=1 d=0.697676 t=7349
+bu 	不	c=1 d=0.794534 t=7349
+bu da 	不大	c=2 d=1.11473 t=7349
+bu diao 	不掉	c=0 d=0.097531 t=7349
+bu ding 	補丁	c=1 d=0.332871 t=7349
+bu dy 	補丁	c=1 d=0.951229 t=7349
+bu er qiao ya 	布爾喬亞	c=1 d=0.965605 t=7349
+bu guo 	不過	c=1 d=0.694197 t=7349
+bu ke 	不可	c=1 d=0.826959 t=7349
+bu neng 	不能	c=1 d=0.980199 t=7349
+bu shu 	部署	c=1 d=0.364219 t=7349
+bu uu 	部署	c=1 d=0.588605 t=7349
+bu;ad 	不	c=36 d=2.1713 t=7349
+bu;ad co;jx 	不錯	c=8 d=1.79864 t=7349
+bu;ad da;ad 	不大	c=1 d=0.451581 t=7349
+bu;ad dc;fv 	不掉	c=0 d=2.13523e-06 t=7349
+bu;ad de;rc 	不得	c=1 d=7.81082e-06 t=7349
+bu;ad dh;dt 	不當	c=1 d=0.162838 t=7349
+bu;ad gk;dk xy;ba 	不高興	c=1 d=0.13466 t=7349
+bu;ad go;zg 	不過	c=11 d=1.44019 t=7349
+bu;ad hk;nz 	不好	c=1 d=0.0129068 t=7349
+bu;ad hk;nz ys;kf 	不好用	c=1 d=0.272532 t=7349
+bu;ad hv;ro 	不會	c=1 d=0.141564 t=7349
+bu;ad ji;ku 	不吉	c=0 d=0.0995012 t=7349
+bu;ad ji;ku bo;dp pu;bo bu;ad xc;vy 	不吉波普不笑	c=1 d=1 t=7349
+bu;ad jm;zy yi;yy 	不建議	c=1 d=0.680451 t=7349
+bu;ad jn;ul 	不禁	c=1 d=0.186374 t=7349
+bu;ad jq;dd 	不久	c=1 d=0.0824965 t=7349
+bu;ad ke;dk ng;sb 	不可能	c=1 d=0.0277367 t=7349
+bu;ad ky;ro 	不會	c=1 d=0.250324 t=7349
+bu;ad li;wl xd;xx 	不理想	c=1 d=0.869358 t=7349
+bu;ad ng;sb 	不能	c=14 d=0.674029 t=7349
+bu;ad ng;sb ys;kf 	不能用	c=1 d=0.150318 t=7349
+bu;ad ru;nk 	不如	c=3 d=0.295688 t=7349
+bu;ad ti;fu 	不提	c=1 d=0.000303539 t=7349
+bu;ad tl;dd 	不太	c=3 d=0.806541 t=7349
+bu;ad tl;dd dv;ct 	不太對	c=1 d=0.244143 t=7349
+bu;ad tl;dd yi;aa yh;my 	不太一樣	c=1 d=0.177284 t=7349
+bu;ad ts;kk 	不同	c=2 d=0.214381 t=7349
+bu;ad ud;dy 	不爽	c=1 d=0.0134335 t=7349
+bu;ad uh;aa 	不上	c=1 d=0.0236361 t=7349
+bu;ad uh;aa bu;ad xw;ab 	不上不下	c=1 d=0.000370744 t=7349
+bu;ad ui;op 	不是	c=15 d=0.420349 t=7349
+bu;ad uk;xp 	不少	c=1 d=0.472367 t=7349
+bu;ad vi;aa 	不止	c=1 d=0.00744658 t=7349
+bu;ad vi;ku dk;zu 	不知道	c=4 d=0.680013 t=7349
+bu;ad wf;hj dy;bp 	不穩定	c=1 d=0.000270565 t=7349
+bu;ad wh;xw 	不忘	c=1 d=0.263158 t=7349
+bu;ad xc;vy 	不笑	c=1 d=0.205975 t=7349
+bu;ad xd;xx 	不想	c=2 d=0.304221 t=7349
+bu;ad xy;rd 	不行	c=1 d=0.357007 t=7349
+bu;ad yk;xn 	不要	c=6 d=0.701173 t=7349
+bu;ad ys;kf 	不用	c=2 d=0.154124 t=7349
+bu;ad yy;gx gl;yh 	不應該	c=1 d=0.028297 t=7349
+bu;ad yy;pj xd;yx 	不影響	c=1 d=0.771052 t=7349
+bu;ad zi;pa yb;aa 	不自由	c=1 d=0.384812 t=7349
+bu;ek ff;bd 	部分	c=9 d=0.643524 t=7349
+bu;ek uu;sv 	部署	c=7 d=1.70068 t=7349
+bu;ek vh;ad 	部長	c=1 d=0.163654 t=7349
+bu;vx 	步	c=2 d=1.06556 t=7349
+bu;vx ih;ad 	步長	c=1 d=0.00355287 t=7349
+bu;vx vb;mj 	步驟	c=1 d=0.416862 t=7349
+bu;yf qr;rw 	補全	c=2 d=0.000142781 t=7349
+bx;dd 	別	c=1 d=0.0713613 t=7349
+bx;gb nq;fi 	彆扭	c=1 d=0.0151463 t=7349
+by;qy 	並	c=19 d=2.67802 t=7349
+by;qy ia;md ji;mv 	並查集	c=1 d=2.37008e-05 t=7349
+bz;ap vl;dx 	北齋	c=1 d=0.00012341 t=7349
+bz;kb 	唄	c=1 d=0.0605068 t=7349
+bz;mb 	盃	c=1 d=0.0122773 t=7349
+bz;ob 	背	c=1 d=0.12938 t=7349
+bz;ob bk;bs 	背包	c=1 d=0.0311715 t=7349
+bz;ob jy;oj 	背景	c=1 d=0.0593087 t=7349
+bz;rk uu;wl 	倍數	c=1 d=0.0387742 t=7349
+bz;rk zg;tc 	倍增	c=6 d=0.01029 t=7349
+bz;rk zg;tc fa;dq 	倍增法	c=1 d=0.00251621 t=7349
+bz;ry ff;rf 	備份	c=1 d=0.000154549 t=7349
+bz;ry vu;yv 	備註	c=1 d=0.810584 t=7349
+bz;yp 	被	c=7 d=0.434078 t=7349
+bz;yp ds;lv 	被動	c=1 d=0.0958472 t=7349
+ca;fi gj;qu 	擦乾	c=1 d=0.000112788 t=7349
+ce;dz 	測	c=1 d=0.0461896 t=7349
+ce;dz ui;yu 	測試	c=3 d=0.597501 t=7349
+ce;dz ui;yu bj;pf 	測試版	c=1 d=0.000242381 t=7349
+ce;rz bm;zf lj;mj 	側邊欄	c=2 d=0.0196569 t=7349
+cg;uc mm;aa 	層面	c=2 d=0.016846 t=7349
+ch;rk 	倉	c=1 d=0.00577048 t=7349
+ch;rk ku;gi 	倉庫	c=3 d=0.00927901 t=7349
+chong xin 	重新	c=1 d=0.362402 t=7349
+chu shi hua 	初始化	c=1 d=0.895834 t=7349
+ci ku 	詞庫	c=4 d=2.75366 t=7349
+ci;dq 	次	c=1 d=0.412714 t=7349
+ci;vb iu;hi 	此處	c=1 d=2.50409e-05 t=7349
+ci;vb ui;os 	此時	c=3 d=0.000122754 t=7349
+ci;yg yr;zy 	差遠	c=1 d=0.985112 t=7349
+ci;ys 	詞	c=1 d=0.447088 t=7349
+ci;ys dm;ba 	詞典	c=5 d=1.03268 t=7349
+ci;ys gf;mg 	詞根	c=4 d=2.96526 t=7349
+ci;ys ku;gi 	詞庫	c=9 d=1.9406 t=7349
+ci;ys vv;su 	詞綴	c=1 d=0.0893673 t=7349
+ci;ys zu;sq 	詞組	c=3 d=1.54397 t=7349
+cj;sp jw;kl 	參加	c=1 d=0.0127147 t=7349
+cj;sp uu;wl 	參數	c=4 d=0.25924 t=7349
+cj;sp vk;dv 	參照	c=2 d=0.154896 t=7349
+ck;fz zo;rv 	操作	c=1 d=0.45612 t=7349
+cl;ap 	才	c=1 d=0.657047 t=7349
+cl;ap ng;sb 	才能	c=2 d=0.0555864 t=7349
+cl;cc dj;kd 	菜單	c=1 d=0.0958472 t=7349
+cl;fc qu;ey 	採取	c=1 d=0.0845849 t=7349
+cl;fc ys;kf 	採用	c=7 d=0.38868 t=7349
+cl;pc yp;yy go;kh 	彩雲國	c=1 d=0.895834 t=7349
+cl;si ui;op 	纔是	c=1 d=0.161218 t=7349
+cl;zc 	踩	c=2 d=0.0502249 t=7349
+co;jx pl;ff 	錯排	c=1 d=0.031273 t=7349
+co;jx wu;yw 	錯誤	c=2 d=0.00629029 t=7349
+cong 	從	c=2 d=1.20484 t=7349
+cp;mc 	村	c=0 d=0.00096577 t=7349
+cp;uz zl;ta 	存在	c=7 d=1.2239 t=7349
+cs;rv 	從	c=10 d=1.89403 t=7349
+cs;rv er;aa 	從而	c=3 d=0.0256632 t=7349
+cu lve 	粗略	c=1 d=0.729789 t=7349
+cu;mq ti;gd 	粗體	c=1 d=0.064894 t=7349
+da gai 	大概	c=1 d=0.436049 t=7349
+da gl 	大概	c=1 d=0.701173 t=7349
+da yt 	大約	c=2 d=1.45067 t=7349
+da;ad 	大	c=5 d=1.33035 t=7349
+da;ad bm;rg 	大便	c=2 d=0.15932 t=7349
+da;ad da;ad 	大大	c=0 d=0.0540641 t=7349
+da;ad da;ad jm;dx xc;ad 	大大減小	c=1 d=0.543351 t=7349
+da;ad gl;mj 	大概	c=2 d=0.606531 t=7349
+da;ad hw;ca 	大華	c=1 d=0.453845 t=7349
+da;ad jc;wx th;dt 	大教堂	c=3 d=0.253756 t=7349
+da;ad jw;bu 	大家	c=2 d=0.00377257 t=7349
+da;ad jw;kl 	大加	c=0 d=0.0245367 t=7349
+da;ad jw;kl ik;ki fg;yf 	大加嘲諷	c=1 d=0.246597 t=7349
+da;ad ld;ol 	大量	c=1 d=0.373439 t=7349
+da;ad lk;rl 	大佬	c=5 d=0.468824 t=7349
+da;ad lu;et 	大陸	c=2 d=0.860214 t=7349
+da;ad sj;aa 	大三	c=1 d=0.106992 t=7349
+da;ad sl;bb 	大賽	c=1 d=0.0124007 t=7349
+da;ad ua;gx 	大廈	c=0 d=0.00113902 t=7349
+da;ad uu;wl 	大數	c=2 d=0.00042038 t=7349
+da;ad vj;gd 	大戰	c=2 d=0.000216734 t=7349
+da;ad xc;ad jx;nq 	大小姐	c=0 d=0.00430669 t=7349
+da;ad xt;jz 	大學	c=1 d=0.790571 t=7349
+da;ad xt;jz ug;na 	大學生	c=1 d=0.0107269 t=7349
+da;ad xy;tx 	大型	c=1 d=0.818731 t=7349
+da;ad yi;aa 	大一	c=2 d=0.201071 t=7349
+da;ad yt;su 	大約	c=1 d=0.00121866 t=7349
+da;ad yu;fd 	大於	c=2 d=0.0015462 t=7349
+da;ad zi;bz 	大字	c=0 d=0.0183599 t=7349
+da;ad zi;bz ku;gi 	大字庫	c=2 d=0.18452 t=7349
+da;fd 	打	c=5 d=1.63961 t=7349
+da;fd bk;bs 	打包	c=5 d=2.85217 t=7349
+da;fd de;bu ui;os hb;ru 	打的時候	c=1 d=0.316637 t=7349
+da;fd iu;ck ll;ad 	打出來	c=1 d=0.522046 t=7349
+da;fd jm;zy 	搭建	c=1 d=0.0710054 t=7349
+da;fd kl;mk 	打開	c=4 d=0.471488 t=7349
+da;fd kl;mk fh;fw ui;gy 	打開放式	c=1 d=0.148823 t=7349
+da;fd qr;rw 	打全	c=1 d=0.315058 t=7349
+dai you 	帶有	c=1 d=0.304221 t=7349
+dan zi 	單字	c=5 d=3.27823 t=7349
+dao 	到	c=0 d=0.0349938 t=7349
+db;ev 	都	c=6 d=1.09384 t=7349
+db;ev hv;ro 	都會	c=1 d=0.0788664 t=7349
+db;ev ng;sb 	都能	c=1 d=0.207008 t=7349
+db;ev ui;op 	都是	c=3 d=0.0869624 t=7349
+db;ev yb;ou 	都有	c=1 d=0.249075 t=7349
+db;zd hk;hh 	逗號	c=1 d=0.585669 t=7349
+dc; 	﨩	c=1 d=0.965605 t=7349
+dc;fv 	掉	c=2 d=0.546074 t=7349
+dc;yv ia;md 	調查	c=3 d=0.212469 t=7349
+de 	的	c=39 d=18.2486 t=7349
+de dao 	得到	c=1 d=0.67368 t=7349
+de;b 	的	c=1 d=0.99005 t=7349
+de;bu 	的	c=367 d=15.3498 t=7349
+de;bu da;ad 	的大	c=0 d=0.0275271 t=7349
+de;bu ui;os hb;ru 	的時候	c=0 d=0.0315058 t=7349
+de;rc 	得	c=2 d=0.866415 t=7349
+de;rc dk;dv 	得到	c=6 d=1.51341 t=7349
+de;rx 	德	c=3 d=0.0517295 t=7349
+de;ty 	地	c=1 d=0.142987 t=7349
+dg;vs 	等	c=2 d=0.0112883 t=7349
+dg;vs dk;dv 	等到	c=1 d=0.000816895 t=7349
+dg;vs ff;bd 	等分	c=0 d=0.0467666 t=7349
+dg;vs hv;ro er;ej 	等會兒	c=1 d=0.0149208 t=7349
+dg;vs ia;yg 	等差	c=3 d=0.0587432 t=7349
+dg;vs ia;yg uu;wl lx;dd 	等差數列	c=1 d=0.0584257 t=7349
+dg;vs yu;fd 	等於	c=3 d=1.91348 t=7349
+dh;dt 	當	c=14 d=2.54557 t=7349
+dh;dt ig;gg 	當成	c=1 d=0.0132999 t=7349
+dh;dt iu;yd 	當初	c=1 d=0.159614 t=7349
+dh;dt qm;bd 	當前	c=20 d=2.96149 t=7349
+dh;dt rj;dq 	當然	c=2 d=0.00103657 t=7349
+dh;md wz;rl 	檔位	c=2 d=0.0372656 t=7349
+di yi ci 	第一次	c=1 d=0.67032 t=7349
+di;gd bu;ek 	底部	c=1 d=0.190139 t=7349
+di;ty dm;hv 	地點	c=1 d=0.0731678 t=7349
+di;ty fh;dd 	地方	c=1 d=0.000256085 t=7349
+di;ty py;aa 	地平	c=0 d=0.0079659 t=7349
+di;ty py;aa lp;yl 	地平論	c=1 d=0.0800583 t=7349
+di;ty py;aa xm;sq 	地平線	c=1 d=9.28059e-05 t=7349
+di;ty qq;wq 	地球	c=3 d=0.128938 t=7349
+di;ty qq;wq jd;yj 	地球醬	c=1 d=9.05145e-05 t=7349
+di;ty tx;jg 	地鐵	c=1 d=0.427415 t=7349
+di;ty vi;tv 	地址	c=3 d=0.965605 t=7349
+di;vp 	第	c=1 d=6.47485e-05 t=7349
+di;vp ba;pd 	第八	c=0 d=0.00101529 t=7349
+di;vp er;aa 	第二	c=0 d=0.00916297 t=7349
+di;vp er;aa ig;hr 	第二稱	c=1 d=0.092089 t=7349
+di;vp er;aa vh;lz 	第二章	c=1 d=0.18452 t=7349
+di;vp er;aa vs;hv 	第二種	c=3 d=1.50133 t=7349
+di;vp si;aa 	第四	c=0 d=0.0358796 t=7349
+di;vp si;aa bu;vx 	第四步	c=1 d=0.360595 t=7349
+di;vp si;aa my;xk 	第四名	c=1 d=0.0130365 t=7349
+di;vp sj;aa 	第三	c=0 d=0.0092089 t=7349
+di;vp sj;aa bu;vx 	第三步	c=1 d=0.311923 t=7349
+di;vp sj;aa ig;hr 	第三稱	c=1 d=0.0925506 t=7349
+di;vp sj;aa ji;hz 	第三季	c=1 d=9.54016e-06 t=7349
+di;vp ui;aa er;aa jx;uk 	第十二屆	c=1 d=0.0106202 t=7349
+di;vp wu;aa my;xk 	第五名	c=1 d=0.0125254 t=7349
+di;vp yi;aa 	第一	c=1 d=0.0911727 t=7349
+di;vp yi;aa bu;vx 	第一步	c=1 d=0.256661 t=7349
+di;vp yi;aa ge;rg 	第一個	c=1 d=6.67204e-05 t=7349
+di;vp yi;aa pm;vb 	第一篇	c=1 d=0.00470091 t=7349
+di;zh gv;vj 	遞歸	c=1 d=0.187308 t=7349
+di;zh zg;tc 	遞增	c=16 d=0.00066934 t=7349
+di;zh zg;tc xu;gy lx;dd 	遞增序列	c=1 d=2.82335e-05 t=7349
+dj zi 	單字	c=3 d=2.4329 t=7349
+dj;dy hd;cb 	淡黃	c=1 d=0.0804596 t=7349
+dj;fv dh;dt 	擔當	c=1 d=0.282239 t=7349
+dj;fv xn;dd 	擔心	c=1 d=0.0234005 t=7349
+dj;kd ci;ys 	單詞	c=1 d=0.0753961 t=7349
+dj;kd dm;hv 	單點	c=1 d=0.0776922 t=7349
+dj;kd ge;rg 	單個	c=1 d=0.000290183 t=7349
+dj;kd ip;st 	單純	c=1 d=0.00909528 t=7349
+dj;kd lj;mj 	單欄	c=1 d=0.000277414 t=7349
+dj;kd yr;aw 	單元	c=1 d=0.470011 t=7349
+dj;kd zi;aa 	單子	c=0 d=0.0965605 t=7349
+dj;kd zi;aa zi;bz dm;ba 	單子字典	c=1 d=0.970446 t=7349
+dj;kd zi;bz 	單字	c=1 d=0.0665368 t=7349
+dj;rd 	但	c=23 d=1.32204 t=7349
+dj;rd ui;op 	但是	c=1 d=0.00264522 t=7349
+dk vi 	導致	c=2 d=1.14248 t=7349
+dk;cd 	導	c=0 d=1.76005e-05 t=7349
+dk;cd lp;yl 	導論	c=1 d=1.43753e-05 t=7349
+dk;cd vi;wv 	導致	c=2 d=0.0792617 t=7349
+dk;dv 	到	c=17 d=2.24427 t=7349
+dk;dv le;aa 	到了	c=2 d=0.944044 t=7349
+dk;dv ui;os hb;ru 	到時候	c=2 d=0.12146 t=7349
+dk;gp jm;dq 	刀劍	c=0 d=9.54016e-07 t=7349
+dk;gp jm;dq uf;uu 	刀劍神	c=1 d=1.08315e-05 t=7349
+dk;gp jm;dq uf;uu yu;th 	刀劍神域	c=1 d=1.24973e-05 t=7349
+dk;zu de;rx 	道德	c=1 d=0.0443785 t=7349
+dk;zu lu;zg 	道路	c=2 d=0.0446429 t=7349
+dl;jb 	帶	c=2 d=0.193143 t=7349
+dl;jb gz;sh 	帶給	c=1 d=0.00615802 t=7349
+dl;jb ll;ad 	帶來	c=1 d=0.0101529 t=7349
+dl;jb yu;rb iu;ey fa;dq 	帶余除法	c=1 d=0.0485578 t=7349
+dl;ry bc;fy 	代表	c=11 d=2.46698 t=7349
+dl;ry hk;hh 	代號	c=2 d=0.000490704 t=7349
+dl;ry li;wl 	代理	c=4 d=1.0043 t=7349
+dl;ry ma;um 	代碼	c=2 d=0.000351164 t=7349
+dm;hv 	點	c=3 d=0.303627 t=7349
+dm;hv ji;fu 	點擊	c=5 d=0.827517 t=7349
+dm;yd uh;dk 	電商	c=6 d=4.03491 t=7349
+do 	多	c=2 d=1.27167 t=7349
+do;xx 	多	c=5 d=0.726149 t=7349
+do;xx bm;zf xy;pk 	多邊形	c=1 d=0.0247235 t=7349
+do;xx ci;dq 	多次	c=1 d=0.402524 t=7349
+do;xx hh;rd 	多行	c=1 d=6.87523e-05 t=7349
+do;xx le;aa 	多了	c=1 d=0.0471227 t=7349
+do;xx uo;yd 	多說	c=2 d=0.037068 t=7349
+do;xx xd;gy ui;gy 	多項式	c=1 d=0.0104621 t=7349
+dp;wx ug;mi 	敦盛	c=1 d=0.000413853 t=7349
+ds;ad fh;dd 	東方	c=4 d=0.146436 t=7349
+ds;ad xi;aa 	東西	c=3 d=0.999002 t=7349
+ds;lv ci;ys 	動詞	c=1 d=0.0939493 t=7349
+ds;lv dh;mt 	動盪	c=1 d=1.87372e-05 t=7349
+ds;lv hw;ya 	動畫	c=5 d=0.00672205 t=7349
+ds;lv mj;dm 	動漫	c=1 d=0.180866 t=7349
+ds;lv mj;dm vi;dd jw;bu 	動漫之家	c=1 d=0.08291 t=7349
+ds;lv tl;xn 	動態	c=12 d=0.524741 t=7349
+ds;lv wu;nw 	動物	c=6 d=0.0288817 t=7349
+ds;lv wu;nw bf;aa xy;xu 	動物本性	c=1 d=0.00375375 t=7349
+ds;lv wu;nw xy;xu 	動物性	c=3 d=0.0133416 t=7349
+ds;lv zo;rv 	動作	c=1 d=0.024234 t=7349
+ds;ot ti;gd 	胴體	c=1 d=0.909373 t=7349
+ds;xd 	懂	c=1 d=0.165299 t=7349
+du;qi cl;gy 	獨裁	c=3 d=0.369723 t=7349
+du;qi li;da 	獨立	c=0 d=0.00108347 t=7349
+du;qi li;da yr;ew xc;mj 	獨立院校	c=1 d=0.010889 t=7349
+du;ym 	讀	c=1 d=0.831104 t=7349
+du;ym fa;dq 	讀法	c=1 d=0.0492917 t=7349
+du;ym yn;lo 	讀音	c=1 d=0.985112 t=7349
+dui 	對	c=1 d=0.516851 t=7349
+dv;ct 	對	c=10 d=1.46617 t=7349
+dv;ct bj;bf 	對半	c=1 d=0.00110822 t=7349
+dv;ct ve;ym 	對着	c=1 d=0.244143 t=7349
+dv;ct xd;du 	對象	c=12 d=8.63983 t=7349
+dv;ct yu;fd 	對於	c=5 d=0.0222829 t=7349
+dv;ct yy;gx 	對應	c=2 d=0.255381 t=7349
+dv;eu vh;ad 	隊長	c=1 d=0.113608 t=7349
+dx;zu dl;ry qi;kk 	迭代器	c=1 d=0.826959 t=7349
+dy;aa 	丁	c=0 d=0.000535353 t=7349
+dy;aa xc;ad py;aa 	丁小平	c=1 d=0.00538036 t=7349
+dy;aa xd;ho yr;ky 	丁香園	c=1 d=0.438235 t=7349
+dy;bp li;wl 	定理	c=5 d=0.0304545 t=7349
+dy;bp yi;yw 	定義	c=3 d=0.822835 t=7349
+dy;yd yt;md 	訂閱	c=1 d=0.0761538 t=7349
+dy;yd yt;md vj;lv 	訂閱站	c=1 d=0.529935 t=7349
+dz;rc 	得	c=1 d=0.000812821 t=7349
+ee;fe ua;uu 	扼殺	c=1 d=0.0136366 t=7349
+em;km 	呣	c=1 d=0.0997588 t=7349
+en;ke 	嗯	c=1 d=0.0992613 t=7349
+er qie 	而且	c=1 d=0.427415 t=7349
+er;aa 	二	c=4 d=0.140247 t=7349
+er;aa 	而	c=14 d=0.120196 t=7349
+er;aa bz;rk 	二倍	c=2 d=0.00628487 t=7349
+er;aa ci;dq 	二次	c=0 d=2.37008e-06 t=7349
+er;aa ci;dq yr;aw 	二次元	c=1 d=2.38196e-05 t=7349
+er;aa dg;vs jd;qj 	二等獎	c=2 d=0.0234614 t=7349
+er;aa jn;zv vi;dg 	二進制	c=2 d=0.00426241 t=7349
+er;aa qx;aa 	而且	c=4 d=1.33305 t=7349
+er;aa sj;aa 	二三	c=0 d=0.0396531 t=7349
+er;aa sj;aa uu;mc 	二三樹	c=2 d=0.801043 t=7349
+er;aa ui;op 	而是	c=5 d=0.118239 t=7349
+er;aa wz;sv 	二維	c=1 d=7.67467e-05 t=7349
+er;aa wz;sv ma;um 	二維碼	c=3 d=0.320248 t=7349
+er;aa yj;da 	而言	c=0 d=4.14924e-06 t=7349
+er;ay 	爾	c=0 d=0.067032 t=7349
+er;ej ts;ll 	兒童	c=1 d=0.0558548 t=7349
+fa;dq 	法	c=5 d=0.755784 t=7349
+fa;du 	發	c=6 d=0.752014 t=7349
+fa;du bl;pa 	發白	c=1 d=0.079659 t=7349
+fa;du ff;dt 	發奮	c=1 d=0.0902655 t=7349
+fa;du jt;jb 	發覺	c=1 d=0.000119762 t=7349
+fa;du li;gp 	發力	c=1 d=0.0154523 t=7349
+fa;du vj;uy 	發展	c=5 d=0.0664292 t=7349
+fa;du xm;wj 	發現	c=7 d=0.774875 t=7349
+fa;du xy;rd 	發行	c=5 d=0.00254584 t=7349
+fa;du xy;rd bj;pf 	發行版	c=4 d=0.00446966 t=7349
+fa;du yn;lo 	發音	c=3 d=0.0756274 t=7349
+fang an 	方案	c=3 d=2.19157 t=7349
+fang dao 	放到	c=1 d=0.327915 t=7349
+fang ru 	放入	c=0 d=0.0349938 t=7349
+fang ru dao 	放入到	c=1 d=0.351692 t=7349
+fb;kb ze;db 	否則	c=4 d=0.71177 t=7349
+fei chang 	非常	c=2 d=1.43437 t=7349
+ff;bd 	分	c=1 d=0.00117088 t=7349
+ff;bd bu;rb ui;gy 	分佈式	c=0 d=0.0460704 t=7349
+ff;bd bx;dd 	分別	c=1 d=0.00202943 t=7349
+ff;bd ge;dh 	分割	c=4 d=0.460704 t=7349
+ff;bd ge;eg 	分隔	c=1 d=0.0702988 t=7349
+ff;bd hk;hh 	分號	c=3 d=1.32985 t=7349
+ff;bd li;vl 	分離	c=1 d=0.319819 t=7349
+ff;bd xn;dd 	分心	c=1 d=0.0230521 t=7349
+ff;bd ye;ab 	分頁	c=1 d=0.00554422 t=7349
+ff;dt 	奮	c=1 d=0.431711 t=7349
+ff;rf 	份	c=1 d=0.102797 t=7349
+fg;cg mm;aa 	封面	c=1 d=0.970446 t=7349
+fg;df fu;bf 	豐富	c=1 d=0.105399 t=7349
+fg;df mk;cw 	豐茂	c=1 d=0.822835 t=7349
+fg;ji 	風	c=1 d=8.52434e-05 t=7349
+fh an 	方案	c=2 d=1.50481 t=7349
+fh;dd 	方	c=0 d=5.48998e-06 t=7349
+fh;dd an;bm 	方案	c=24 d=3.62293 t=7349
+fh;dd bm;rg 	方便	c=1 d=0.729789 t=7349
+fh;dd fa;dq 	方法	c=12 d=3.75285 t=7349
+fh;dd ui;gy 	方式	c=6 d=0.980199 t=7349
+fh;dd vb;pd 	方舟	c=1 d=0.0450492 t=7349
+fh;dd yn;ga hk;hh 	方引號	c=1 d=5.5175e-05 t=7349
+fh;fw 	放	c=3 d=1.54218 t=7349
+fh;fw qi;dd 	放棄	c=1 d=0.408608 t=7349
+fh;yf wf;km 	訪問	c=3 d=1.87372 t=7349
+fj;dj 	凡	c=0 d=0.00434998 t=7349
+fj;dj so;hj yb;ou xd;mm 	凡所有相	c=1 d=0.0437178 t=7349
+fj;fl xy;rd 	梵行	c=1 d=0.0569831 t=7349
+fj;py 	反	c=3 d=0.0298886 t=7349
+fj;py fu;xf 	反覆	c=1 d=5.57296e-05 t=7349
+fj;py go;zg ll;ad 	反過來	c=1 d=0.0186856 t=7349
+fj;py kh;fk 	反抗	c=2 d=0.016441 t=7349
+fj;py si;tx 	反思	c=1 d=0.187308 t=7349
+fj;py xr;zg 	反選	c=1 d=0.000357992 t=7349
+fj;py yy;oy 	反映	c=1 d=0.00150344 t=7349
+fj;sm hw;ca 	繁華	c=1 d=9.09683e-05 t=7349
+fj;ve wz;kw 	範圍	c=1 d=0.00155699 t=7349
+fj;yf yi;yx 	翻譯	c=6 d=1.71827 t=7349
+fo;rf vf;fi 	佛振	c=4 d=0.466486 t=7349
+fu vu 	輔助	c=0 d=0.0527292 t=7349
+fu vu ma 	輔助碼	c=2 d=1.07058 t=7349
+fu zhu 	輔助	c=0 d=0.0301194 t=7349
+fu zhu ma 	輔助碼	c=3 d=1.98383 t=7349
+fu;bi 	父	c=4 d=2.29939 t=7349
+fu;bi jx;vj dm;hv 	父節點	c=8 d=4.82909 t=7349
+fu;bw vi;rv 	賦值	c=1 d=0.99005 t=7349
+fu;db ze;bf 	負責	c=4 d=0.49978 t=7349
+fu;ef uh;aa 	附上	c=2 d=0.960789 t=7349
+fu;i zhu 	輔助	c=0 d=0.0367879 t=7349
+fu;i zhu ma 	輔助碼	c=1 d=0.369723 t=7349
+fu;if ma;um 	輔碼	c=1 d=0.927743 t=7349
+fu;if vu;lq 	輔助	c=1 d=0.679343 t=7349
+fu;if vu;lq ma;um 	輔助碼	c=27 d=6.73788 t=7349
+fu;if yn;lo 	輔音	c=1 d=0.0875977 t=7349
+fu;oy vd;yv 	服裝	c=2 d=1.38545 t=7349
+fu;oy wu;mw 	服務	c=1 d=0.0443785 t=7349
+fu;oy wu;mw qi;kk 	服務器	c=1 d=0.000228266 t=7349
+fu;rf 	傅	c=1 d=0.000204488 t=7349
+fu;tf ta;ry 	扶他	c=1 d=0.000188766 t=7349
+fu;uf 	福	c=1 d=6.25215e-05 t=7349
+fu;vf 	符	c=0 d=2.28857e-06 t=7349
+fu;vf hk;hh 	符號	c=1 d=0.29671 t=7349
+fu;xf gl;ch 	覆蓋	c=3 d=0.00343941 t=7349
+fu;yf vi;yv 	複製	c=1 d=0.0335406 t=7349
+fu;yf za;vm du;gy 	複雜度	c=4 d=0.316867 t=7349
+fz;aa 	非	c=14 d=1.98511 t=7349
+fz;aa ih;dd 	非常	c=11 d=0.391879 t=7349
+fz;aa tj;bj lj;nl 	非貪婪	c=1 d=6.94433e-05 t=7349
+fz;bf ys;kf 	費用	c=1 d=0.0265162 t=7349
+gai 	該	c=1 d=0.318224 t=7349
+gan ga 	尷尬	c=1 d=0.946485 t=7349
+gb;gs xr;zg 	勾選	c=1 d=0.00511796 t=7349
+gb;qj 	狗	c=1 d=0.0502874 t=7349
+gd;ea bc;mp 	光標	c=1 d=0.594521 t=7349
+gd;gh gk;kn 	廣告	c=1 d=0.771052 t=7349
+ge ren 	個人	c=3 d=1.17747 t=7349
+ge;ch yb;rw 	葛優	c=1 d=8.78394e-05 t=7349
+ge;mg ui;gy 	格式	c=1 d=0.543351 t=7349
+ge;rg 	個	c=18 d=5.04245 t=7349
+ge;rg rf;pd 	個人	c=10 d=0.432536 t=7349
+ge;rg uu;wl 	個數	c=1 d=0.594521 t=7349
+ge;rk ui;zd 	合適	c=1 d=0.540641 t=7349
+ge;wk ge;rg 	各個	c=1 d=0.0411719 t=7349
+ge;wk lz;yl 	各類	c=1 d=0.00995182 t=7349
+ge;wk wz;rl 	各位	c=1 d=7.79066e-05 t=7349
+ge;wk xd;gy 	各項	c=1 d=0.00530026 t=7349
+gei 	給	c=1 d=0.873716 t=7349
+gen 	跟	c=1 d=0.88692 t=7349
+geng hao 	更好	c=1 d=0.843665 t=7349
+gf;mg bf;aa 	根本	c=2 d=0.00965717 t=7349
+gf;mg dc;vv 	根雕	c=1 d=7.30037e-05 t=7349
+gf;zg 	跟	c=4 d=0.174645 t=7349
+gf;zg wo;pd 	跟我	c=1 d=0.0925506 t=7349
+gg;ad 	更	c=5 d=0.728814 t=7349
+gg;ad do;xx 	更多	c=3 d=0.0564912 t=7349
+gg;ad gl;jw 	更改	c=2 d=0.0547488 t=7349
+gg;ad jw;kl 	更加	c=1 d=0.135335 t=7349
+gg;ad nj;vh 	更難	c=1 d=0.386741 t=7349
+gg;ad wz;pd 	更爲	c=3 d=0.0331274 t=7349
+gg;ad xd;xx yk;xn 	更想要	c=1 d=0.179066 t=7349
+gg;ad xn;jq 	更新	c=31 d=5.37312 t=7349
+gg;ad yb;ou 	更有	c=1 d=0.00344787 t=7349
+gh;dg 	剛	c=2 d=0.460704 t=7349
+gh;dg hk;nz 	剛好	c=1 d=0.00148848 t=7349
+gj;gu jq;yj gj;gu 	幹就幹	c=0 d=0.0117655 t=7349
+gj;gu ma;km 	幹嘛	c=1 d=0.0720785 t=7349
+gj;xx jc;jb 	感覺	c=1 d=0.0169922 t=7349
+gj;xx jt;jb 	感覺	c=8 d=0.601857 t=7349
+gj;xx mk;mo 	感冒	c=3 d=0.0122876 t=7349
+gj;xx ub;vy 	感受	c=1 d=0.786628 t=7349
+gk;dk 	高	c=2 d=0.084163 t=7349
+gk;dk di;ty 	高地	c=1 d=0.044601 t=7349
+gk;dk dm;hv 	高點	c=1 d=0.0306538 t=7349
+gk;dk du;gy 	高度	c=1 d=1.66184e-05 t=7349
+gk;dk hj;kx 	高喊	c=1 d=0.254107 t=7349
+gk;dk ji;sj 	高級	c=4 d=1 t=7349
+gk;dk ji;sj vs;aa xt;jz 	高級中學	c=0 d=0.00101529 t=7349
+gk;dk xc;mj 	高校	c=1 d=0.856415 t=7349
+gk;fg 	搞	c=3 d=0.100259 t=7349
+gk;fg de;rc 	搞得	c=1 d=0.132655 t=7349
+gl;jw 	改	c=7 d=0.880784 t=7349
+gl;jw bm;ws 	改變	c=1 d=0.000224867 t=7349
+gl;jw ge;aa 	改革	c=0 d=6.25215e-06 t=7349
+gl;jw ge;aa ip;fo fg;ji iv;kq mj;dr di;ty 	改革春風吹滿地	c=1 d=6.28349e-05 t=7349
+gl;mj 	概	c=3 d=0.000156029 t=7349
+gl;yh 	該	c=16 d=3.69824 t=7349
+go;kh ji;ej 	國際	c=1 d=0.449329 t=7349
+go;kh mk;bd 	國貿	c=0 d=0.00113902 t=7349
+go;kh mk;bd da;ad ua;gx 	國貿大廈	c=1 d=0.0114473 t=7349
+go;kh nz;kr 	國內	c=2 d=0.0367879 t=7349
+go;kh nz;kr yr;dy 	國內源	c=1 d=0.369723 t=7349
+go;zg 	過	c=0 d=0.0831104 t=7349
+go;zg ig;hi 	過程	c=5 d=1.32238 t=7349
+go;zg ll;ad 	過來	c=1 d=0.034562 t=7349
+gp;dg ds;lv 	滾動	c=2 d=0.156345 t=7349
+gp;dg lp;il 	滾輪	c=1 d=2.46681e-05 t=7349
+gr dc 	關掉	c=1 d=0.609571 t=7349
+gr;bc 	冠	c=1 d=9.00631e-05 t=7349
+gr;jv dm;hv 	觀點	c=1 d=0.00032718 t=7349
+gr;jv ia;bj 	觀察	c=2 d=0.00148202 t=7349
+gr;jv kj;ou 	觀看	c=1 d=0.000432902 t=7349
+gr;ma bi;mc 	關閉	c=3 d=0.496773 t=7349
+gr;ma dc;fv 	關掉	c=1 d=0.0293049 t=7349
+gr;ma jm;jj dm;hv 	關鍵點	c=1 d=0.00427488 t=7349
+gr;ma vu;dv 	關注	c=1 d=0.609571 t=7349
+gr;vg li;wl 	管理	c=4 d=2.17952 t=7349
+gr;vg li;wl ve;lo 	管理者	c=2 d=0.00225003 t=7349
+gs;aa ig;hi 	工程	c=5 d=0.0955565 t=7349
+gs;aa ju;ba 	工具	c=1 d=0.00914087 t=7349
+gs;aa ye;yl 	工業	c=1 d=0.0200405 t=7349
+gs;aa zo;rv 	工作	c=2 d=0.12307 t=7349
+gs;bc qy;fo 	共青	c=1 d=0.0137736 t=7349
+gs;bc qy;fo tr;kv yr;kb 	共青團員	c=2 d=0.0207345 t=7349
+gs;bc xd;dz 	共享	c=1 d=0.054204 t=7349
+gs;bs gs;bc 	公共	c=1 d=0.0244775 t=7349
+gs;bs ir;vk 	公船	c=0 d=0.0509156 t=7349
+gs;bs li;dh 	公立	c=1 d=0.0116203 t=7349
+gs;bs si;gk 	公司	c=1 d=0.431711 t=7349
+gs;bs ui;gy 	公式	c=4 d=0.408616 t=7349
+gs;bs vs;xd 	公衆	c=0 d=0.00765355 t=7349
+gs;bs vs;xd hk;hh 	公衆號	c=1 d=0.0769192 t=7349
+gs;gl li;dh vu;dw yi;yw 	功利主義	c=1 d=0.856415 t=7349
+gs;gl ng;sb 	功能	c=5 d=0.65377 t=7349
+gs;rg ho;bh 	供貨	c=1 d=0.0572688 t=7349
+gu;bk ge;qg 	谷歌	c=2 d=0.119433 t=7349
+gu;wg 	故	c=1 d=0.774916 t=7349
+gu;zg du;qi 	孤獨	c=0 d=0.00862936 t=7349
+guo da 	過大	c=1 d=0.396531 t=7349
+guo ran 	果然	c=1 d=0.955997 t=7349
+gv;fj bi;zb 	規避	c=1 d=0.0109436 t=7349
+gv;fj hw;dh 	規劃	c=6 d=0.0272461 t=7349
+gv;fj ju;uj 	規矩	c=1 d=0.0328764 t=7349
+gv;fj lv;ry 	規律	c=1 d=0.000111666 t=7349
+gv;fj ze;db 	規則	c=12 d=0.535344 t=7349
+gv;pd 	鬼	c=0 d=0.00290133 t=7349
+gv;pd qi;dl 	鬼泣	c=1 d=6.60565e-05 t=7349
+gv;yw mi;ub 	詭祕	c=1 d=0.0441572 t=7349
+gw zl 	掛載	c=1 d=0.737123 t=7349
+gw;fg 	掛	c=1 d=0.0235177 t=7349
+gw;fg qi;zj 	掛起	c=2 d=0.000278985 t=7349
+gw;fg uh;aa 	掛上	c=2 d=1.34823 t=7349
+gw;fg zl;gi 	掛載	c=3 d=0.183859 t=7349
+gy;pb gy;pb 	乖乖	c=1 d=0.00019258 t=7349
+gy;xu 	怪	c=0 d=1.9258e-05 t=7349
+gy;xu gy;xu ub;bc hu;yh uf;uu 	怪怪守護神	c=1 d=0.000193545 t=7349
+gz;sh 	給	c=13 d=1.11029 t=7349
+hai shi 	還是	c=1 d=0.798516 t=7349
+hao 	號	c=1 d=0.748264 t=7349
+hb;qh 	猴	c=0 d=0.0110251 t=7349
+hb;qh jc;oq bf;aa 	猴腳本	c=1 d=0.122336 t=7349
+hb;ru 	侯	c=1 d=0.0081887 t=7349
+hb;ru bu;yf 	候補	c=1 d=0.000246044 t=7349
+hb;rw 	後	c=8 d=1.29318 t=7349
+hb;rw ub;pa 	後手	c=2 d=0.0859406 t=7349
+hd;ci dk;nu 	荒島	c=1 d=0.0148464 t=7349
+hd;ci fz;gf 	荒廢	c=1 d=0.000104117 t=7349
+hd;ci mq;yl 	荒謬	c=1 d=0.311923 t=7349
+hd;ci ye;ly 	荒野	c=2 d=0.0241131 t=7349
+hd;xh 	慌	c=0 d=0.00858632 t=7349
+hd;xh vh;gi 	慌張	c=1 d=0.0208584 t=7349
+he 	和	c=1 d=0.88692 t=7349
+he 	𢅰	c=1 d=0.970446 t=7349
+he bing 	合併	c=1 d=0.666977 t=7349
+he;hk 	和	c=31 d=3.63642 t=7349
+he;hk xx;yj 	和諧	c=1 d=1.02832e-05 t=7349
+he;nv jr;ef he;hk zl;gk 	鶴卷和哉	c=1 d=0.000121572 t=7349
+he;rk 	何	c=1 d=0.198891 t=7349
+he;rk by;rb 	合併	c=1 d=0.384812 t=7349
+he;rk fa;dq 	合法	c=1 d=0.0480747 t=7349
+hen xiao 	很小	c=1 d=0.465334 t=7349
+hf;rg 	很	c=10 d=0.260779 t=7349
+hf;rg bh;mf 	很棒	c=1 d=0.818731 t=7349
+hf;rg da;ad 	很大	c=5 d=0.748264 t=7349
+hf;rg do;xx 	很多	c=10 d=0.729084 t=7349
+hf;rg hk;nz 	很好	c=1 d=0.666977 t=7349
+hf;rg rr;iq 	很軟	c=1 d=0.0263839 t=7349
+hf;rg xc;ad 	很小	c=1 d=0.000175127 t=7349
+hf;rg xd;xx 	很想	c=1 d=2.02978e-05 t=7349
+hg;mh 	橫	c=3 d=0.105781 t=7349
+hh 	行	c=0 d=0.198506 t=7349
+hh;mk vb;da 	杭州	c=2 d=0.427415 t=7349
+hj;bd ij;id 	寒蟬	c=2 d=0.000545218 t=7349
+hj;bd jw;rj 	寒假	c=1 d=0.0724398 t=7349
+hj;dh 	漢	c=2 d=0.0206311 t=7349
+hj;dh ln;mm 	漢林	c=1 d=0.0566989 t=7349
+hj;dh zi;bz 	漢字	c=2 d=0.308844 t=7349
+hj;kj ve;ym 	含着	c=1 d=0.329559 t=7349
+hj;kj yi;yw 	含義	c=1 d=0.261846 t=7349
+hj;ku uu;wl 	函數	c=9 d=2.84959 t=7349
+hj;kx 	喊	c=2 d=0.603897 t=7349
+hj;kx ve;ym 	喊着	c=2 d=0.289387 t=7349
+hj;uw yr;aw 	韓元	c=1 d=0.060205 t=7349
+hk;dm wu;da 	毫無	c=1 d=0.0327124 t=7349
+hk;hh 	號	c=1 d=0.0841891 t=7349
+hk;nz 	好	c=12 d=2.21929 t=7349
+hk;nz do;xx 	好多	c=1 d=0.410656 t=7349
+hk;nz ji;yd bm;zb 	好幾遍	c=1 d=0.927743 t=7349
+hk;nz jq;dd 	好久	c=1 d=0.000132358 t=7349
+hk;nz nj;vh 	好難	c=1 d=0.0997588 t=7349
+hk;nz py;yp 	好評	c=1 d=0.0225956 t=7349
+hk;nz qd;gi 	好強	c=1 d=0.794534 t=7349
+hk;nz ui;rl 	好使	c=2 d=0.658081 t=7349
+hk;nz vr;iv 	好轉	c=1 d=0.00677172 t=7349
+hk;nz xd;rx 	好像	c=2 d=0.0161666 t=7349
+hk;nz xd;xx 	好想	c=0 d=1.48489e-05 t=7349
+hk;nz xd;xx kj;ou 	好想看	c=1 d=0.000149233 t=7349
+hk;nz ys;kf 	好用	c=3 d=0.618796 t=7349
+hl;bk pa;xb 	害怕	c=1 d=0.00105946 t=7349
+hl;zh 	還	c=5 d=1.47289 t=7349
+hl;zh hk;nz 	還好	c=2 d=0.125959 t=7349
+hl;zh ui;op 	還是	c=17 d=1.19667 t=7349
+hl;zh yb;ou 	還有	c=5 d=0.759716 t=7349
+hl;zh yk;xn 	還要	c=3 d=0.310367 t=7349
+ho;du ds;lv 	活動	c=1 d=0.0135009 t=7349
+ho;gk 	或	c=2 d=0.307279 t=7349
+ho;gk ve;lo 	或者	c=4 d=0.399262 t=7349
+ho;gk xu;yw 	或許	c=1 d=0.00451658 t=7349
+ho;qh de;rc 	獲得	c=3 d=0.025066 t=7349
+hr;fh dh;md 	換檔	c=5 d=1.48166 t=7349
+hr;fh hh;rd 	換行	c=1 d=0.594521 t=7349
+hr;fh hh;rd fu;vf 	換行符	c=1 d=2.30004e-05 t=7349
+hr;fh ys;kf 	換用	c=1 d=0.0710054 t=7349
+hr;qv yy;ze 	歡迎	c=1 d=0.0518189 t=7349
+hr;sy 	緩	c=1 d=0.124307 t=7349
+hr;sy cp;uz 	緩存	c=1 d=0.847894 t=7349
+hr;sy yi;aa 	緩一	c=1 d=0.123687 t=7349
+hr;th 	換	c=0 d=4.14924e-06 t=7349
+hr;th er;aa yj;da vi;dd 	換而言之	c=1 d=4.17004e-05 t=7349
+hr;wh jy;tj 	環境	c=1 d=0.603506 t=7349
+hr;zh yr;yy 	還願	c=4 d=1.17929 t=7349
+hs;bh 	宏	c=3 d=3.57855e-05 t=7349
+hs;sg hz;ad 	紅黑	c=0 d=0.0398519 t=7349
+hs;sg hz;ad uu;mc 	紅黑樹	c=1 d=0.400517 t=7349
+hs;sg la;xu jc;mu 	紅辣椒	c=1 d=0.000269215 t=7349
+hu;aa lm;ea wh;sw 	互聯網	c=1 d=0.429557 t=7349
+hu;aa ts;zy 	互通	c=1 d=0.0424257 t=7349
+hu;kh 	呼	c=1 d=0.115325 t=7349
+hu;kh hj;kx 	呼喊	c=1 d=0.11475 t=7349
+hu;ua 	壺	c=1 d=0.0788664 t=7349
+hu;yh yj;mg 	護眼	c=1 d=0.0833256 t=7349
+hua 	話	c=3 d=2.12957 t=7349
+hui 	會	c=1 d=0.438235 t=7349
+hv 	會	c=2 d=1.62362 t=7349
+hv;gj 	輝	c=1 d=0.120791 t=7349
+hv;gj ye;dd da;ad xc;ad jx;nq 	輝夜大小姐	c=4 d=0.839259 t=7349
+hv;hu se;db 	灰色	c=1 d=0.000342239 t=7349
+hv;kk 	回	c=1 d=0.657047 t=7349
+hv;kk dk;dv 	回到	c=1 d=0.0944202 t=7349
+hv;kk ie;aa 	回車	c=1 d=2.27715e-05 t=7349
+hv;kk vg;av 	回正	c=2 d=0.0322585 t=7349
+hv;ro 	會	c=21 d=1.49968 t=7349
+hv;ro er;ej 	會兒	c=1 d=0.00172824 t=7349
+hv;ro yr;kb 	會員	c=1 d=0.0536647 t=7349
+hv;zh wf;dd 	迴文	c=3 d=0.620681 t=7349
+hv;zh wf;dd ir;aa 	迴文串	c=1 d=7.04928e-05 t=7349
+hv;zh wf;dd zi;aa ir;aa 	迴文子串	c=1 d=0.554327 t=7349
+hw 	話	c=3 d=2.19443 t=7349
+hw;ca ua;du 	華沙	c=1 d=0.786628 t=7349
+hw;ca vs;aa 	華中	c=1 d=0.00571306 t=7349
+hw;ca wz;pd 	華爲	c=2 d=0.106795 t=7349
+hw;ch 	花	c=4 d=0.959147 t=7349
+hw;ch jw;nj 	花嫁	c=2 d=0.932394 t=7349
+hw;ch yr;ky 	花園	c=1 d=0.181772 t=7349
+hw;dg 	滑	c=1 d=0.0140519 t=7349
+hw;dg ji;hv 	滑稽	c=1 d=2.22093e-05 t=7349
+hw;rb 	化	c=0 d=0.00314298 t=7349
+hw;ya jw;bu 	畫家	c=3 d=0.000621328 t=7349
+hw;ya mm;aa 	畫面	c=1 d=0.045502 t=7349
+hw;yu 	話	c=9 d=0.946485 t=7349
+hw;yu uo;yd 	話說	c=1 d=0.683861 t=7349
+hy;xh yi;bp 	懷疑	c=1 d=1.57291e-05 t=7349
+hz;ad ke;bg 	黑客	c=4 d=0.000909715 t=7349
+hz;ad ti;gd 	黑體	c=2 d=0.000144194 t=7349
+ia;bj jt;jb 	察覺	c=1 d=0.0911727 t=7349
+ia;dy ji;hz 	叉積	c=1 d=0.000212834 t=7349
+ia;fi jm;rn 	插件	c=10 d=0.111732 t=7349
+ia;md 	查	c=0 d=0.0119433 t=7349
+ia;md dk;dv 	查到	c=1 d=0.137381 t=7349
+ia;md kj;ou 	查看	c=10 d=0.710462 t=7349
+ia;md le;aa yi;aa xw;ab 	查了一下	c=1 d=0.120032 t=7349
+ia;md vk;fg 	查找	c=1 d=0.0761538 t=7349
+ia;md xp;yx 	查詢	c=12 d=2.15932 t=7349
+ia;yg 	差	c=1 d=0.0223708 t=7349
+ia;yg dm;hv 	差點	c=1 d=0.153355 t=7349
+ia;yg ju;zj 	差距	c=1 d=0.000703108 t=7349
+ia;yg yi;tg 	差異	c=1 d=0.000174253 t=7349
+ib;fy dk;dv 	抽到	c=2 d=0.000250553 t=7349
+ib;fy le;aa 	抽了	c=1 d=0.000129737 t=7349
+id jm 	創建	c=1 d=0.932394 t=7349
+id;bx kb;aa 	窗口	c=6 d=2.06285 t=7349
+id;dc jm;zy 	創建	c=6 d=3.16915 t=7349
+id;dc ye;yl 	創業	c=1 d=0.0123389 t=7349
+ie;aa su;zu 	車速	c=1 d=0.740818 t=7349
+if;dj mi;zm yu;fd 	沉迷於	c=1 d=9.85447e-05 t=7349
+if;ri 	晨	c=1 d=0.106459 t=7349
+ig;gg 	成	c=3 d=0.644036 t=7349
+ig;gg gs;gl 	成功	c=3 d=1.30689 t=7349
+ig;hb fa;dq 	乘法	c=1 d=0.000132358 t=7349
+ig;hi du;gy 	程度	c=1 d=0.00229965 t=7349
+ig;hi xu;gy 	程序	c=2 d=0.466902 t=7349
+ig;hi xu;gy yr;kb 	程序員	c=1 d=0.465334 t=7349
+ig;hr 	稱	c=1 d=0.110001 t=7349
+ig;hr hu;kh 	稱呼	c=1 d=0.115903 t=7349
+ig;ti ui;dj 	城市	c=0 d=0.00127784 t=7349
+ig;ti ui;dj vi;dd gd;ea 	城市之光	c=1 d=0.0128424 t=7349
+ih;ad 	長	c=1 d=0.551563 t=7349
+ih;ad du;gy 	長度	c=13 d=1.33968 t=7349
+ih;ad ip;fo 	長春	c=1 d=0.0199405 t=7349
+ih;dd ih;dd 	常常	c=1 d=0.00119508 t=7349
+ih;dd ih;dd uo;yd 	常常說	c=1 d=0.00256704 t=7349
+ih;dd jm;me 	常見	c=1 d=0.000181365 t=7349
+ih;dd ys;kf 	常用	c=1 d=0.0100017 t=7349
+ih;dv ui;yu 	嘗試	c=9 d=1.1523 t=7349
+ih;ki de;bu 	唱的	c=1 d=9.85447e-05 t=7349
+ih;ki ge;qg 	唱歌	c=1 d=0.000115643 t=7349
+ih;uy 	暢	c=1 d=0.0505395 t=7349
+ii;kq dm;hv 	吃點	c=1 d=0.0273237 t=7349
+ii;kq jn;sy 	吃緊	c=1 d=0.810584 t=7349
+ii;kq rf;pd 	吃人	c=2 d=1.52753e-05 t=7349
+ii;zn dp;jt 	遲鈍	c=1 d=0.00673795 t=7349
+ij;wu ug;na 	產生	c=2 d=0.00278085 t=7349
+ij;yd ue;qk 	顫舌	c=3 d=0.107982 t=7349
+ik;ki fg;yf 	嘲諷	c=0 d=0.0245367 t=7349
+ik;ku dk;dv 	吵到	c=1 d=0.212248 t=7349
+ik;ou 	朝	c=1 d=0.000166586 t=7349
+ik;zv 	超	c=1 d=0.00591656 t=7349
+ik;zv go;zg 	超過	c=2 d=0.0437178 t=7349
+ik;zv iu;ck 	超出	c=1 d=0.000978001 t=7349
+ik;zv ji;sj 	超級	c=2 d=0.140506 t=7349
+ik;zv rf;pd 	超人	c=1 d=0.0154577 t=7349
+ik;zv rf;pd hw;rb 	超人化	c=1 d=0.0315873 t=7349
+ik;zv rf;pd xy;xu 	超人性	c=1 d=0.0271874 t=7349
+ik;zv to;od 	超脫	c=1 d=0.00524752 t=7349
+ik;zv yt;zy 	超越	c=1 d=0.00733572 t=7349
+il;fi ff;bd 	拆分	c=1 d=0.00111378 t=7349
+ip;fo fg;ji 	春風	c=0 d=6.25215e-06 t=7349
+ip;fo ih;ty 	春場	c=1 d=0.0246002 t=7349
+ip;fo wj;om 	春晚	c=1 d=8.74013e-05 t=7349
+ip;st 	純	c=2 d=0.806541 t=7349
+ip;st cv;mz 	純粹	c=3 d=0.0735093 t=7349
+ir;aa 	串	c=1 d=1.39417e-05 t=7349
+ir;by 	穿	c=1 d=0.00016826 t=7349
+ir;rv 	傳	c=1 d=0.0343896 t=7349
+ir;rv ts;si 	傳統	c=1 d=6.06737e-05 t=7349
+is fu 	重複	c=0 d=0.099005 t=7349
+is fu hh 	重複行	c=1 d=0.995012 t=7349
+is ma 	重碼	c=1 d=0.562705 t=7349
+is xn 	重新	c=1 d=0.585669 t=7349
+is;pa dx;la 	重疊	c=2 d=0.00369148 t=7349
+is;pa fu;yf 	重複	c=2 d=0.00322494 t=7349
+is;pa ma;um 	重碼	c=1 d=0.189191 t=7349
+is;pa xn;jq 	重新	c=2 d=0.522046 t=7349
+is;pa xx;bd 	重寫	c=1 d=0.336216 t=7349
+is;xi tu;bq 	衝突	c=1 d=0.000596161 t=7349
+iu;ck 	出	c=3 d=0.0078677 t=7349
+iu;ck ll;ad 	出來	c=1 d=0.364219 t=7349
+iu;ck xm;wj 	出現	c=7 d=0.313486 t=7349
+iu;ey ci;vb vi;dd wl;xb 	除此之外	c=1 d=0.000542133 t=7349
+iu;ey fa;dq 	除法	c=0 d=0.00483156 t=7349
+iu;hi li;wl 	處理	c=3 d=0.948134 t=7349
+iu;hi li;wl go;zg 	處理過	c=1 d=0.83527 t=7349
+iu;hi yu;fd 	處於	c=3 d=0.499131 t=7349
+iu;ji ks;fk bj;mf 	觸控板	c=1 d=0.151072 t=7349
+iu;yd dg;vs 	初等	c=3 d=0.00139323 t=7349
+iv;kq 	吹	c=0 d=6.25215e-06 t=7349
+iv;kq bk;hb 	吹爆	c=1 d=0.000147748 t=7349
+iv;kq pg;ff 	吹捧	c=1 d=0.0317456 t=7349
+iv;kq xt;yx 	吹雪	c=1 d=0.00021605 t=7349
+jc;df ji;mv 	交集	c=2 d=0.652958 t=7349
+jc;df le;aa 	交了	c=1 d=0.0152985 t=7349
+jc;df lq;di 	交流	c=1 d=1.51123e-05 t=7349
+jc;dv lv;hs 	焦慮	c=1 d=0.0104621 t=7349
+jc;ij wz;pd 	較爲	c=1 d=0.909373 t=7349
+jc;kj 	叫	c=1 d=0.970446 t=7349
+jc;kj zo;rg 	叫做	c=1 d=0.740818 t=7349
+jc;oq 	腳	c=2 d=0.774916 t=7349
+jc;oq bf;aa 	腳本	c=4 d=0.363178 t=7349
+jc;oq vh;dk 	腳掌	c=1 d=0.0281559 t=7349
+jc;wx ig;hi 	教程	c=1 d=0.000175127 t=7349
+jc;wx lm;sj 	教練	c=1 d=0.0124007 t=7349
+jd;dj ui;us 	殭屍	c=1 d=0.000142667 t=7349
+jd;ef 	降	c=1 d=0.125556 t=7349
+jd;pc 	將	c=12 d=2.05759 t=7349
+jd;pc vi;dd 	將之	c=3 d=0.0880368 t=7349
+jd;pc yk;xn 	將要	c=3 d=0.963688 t=7349
+jd;yg 	講	c=5 d=0.595793 t=7349
+jd;yg jx;jn 	講解	c=1 d=0.000602152 t=7349
+jd;yj 	醬	c=1 d=8.65317e-05 t=7349
+ji ke 	即可	c=4 d=2.16746 t=7349
+ji qi 	極其	c=1 d=0.421052 t=7349
+ji ui 	即使	c=1 d=0.774916 t=7349
+ji;bq su;bb 	寄宿	c=1 d=0.0116786 t=7349
+ji;dj ho;du 	激活	c=1 d=0.000174253 t=7349
+ji;eg ke;dk 	即可	c=4 d=0.756921 t=7349
+ji;eg ui;op 	即是	c=4 d=0.372149 t=7349
+ji;eg ui;rl 	即使	c=2 d=0.251422 t=7349
+ji;fu bl;wb 	擊敗	c=1 d=9.14242e-05 t=7349
+ji;fv qc;gk 	技巧	c=1 d=0.20089 t=7349
+ji;gg rj;dq 	既然	c=0 d=0.0193013 t=7349
+ji;gg rj;dq ve;zy yh;my 	既然這樣	c=1 d=0.19398 t=7349
+ji;ku ln;mm ug;mu 	吉林省	c=3 d=0.035607 t=7349
+ji;ma ia;yg 	極差	c=0 d=0.0522046 t=7349
+ji;ma li;gp 	極力	c=1 d=0.00131358 t=7349
+ji;ma qi;ad 	極其	c=1 d=0.0275271 t=7349
+ji;ma qi;ad de;bu da;ad 	極其的大	c=2 d=0.557482 t=7349
+ji;ma qi;ad zk;mc gk;mg 	極其糟糕	c=1 d=0.0812682 t=7349
+ji;mj hv;ro 	機會	c=2 d=0.965605 t=7349
+ji;mj ke;bg 	極客	c=1 d=0.000437252 t=7349
+ji;mj qi;kk rf;pd 	機器人	c=4 d=0.786628 t=7349
+ji;mj ye;dd 	極夜	c=1 d=9.23431e-05 t=7349
+ji;mv 	集	c=1 d=0.0243232 t=7349
+ji;mv qp;yj 	集羣	c=1 d=0.0706512 t=7349
+ji;mv vs;aa 	集中	c=1 d=0.0248475 t=7349
+ji;nd qi;ad 	及其	c=1 d=0.235746 t=7349
+ji;nd ui;os 	及時	c=3 d=0.00297183 t=7349
+ji;qt bf;aa 	基本	c=1 d=0.163654 t=7349
+ji;qt bf;aa uh;aa 	基本上	c=1 d=0.00134011 t=7349
+ji;qt iu;ui 	基礎	c=1 d=0.852144 t=7349
+ji;qt iu;ui uh;aa 	基礎上	c=2 d=0.883857 t=7349
+ji;qt yu;fd 	基於	c=1 d=0.729789 t=7349
+ji;sj bx;dd 	級別	c=1 d=0.159614 t=7349
+ji;sy er;aa 	繼而	c=1 d=0.00318278 t=7349
+ji;sy ig;ad 	繼承	c=1 d=0.197899 t=7349
+ji;sy xu;sm 	繼續	c=1 d=0.00018046 t=7349
+ji;uk 	吉	c=1 d=0.202909 t=7349
+ji;yd hu;pa 	幾乎	c=1 d=0.697676 t=7349
+ji;yd ui;aa 	幾十	c=0 d=0.00439369 t=7349
+ji;yd ui;aa vk;dd 	幾十兆	c=1 d=0.0441572 t=7349
+ji;yd vs;hv 	幾種	c=1 d=5.4626e-05 t=7349
+ji;yj 	記	c=1 d=6.18994e-05 t=7349
+ji;yj de;rc 	記得	c=1 d=0.000236397 t=7349
+ji;yj lu;jl 	記錄	c=7 d=0.979303 t=7349
+ji;yu sr;vc ji;mj 	計算機	c=1 d=0.0028799 t=7349
+jia gou 	架構	c=1 d=1 t=7349
+jian ti 	簡體	c=1 d=0.384812 t=7349
+jiang 	將	c=2 d=1.00403 t=7349
+jiao wei 	較爲	c=1 d=0.647265 t=7349
+jin shen 	謹慎	c=1 d=0.477114 t=7349
+jiu 	就	c=1 d=0.472367 t=7349
+jm xc 	減小	c=1 d=0.621885 t=7349
+jm yi 	建議	c=1 d=0.798516 t=7349
+jm;bd rs;bg 	兼容	c=1 d=0.000102055 t=7349
+jm;dq cl;gy 	剪裁	c=1 d=0.000495472 t=7349
+jm;dx xc;ad 	減小	c=2 d=1.0164 t=7349
+jm;jj wz;rl 	鍵位	c=2 d=0.000145287 t=7349
+jm;mv du;mu 	監督	c=1 d=0.000387808 t=7349
+jm;nn 	姦	c=1 d=0.0564161 t=7349
+jm;ty go;ad 	堅果	c=1 d=0.26054 t=7349
+jm;vj dj;kd 	簡單	c=1 d=0.66365 t=7349
+jm;vj er;aa yj;da vi;dd 	簡而言之	c=1 d=0.000352662 t=7349
+jm;vj vi;aa 	簡直	c=2 d=0.382893 t=7349
+jm;vj yk;su 	簡約	c=1 d=0.00167826 t=7349
+jm;vj yk;xn 	簡要	c=1 d=0.00168667 t=7349
+jm;zy li;da 	建立	c=2 d=0.820473 t=7349
+jm;zy yi;yy 	建議	c=4 d=1.42984 t=7349
+jm;zy zl;ta 	建在	c=1 d=0.818731 t=7349
+jn;md rj;dq 	盡然	c=1 d=0.148823 t=7349
+jn;ra mn;wm 	今敏	c=1 d=0.000267872 t=7349
+jn;ra nm;pa 	今年	c=4 d=2.36038 t=7349
+jn;ra tm;ad 	今天	c=8 d=1.77444 t=7349
+jn;rj jn;rj 	僅僅	c=4 d=0.481909 t=7349
+jn;rj ld;ol 	儘量	c=1 d=0.0152222 t=7349
+jn;zv bu;vx 	進步	c=1 d=0.755784 t=7349
+jn;zv er;aa 	進而	c=2 d=0.00949815 t=7349
+jn;zv hw;rb 	進化	c=1 d=0.00301245 t=7349
+jn;zv xy;rd 	進行	c=10 d=2.79124 t=7349
+jp;bi go;kh 	軍國	c=1 d=0.0578443 t=7349
+jq;bj jy;le 	究竟	c=1 d=0.196912 t=7349
+jq;cj bj;pf 	舊版	c=1 d=0.000420107 t=7349
+jq;yj 	就	c=23 d=2.09532 t=7349
+jq;yj hv;ro 	就會	c=5 d=0.292293 t=7349
+jq;yj jd;pc 	就將	c=1 d=0.40657 t=7349
+jq;yj ui;op 	就是	c=18 d=1.89424 t=7349
+jq;yj xd;rx 	就像	c=2 d=0.810584 t=7349
+jq;yj xy;rd 	就行	c=2 d=0.57695 t=7349
+jq;yj yb;ou 	就有	c=1 d=0.748264 t=7349
+jq;yj yk;xn 	就要	c=1 d=0.0381969 t=7349
+jt;dd dy;bp 	決定	c=8 d=0.741107 t=7349
+jt;dd ug;ol 	決勝	c=1 d=0.0239928 t=7349
+jt;jb de;rc 	覺得	c=8 d=1.69885 t=7349
+ju;aa yy;nb 	巨嬰	c=2 d=0.617333 t=7349
+ju;ba ti;gd 	具體	c=1 d=0.00442715 t=7349
+ju;ba yb;ou 	具有	c=1 d=1.09191e-05 t=7349
+ju;dj qy;xq 	劇情	c=1 d=1.03865e-05 t=7349
+ju;rj xm;eg xy;xu 	侷限性	c=1 d=0.000409735 t=7349
+ju;ug mn;ag 	居民	c=1 d=0.075774 t=7349
+ju;uj vf;ei 	矩陣	c=2 d=0.0458748 t=7349
+jue ding 	決定	c=1 d=0.310367 t=7349
+jw 	加	c=1 d=0.537944 t=7349
+jw;aa kh;dj 	甲亢	c=1 d=0.0156858 t=7349
+jw;bu vh;ad 	家長	c=1 d=0.0578443 t=7349
+jw;bu yb;ou 	家有	c=1 d=0.694197 t=7349
+jw;bu yb;ou nv;aa yb;uy 	家有女友	c=10 d=0.477065 t=7349
+jw;dc 	夾	c=1 d=0.0773047 t=7349
+jw;kl 	加	c=1 d=0.264477 t=7349
+jw;kl qi;zj ll;ad 	加起來	c=1 d=0.0432828 t=7349
+jw;kl ru;pd 	加入	c=2 d=8.80618e-05 t=7349
+jw;kl su;zu 	加速	c=4 d=0.802639 t=7349
+jw;kl uh;aa 	加上	c=1 d=0.0432828 t=7349
+jw;kl zl;gi 	加載	c=4 d=1.07731 t=7349
+jw;mj kk;lk 	駕考	c=3 d=0.0264856 t=7349
+jw;mj vk;dv 	駕照	c=1 d=0.0889216 t=7349
+jw;nj 	嫁	c=2 d=0.963867 t=7349
+jw;rg 	佳	c=1 d=4.08747e-05 t=7349
+jw;rj 	伽	c=2 d=0.0424533 t=7349
+jw;rj vi;rv gr;jv 	價值觀	c=1 d=0.000308127 t=7349
+jx;bb ui;op 	皆是	c=0 d=0.00437178 t=7349
+jx;bb ui;op xu;hy wh;nw 	皆是虛妄	c=1 d=0.0439369 t=7349
+jx;fh fa;du 	揭發	c=1 d=0.0259911 t=7349
+jx;fq kb;aa 	接口	c=2 d=1.13992 t=7349
+jx;gv tu;kh 	截圖	c=1 d=0.33454 t=7349
+jx;jn fa;dq 	解法	c=1 d=0.0261214 t=7349
+jx;jn fh;fw 	解放	c=6 d=0.0443008 t=7349
+jx;jn jt;dd 	解決	c=7 d=0.542024 t=7349
+jx;jn ya;ty 	解壓	c=7 d=3.0959 t=7349
+jx;jn ya;ty so;ss 	解壓縮	c=1 d=0.1764 t=7349
+jx;lh ze;dx er;aa yu;dy 	竭澤而漁	c=1 d=0.173774 t=7349
+jx;nq 	姐	c=1 d=1.01809e-05 t=7349
+jx;sj go;ad 	結果	c=4 d=0.983338 t=7349
+jx;sj wz;um 	結尾	c=2 d=0.187901 t=7349
+jx;vj 	節	c=1 d=0.000340532 t=7349
+jx;vj ck;fz 	節操	c=1 d=0.000362198 t=7349
+jx;vj ck;fz ue;tu 	節操社	c=1 d=0.000335463 t=7349
+jx;vj dm;hv 	節點	c=40 d=18.2056 t=7349
+jy;dx ds;ad 	京東	c=1 d=0.878095 t=7349
+jy;jj sl;bb 	競賽	c=1 d=0.0108347 t=7349
+jy;jj xd;rx 	鏡像	c=6 d=1.5957 t=7349
+jy;jj xd;rx vj;lv 	鏡像站	c=1 d=0.0539337 t=7349
+jy;le rj;dq 	竟然	c=1 d=0.149569 t=7349
+jy;mq ts;zy 	精通	c=2 d=0.0230547 t=7349
+jy;mq uf;uu 	精神	c=2 d=0.459087 t=7349
+jy;sg yj;mq 	經驗	c=1 d=0.000323925 t=7349
+jy;yj gk;kn 	警告	c=1 d=0.209088 t=7349
+ka si 	卡死	c=1 d=0.878095 t=7349
+ka;bx 	卡	c=2 d=0.194952 t=7349
+ka;bx dp;yt 	卡頓	c=6 d=0.242988 t=7349
+ka;bx fu;ad ka;bx 	卡夫卡	c=1 d=0.060205 t=7349
+ka;bx lo;sv 	卡羅	c=0 d=0.067032 t=7349
+ka;bx lo;sv er;ay 	卡羅爾	c=2 d=1.5922 t=7349
+ka;bx si;db 	卡死	c=2 d=0.718924 t=7349
+kb;aa hk;hh 	口號	c=1 d=0.299692 t=7349
+kb;aa vk;sv 	口罩	c=2 d=0.0319255 t=7349
+kd;mk jw;mj 	框架	c=1 d=0.0672055 t=7349
+kd;qw 	狂	c=1 d=0.0439369 t=7349
+ke yi 	可以	c=3 d=1.7055 t=7349
+ke yi jiang 	可以將	c=1 d=0.337902 t=7349
+ke;dh wh;wo 	渴望	c=1 d=0.355226 t=7349
+ke;dk 	可	c=5 d=0.0845849 t=7349
+ke;dk bm;ws 	可變	c=2 d=2.30732e-05 t=7349
+ke;dk ng;sb 	可能	c=5 d=0.344728 t=7349
+ke;dk ng;sb xy;xu 	可能性	c=1 d=0.00571306 t=7349
+ke;dk yi;rd 	可以	c=38 d=4.41632 t=7349
+ke;hd ji;fv 	科技	c=1 d=0.425283 t=7349
+ke;hd sj;aa 	科三	c=4 d=1.35845 t=7349
+ke;yg 	課	c=2 d=0.701173 t=7349
+kf;ov dy;bp 	肯定	c=1 d=0.044601 t=7349
+kj;ou 	看	c=12 d=0.856415 t=7349
+kj;ou de;rc 	看得	c=1 d=0.0198411 t=7349
+kj;ou dk;dv 	看到	c=3 d=0.744532 t=7349
+kj;ou dl;rs 	看待	c=1 d=0.00304273 t=7349
+kj;ou kj;ou 	看看	c=1 d=0.120633 t=7349
+kj;ou le;aa 	看了	c=3 d=1.10398 t=7349
+kj;ou ve;ym 	看着	c=3 d=0.0854367 t=7349
+kj;ou ve;ym ni;re 	看着你	c=1 d=0.000124028 t=7349
+kj;ou zo;rv 	看作	c=1 d=5.94723e-05 t=7349
+kk;lk ia;bj 	考察	c=1 d=0.00292342 t=7349
+kk;lk lv;hs 	考慮	c=9 d=0.118837 t=7349
+kk;lk qn;lj 	考勤	c=5 d=2.76395 t=7349
+kl;mk 	開	c=1 d=0.000238772 t=7349
+kl;mk fa;du ve;lo 	開發者	c=1 d=0.00032718 t=7349
+kl;mk fh;fw ui;gy 	開放式	c=0 d=0.014808 t=7349
+kl;mk hw;rb 	開化	c=7 d=0.489295 t=7349
+kl;mk hw;rb xm;xx 	開化縣	c=2 d=0.0665368 t=7349
+kl;mk ie;aa 	開車	c=2 d=0.771052 t=7349
+kl;mk qi;kw 	開啓	c=1 d=0.588605 t=7349
+kl;mk qi;zj ll;ad 	開起來	c=1 d=0.0285814 t=7349
+kl;mk tb;dy 	開頭	c=1 d=0.0948935 t=7349
+kl;mk ui;nt 	開始	c=5 d=1.56467 t=7349
+kl;mk xn;dd 	開心	c=1 d=0.0911727 t=7349
+kl;mk yr;dy 	開源	c=2 d=0.386045 t=7349
+ko;fg vj;uy 	擴展	c=8 d=0.835362 t=7349
+kp;yk hw;rb 	鯤化	c=1 d=0.122456 t=7349
+kr;bd rs;bg 	寬容	c=1 d=0.29523 t=7349
+ks bl 	空白	c=0 d=0.0995012 t=7349
+ks;bg 	空	c=2 d=0.683861 t=7349
+ks;bg jm;mo 	空間	c=1 d=0.000685748 t=7349
+ku 	庫	c=0 d=0.0900325 t=7349
+ku;gi 	庫	c=0 d=0.0183599 t=7349
+ky;tg 	塊	c=1 d=6.84094e-05 t=7349
+ky;xd gj;xx 	快感	c=2 d=0.00907118 t=7349
+ky;xd jx;fj jm;jj 	快捷鍵	c=5 d=0.838389 t=7349
+ky;xd le;bm 	快樂	c=1 d=7.7518e-05 t=7349
+ky;xd su;zu 	快速	c=3 d=0.0335795 t=7349
+ky;xd ub;pa 	快手	c=1 d=0.726149 t=7349
+la;fl dy;aa 	拉丁	c=1 d=0.0303487 t=7349
+la;fl dy;aa yu;yw 	拉丁語	c=7 d=0.283763 t=7349
+la;kd ba;kb 	喇叭	c=2 d=0.338121 t=7349
+la;kl 	啦	c=1 d=0.400517 t=7349
+lb wl lb 	樓外樓	c=0 d=0.056836 t=7349
+lb;ml ti;md 	樓梯	c=1 d=0.0262523 t=7349
+lc;em tm;ad 	聊天	c=2 d=0.50822 t=7349
+lc;em tm;ad ji;yj lu;jl 	聊天記錄	c=1 d=0.240508 t=7349
+lc;ml jx;jn 	瞭解	c=1 d=0.562705 t=7349
+ld;ar bm;zf 	兩邊	c=1 d=0.000102566 t=7349
+ld;ar ge;rg 	兩個	c=8 d=1.00886 t=7349
+ld;ar tl;uv 	兩臺	c=1 d=0.582748 t=7349
+ld;ar ve;lo 	兩者	c=2 d=0.000911891 t=7349
+ld;ar vs;hv 	兩種	c=5 d=2.32985 t=7349
+ld;ar zu;sq 	兩組	c=1 d=0.0948935 t=7349
+ld;ol 	量	c=1 d=0.0744532 t=7349
+le 	了	c=4 d=3.72186 t=7349
+le;aa 	了	c=103 d=10.8356 t=7349
+le;bm er;ej 	樂兒	c=1 d=0.45612 t=7349
+lh;ql 	狼	c=1 d=9.46807e-05 t=7349
+li;dy 	裏	c=8 d=0.147342 t=7349
+li;gp 	力	c=2 d=0.00923273 t=7349
+li;gp ld;ol 	力量	c=1 d=0.0199405 t=7349
+li;gp qi;qm 	力氣	c=1 d=0.0274607 t=7349
+li;iv ui;ad 	歷史	c=2 d=0.0804596 t=7349
+li;iw hl;bk 	厲害	c=1 d=0.00319873 t=7349
+li;rl 	例	c=1 d=0.00416933 t=7349
+li;rl zi;aa 	例子	c=1 d=0.88692 t=7349
+li;wl 	理	c=2 d=3.91044e-05 t=7349
+li;wl jx;jn 	理解	c=2 d=0.432024 t=7349
+li;wl xy;xu 	理性	c=6 d=0.27427 t=7349
+liang ge 	兩個	c=1 d=0.657047 t=7349
+ling feng zhe 	領風者	c=1 d=0.923116 t=7349
+lj;mj 	欄	c=1 d=0.0658748 t=7349
+lk;bl 	老	c=3 d=0.0057417 t=7349
+lk;bl ui;bv 	老師	c=1 d=0.0934807 t=7349
+ll;ad 	來	c=7 d=0.594507 t=7349
+ll;ad dk;dv 	來到	c=1 d=0.0520787 t=7349
+ll;ad uo;yd 	來說	c=4 d=0.882497 t=7349
+ll;ad zi;pa 	來自	c=1 d=0.0564161 t=7349
+lm;jl jx;fq 	鏈接	c=3 d=0.12938 t=7349
+lm;jl ui;gy 	鏈式	c=1 d=0.856415 t=7349
+lm;sj 	練	c=2 d=0.0249945 t=7349
+lm;sj ie;aa 	練車	c=2 d=0.000207259 t=7349
+lm;zi xu;sm 	連續	c=1 d=2.32315e-05 t=7349
+lo;dg uf;uu fu;bw 	洛神賦	c=1 d=0.442639 t=7349
+lo;il xr;fp 	螺旋	c=1 d=0.0229371 t=7349
+lp;yl 	論	c=0 d=0.0079659 t=7349
+lp;yl wf;dd 	論文	c=1 d=0.726149 t=7349
+lq;db dl;ry 	六代	c=1 d=0.433874 t=7349
+lq;db si;aa 	六四	c=2 d=0.0166251 t=7349
+lq;di 	流	c=1 d=0.13068 t=7349
+lq;di lh;dl 	流浪	c=3 d=0.128319 t=7349
+lq;di lh;dl di;ty qq;wq 	流浪地球	c=1 d=0.0488012 t=7349
+lq;dj xc;oy bo;dp 	劉曉波	c=1 d=0.00831246 t=7349
+lq;dl lj;jl qi;kk 	瀏覽器	c=3 d=0.844133 t=7349
+lr;gy 	亂	c=1 d=0.0211736 t=7349
+lr;gy du;ym 	亂讀	c=1 d=0.0526021 t=7349
+lt;tg wz;rw 	略微	c=1 d=0.70822 t=7349
+lu;jl vi;yv 	錄製	c=1 d=0.0129068 t=7349
+lu;yo mh;cc 	魯莽	c=1 d=0.142987 t=7349
+lu;zg 	路	c=1 d=0.0400517 t=7349
+lx;dl 	烈	c=1 d=0.440432 t=7349
+ly;kl 	另	c=4 d=0.199896 t=7349
+ly;kl wl;xb 	另外	c=4 d=0.895834 t=7349
+ly;kl yi;aa vs;hv 	另一種	c=2 d=0.350482 t=7349
+ly;rs he;hk 	令和	c=2 d=0.118914 t=7349
+ly;rs wo;pd 	令我	c=2 d=0.247836 t=7349
+ly;wl ho;du 	靈活	c=1 d=0.1764 t=7349
+ly;wl ng;sb 	靈能	c=3 d=0.245029 t=7349
+ly;yl 	零	c=0 d=0.00523397 t=7349
+ly;yl dk;cd ve;lo 	領導者	c=1 d=0.0182243 t=7349
+ly;yl yi;aa bz;ob bk;bs 	零一背包	c=1 d=0.0526021 t=7349
+lz;yl si;ry 	類似	c=4 d=0.377192 t=7349
+ma 	碼	c=0 d=0.0878332 t=7349
+ma;gl fg;ji 	麻風	c=1 d=0.000391706 t=7349
+ma;gl fj;hy 	麻煩	c=1 d=0.00334597 t=7349
+ma;gl vf;bp 	麻疹	c=3 d=0.00118893 t=7349
+ma;im yi;iy 	螞蟻	c=1 d=0.440432 t=7349
+ma;km 	嗎	c=5 d=1.27892 t=7349
+ma;sm 	罵	c=1 d=0.0125254 t=7349
+ma;um 	碼	c=3 d=0.682249 t=7349
+ma;um bc;jb 	碼錶	c=2 d=0.256515 t=7349
+mb;gm 	某	c=0 d=0.0210136 t=7349
+mb;gm ge;rg 	某個	c=2 d=0.852246 t=7349
+mb;gm xx;ec 	某些	c=6 d=0.4896 t=7349
+mb;gm yi;aa ci;dq 	某一次	c=1 d=0.211189 t=7349
+mc;km 	喵	c=1 d=8.06816e-05 t=7349
+mei you 	沒有	c=1 d=0.298197 t=7349
+mf;rm 	們	c=1 d=0.737123 t=7349
+mg;cm 	萌	c=1 d=0.186374 t=7349
+mg;cx xd;xx 	夢想	c=1 d=0.0122161 t=7349
+mi;bm 	冪	c=2 d=0.00160616 t=7349
+mi;bu yk;jc 	密鑰	c=1 d=0.000118571 t=7349
+mi;ge sl;bb ya;aa 	彌賽亞	c=1 d=0.0605068 t=7349
+mj;dm hw;ya 	漫畫	c=2 d=0.0825756 t=7349
+mj;dr di;ty 	滿地	c=0 d=6.25215e-06 t=7349
+mj;dr yi;lx 	滿意	c=2 d=0.913931 t=7349
+mk;pg 	毛	c=1 d=7.08461e-05 t=7349
+mk;pg gl;mj 	毛概	c=3 d=0.18613 t=7349
+mk;ve si;ry 	貌似	c=1 d=0.392586 t=7349
+mk;vm uf;uu 	貓神	c=2 d=0.000177889 t=7349
+mm;aa bj;mf 	面板	c=1 d=0.0972957 t=7349
+mm;aa ju;ba 	面具	c=4 d=1.70211 t=7349
+mm;lm qd;gi 	勉強	c=2 d=1.36352 t=7349
+mm;mg 	麪	c=1 d=5.01747e-05 t=7349
+mn;ag vu;dw 	民主	c=3 d=0.862811 t=7349
+mo gai 	魔改	c=1 d=0.618783 t=7349
+mo ren 	默認	c=1 d=0.380983 t=7349
+mo;ad wz;um 	末尾	c=1 d=2.76745e-05 t=7349
+mo;gm 	魔	c=1 d=0.0784731 t=7349
+mo;gm ub;qu 	魔獸	c=1 d=0.0510474 t=7349
+mo;hq rf;yr 	默認	c=7 d=0.444293 t=7349
+mo;hq rf;yr vi;rv 	默認值	c=1 d=0.0466538 t=7349
+mo;mm bj;mf 	模板	c=29 d=0.578037 t=7349
+mo;mm hu;mh 	模糊	c=1 d=0.733447 t=7349
+mu lu 	目錄	c=2 d=0.886089 t=7349
+mu qian 	目前	c=1 d=0.71177 t=7349
+mu qm 	目前	c=2 d=1.30108 t=7349
+mu;aa di;bu 	目的	c=3 d=0.065735 t=7349
+mu;aa qm;bd 	目前	c=4 d=0.588605 t=7349
+mu;ad hj;ku uu;wl 	母函數	c=12 d=3.02311 t=7349
+mu;mm bj;mf 	模板	c=1 d=0.00052611 t=7349
+my;kn 	鳴	c=1 d=0.000271921 t=7349
+my;oo ri;aa 	明日	c=1 d=0.0448245 t=7349
+my;re ly;rs 	命令	c=7 d=1.25832 t=7349
+my;re my;xk 	命名	c=1 d=0.000111109 t=7349
+my;xk 	名	c=2 d=0.701173 t=7349
+my;xk ci;ys 	名詞	c=1 d=0.0930145 t=7349
+my;xk ig;hr 	名稱	c=1 d=5.88805e-05 t=7349
+my;xk zi;bz 	名字	c=3 d=0.334112 t=7349
+mz;du yb;ou 	沒有	c=13 d=0.307279 t=7349
+mz;dy 	美	c=1 d=9.75642e-05 t=7349
+mz;dy go;kh 	美國	c=1 d=0.000389752 t=7349
+mz;dy hk;nz 	美好	c=1 d=0.318224 t=7349
+mz;dy hw;rb 	美化	c=2 d=0.0568395 t=7349
+mz;dy li;ll 	美麗	c=1 d=0.0550232 t=7349
+mz;gw zu;fu 	魅族	c=1 d=0.117655 t=7349
+mz;mw ju;fy 	枚舉	c=2 d=0.00414133 t=7349
+mz;pm ci;dq 	每次	c=3 d=0.0858632 t=7349
+na;el 	那	c=4 d=0.0953446 t=7349
+na;el bj;vu 	那般	c=1 d=0.316637 t=7349
+na;el dr;du 	那段	c=1 d=1.02319e-05 t=7349
+na;el ff;rf 	那份	c=1 d=0.261846 t=7349
+na;el ge;rg 	那個	c=1 d=0.0146253 t=7349
+na;el li;dy 	那裏	c=1 d=1.05435e-05 t=7349
+na;el me;my 	那麼	c=6 d=0.0078669 t=7349
+na;el tk;di 	那套	c=1 d=0.242926 t=7349
+na;el vs;hv 	那種	c=1 d=0.701173 t=7349
+na;el xx;ec 	那些	c=1 d=0.25284 t=7349
+na;el yh;my 	那樣	c=1 d=0.19205 t=7349
+na;kn 	哪	c=1 d=0.0218184 t=7349
+na;kn ge;rg 	哪個	c=1 d=0.0181334 t=7349
+na;kn li;dy 	哪裏	c=2 d=0.782783 t=7349
+na;uh xw;ab 	拿下	c=1 d=0.0893673 t=7349
+na;uh zb;tv 	拿走	c=6 d=0.263041 t=7349
+ne;kn 	呢	c=6 d=0.117655 t=7349
+nei cun 	內存	c=3 d=1.34214 t=7349
+nei rong 	內容	c=2 d=1.01073 t=7349
+ng;sb 	能	c=6 d=0.869358 t=7349
+ng;sb bu;ad ng;sb 	能不能	c=1 d=0.115325 t=7349
+ni 	你	c=9 d=4.88027 t=7349
+ni de 	你的	c=1 d=0.460704 t=7349
+ni;re 	你	c=29 d=2.03258 t=7349
+ni;re de;bu 	你的	c=4 d=0.110251 t=7349
+ni;re kj;ou 	你看	c=1 d=0.0495388 t=7349
+ni;re mf;rm 	你們	c=6 d=0.590314 t=7349
+ni;ub lu;ul 	尼祿	c=1 d=0.008396 t=7349
+ni;zn xd;pk 	逆向	c=1 d=0.154896 t=7349
+ni;zn yr;aw 	逆元	c=3 d=0.0146614 t=7349
+nin 	您	c=1 d=0.458406 t=7349
+nj;tl 	男	c=3 d=0.0423467 t=7349
+nj;vh ub;vy 	難受	c=1 d=0.00763509 t=7349
+nk;oi dl;yd 	腦袋	c=1 d=0.0066709 t=7349
+nk;oi yj;hh 	腦炎	c=1 d=0.0804596 t=7349
+nl;nn ia;cm 	奶茶	c=1 d=0.000189713 t=7349
+nm;pa 	年	c=5 d=0.0720799 t=7349
+nm;pa ff;rf 	年份	c=1 d=0.000163287 t=7349
+nm;pa gg;ad 	年更	c=1 d=0.000158461 t=7349
+nm;pa hk;hh 	年號	c=1 d=8.14925e-05 t=7349
+nm;pa tb;dy 	年頭	c=1 d=0.265803 t=7349
+no;fn 	挪	c=3 d=0.0839436 t=7349
+ns;cw 	弄	c=1 d=0.718924 t=7349
+ns;qi ih;ty 	農場	c=1 d=8.27241e-05 t=7349
+nv;aa 	女	c=1 d=0.0220377 t=7349
+nv;aa er;ej 	女兒	c=0 d=0.00578443 t=7349
+nv;aa er;ej bj;pf 	女兒版	c=1 d=0.0581343 t=7349
+nv;aa rf;pd 	女人	c=1 d=0.000115067 t=7349
+nv;aa yb;uy 	女友	c=1 d=0.697676 t=7349
+ny;mn mg;mm 	檸檬	c=1 d=0.185444 t=7349
+nz cp 	內存	c=3 d=2.15729 t=7349
+nz rs 	內容	c=1 d=0.995012 t=7349
+nz;kr 	內	c=4 d=0.765199 t=7349
+nz;kr cp;uz 	內存	c=12 d=1.39945 t=7349
+nz;kr fj;yf 	內翻	c=1 d=0.0120946 t=7349
+nz;kr he;mh 	內核	c=1 d=0.000141955 t=7349
+nz;kr jc;dy 	內角	c=0 d=0.00247235 t=7349
+nz;kr jc;dy he;hk 	內角和	c=1 d=0.0248475 t=7349
+nz;kr rs;bg 	內容	c=3 d=0.647265 t=7349
+nz;kr tv;fv 	內推	c=1 d=0.115325 t=7349
+ou;qq ji;yd li;aa de;rx 	歐幾里德	c=2 d=0.000267407 t=7349
+ou;qq la;fl 	歐拉	c=1 d=0.000455097 t=7349
+ou;ry xd;rx 	偶像	c=1 d=0.000132764 t=7349
+pc;fp lo;cl 	飄落	c=1 d=0.00594622 t=7349
+pei zhi 	配置	c=7 d=2.62907 t=7349
+pg;oo yb;uy 	朋友	c=7 d=0.756779 t=7349
+pi;fb ld;ol 	批量	c=2 d=0.489539 t=7349
+pi;ke pz;yj 	匹配	c=4 d=0.000203222 t=7349
+pj;db dr;ja 	判斷	c=8 d=1.73453 t=7349
+pj;mb 	盤	c=1 d=0.0330412 t=7349
+pl;dp 	派	c=1 d=0.0944202 t=7349
+pm;pa 	片	c=1 d=7.82971e-05 t=7349
+pm;rb zo;gu 	偏左	c=1 d=0.0196437 t=7349
+pn;cp go;ad 	蘋果	c=1 d=0.0340475 t=7349
+pn;fb xx;bd 	拼寫	c=1 d=0.559898 t=7349
+pn;fb yn;lo 	拼音	c=4 d=1.78028 t=7349
+pn;yb dk;zu 	頻道	c=3 d=1.60927 t=7349
+po;nb xi;nx 	婆媳	c=2 d=0.0509536 t=7349
+po;up sv;uz 	破碎	c=4 d=1.69362 t=7349
+po;up sv;uz mm;aa ju;ba 	破碎面具	c=1 d=0.0270518 t=7349
+pu;bo 	普	c=1 d=0.204948 t=7349
+py;aa ig;gg 	平成	c=1 d=0.913931 t=7349
+py;aa pu;jf 	平鋪	c=1 d=0.000220415 t=7349
+py;aa xy;rd si;aa bm;zf xy;pk 	平行四邊形	c=1 d=9.70776e-05 t=7349
+py;ub 	屏	c=1 d=0.0223708 t=7349
+py;ub bi;cb 	屏蔽	c=1 d=0.0342181 t=7349
+py;ub mu;cj 	屏幕	c=3 d=0.0878228 t=7349
+py;ub mu;cj bk;rd hu;yh 	屏幕保護	c=1 d=0.0685632 t=7349
+pz vi 	配置	c=2 d=1.4692 t=7349
+pz;yj vi;sv 	配置	c=20 d=1.42919 t=7349
+pz;yj vi;sv wj;by le;aa 	配置完了	c=1 d=0.680451 t=7349
+qc;xx qc;xx hw;yu 	悄悄話	c=1 d=0.0319048 t=7349
+qd;gi vi;dg li;gp 	強制力	c=2 d=0.0353732 t=7349
+qi jian 	期間	c=1 d=0.418952 t=7349
+qi jm 	期間	c=2 d=1.38771 t=7349
+qi;ad 	其	c=4 d=0.293828 t=7349
+qi;ad ci;dq 	其次	c=1 d=0.000623601 t=7349
+qi;ad ta;ry 	其他	c=7 d=0.225411 t=7349
+qi;ad ui;bg 	其實	c=3 d=0.0140538 t=7349
+qi;ad vs;aa 	其中	c=4 d=0.364622 t=7349
+qi;ag 	七	c=1 d=0.57695 t=7349
+qi;ag vs;aa 	七中	c=1 d=0.0103063 t=7349
+qi;dk gy;xu 	奇怪	c=5 d=0.514535 t=7349
+qi;dl 	泣	c=1 d=0.000273284 t=7349
+qi;kk 	器	c=1 d=0.000365224 t=7349
+qi;kw ds;lv 	啓動	c=1 d=0.044601 t=7349
+qi;kw ys;kf 	啓用	c=2 d=0.21831 t=7349
+qi;oq dl;rs 	期待	c=2 d=1.88825 t=7349
+qi;qm wf;dm 	氣溫	c=1 d=0.0485578 t=7349
+qi;zj 	起	c=1 d=0.283654 t=7349
+qi;zj dm;hv 	起點	c=2 d=0.00093005 t=7349
+qi;zj ll;ad 	起來	c=4 d=0.285974 t=7349
+qi;zj ma;um 	起碼	c=1 d=0.124307 t=7349
+qing 	請	c=1 d=0.474734 t=7349
+qing chu 	清楚	c=1 d=0.97531 t=7349
+qm;bd 	前	c=2 d=0.33454 t=7349
+qm;bd fh;dd 	前方	c=1 d=0.025223 t=7349
+qm;bd mm;aa 	前面	c=1 d=0.97531 t=7349
+qm;bd ti;fu 	前提	c=1 d=0.00219846 t=7349
+qm;bd ve;lo 	前者	c=1 d=0.00711891 t=7349
+qm;bd vv;su 	前綴	c=1 d=2.13917e-05 t=7349
+qm;bd vv;su uu;mc 	前綴樹	c=1 d=6.97914e-05 t=7349
+qm;bd xm;sq 	前線	c=1 d=8.56707e-05 t=7349
+qm;pa bf;aa 	千本	c=1 d=0.904837 t=7349
+qn;fh 	秦	c=1 d=0.429557 t=7349
+qn;fh hd;bw dk;nu 	秦皇島	c=1 d=0.00568457 t=7349
+qp;yj li;dy 	羣裏	c=1 d=0.0145524 t=7349
+qp;yj zu;sq 	羣組	c=3 d=0.160862 t=7349
+qq;ad 	求	c=1 d=0.00137404 t=7349
+qq;ad de;rc 	求得	c=1 d=0.00147367 t=7349
+qq;ad jx;jn 	求解	c=4 d=0.00584635 t=7349
+qq;ad qu;ey 	求取	c=1 d=9.12037e-06 t=7349
+qr;mv xm;eg 	權限	c=1 d=0.349938 t=7349
+qr;rw py;ub 	全屏	c=1 d=0.0678809 t=7349
+qr;rw ti;gd 	全體	c=1 d=0.909373 t=7349
+qr;rw wf;dd 	全文	c=1 d=0.0280154 t=7349
+qt;eg 	卻	c=2 d=0.551533 t=7349
+qt;uv 	確	c=1 d=0.0213864 t=7349
+qt;uv bk;rd 	確保	c=2 d=0.00305236 t=7349
+qu dc 	去掉	c=1 d=0.718924 t=7349
+qu diao 	去掉	c=1 d=0.496585 t=7349
+qu;aa ve;fj 	曲折	c=1 d=0.647265 t=7349
+qu;ey 	取	c=10 d=0.272532 t=7349
+qu;ey iu;ck 	取出	c=1 d=0.00278085 t=7349
+qu;ey vg;vi 	取整	c=3 d=0.873716 t=7349
+qu;ey zb;tv 	取走	c=1 d=0.0464212 t=7349
+qu;kp 	區	c=1 d=7.56041e-05 t=7349
+qu;kp bx;dd 	區別	c=2 d=0.0239536 t=7349
+qu;kp ff;bd 	區分	c=2 d=0.429557 t=7349
+qu;kp jm;mo 	區間	c=42 d=4.85264 t=7349
+qu;kp jm;mo uu;mc 	區間樹	c=3 d=4.2132e-05 t=7349
+qu;mq ds;lv 	驅動	c=2 d=0.0558536 t=7349
+qu;mq ui;rl 	驅使	c=1 d=0.00628242 t=7349
+qu;ts 	去	c=2 d=0.120633 t=7349
+qu;ts dc;fv 	去掉	c=5 d=1.06194 t=7349
+qu;ts iu;ey 	去除	c=6 d=0.9024 t=7349
+qu;ts nm;pa 	去年	c=1 d=0.00790705 t=7349
+qx;aa 	且	c=1 d=0.680451 t=7349
+qx;dq hr;fh 	切換	c=1 d=0.169483 t=7349
+qy 	請	c=1 d=0.852144 t=7349
+qy uj 	青山	c=0 d=0.056836 t=7349
+qy;dq go;zg 	清過	c=1 d=0.878095 t=7349
+qy;dq hw;ca 	清華	c=0 d=1.51489e-05 t=7349
+qy;dq hw;ca yr;dy 	清華源	c=3 d=0.0645573 t=7349
+qy;dq iu;mp 	清楚	c=9 d=1.541 t=7349
+qy;dq li;wl 	清理	c=1 d=0.514274 t=7349
+qy;dq xi;dx 	清洗	c=1 d=0.000113922 t=7349
+qy;fo nm;pa 	青年	c=1 d=0.00810722 t=7349
+qy;fo wa;ig 	青蛙	c=1 d=0.000133688 t=7349
+qy;ig du;gy 	輕度	c=1 d=0.0381969 t=7349
+qy;ig ld;ol 	輕量	c=1 d=0.574072 t=7349
+qy;xq kd;dx 	情況	c=2 d=0.251288 t=7349
+qy;yq 	請	c=8 d=1.67925 t=7349
+ran hou 	然後	c=1 d=0.371577 t=7349
+re;dv sb;fs 	熱搜	c=1 d=0.101774 t=7349
+rf;pd 	人	c=61 d=1.77345 t=7349
+rf;pd de;bu 	人的	c=1 d=0.00568457 t=7349
+rf;pd gs;aa 	人工	c=1 d=8.96139e-05 t=7349
+rf;pd lz;yl 	人類	c=1 d=0.00458484 t=7349
+rf;pd mf;rm 	人們	c=3 d=0.634957 t=7349
+rf;pd mn;ag 	人民	c=1 d=0.0753961 t=7349
+rf;pd ug;na 	人生	c=1 d=0.000407691 t=7349
+rf;pd xy;pk 	人形	c=2 d=0.0707079 t=7349
+rf;pd xy;xu 	人性	c=1 d=0.00381048 t=7349
+rf;re hu;hj 	仁虎	c=3 d=0.0435503 t=7349
+rf;rr yi;lx 	任意	c=3 d=0.00141601 t=7349
+rf;xr 	忍	c=1 d=0.00637737 t=7349
+rf;xr ub;vy 	忍受	c=3 d=0.594521 t=7349
+rf;xr wu;da ke;dk rf;xr 	忍無可忍	c=1 d=0.00037447 t=7349
+rf;yr ui;yg 	認識	c=1 d=2.03995e-05 t=7349
+rg;rn 	仍	c=1 d=5.80039e-05 t=7349
+rg;rn rj;dq 	仍然	c=9 d=0.618783 t=7349
+rh;yx 	讓	c=2 d=0.068276 t=7349
+rh;yx rf;pd 	讓人	c=1 d=0.38868 t=7349
+rh;yx wo;pd 	讓我	c=1 d=0.185444 t=7349
+ri chang 	日常	c=0 d=0.0810584 t=7349
+ri chang shi yong 	日常使用	c=1 d=0.814647 t=7349
+ri ih 	日常	c=1 d=0.694197 t=7349
+ri;aa 	日	c=3 d=0.0656819 t=7349
+ri;aa bf;aa 	日本	c=1 d=8.19009e-05 t=7349
+ri;aa ih;dd 	日常	c=3 d=0.736972 t=7349
+ri;aa yu;yw 	日語	c=1 d=0.0510474 t=7349
+rj;dq 	然	c=1 d=0.900325 t=7349
+rj;dq by;qy lr;md 	然並卵	c=1 d=0.0319048 t=7349
+rj;dq hb;rw 	然後	c=17 d=1.44984 t=7349
+rk;sy 	繞	c=0 d=0.0400517 t=7349
+rk;sy le;aa xu;yw do;xx lu;zg 	繞了許多路	c=1 d=0.402524 t=7349
+ro;cy 	若	c=6 d=0.978728 t=7349
+ro;cy yb;ou 	若有	c=1 d=0.0380064 t=7349
+ro;gd hw;rb 	弱化	c=1 d=0.0238732 t=7349
+rr;iq jm;rn 	軟件	c=13 d=0.077633 t=7349
+rr;iq jm;rn bk;bs 	軟件包	c=2 d=0.486752 t=7349
+rr;iq jm;rn ku;gi 	軟件庫	c=1 d=0.000468957 t=7349
+rs;bg qi;kk 	容器	c=1 d=0.594521 t=7349
+rs;bg yi;ow 	容易	c=1 d=8.93978e-06 t=7349
+rs;ce xt;yx 	茸雪	c=1 d=8.48182e-05 t=7349
+rs;ig he;rk 	融合	c=1 d=0.0569831 t=7349
+ru 	如	c=1 d=0.565525 t=7349
+ru go 	如果	c=2 d=1.39857 t=7349
+ru guo 	如果	c=3 d=2.05828 t=7349
+ru xia 	如下	c=1 d=0.562705 t=7349
+ru;fg 	乳	c=0 d=0.00505395 t=7349
+ru;fg tb;dy 	乳頭	c=1 d=0.343009 t=7349
+ru;nk 	如	c=3 d=0.108444 t=7349
+ru;nk go;ad 	如果	c=24 d=2.21867 t=7349
+ru;nk he;rk 	如何	c=12 d=1.01112 t=7349
+ru;nk hw;ch 	如花	c=1 d=0.0614212 t=7349
+ru;nk xw;ab 	如下	c=4 d=1.31475 t=7349
+ru;pd 	入	c=2 d=3.8425e-05 t=7349
+ru;pd mf;aa 	入門	c=20 d=4.46916 t=7349
+sb;fs gb;qj 	搜狗	c=5 d=0.362792 t=7349
+sb;fs gb;qj uu;iy ru;pd fa;dq 	搜狗輸入法	c=1 d=0.83527 t=7349
+sb;fs so;sb 	搜索	c=3 d=1.37473 t=7349
+sb;fs xp;ck 	搜尋	c=2 d=0.304029 t=7349
+se;db 	色	c=1 d=0.000283018 t=7349
+sheng cheng 	生成	c=5 d=2.33627 t=7349
+shi 	是	c=6 d=2.53508 t=7349
+shi hou 	時候	c=3 d=1.61733 t=7349
+shi yong 	使用	c=10 d=5.09887 t=7349
+shu ru fa 	輸入法	c=1 d=0.606531 t=7349
+shuang pin 	雙拼	c=4 d=1.25819 t=7349
+si;aa 	四	c=1 d=6.50731e-05 t=7349
+si;aa bz;rk 	四倍	c=1 d=0.00304273 t=7349
+si;db jt;sb 	死絕	c=1 d=0.467666 t=7349
+si;db uf;uu 	死神	c=1 d=0.97531 t=7349
+si;db wh;da 	死亡	c=2 d=0.955997 t=7349
+si;fs lx;yl 	撕裂	c=2 d=0.0458686 t=7349
+si;gk fa;dq du;qi li;da 	司法獨立	c=2 d=0.209224 t=7349
+si;hs lc;em 	私聊	c=1 d=0.0572688 t=7349
+si;tx kk;lk 	思考	c=1 d=0.251579 t=7349
+si;tx wz;sv 	思維	c=2 d=0.000209894 t=7349
+si;tx wz;sv dk;cd tu;kh 	思維導圖	c=1 d=0.000176887 t=7349
+si;tx xd;xx 	思想	c=1 d=0.000761668 t=7349
+sj;aa bz;rk 	三倍	c=1 d=0.00301245 t=7349
+sj;aa ge;rg 	三個	c=5 d=0.00292796 t=7349
+sj;aa jc;dy xy;pk 	三角形	c=1 d=0.0232837 t=7349
+sj;aa ve;lo 	三者	c=1 d=0.000911882 t=7349
+sj;aa vs;hv 	三種	c=1 d=5.38128e-05 t=7349
+sj;wo gd;ea 	散光	c=1 d=0.806541 t=7349
+so yb 	所有	c=1 d=0.722527 t=7349
+so;hj 	所	c=6 d=0.725402 t=7349
+so;hj ui;ad 	所示	c=1 d=0.000208619 t=7349
+so;hj uu;ui 	所屬	c=4 d=0.417254 t=7349
+so;hj wz;yw 	所謂	c=6 d=0.349877 t=7349
+so;hj xd;xx 	所想	c=1 d=0.313486 t=7349
+so;hj yb;ou 	所有	c=8 d=1.01304 t=7349
+so;hj yi;rd 	所以	c=24 d=1.81207 t=7349
+so;hj yk;xn 	所要	c=3 d=0.436702 t=7349
+so;jb si;db 	鎖死	c=1 d=0.118245 t=7349
+so;ss xx;bd 	縮寫	c=1 d=0.0294518 t=7349
+sp;fy hl;bk 	損害	c=1 d=0.00878245 t=7349
+sp;zx 	孫	c=1 d=0.105399 t=7349
+sr;vc fa;dq 	算法	c=11 d=0.217282 t=7349
+sr;vc lc;aa 	算了	c=1 d=0.114178 t=7349
+sr;vc ui;op 	算是	c=1 d=0.00775048 t=7349
+sr;yj sr;yj 	酸酸	c=0 d=0.00505395 t=7349
+sr;yj sr;yj ru;fg 	酸酸乳	c=1 d=0.0507928 t=7349
+ss;bs ds;lv 	鬆動	c=1 d=2.47917e-05 t=7349
+su ji 	速記	c=0 d=0.0995012 t=7349
+su ji uu ru fa 	速記輸入法	c=1 d=1 t=7349
+su;ch lm;ea 	蘇聯	c=4 d=0.720638 t=7349
+su;zu du;gy 	速度	c=1 d=0.000934966 t=7349
+su;zu pj;mb 	速盤	c=1 d=0.0531307 t=7349
+suo 	所	c=1 d=0.540641 t=7349
+suo shi 	所示	c=1 d=0.571209 t=7349
+suo yi 	所以	c=2 d=0.722062 t=7349
+suo you 	所有	c=4 d=1.84307 t=7349
+sv;es hb;rw 	隨後	c=1 d=0.08291 t=7349
+sv;es xd;xx 	隨想	c=1 d=0.000144823 t=7349
+sv;vs rj;dq 	雖然	c=5 d=0.127454 t=7349
+sv;vs rj;dq uo;yd 	雖然說	c=1 d=0.0192547 t=7349
+ta;bb 	它	c=2 d=0.368163 t=7349
+ta;ry 	他	c=3 d=0.200528 t=7349
+ta;ry mf;rm 	他們	c=3 d=0.802512 t=7349
+ta;ry rf;pd 	他人	c=1 d=0.280832 t=7349
+tao 	逃	c=0 d=0.097531 t=7349
+tao bu diao 	逃不掉	c=2 d=1.97025 t=7349
+tb;dy 	頭	c=1 d=0.189191 t=7349
+tb;dy fa;bb 	頭髮	c=1 d=0.810584 t=7349
+tb;zx my;oo 	透明	c=4 d=2.76241 t=7349
+tc;yv 	調	c=2 d=0.0297478 t=7349
+tc;yv ia;md 	調查	c=3 d=0.208673 t=7349
+tc;yv jc;wx 	調教	c=1 d=0.000241172 t=7349
+tc;yv jx;vj 	調節	c=1 d=0.0982736 t=7349
+tc;yv se;db bj;mf 	調色板	c=1 d=0.0587185 t=7349
+tc;yv ui;yu 	調試	c=1 d=0.0323869 t=7349
+tc;yv vg;vi 	調整	c=1 d=0.0118551 t=7349
+te xy 	特性	c=1 d=0.574072 t=7349
+te;ns bx;dd 	特別	c=1 d=0.0652193 t=7349
+te;ns dm;hv 	特點	c=1 d=0.324652 t=7349
+te;ns uu;dv 	特殊	c=1 d=0.167797 t=7349
+te;ns xc;wj 	特效	c=2 d=1.40597 t=7349
+tg;om xp;yu 	騰訊	c=11 d=8.00803 t=7349
+tg;ou jw;rg pg;np 	滕佳鵬	c=4 d=0.0639279 t=7349
+th;ht pi;ad 	燙皮	c=1 d=0.0652193 t=7349
+ti 	提	c=1 d=0.882497 t=7349
+ti qu 	提取	c=1 d=0.634448 t=7349
+ti yan 	體驗	c=1 d=0.782705 t=7349
+ti;dd dk;gp 	剃刀	c=1 d=0.937067 t=7349
+ti;dy iu;ey 	剔除	c=1 d=0.980199 t=7349
+ti;fo dl;ry 	替代	c=2 d=0.110158 t=7349
+ti;fo hr;fh 	替換	c=7 d=0.588623 t=7349
+ti;fu 	提	c=1 d=0.0249075 t=7349
+ti;fu ge;rg rf;pd 	提個人	c=1 d=0.250324 t=7349
+ti;fu gs;rg 	提供	c=2 d=0.086249 t=7349
+ti;fu jc;df 	提交	c=2 d=0.0360283 t=7349
+ti;fu ji;nd 	提及	c=1 d=0.00249118 t=7349
+ti;fu le;aa 	提了	c=1 d=0.362402 t=7349
+ti;gd ld;ol 	體量	c=1 d=0.172907 t=7349
+ti;gd yj;mq 	體驗	c=6 d=0.306841 t=7349
+ti;gd yj;mq ji;ma ia;yg 	體驗極差	c=1 d=0.524663 t=7349
+ti;uy 	題	c=6 d=0.850608 t=7349
+ti;uy mu;aa 	題目	c=5 d=0.0553153 t=7349
+ti;zy 	踢	c=1 d=0.219808 t=7349
+tian jia 	添加	c=1 d=0.900325 t=7349
+tj;bj lj;nl 	貪婪	c=1 d=7.46385e-05 t=7349
+tj;gd iu;ck 	彈出	c=2 d=0.161734 t=7349
+tk;df bk;bb 	淘寶	c=1 d=0.00882647 t=7349
+tk;di 	套	c=0 d=1.06495e-06 t=7349
+tk;di bu;ad dc;fv 	套不掉	c=1 d=1.07029e-05 t=7349
+tk;yc yj;iq 	討厭	c=1 d=0.33454 t=7349
+tk;zv 	逃	c=0 d=1.07029e-06 t=7349
+tk;zv bu;ad dc;fv 	逃不掉	c=1 d=1.07565e-05 t=7349
+tk;zv to;od 	逃脫	c=1 d=0.00369786 t=7349
+tl;dd 	太	c=3 d=0.121238 t=7349
+tl;dd da;ad 	太大	c=2 d=0.103842 t=7349
+tl;dd di;rd 	太低	c=1 d=0.125556 t=7349
+tl;dd lz;st 	太累	c=1 d=0.0939493 t=7349
+tl;dd ro;gd 	太弱	c=1 d=0.0893673 t=7349
+tl;uv wj;dg 	臺灣	c=2 d=0.882506 t=7349
+tm;ad ks;bg 	天空	c=1 d=0.0368832 t=7349
+tm;ad ti;md 	天梯	c=1 d=0.000110003 t=7349
+tm;dt jw;kl 	添加	c=19 d=0.849817 t=7349
+to;fq pj;mb 	托盤	c=2 d=0.00039691 t=7349
+to;mt lu;gb 	駝鹿	c=1 d=0.000385874 t=7349
+to;od yy;hy 	脫穎	c=1 d=0.00472447 t=7349
+tr;kv 	團	c=2 d=1.204 t=7349
+tr;kv dv;eu 	團隊	c=1 d=0.000898306 t=7349
+ts;by ku;cg 	痛苦	c=1 d=0.00660453 t=7349
+ts;kk 	同	c=1 d=0.000178665 t=7349
+ts;kk li;wl 	同理	c=1 d=0.316637 t=7349
+ts;kk rf;pd 	同人	c=1 d=8.69654e-05 t=7349
+ts;kk yh;my 	同樣	c=1 d=0.23457 t=7349
+ts;my 	桶	c=0 d=3.57992e-05 t=7349
+ts;si yi;aa 	統一	c=1 d=0.0150707 t=7349
+ts;zy go;zg 	通過	c=13 d=1.90319 t=7349
+ts;zy vi;ku 	通知	c=3 d=0.0895689 t=7349
+tu;bq rj;dq 	突然	c=4 d=0.928697 t=7349
+tu;dy 	涂	c=1 d=0.07502 t=7349
+tu;kd la;fl dy;aa 	图拉丁	c=1 d=0.000107287 t=7349
+tu;kh 	圖	c=8 d=1.66026 t=7349
+tu;kh bc;mp 	圖標	c=1 d=0.17552 t=7349
+tu;kh lp;yl 	圖論	c=7 d=5.68935 t=7349
+tu;kh pm;pa 	圖片	c=11 d=0.494442 t=7349
+tu;kh qs;bg bi;pg xm;me 	圖窮匕見	c=1 d=0.891366 t=7349
+tv;fv ds;lv 	推動	c=1 d=0.0361528 t=7349
+tv;fv gd;gh 	推廣	c=1 d=5.77146e-05 t=7349
+tv;fv jm;cd 	推薦	c=2 d=0.00143194 t=7349
+tv;fv ss;zg 	推送	c=1 d=0.000916453 t=7349
+tx;bv ba;kb 	貼吧	c=2 d=0.362402 t=7349
+tx;jv zi;aa 	帖子	c=3 d=0.373439 t=7349
+ty;ft ud;dy 	挺爽	c=1 d=0.000121572 t=7349
+ua;du ie;aa 	剎車	c=1 d=0.0284388 t=7349
+ua;uu ji;vx 	殺雞	c=1 d=0.0152222 t=7349
+ub ji 	手機	c=1 d=0.911755 t=7349
+ub ji uh 	手機上	c=1 d=0.810584 t=7349
+ub;bc hu;yh uf;uu 	守護神	c=0 d=1.9258e-05 t=7349
+ub;jw ji;mv 	收集	c=1 d=0.00527382 t=7349
+ub;pa 	手	c=2 d=0.0521256 t=7349
+ub;pa bi;ob 	手臂	c=2 d=0.0272897 t=7349
+ub;pa ce;aa 	手冊	c=1 d=0.0153752 t=7349
+ub;pa ds;lv 	手動	c=1 d=0.283654 t=7349
+ub;pa ji;mj 	手機	c=1 d=0.88692 t=7349
+ub;pa ji;mj uh;aa 	手機上	c=1 d=0.631284 t=7349
+ub;pa vi;fv 	手指	c=1 d=0.0291588 t=7349
+ub;pa wj;ow 	手腕	c=2 d=0.0408778 t=7349
+ub;pa xx;bd ti;gd 	手寫體	c=1 d=0.0214936 t=7349
+ub;qu xy;xu 	獸性	c=3 d=0.0843053 t=7349
+ub;qz ge;rg 	首個	c=1 d=4.21195e-05 t=7349
+ub;qz xm;en 	首先	c=16 d=1.66519 t=7349
+ub;vy yi;mb fz;kf qm;dj 	受益匪淺	c=1 d=0.88692 t=7349
+ud;dy 	爽	c=1 d=0.0739031 t=7349
+ud;vy 	雙	c=3 d=0.579842 t=7349
+ud;vy bc;mp 	雙標	c=1 d=0.283654 t=7349
+ud;vy is;pa 	雙重	c=1 d=0.00069264 t=7349
+ud;vy ji;fu 	雙擊	c=2 d=0.000368216 t=7349
+ud;vy jm;jj 	雙鍵	c=1 d=0.000184106 t=7349
+ud;vy pn;fb 	雙拼	c=12 d=3.69056 t=7349
+ue;it xy;pk 	蛇形	c=1 d=0.0227089 t=7349
+ue;ru yb;uy 	舍友	c=1 d=0.214381 t=7349
+ue;tu 	社	c=1 d=0.000363847 t=7349
+ue;tu hv;ro 	社會	c=2 d=0.0448431 t=7349
+ue;tu qp;yj 	社羣	c=4 d=0.157213 t=7349
+ue;tu qu;kp 	社區	c=4 d=0.0712599 t=7349
+ue;tu qu;kp yr;dy 	社區源	c=1 d=0.000151489 t=7349
+ue;yu bz;ry 	設備	c=1 d=7.37374e-05 t=7349
+ue;yu ji;yu 	設計	c=5 d=3.23458 t=7349
+ue;yu vi;sv 	設置	c=10 d=2.80313 t=7349
+uf;dm ru;pd 	深入	c=1 d=0.392586 t=7349
+uf;dm uf;dm 	深深	c=1 d=1.55726e-05 t=7349
+uf;qa vi;tv 	甚至	c=5 d=0.327681 t=7349
+uf;ru me;my 	什麼	c=13 d=1.488 t=7349
+uf;ru me;my ge;qg 	什麼歌	c=1 d=9.95351e-05 t=7349
+uf;ru me;my gv;pd 	什麼鬼	c=-1 d=0.0291588 t=7349
+uf;ru me;my yi;lx si;xt 	什麼意思	c=1 d=0.000217133 t=7349
+uf;uu 	神	c=0 d=9.54016e-07 t=7349
+uf;uu qu;aa 	神曲	c=3 d=0.000193937 t=7349
+ug i 	生成	c=1 d=0.67368 t=7349
+ug ig 	生成	c=2 d=1.38079 t=7349
+ug;cu 	苼	c=1 d=8.56707e-05 t=7349
+ug;di yu;uy 	剩餘	c=7 d=0.900325 t=7349
+ug;mi 	盛	c=1 d=0.423162 t=7349
+ug;na cp;uz 	生存	c=2 d=0.00649619 t=7349
+ug;na ig;gg 	生成	c=5 d=2.01329 t=7349
+ug;na ig;gg uu;mc 	生成樹	c=3 d=4.78892e-05 t=7349
+ug;na li;wl 	生理	c=4 d=0.0280608 t=7349
+ug;na vi;dv 	生殖	c=6 d=0.0307347 t=7349
+ug;ou 	昇	c=2 d=0.000628394 t=7349
+ug;pc ji;sj 	升級	c=9 d=0.914665 t=7349
+ug;pc le;aa 	升了	c=1 d=0.402524 t=7349
+uh 	上	c=0 d=0.0806541 t=7349
+uh;aa 	上	c=5 d=0.717618 t=7349
+uh;aa di;dj 	上帝	c=1 d=0.0497871 t=7349
+uh;aa hl;dm 	上海	c=3 d=0.0703553 t=7349
+uh;aa ir;rv 	上傳	c=2 d=0.71177 t=7349
+uh;aa le;aa 	上了	c=1 d=0.131994 t=7349
+uh;aa tl;uv 	上臺	c=1 d=7.63639e-05 t=7349
+uh;aa ub;pa 	上手	c=1 d=0.66034 t=7349
+uh;aa ug;pc 	上升	c=7 d=0.467666 t=7349
+uh;aa vb;zv 	上週	c=1 d=0.0880368 t=7349
+uh;aa yi;aa 	上一	c=0 d=0.0120032 t=7349
+uh;aa yi;aa ci;dq 	上一次	c=1 d=0.000152248 t=7349
+uh;aa yi;aa ji;mv 	上一集	c=1 d=0.120633 t=7349
+uh;dk bc;mp 	商標	c=1 d=8.0487e-06 t=7349
+uh;rw hl;bk 	傷害	c=2 d=0.0344962 t=7349
+uh;xk de;rx 	尚德	c=1 d=0.0118551 t=7349
+ui 	是	c=1 d=0.778801 t=7349
+ui hb 	時候	c=1 d=0.680451 t=7349
+ui ys 	使用	c=2 d=1.51233 t=7349
+ui;aa 	事	c=1 d=0.286505 t=7349
+ui;aa jx;tj 	世界	c=1 d=0.0555762 t=7349
+ui;aa lh;el 	士郎	c=1 d=0.99005 t=7349
+ui;aa qy;xq 	事情	c=2 d=0.464462 t=7349
+ui;aa tb;dy 	石頭	c=2 d=0.000264729 t=7349
+ui;aa uh;aa 	世上	c=1 d=7.31927e-06 t=7349
+ui;aa wu;mw 	事務	c=2 d=0.000299214 t=7349
+ui;aa wu;nw 	事物	c=1 d=0.0761538 t=7349
+ui;bg jm;zj 	實踐	c=3 d=0.187063 t=7349
+ui;bg li;rl 	實例	c=2 d=1.74704 t=7349
+ui;bg xi;by 	實習	c=1 d=0.588605 t=7349
+ui;bg xm;wj 	實現	c=9 d=0.167416 t=7349
+ui;bg yj;mq 	實驗	c=1 d=0.0119145 t=7349
+ui;bg ys;kf 	實用	c=1 d=0.860708 t=7349
+ui;bx fh;fw 	釋放	c=1 d=0.0290133 t=7349
+ui;hv 	世	c=0 d=9.00631e-06 t=7349
+ui;hv yi;aa vj;gd 	世一戰	c=1 d=9.05145e-05 t=7349
+ui;ju li;gp 	視力	c=0 d=8.31387e-06 t=7349
+ui;ju li;gp xw;ab jd;ef 	視力下降	c=1 d=8.35555e-05 t=7349
+ui;ju pn;yb 	視頻	c=5 d=1.37198 t=7349
+ui;ju tu;kh 	視圖	c=1 d=0.000500451 t=7349
+ui;op 	是	c=81 d=3.12401 t=7349
+ui;op fb;kb 	是否	c=4 d=1.74745 t=7349
+ui;op ge;rg 	是個	c=1 d=0.0837432 t=7349
+ui;os 	時	c=22 d=2.57776 t=7349
+ui;os hb;ru 	時候	c=12 d=0.6351 t=7349
+ui;os jm;mo 	時間	c=9 d=1.70152 t=7349
+ui;pf bl;wb 	失敗	c=1 d=0.644036 t=7349
+ui;pf xc;wj 	失效	c=1 d=0.00460782 t=7349
+ui;rl 	使	c=4 d=0.18988 t=7349
+ui;rl de;rc 	使得	c=3 d=0.956832 t=7349
+ui;rl vi;dd 	使之	c=1 d=0.00673795 t=7349
+ui;rl ys;kf 	使用	c=47 d=5.59869 t=7349
+ui;ru 	什	c=1 d=0.0412033 t=7349
+ui;yg bx;dd 	識別	c=1 d=0.0216013 t=7349
+ui;ys 	詩	c=1 d=0.000403635 t=7349
+ui;yu 	試	c=1 d=0.056836 t=7349
+ui;yu go;zg 	試過	c=1 d=0.0555762 t=7349
+ui;yu le;aa yi;aa xw;ab 	試了一下	c=1 d=0.571209 t=7349
+ui;yu yi;aa ui;yu 	試一試	c=1 d=0.955997 t=7349
+ui;zd he;rk 	適合	c=2 d=0.0372538 t=7349
+ui;zd pz;yj 	適配	c=1 d=1.3138e-05 t=7349
+ui;zd yy;gx 	適應	c=1 d=0.000452827 t=7349
+uj iu 	刪除	c=1 d=1.08955 t=7349
+uj iu ks bl hh 	刪除空白行	c=1 d=1 t=7349
+uj wl 	山外	c=0 d=0.056836 t=7349
+uj wl qy uj lb wl lb 	山外青山樓外樓	c=1 d=0.571209 t=7349
+uj;dc iu;ey 	刪除	c=6 d=0.637628 t=7349
+uj;dc jm;dx 	刪減	c=1 d=0.677057 t=7349
+uj;dc le;aa 	刪了	c=1 d=0.282239 t=7349
+uj;ka jw;rj yu;fd wu;nw 	善假於物	c=3 d=0.380773 t=7349
+uj;mr tv;zg 	閃退	c=2 d=0.533013 t=7349
+uj;mr uo;hl 	閃爍	c=1 d=0.597501 t=7349
+uk;hx wz;rw 	稍微	c=1 d=0.400517 t=7349
+uk;xp le;aa 	少了	c=1 d=0.165299 t=7349
+uk;xp nv;aa 	少女	c=1 d=8.52434e-05 t=7349
+uo;yd 	說	c=14 d=0.891149 t=7349
+uo;yd bu;ad go;zg qu;ts 	說不過去	c=1 d=0.0130365 t=7349
+uo;yd dk;dv di;gd 	說到底	c=1 d=0.137381 t=7349
+uo;yd gj;gu jq;yj gj;gu 	說幹就幹	c=1 d=0.118245 t=7349
+uo;yd my;oo 	說明	c=3 d=0.603988 t=7349
+uo;yd ui;bg hw;yu 	說實話	c=2 d=0.449329 t=7349
+uo;yd ve;ym 	說着	c=2 d=0.617947 t=7349
+uo;yd vf;uj de;bu 	說真的	c=1 d=0.131336 t=7349
+up;mu jm;mo 	瞬間	c=1 d=0.187308 t=7349
+up;yi bm;rg 	順便	c=1 d=0.852144 t=7349
+up;yi dl;jb 	順帶	c=1 d=0.0968105 t=7349
+up;yi ub;pa 	順手	c=1 d=0.000262568 t=7349
+up;yi xu;gy 	順序	c=1 d=0.29671 t=7349
+uu ru fa 	輸入法	c=1 d=0.973217 t=7349
+uu;ad fu;sc 	束縛	c=2 d=0.329559 t=7349
+uu;du lm;sj 	熟練	c=2 d=0.0142642 t=7349
+uu;dy 	豎	c=1 d=0.0356146 t=7349
+uu;iy iu;ck 	輸出	c=1 d=0.839457 t=7349
+uu;iy ru;pd 	輸入	c=4 d=0.162838 t=7349
+uu;iy ru;pd fa;dq 	輸入法	c=9 d=0.978941 t=7349
+uu;ju bc;mp 	鼠標	c=1 d=2.4916e-05 t=7349
+uu;mc 	樹	c=4 d=0.275242 t=7349
+uu;oy 	書	c=2 d=0.062662 t=7349
+uu;ui xy;xu 	屬性	c=3 d=1.79967 t=7349
+uu;ui yu;fd 	屬於	c=1 d=0.00100276 t=7349
+uu;uy fu;oy 	舒服	c=1 d=0.088692 t=7349
+uu;uy fu;oy le;aa 	舒服了	c=1 d=0.891366 t=7349
+uu;wl 	數	c=5 d=0.995221 t=7349
+uu;wl ju;fj 	數據	c=2 d=0.290835 t=7349
+uu;wl ju;fj ku;gi 	數據庫	c=2 d=0.241714 t=7349
+uu;wl ld;ol 	數量	c=2 d=0.609571 t=7349
+uu;wl lp;yl 	數論	c=6 d=0.00283084 t=7349
+uu;wl lx;dd 	數列	c=3 d=0.0590376 t=7349
+uu;wl mu;aa 	數目	c=2 d=0.767206 t=7349
+uu;wl zu;sq 	數組	c=3 d=0.882497 t=7349
+uv;ad 	水	c=1 d=0.055299 t=7349
+uv;ad py;aa 	水平	c=2 d=1.27839 t=7349
+uv;ad ti;uy 	水題	c=2 d=0.0455563 t=7349
+uv;ad vi;iv 	水蛭	c=1 d=0.0608101 t=7349
+uv;yv 	誰	c=2 d=0.168907 t=7349
+va;yv ui;us 	詐屍	c=1 d=0.000151489 t=7349
+vb;kj ly;dl bo;uc 	周凌博	c=1 d=0.0110536 t=7349
+vb;yc 	肘	c=1 d=0.0120342 t=7349
+vb;zv qi;oq 	週期	c=4 d=0.0282015 t=7349
+vd;cv yr;ky 	莊園	c=1 d=8.43952e-05 t=7349
+vd;yv 	裝	c=1 d=0.650509 t=7349
+vd;yv le;aa 	裝了	c=1 d=0.353455 t=7349
+ve ui 	這是	c=1 d=0.532592 t=7349
+ve;dv jd;dg 	浙江	c=2 d=0.885456 t=7349
+ve;dv jd;dg ug;mu 	浙江省	c=2 d=0.0208384 t=7349
+ve;fb dx;la 	摺疊	c=2 d=1.21916 t=7349
+ve;fj tg;om 	折騰	c=4 d=0.279866 t=7349
+ve;kv xt;jz 	哲學	c=2 d=0.972347 t=7349
+ve;zd bi;cb 	遮蔽	c=2 d=0.0199413 t=7349
+ve;zy 	這	c=12 d=0.684306 t=7349
+ve;zy bm;zf 	這邊	c=2 d=0.0759098 t=7349
+ve;zy ci;dq 	這次	c=1 d=0.798516 t=7349
+ve;zy dm;hv 	這點	c=1 d=0.00158844 t=7349
+ve;zy ff;rf 	這份	c=1 d=0.339596 t=7349
+ve;zy ge;rg 	這個	c=23 d=1.66202 t=7349
+ve;zy ge;rg uu;wl 	這個數	c=1 d=0.00148106 t=7349
+ve;zy li;dy 	這裏	c=28 d=2.37821 t=7349
+ve;zy me;my 	這麼	c=2 d=0.453845 t=7349
+ve;zy me;my do;xx 	這麼多	c=1 d=0.000130387 t=7349
+ve;zy mz;mw 	這枚	c=1 d=0.451581 t=7349
+ve;zy pm;vb 	這篇	c=1 d=0.00128115 t=7349
+ve;zy qp;yj 	這羣	c=1 d=0.268474 t=7349
+ve;zy ui;op 	這是	c=6 d=0.306513 t=7349
+ve;zy ui;op ge;rg 	這是個	c=1 d=0.00189223 t=7349
+ve;zy vb;kj 	這周	c=1 d=0.0916297 t=7349
+ve;zy vs;hv 	這種	c=2 d=0.0200285 t=7349
+ve;zy xx;ec 	這些	c=5 d=0.477114 t=7349
+ve;zy yh;my 	這樣	c=3 d=1.39665 t=7349
+ve;zy yi;aa 	這一	c=1 d=0.0166069 t=7349
+ve;zy yi;aa ji;mv 	這一集	c=1 d=0.12307 t=7349
+vf;ju dv;ct 	針對	c=2 d=0.471203 t=7349
+vf;uj de;bu 	真的	c=10 d=1.43459 t=7349
+vf;uj hk;nz 	真好	c=1 d=0.127454 t=7349
+vf;uj vg;av 	真正	c=2 d=0.0495853 t=7349
+vf;uj xn;dd 	真心	c=1 d=0.650509 t=7349
+vf;uj yb;ou 	真有	c=1 d=8.23115e-05 t=7349
+vg;av 	正	c=1 d=0.024972 t=7349
+vg;av ih;dd 	正常	c=3 d=0.454663 t=7349
+vg;av yi;yw 	正義	c=0 d=9.30462e-07 t=7349
+vg;av yi;yw lp;yl 	正義論	c=1 d=9.35125e-06 t=7349
+vg;av ze;db 	正則	c=8 d=2.25611 t=7349
+vg;av ze;db bc;fy da;zy ui;gy 	正則表達式	c=2 d=1.27181 t=7349
+vg;vi ge;rg 	整個	c=7 d=0.703259 t=7349
+vg;vi li;wl 	整理	c=1 d=0.790571 t=7349
+vg;vi ti;gd 	整體	c=2 d=0.239864 t=7349
+vg;vi uu;wl 	整數	c=2 d=0.00277917 t=7349
+vg;wv fu;gf 	政府	c=1 d=0.0695994 t=7349
+vg;wv vi;dt 	政治	c=5 d=1.02245 t=7349
+vg;yd my;oo 	證明	c=4 d=0.00445925 t=7349
+vh;ad du;gy 	長度	c=1 d=4.84489e-05 t=7349
+vh;gi 	張	c=1 d=0.895834 t=7349
+vh;ji hk;hh 	帳號	c=4 d=0.150098 t=7349
+vi 	只	c=1 d=0.733447 t=7349
+vi;aa bo;ff 	直播	c=1 d=0.13466 t=7349
+vi;aa jx;fq 	直接	c=4 d=0.502133 t=7349
+vi;aa xm;sq 	直線	c=2 d=0.035393 t=7349
+vi;bj gj;xx 	質感	c=1 d=0.704688 t=7349
+vi;dd 	之	c=1 d=0.436049 t=7349
+vi;dd gd;ea 	之光	c=0 d=0.00127784 t=7349
+vi;dd hb;rw 	之後	c=7 d=0.229155 t=7349
+vi;dd he;hk 	之和	c=2 d=1.06573 t=7349
+vi;dd iu;hi 	之處	c=1 d=0.313486 t=7349
+vi;dd jm;mo 	之間	c=1 d=0.000590229 t=7349
+vi;dd jw;bu 	之家	c=0 d=0.00824965 t=7349
+vi;dd lz;yl 	之類	c=3 d=0.336216 t=7349
+vi;dd qm;bd 	之前	c=1 d=0.293758 t=7349
+vi;dd so;hj yi;rd 	之所以	c=2 d=0.00577048 t=7349
+vi;dd uh;aa 	之上	c=1 d=0.442639 t=7349
+vi;dd vs;aa 	之中	c=1 d=1.88311e-05 t=7349
+vi;dt li;wl 	治理	c=1 d=0.144424 t=7349
+vi;fv de;bu 	指的	c=1 d=0.226502 t=7349
+vi;fv dk;cd 	指導	c=1 d=0.166127 t=7349
+vi;fv dy;bp 	指定	c=1 d=0.0665368 t=7349
+vi;fv iu;ck 	指出	c=1 d=0.307279 t=7349
+vi;fv vf;ju 	指針	c=1 d=1.19474e-05 t=7349
+vi;fv wh;wo 	指望	c=2 d=0.117068 t=7349
+vi;fv xd;pk 	指向	c=1 d=0.0258615 t=7349
+vi;kb 	只	c=3 d=0.691726 t=7349
+vi;kb hk;nz 	只好	c=1 d=0.128735 t=7349
+vi;kb ng;sb 	只能	c=6 d=0.247833 t=7349
+vi;kb ui;op 	只是	c=4 d=0.296543 t=7349
+vi;kb xd;xx 	只想	c=1 d=0.319819 t=7349
+vi;kb yb;ou 	只有	c=2 d=0.722527 t=7349
+vi;kb ys;kf 	只用	c=1 d=0.0614212 t=7349
+vi;ku dk;zu 	知道	c=5 d=0.70189 t=7349
+vi;ku hu;pa 	知乎	c=1 d=0.106992 t=7349
+vi;ku ui;yg 	知識	c=2 d=0.00349524 t=7349
+vi;ku wh;sw 	知網	c=1 d=0.66034 t=7349
+vi;ov vh;ev 	智障	c=1 d=9.00631e-05 t=7349
+vi;rv 	值	c=2 d=0.453845 t=7349
+vi;sg tm;aa xn;ry ih;ad 	織田信長	c=2 d=0.00080728 t=7349
+vi;tv 	指	c=4 d=0.461003 t=7349
+vi;tv uk;xp 	至少	c=1 d=0.000188766 t=7349
+vi;tv yu;fd 	至於	c=1 d=0.00118858 t=7349
+vi;wx xy;rd 	執行	c=1 d=0.404542 t=7349
+vi;yv 	製	c=1 d=0.00543443 t=7349
+vi;yv zo;rv 	製作	c=2 d=0.38868 t=7349
+vj ys 	佔用	c=3 d=2.11337 t=7349
+vj;dv mj;dr 	沾滿	c=1 d=0.701173 t=7349
+vj;lv 	站	c=4 d=1.55259 t=7349
+vj;rv 	佔	c=2 d=0.989893 t=7349
+vj;rv ys;kf 	佔用	c=9 d=1.93014 t=7349
+vj;uy kl;mk 	展開	c=1 d=0.640824 t=7349
+vk;dd 	兆	c=0 d=0.00439369 t=7349
+vk;fg 	找	c=2 d=0.120032 t=7349
+vk;fg dk;dv 	找到	c=3 d=0.222017 t=7349
+vk;fg vk;fg 	找找	c=1 d=0.0135686 t=7349
+vk;fv pn;ek 	招聘	c=4 d=1.43773 t=7349
+vk;ym mi;zm 	着迷	c=1 d=0.201897 t=7349
+vo;bm mm;aa 	桌面	c=6 d=0.203531 t=7349
+vp;uh bz;ry 	準備	c=3 d=0.628286 t=7349
+vp;uh qt;uv 	準確	c=1 d=0.109154 t=7349
+vr mf 	專門	c=1 d=0.941765 t=7349
+vr;iv 	轉	c=8 d=0.521937 t=7349
+vr;iv er;aa 	轉而	c=1 d=0.278037 t=7349
+vr;iv hr;fh 	轉換	c=1 d=0.179066 t=7349
+vs yu 	終於	c=1 d=1 t=7349
+vs;aa 	中	c=9 d=0.850956 t=7349
+vs;aa ff;bd 	中分	c=1 d=0.00113061 t=7349
+vs;aa go;kh 	中國	c=7 d=0.498208 t=7349
+vs;aa go;kh rf;pd 	中國人	c=1 d=0.278037 t=7349
+vs;aa go;kh ui;gy 	中國式	c=1 d=0.0575558 t=7349
+vs;aa jm;mo 	中間	c=5 d=1.0204 t=7349
+vs;aa ke;hd 	中科	c=1 d=0.557106 t=7349
+vs;aa mz;dy 	中美	c=0 d=0.00096577 t=7349
+vs;aa mz;dy cp;mc 	中美村	c=1 d=0.00970611 t=7349
+vs;aa ri;aa 	中日	c=2 d=0.0506994 t=7349
+vs;aa rr;iq 	中軟	c=1 d=0.447088 t=7349
+vs;aa vb;da yp;yy 	中州韻	c=2 d=0.101358 t=7349
+vs;aa vi;rv 	中值	c=1 d=0.00113627 t=7349
+vs;aa wf;dd 	中文	c=11 d=1.58093 t=7349
+vs;aa xn;dd 	中心	c=3 d=1.0085 t=7349
+vs;aa xn;dd dm;hv 	中心點	c=2 d=1.08719 t=7349
+vs;aa xt;jz 	中學	c=1 d=0.0117371 t=7349
+vs;hv qp;yj 	種羣	c=1 d=0.00329615 t=7349
+vs;hv vs;hv 	種種	c=1 d=0.00110269 t=7349
+vs;pa dm;hv 	重點	c=2 d=0.00172074 t=7349
+vs;sd 	終	c=1 d=0.00165541 t=7349
+vs;sd dm;hv 	終點	c=2 d=0.00316166 t=7349
+vs;sd wu;nw yu;yw 	終物語	c=3 d=0.0182684 t=7349
+vs;sd yu;fd 	終於	c=2 d=0.88692 t=7349
+vu;dv yi;lx dk;dv 	注意到	c=1 d=0.00244185 t=7349
+vu;dv yi;lx li;gp 	注意力	c=1 d=0.0246002 t=7349
+vu;dw 	主	c=2 d=0.000159256 t=7349
+vu;dw ds;lv 	主動	c=1 d=0.0953692 t=7349
+vu;dw jm;jj 	主鍵	c=5 d=0.188948 t=7349
+vu;dw ti;uy 	主題	c=7 d=0.196256 t=7349
+vu;dw yi;yw 	主義	c=1 d=0.865022 t=7349
+vu;dw yk;xn 	主要	c=3 d=0.529935 t=7349
+vu;rv 	住	c=1 d=0.130029 t=7349
+vu;yv ce;aa 	註冊	c=2 d=0.0544757 t=7349
+vu;yv do;xx 	諸多	c=1 d=0.279431 t=7349
+vu;yv ui;bx 	註釋	c=3 d=0.543351 t=7349
+vu;yv xc;jx 	註銷	c=1 d=0.429557 t=7349
+wa;ng wa;ng 	娃娃	c=1 d=7.96861e-06 t=7349
+wen jian 	文件	c=10 d=3.90442 t=7349
+wf jm 	文件	c=3 d=2.53904 t=7349
+wf;dd 	文	c=2 d=3.88137e-05 t=7349
+wf;dd dh;md 	文檔	c=12 d=0.601336 t=7349
+wf;dd jm;rn 	文件	c=13 d=0.754615 t=7349
+wf;dd vh;lz 	文章	c=2 d=0.0784731 t=7349
+wf;dd xt;jz 	文學	c=1 d=0.0561348 t=7349
+wf;dm qr;bu 	溫泉	c=1 d=0.066205 t=7349
+wf;dm vb;da 	溫州	c=2 d=0.0585706 t=7349
+wf;dm vb;da ui;dj 	溫州市	c=1 d=0.0123487 t=7349
+wf;dm vb;da ui;dj di;vp ba;pd gk;dk ji;sj vs;aa xt;jz 	溫州市第八高級中學	c=1 d=0.0102037 t=7349
+wf;hj dy;bp 	穩定	c=10 d=0.00303812 t=7349
+wf;hj dy;bp bj;lx 	穩定辦	c=1 d=0.000204488 t=7349
+wf;hj dy;bp bj;pf 	穩定版	c=1 d=0.000244817 t=7349
+wf;km ti;uy 	問題	c=20 d=1.25489 t=7349
+wh;aa gh;dg 	王剛	c=1 d=0.000147011 t=7349
+wh;mw 	枉	c=1 d=0.000128446 t=7349
+wh;rv 	往	c=1 d=0.102284 t=7349
+wh;rv wh;rv 	往往	c=4 d=0.307279 t=7349
+wh;sw 	網	c=1 d=0.591555 t=7349
+wh;sw lo;sg 	網絡	c=1 d=0.036334 t=7349
+wh;sw pj;mb 	網盤	c=1 d=0.0547488 t=7349
+wh;sw su;zu 	網速	c=1 d=0.366045 t=7349
+wh;sw uh;aa 	網上	c=3 d=0.503215 t=7349
+wh;sw vi;tv 	網址	c=1 d=0.0475963 t=7349
+wh;sw vj;lv 	網站	c=8 d=3.95586 t=7349
+wh;sw ye;ab 	網頁	c=3 d=1.70869 t=7349
+wh;sw yi;ow 	網易	c=0 d=0.0701173 t=7349
+wh;sw yi;ow yp;yy 	網易雲	c=1 d=0.704688 t=7349
+wj;by 	完	c=4 d=0.767577 t=7349
+wj;by bi;aa 	完畢	c=2 d=0.000318611 t=7349
+wj;by ig;gg 	完成	c=11 d=1.58796 t=7349
+wj;by le;aa 	完了	c=0 d=0.0677057 t=7349
+wj;by qr;rw 	完全	c=3 d=0.609571 t=7349
+wj;by uj;ka 	完善	c=2 d=0.609571 t=7349
+wj;gs dk;zu 	彎道	c=1 d=0.0156076 t=7349
+wj;om uh;aa 	晚上	c=1 d=0.0161635 t=7349
+wj;wy 	玩	c=1 d=0.0867261 t=7349
+wl;xb fj;yf 	外翻	c=1 d=0.0119742 t=7349
+wl;xb gw;fg 	外掛	c=4 d=1.03319 t=7349
+wl;xb jm;jj 	外鍵	c=4 d=0.146733 t=7349
+wl;xb jm;mo 	外間	c=1 d=0.0349094 t=7349
+wl;xb wh;sw 	外網	c=1 d=0.225373 t=7349
+wo 	我	c=14 d=6.38435 t=7349
+wo de 	我的	c=1 d=0.331211 t=7349
+wo;m 	枂	c=1 d=1 t=7349
+wo;p 	我	c=1 d=1 t=7349
+wo;pd 	我	c=100 d=6.05141 t=7349
+wo;pd de;bu 	我的	c=11 d=1.34346 t=7349
+wo;pd mf;rm 	我們	c=34 d=1.22847 t=7349
+wo;pd uo;yd 	我說	c=1 d=7.86896e-05 t=7349
+wo;pd xd;xx 	我想	c=1 d=0.112478 t=7349
+wo;pd ye;gg 	我也	c=1 d=2.01965e-05 t=7349
+wo;pd zo;rg le;aa 	我做了	c=1 d=0.496585 t=7349
+wu 	無	c=1 d=0.822835 t=7349
+wu;aa ui;aa 	五十	c=1 d=0.000411789 t=7349
+wu;da 	無	c=0 d=1.58461e-05 t=7349
+wu;da fa;dq 	無法	c=9 d=1.22548 t=7349
+wu;da gg;ad xn;jq 	無更新	c=1 d=0.000159256 t=7349
+wu;da li;gp 	無力	c=1 d=0.0269169 t=7349
+wu;da lp;yl 	無論	c=1 d=0.431711 t=7349
+wu;da yi;lx yi;yw 	無意義	c=1 d=0.00100779 t=7349
+wu;da ys;kf 	無用	c=1 d=0.0303487 t=7349
+wu;fd 	於	c=2 d=0.995012 t=7349
+wu;fd ui;op 	於是	c=0 d=4.07691e-05 t=7349
+wu;fd ui;op zl;gi 	於是載	c=1 d=0.000409735 t=7349
+wu;ha 	無	c=8 d=0.931953 t=7349
+wu;hh 	五	c=0 d=0.0467666 t=7349
+wu;hh dg;vs bg;up 	五等崩	c=1 d=0.0668703 t=7349
+wu;hh dg;vs ff;bd 	五等分	c=7 d=2.78657 t=7349
+wu;nw yu;yw 	物語	c=2 d=0.900325 t=7349
+wu;vy uf;uu 	武神	c=1 d=0.000191619 t=7349
+wz 	爲	c=1 d=0.65377 t=7349
+wz;ad 	未	c=1 d=0.0420036 t=7349
+wz;ad bi;dd 	未必	c=1 d=0.000332125 t=7349
+wz;ad jm;me 	未見	c=1 d=0.0378169 t=7349
+wz;ad jy;sg 	未經	c=1 d=0.00137404 t=7349
+wz;ad ll;ad 	未來	c=1 d=1.7558e-05 t=7349
+wz;de xm;eq 	危險	c=1 d=0.000170803 t=7349
+wz;pd 	爲	c=43 d=1.71039 t=7349
+wz;pd he;rk 	爲何	c=1 d=0.00275318 t=7349
+wz;pd le;aa 	爲了	c=5 d=0.237259 t=7349
+wz;pd rf;pd 	爲人	c=1 d=0.0057994 t=7349
+wz;pd uf;ru me;my 	爲什麼	c=1 d=0.965605 t=7349
+wz;rl vi;sv 	位置	c=5 d=0.532592 t=7349
+wz;rw 	僞	c=0 d=0.0460704 t=7349
+wz;rw 	微	c=1 d=0.132655 t=7349
+wz;rw bo;uc 	微博	c=3 d=0.101266 t=7349
+wz;rw ff;bd bu;rb ui;gy 	僞分佈式	c=1 d=0.463013 t=7349
+wz;rw uj;ka 	僞善	c=1 d=0.302704 t=7349
+wz;rw xn;ry 	微信	c=6 d=0.78948 t=7349
+xc;ad 	小	c=3 d=0.0786628 t=7349
+xc;ad jm;jj pj;mb 	小鍵盤	c=1 d=0.107528 t=7349
+xc;ad jx;nq 	小姐	c=2 d=0.000248069 t=7349
+xc;ad le;aa 	小了	c=1 d=0.173774 t=7349
+xc;ad lh;ql hk;dm 	小狼毫	c=1 d=0.146607 t=7349
+xc;ad pn;kk 	小品	c=1 d=8.82797e-05 t=7349
+xc;ad py;aa 	小平	c=0 d=0.000535353 t=7349
+xc;ad uo;yd 	小說	c=2 d=0.000173501 t=7349
+xc;ad xc;ad 	小小	c=1 d=0.017953 t=7349
+xc;ad xc;ad uu;iy ru;pd fa;dq 	小小輸入法	c=1 d=0.071719 t=7349
+xc;ad xn;dd 	小心	c=2 d=0.0791034 t=7349
+xc;ad xt;jz 	小學	c=1 d=0.0105145 t=7349
+xc;ad xy;tx 	小型	c=3 d=1.28171 t=7349
+xc;ad yu;ad 	小雨	c=2 d=0.0638128 t=7349
+xc;ad zi;bz ku;gi 	小字庫	c=1 d=0.790571 t=7349
+xc;dx hk;lm 	消耗	c=1 d=9.61117e-05 t=7349
+xc;dx xi;xz 	消息	c=2 d=0.0808629 t=7349
+xc;mj vk;fv 	校招	c=1 d=0.0197421 t=7349
+xc;vy hw;yu 	笑話	c=3 d=0.479396 t=7349
+xc;wj go;ad 	效果	c=2 d=0.0645703 t=7349
+xd;gy 	項	c=1 d=6.63876e-05 t=7349
+xd;mm 	相	c=0 d=0.00434998 t=7349
+xd;mm dg;vs 	相等	c=2 d=0.631284 t=7349
+xd;mm dv;ct 	相對	c=2 d=0.0232957 t=7349
+xd;mm gr;ma 	相關	c=6 d=0.421056 t=7349
+xd;mm ts;kk 	相同	c=1 d=0.715338 t=7349
+xd;mm yy;gx 	相應	c=1 d=0.0224829 t=7349
+xd;pk 	向	c=2 d=0.0156033 t=7349
+xd;pk xw;ab 	向下	c=3 d=1.08698 t=7349
+xd;rx 	像	c=1 d=0.188247 t=7349
+xd;rx ui;op 	像是	c=1 d=0.331211 t=7349
+xd;xx 	想	c=5 d=0.0645884 t=7349
+xd;xx de;rc 	想得	c=1 d=0.1764 t=7349
+xd;xx le;aa xd;xx 	想了想	c=1 d=0.193013 t=7349
+xd;xx qi;zj 	想起	c=1 d=0.158817 t=7349
+xd;xx yk;xn 	想要	c=5 d=0.752014 t=7349
+xd;yy xi;st 	詳細	c=1 d=0.229925 t=7349
+xi;aa bo;rb li;dh ya;aa 	西伯利亞	c=1 d=0.970446 t=7349
+xi;dx nk;oi 	洗腦	c=1 d=0.271173 t=7349
+xi;ib wh;wo 	希望	c=3 d=0.609448 t=7349
+xi;kj yj;cy 	吸菸	c=1 d=0.0158434 t=7349
+xi;ps lx;dd 	系列	c=1 d=0.00631391 t=7349
+xi;ps ts;si 	系統	c=3 d=0.546102 t=7349
+xi;uk bu;ad zi;pa ug;ol 	喜不自勝	c=1 d=0.142274 t=7349
+xi;uk hr;qv 	喜歡	c=2 d=0.937067 t=7349
+xia 	下	c=3 d=1.02674 t=7349
+xia biao 	下表	c=1 d=0.56836 t=7349
+xian shi 	顯示	c=1 d=0.985112 t=7349
+xiang 	想	c=1 d=0.778801 t=7349
+xiang mu 	項目	c=2 d=0.662826 t=7349
+xiao 	小	c=1 d=0.960789 t=7349
+xie xie 	謝謝	c=1 d=0.891366 t=7349
+xm;eg vi;dg 	限制	c=4 d=0.394362 t=7349
+xm;en 	先	c=7 d=0.346456 t=7349
+xm;en ub;pa 	先手	c=5 d=0.220649 t=7349
+xm;mo xw;oj 	閒暇	c=1 d=0.00346515 t=7349
+xm;nj 	嫌	c=1 d=0.00113627 t=7349
+xm;qy ji;yu 	獻祭	c=4 d=0.427174 t=7349
+xm;sq dr;du 	線段	c=3 d=0.528497 t=7349
+xm;sq dr;du uu;mc 	線段樹	c=13 d=2.08872 t=7349
+xm;wj zl;ta 	現在	c=9 d=3.10066 t=7349
+xm;xx 	縣	c=2 d=0.144273 t=7349
+xm;ys de;rc 	顯得	c=1 d=0.0229371 t=7349
+xm;ys ka;bx 	顯卡	c=2 d=0.0495388 t=7349
+xm;ys ka;bx ba;kb 	顯卡吧	c=1 d=0.000106752 t=7349
+xm;ys rj;dq 	顯然	c=5 d=0.00708341 t=7349
+xm;ys ui;ad 	顯示	c=12 d=1.08662 t=7349
+xn;dd li;dy 	心裏	c=1 d=0.0132336 t=7349
+xn;dd lv;du 	心率	c=1 d=0.0156076 t=7349
+xn;dd tg;bd 	心疼	c=1 d=9.70776e-05 t=7349
+xn;jq 	新	c=10 d=0.804349 t=7349
+xn;jq bk;bb dk;nu 	新寶島	c=3 d=1.01072 t=7349
+xn;jq de;bu 	新的	c=1 d=0.07502 t=7349
+xn;jq fj;pt 	新番	c=2 d=0.951353 t=7349
+xn;jq nd;nl 	新娘	c=1 d=0.0675424 t=7349
+xn;jq nm;pa 	新年	c=1 d=7.71314e-05 t=7349
+xn;jq zg;tc 	新增	c=1 d=0.000111109 t=7349
+xn;ry ui;yv dj;oa dj;oa 	信誓旦旦	c=1 d=0.0145524 t=7349
+xn;ry xi;xz 	信息	c=2 d=0.22091 t=7349
+xq gl 	修改	c=3 d=2.76204 t=7349
+xq vg 	修正	c=1 d=0.980199 t=7349
+xq;rp 	修	c=1 d=0.000825105 t=7349
+xq;rp gl;jw 	修改	c=46 d=5.21625 t=7349
+xq;rp hk;nz 	修好	c=1 d=0.000829241 t=7349
+xq;rp jm;dq 	修剪	c=1 d=0.000497955 t=7349
+xq;rp lo;sv 	修羅	c=1 d=0.000190664 t=7349
+xq;rp vg;av 	修正	c=2 d=0.97531 t=7349
+xr ze 	選擇	c=1 d=0.606531 t=7349
+xr;zg 	選	c=4 d=0.0422141 t=7349
+xr;zg ub;pa 	選手	c=1 d=0.752014 t=7349
+xr;zg vs;aa 	選中	c=1 d=6.5727e-05 t=7349
+xr;zg xd;gy 	選項	c=1 d=8.58924e-06 t=7349
+xr;zg ze;fx 	選擇	c=9 d=0.774916 t=7349
+xs;dn mk;vm 	熊貓	c=1 d=0.133989 t=7349
+xt;jz 	學	c=2 d=0.593665 t=7349
+xt;jz di;bp 	學弟	c=1 d=0.092089 t=7349
+xt;jz vh;ad 	學長	c=6 d=0.160479 t=7349
+xt;jz xc;mj 	學校	c=2 d=0.0246255 t=7349
+xt;jz xi;by 	學習	c=5 d=0.974466 t=7349
+xu;gy lx;dd 	序列	c=23 d=0.0137283 t=7349
+xu;hy ni;fy 	虛擬	c=4 d=0.000387328 t=7349
+xu;hy ni;fy ou;ry xd;rx 	虛擬偶像	c=1 d=0.000118571 t=7349
+xu;hy wh;nw 	虛妄	c=0 d=0.00437178 t=7349
+xu;sm 	續	c=3 d=0.0181773 t=7349
+xu;sv 	緒	c=1 d=9.80532e-05 t=7349
+xu;wy uo;yd 	敘說	c=1 d=0.231078 t=7349
+xu;wy uu;zu 	敘述	c=1 d=0.232236 t=7349
+xu;ye yk;xn 	需要	c=9 d=1.1229 t=7349
+xu;ye yk;xn ui;os 	需要時	c=1 d=0.18452 t=7349
+xu;yw do;xx 	許多	c=0 d=0.0400517 t=7349
+xuan ze 	選擇	c=1 d=0.373439 t=7349
+xw;ab 	下	c=8 d=0.673831 t=7349
+xw;ab ih;ty 	下場	c=1 d=0.216536 t=7349
+xw;ab iv;pa 	下垂	c=1 d=0.0291588 t=7349
+xw;ab jd;ef 	下降	c=0 d=8.31387e-06 t=7349
+xw;ab mm;aa 	下面	c=3 d=0.950178 t=7349
+xw;ab qu;ts 	下去	c=1 d=0.414783 t=7349
+xw;ab wu;pu 	下午	c=1 d=0.00771183 t=7349
+xw;ab yi;aa dl;ry 	下一代	c=1 d=0.000248517 t=7349
+xw;ab zl;gi 	下載	c=35 d=3.83779 t=7349
+xx;bd 	寫	c=6 d=0.909373 t=7349
+xx;bd go;zg 	寫過	c=1 d=0.369723 t=7349
+xx;bd le;aa 	寫了	c=1 d=0.524663 t=7349
+xx;ea zl;gi 	卸載	c=1 d=0.000142667 t=7349
+xx;ij 	蟹	c=0 d=0.0509156 t=7349
+xx;ij gs;aa ir;vk 	蟹工船	c=1 d=0.514274 t=7349
+xx;ij gs;bs ir;vk 	蟹公船	c=1 d=0.511709 t=7349
+xy;ou 	星	c=1 d=0.13332 t=7349
+xy;ou qi;oq 	星期	c=1 d=0.000263884 t=7349
+xy;ou qi;oq er;aa 	星期二	c=1 d=0.680451 t=7349
+xy;ou yp;yy 	星雲	c=2 d=0.118619 t=7349
+xy;pk ig;gg 	形成	c=2 d=0.0387994 t=7349
+xy;rd le;aa 	行了	c=1 d=0.305746 t=7349
+xy;rd ui;mu 	行駛	c=2 d=0.0355704 t=7349
+xy;rd wz;pd 	行爲	c=1 d=0.244143 t=7349
+xy;tu fu;uf qi;zj hh;vk 	幸福起航	c=1 d=0.0152985 t=7349
+xy;tx hk;hh 	型號	c=1 d=0.000110555 t=7349
+xy;xu 	性	c=19 d=0.128767 t=7349
+xy;xu ai;vw 	性愛	c=1 d=7.92887e-06 t=7349
+xy;xu vi;bj 	性質	c=1 d=1.10288e-05 t=7349
+xy;xu xy;rd wz;pd 	性行爲	c=1 d=0.0066709 t=7349
+ya;aa xn;ry 	亞信	c=1 d=0.444858 t=7349
+ya;ap jx;sj ui;aa 	牙結石	c=1 d=0.000187825 t=7349
+ya;ty 	壓	c=1 d=0.0500366 t=7349
+ya;ty so;ss 	壓縮	c=2 d=0.00576743 t=7349
+ya;ty yi;fe 	壓抑	c=1 d=0.121846 t=7349
+yb yu 	由於	c=1 d=0.551563 t=7349
+yb;aa 	由	c=1 d=0.000746586 t=7349
+yb;aa yu;fd 	由於	c=5 d=0.599431 t=7349
+yb;ad 	又	c=11 d=1.75229 t=7349
+yb;ad ui;op 	又是	c=1 d=0.00238156 t=7349
+yb;ad yk;xn 	又要	c=1 d=0.000100535 t=7349
+yb;dy 	油	c=1 d=0.121783 t=7349
+yb;dy hb;qh jc;oq bf;aa 	油猴腳本	c=2 d=0.115903 t=7349
+yb;dy mf;aa 	油門	c=1 d=0.759572 t=7349
+yb;dy qi;dq 	油漆	c=0 d=3.57992e-05 t=7349
+yb;dy qi;dq ts;my 	油漆桶	c=1 d=0.000359786 t=7349
+yb;ei vg;wv 	郵政	c=1 d=0.0101529 t=7349
+yb;ku 	右	c=5 d=3.52563 t=7349
+yb;ku jc;oq 	右腳	c=1 d=0.755784 t=7349
+yb;ku jm;jj 	右鍵	c=1 d=0.075774 t=7349
+yb;ku ub;pa 	右手	c=3 d=0.0758621 t=7349
+yb;ou 	有	c=31 d=6.41077 t=7349
+yb;ou dk;zu 	有道	c=4 d=1.04924 t=7349
+yb;ou dm;hv 	有點	c=9 d=0.264477 t=7349
+yb;ou dm;hv hd;xh 	有點慌	c=1 d=0.0862936 t=7349
+yb;ou ff;rf 	有份	c=1 d=0.256661 t=7349
+yb;ou gr;ma 	有關	c=2 d=0.00208081 t=7349
+yb;ou gr;ma yu;fd 	有關於	c=1 d=0.000291637 t=7349
+yb;ou mz;du yb;ou 	有沒有	c=2 d=0.657047 t=7349
+yb;ou qy;yq 	有請	c=1 d=7.5227e-05 t=7349
+yb;ou rf;pd 	有人	c=1 d=0.524663 t=7349
+yb;ou so;hj 	有所	c=0 d=0.000386807 t=7349
+yb;ou so;hj bh;bf vu;lq 	有所幫助	c=1 d=0.00388746 t=7349
+yb;ou uf;ru me;my 	有什麼	c=1 d=0.226502 t=7349
+yb;ou xc;wj 	有效	c=3 d=0.213062 t=7349
+yb;ou xm;eg 	有限	c=1 d=0.373439 t=7349
+yb;ou xu;gy 	有序	c=4 d=0.358904 t=7349
+yb;ou xx;ec 	有些	c=6 d=0.560585 t=7349
+yb;rw 	優	c=1 d=6.94433e-05 t=7349
+yb;rw dm;hv 	優點	c=1 d=5.77146e-05 t=7349
+yb;rw hw;rb 	優化	c=3 d=0.00395851 t=7349
+yb;rw xm;en 	優先	c=1 d=0.771052 t=7349
+yb;ry yi;dd ku;gi 	优衣库	c=1 d=0.683861 t=7349
+ye 	也	c=2 d=1.22013 t=7349
+ye hui 	也會	c=1 d=0.444858 t=7349
+ye;ab 	頁	c=1 d=0.000186888 t=7349
+ye;ab mm;aa 	頁面	c=1 d=0.000493001 t=7349
+ye;cm wf;km 	葉問	c=1 d=0.0309618 t=7349
+ye;dd 	夜	c=2 d=0.261531 t=7349
+ye;fy 	爺	c=1 d=0.0147723 t=7349
+ye;gg 	也	c=32 d=1.81893 t=7349
+ye;gg hv;ro 	也會	c=1 d=0.0800583 t=7349
+ye;gg jq;yj 	也就	c=2 d=0.164474 t=7349
+ye;gg qy;yq 	也請	c=1 d=0.694197 t=7349
+ye;gg ui;op 	也是	c=3 d=0.301194 t=7349
+ye;gg xd;xx yk;xn 	也想要	c=1 d=0.66034 t=7349
+ye;gg yb;ou 	也有	c=1 d=0.000523486 t=7349
+ye;ku 	叶	c=1 d=8.9167e-05 t=7349
+ye;ly ub;qu 	野獸	c=1 d=0.509156 t=7349
+ye;yl 	野	c=1 d=0.00634556 t=7349
+yh;my hv;gj 	楊輝	c=1 d=0.0231676 t=7349
+yh;my ui;gy 	樣式	c=1 d=1.30073e-05 t=7349
+yh;re ll;uf 	仰賴	c=1 d=0.0243554 t=7349
+yi 	以	c=1 d=0.618783 t=7349
+yi ding 	一定	c=1 d=0.449329 t=7349
+yi ge 	一個	c=1 d=0.315058 t=7349
+yi uh 	以上	c=1 d=0.715338 t=7349
+yi xia 	一下	c=1 d=0.786628 t=7349
+yi xie 	一些	c=1 d=0.499074 t=7349
+yi xx 	一些	c=3 d=2.503 t=7349
+yi;aa 	一	c=1 d=0.0649485 t=7349
+yi;aa bf;aa 	一本	c=1 d=0.0620385 t=7349
+yi;aa bj;bf 	一半	c=7 d=2.17545 t=7349
+yi;aa bj;bf yi;rd uh;aa 	一半以上	c=1 d=0.551563 t=7349
+yi;aa bj;vu 	一般	c=5 d=0.763379 t=7349
+yi;aa bj;vu rf;pd 	一般人	c=1 d=0.000338834 t=7349
+yi;aa bm;zf 	一邊	c=4 d=0.556103 t=7349
+yi;aa bu;ek ff;bd 	一部分	c=3 d=0.620145 t=7349
+yi;aa ci;dq 	一次	c=2 d=1.2092 t=7349
+yi;aa dk;zu 	一道	c=1 d=0.0116203 t=7349
+yi;aa dm;hv 	一點	c=6 d=1.01575 t=7349
+yi;aa dr;du 	一段	c=3 d=0.180149 t=7349
+yi;aa ff;rf 	一份	c=2 d=0.199888 t=7349
+yi;aa fh;dd 	一方	c=1 d=0.687289 t=7349
+yi;aa fh;fw 	一放	c=1 d=0.0287246 t=7349
+yi;aa fj;pt 	一番	c=1 d=1.51881e-05 t=7349
+yi;aa fu;ad do;xx qi;na 	一夫多妻	c=1 d=0.0144798 t=7349
+yi;aa ge;rg 	一個	c=24 d=2.5856 t=7349
+yi;aa ge;rg dm;hv 	一個點	c=1 d=0.0473589 t=7349
+yi;aa ge;rg gl;jw 	一個改	c=1 d=0.0424257 t=7349
+yi;aa ju;bk 	一句	c=1 d=0.265803 t=7349
+yi;aa kl;mk ui;nt 	一開始	c=2 d=0.54557 t=7349
+yi;aa lp;il 	一輪	c=1 d=0.0461896 t=7349
+yi;aa qi;na do;xx fu;ad 	一妻多夫	c=1 d=0.0144076 t=7349
+yi;aa qi;zj 	一起	c=1 d=0.496585 t=7349
+yi;aa ts;zy 	一通	c=1 d=0.458406 t=7349
+yi;aa vi;aa 	一直	c=2 d=0.305746 t=7349
+yi;aa vi;wv 	一致	c=2 d=0.265875 t=7349
+yi;aa vj;gd 	一戰	c=0 d=9.00631e-06 t=7349
+yi;aa vs;hv 	一種	c=10 d=0.398519 t=7349
+yi;aa xw;ab 	一下	c=29 d=4.14918 t=7349
+yi;aa xx;ec 	一些	c=26 d=5.9697 t=7349
+yi;aa yh;my 	一樣	c=3 d=0.857094 t=7349
+yi;aa zu;sq 	一組	c=1 d=0.0963276 t=7349
+yi;ag 	已	c=1 d=0.0572688 t=7349
+yi;ag jy;sg 	已經	c=8 d=2.01786 t=7349
+yi;hd ds;lv 	移動	c=1 d=0.380983 t=7349
+yi;lx si;tx 	意思	c=6 d=2.04991 t=7349
+yi;lx ui;yg 	意識	c=1 d=0.0185924 t=7349
+yi;lx wz;kw ve;ym 	意味着	c=4 d=0.0940505 t=7349
+yi;rd 	以	c=6 d=0.0694785 t=7349
+yi;rd ji;nd 	以及	c=2 d=0.000757869 t=7349
+yi;rd uh;aa 	以上	c=5 d=0.974754 t=7349
+yi;rd wz;pd 	以爲	c=2 d=0.2334 t=7349
+yi;ry jq;cj 	依舊	c=1 d=0.814647 t=7349
+yi;ry kk;fg 	依靠	c=3 d=0.0606941 t=7349
+yi;ry ll;uf 	依賴	c=3 d=0.936207 t=7349
+yi;ry ll;uf bk;bs 	依賴包	c=1 d=0.479505 t=7349
+yi;tg ho;gk 	異或	c=1 d=1.08646e-05 t=7349
+yi;tg hw;rb 	異化	c=7 d=0.0510647 t=7349
+yi;yx bf;aa 	譯本	c=1 d=6.50731e-05 t=7349
+yin yang 	陰陽	c=0 d=0.0985112 t=7349
+yin yang yu 	陰陽魚	c=2 d=1.98506 t=7349
+ying xiang 	影響	c=1 d=0.522046 t=7349
+ying yu 	英語	c=1 d=0.918512 t=7349
+yj;cy ck;cz 	菸草	c=11 d=2.18082 t=7349
+yj;dy ui;ad 	演示	c=1 d=0.377192 t=7349
+yj;iq fj;hy 	厭煩	c=1 d=0.2334 t=7349
+yj;iq wu;xy 	厭惡	c=2 d=0.689491 t=7349
+yj;kg ge;mg 	嚴格	c=1 d=0.628135 t=7349
+yj;kg jn;yj 	嚴謹	c=1 d=2.54193e-05 t=7349
+yj;kg su;ya xy;xu 	嚴肅性	c=1 d=0.013912 t=7349
+yj;kg vs;pa 	嚴重	c=2 d=0.863942 t=7349
+yj;md ge;dh 	閹割	c=1 d=0.0389686 t=7349
+yj;mg jy;jj 	眼鏡	c=1 d=0.000113353 t=7349
+yj;mg jy;jj bu;ju 	眼鏡布	c=1 d=0.000114493 t=7349
+yj;uu tb;dy vf;jv 	岩頭鎮	c=1 d=0.0096577 t=7349
+yj;yy se;db 	顏色	c=3 d=0.000988715 t=7349
+yj;zv ii;zn 	延遲	c=7 d=2.49438 t=7349
+yk;xn 	要	c=22 d=1.37761 t=7349
+yk;xn me;my 	要麼	c=3 d=0.120721 t=7349
+yk;xn my;re 	要命	c=1 d=0.384812 t=7349
+yk;xn qq;ad 	要求	c=1 d=0.00104368 t=7349
+yn;ej ch;cg 	隱藏	c=5 d=1.60618 t=7349
+yn;ga hk;hh 	引號	c=0 d=5.48998e-06 t=7349
+yn;ga qy;uj 	引擎	c=1 d=0.697676 t=7349
+yn;ga ys;kf 	引用	c=1 d=0.167797 t=7349
+yn;kd ci;vb 	因此	c=1 d=0.010889 t=7349
+yn;kd wz;pd 	因爲	c=9 d=0.224181 t=7349
+yn;lo 	音	c=1 d=0.031117 t=7349
+yn;lo jx;vj 	音節	c=2 d=0.660769 t=7349
+yn;lo ld;ol 	音量	c=1 d=0.0977834 t=7349
+yn;lo yt;bm 	音樂	c=2 d=0.70822 t=7349
+yong 	用	c=1 d=0.744532 t=7349
+you 	有	c=1 d=0.839457 t=7349
+you dian 	有點	c=1 d=0.941765 t=7349
+you hua 	優化	c=1 d=0.852144 t=7349
+you xie 	有些	c=1 d=0.970446 t=7349
+you yu 	由於	c=5 d=1.67296 t=7349
+yp;se xu;yw 	允許	c=2 d=0.00864358 t=7349
+yp;yy 	雲	c=1 d=0.0701173 t=7349
+yp;zj sr;vc 	運算	c=2 d=1.11981 t=7349
+yp;zj sr;vc fu;vf 	運算符	c=1 d=0.634448 t=7349
+yp;zj xy;rd 	運行	c=4 d=0.577181 t=7349
+yr;aw 	元	c=1 d=0.000110736 t=7349
+yr;aw yn;lo 	元音	c=2 d=0.0880368 t=7349
+yr;dy 	源	c=4 d=0.467671 t=7349
+yr;dy ma;um 	源碼	c=3 d=0.787158 t=7349
+yr;ew xc;mj 	院校	c=0 d=0.00108347 t=7349
+yr;ix li;wl 	原理	c=2 d=0.562716 t=7349
+yr;ix ll;ad 	原來	c=9 d=2.63626 t=7349
+yr;ix ui;nt 	原始	c=3 d=0.00535215 t=7349
+yr;ix xy;tx 	原型	c=2 d=1.83249 t=7349
+yr;ix yn;kd 	原因	c=4 d=0.811256 t=7349
+yr;kb gs;aa 	員工	c=1 d=0.571209 t=7349
+yr;zy 	遠	c=1 d=0.631284 t=7349
+yr;zy dm;hv 	遠點	c=1 d=0.0303487 t=7349
+yr;zy fh;dd 	遠方	c=1 d=0.0175975 t=7349
+ys le 	用了	c=1 d=0.683861 t=7349
+ys;dd jq;dd 	永久	c=1 d=0.00054485 t=7349
+ys;dd jw;uj xm;xx 	永嘉縣	c=2 d=0.0197118 t=7349
+ys;dd yr;zy 	永遠	c=1 d=0.00027603 t=7349
+ys;kf 	用	c=21 d=2.36061 t=7349
+ys;kf bu;ad uh;aa 	用不上	c=1 d=0.000418012 t=7349
+ys;kf hu;pk 	用戶	c=12 d=0.484493 t=7349
+ys;kf le;aa 	用了	c=2 d=0.158025 t=7349
+ys;kf li;gp 	用力	c=1 d=0.0172848 t=7349
+ys;kf li;gp dm;hv 	用力點	c=1 d=0.0259911 t=7349
+ys;kf ll;ad 	用來	c=2 d=0.802519 t=7349
+ys;kf qi;zj ll;ad 	用起來	c=1 d=0.000120363 t=7349
+ys;kf uh;aa 	用上	c=1 d=0.0564852 t=7349
+ys;kf uh;aa le;aa 	用上了	c=1 d=0.0520787 t=7349
+yt;bm ig;gg 	樂成	c=1 d=0.0115624 t=7349
+yt;bm qy;dq ui;dj 	樂清市	c=1 d=0.0113902 t=7349
+yt;md du;ym 	閱讀	c=1 d=0.0617291 t=7349
+yt;md du;ym qi;kk 	閱讀器	c=1 d=0.000485661 t=7349
+yt;pa 	月	c=3 d=0.0987662 t=7349
+yt;pa xn;cx 	月薪	c=1 d=0.123687 t=7349
+yt;su hv;ro 	約會	c=1 d=0.000134358 t=7349
+yt;su uu;ad 	約束	c=1 d=0.362402 t=7349
+yt;zy 	越	c=3 d=0.0096008 t=7349
+yt;zy ll;ad yt;zy 	越來越	c=1 d=0.810584 t=7349
+yu 	魚	c=0 d=0.0985112 t=7349
+yu;ad xu;hy 	玉虛	c=1 d=0.425283 t=7349
+yu;ba 	與	c=10 d=1.1008 t=7349
+yu;by 	宇	c=1 d=0.105928 t=7349
+yu;fd 	於	c=2 d=0.980199 t=7349
+yu;fd ui;op 	於是	c=2 d=0.706523 t=7349
+yu;fp mf;mx 	鬱悶	c=1 d=0.15259 t=7349
+yu;hw ji;ni 	虞姬	c=1 d=0.00050296 t=7349
+yu;nw le;bm 	娛樂	c=1 d=0.0134335 t=7349
+yu;rb 	余	c=1 d=0.438235 t=7349
+yu;th 	域	c=1 d=1.08795e-05 t=7349
+yu;uy 	嶼	c=1 d=0.0104099 t=7349
+yu;uy ug;na 	餘生	c=1 d=0.0149208 t=7349
+yu;uy uu;wl 	餘數	c=1 d=0.0415857 t=7349
+yu;uy xw;ab 	餘下	c=1 d=0.0397558 t=7349
+yu;xx 	御	c=1 d=0.00546167 t=7349
+yu;yw fa;dq 	語法	c=6 d=2.01615 t=7349
+yu;yw ju;bk 	語句	c=1 d=0.210136 t=7349
+yu;yw yi;yw 	語義	c=1 d=0.704688 t=7349
+yu;yw yj;da 	語言	c=2 d=0.0102814 t=7349
+yu;yw yj;da bk;bs 	語言包	c=1 d=0.055299 t=7349
+yu;yw yn;lo 	語音	c=4 d=0.117836 t=7349
+yu;yy iu;hi li;wl 	預處理	c=2 d=0.00158195 t=7349
+yuan cheng 	遠程	c=0 d=0.0900325 t=7349
+yuan cheng ku 	遠程庫	c=1 d=0.904837 t=7349
+yuan shi 	原始	c=1 d=0.677057 t=7349
+yy;cy ui;gy 	英式	c=1 d=0.0490458 t=7349
+yy;cy wf;dd 	英文	c=2 d=0.0480747 t=7349
+yy;cy yu;yw 	英語	c=7 d=0.559898 t=7349
+yy;gx 	應	c=1 d=3.83023e-05 t=7349
+yy;gx gl;yh 	應該	c=3 d=0.054074 t=7349
+yy;gx ys;kf 	應用	c=3 d=0.831104 t=7349
+yy;my 	櫻	c=1 d=0.909373 t=7349
+yy;my hw;ch 	櫻花	c=2 d=0.0478349 t=7349
+yy;pj xd;yx 	影響	c=5 d=0.836293 t=7349
+yy;pj yn;lo 	影音	c=1 d=0.000439444 t=7349
+yy;ug jm;rn 	硬件	c=6 d=0.0935414 t=7349
+zb;tv xd;pk 	走向	c=1 d=0.0575558 t=7349
+ze;bf gy;xu 	責怪	c=1 d=0.00117088 t=7349
+ze;bf rf;rr 	責任	c=1 d=0.287941 t=7349
+ze;db 	則	c=17 d=1.22511 t=7349
+ze;db ui;op 	則是	c=3 d=0.00574101 t=7349
+zf;xv me;my 	怎麼	c=2 d=0.715345 t=7349
+zg uj 	增刪	c=1 d=0.891366 t=7349
+zg;tc jw;kl 	增加	c=1 d=0.704688 t=7349
+zg;tc qd;gi 	增強	c=2 d=0.000144953 t=7349
+zg;tc vh;ad 	增長	c=1 d=3.16745e-05 t=7349
+zhan yong 	佔用	c=2 d=0.870252 t=7349
+zhao dao 	找到	c=1 d=0.299692 t=7349
+zhe ge 	這個	c=4 d=3.05968 t=7349
+zhe li 	這裏	c=1 d=0.282239 t=7349
+zhe shi 	這是	c=1 d=0.970446 t=7349
+zhe xie 	這些	c=1 d=0.551563 t=7349
+zhen de 	真的	c=1 d=0.937067 t=7349
+zheng ge 	整個	c=1 d=0.339596 t=7349
+zheng ze 	正則	c=1 d=1 t=7349
+zhi hou 	之後	c=2 d=1.0158 t=7349
+zhi jie 	直接	c=1 d=0.404542 t=7349
+zhi liang 	質量	c=1 d=0.932394 t=7349
+zhong 	中	c=2 d=1.63128 t=7349
+zi dian 	字典	c=10 d=5.91287 t=7349
+zi dm 	字典	c=1 d=0.97531 t=7349
+zi fu 	字符	c=1 d=0.995012 t=7349
+zi ji 	自己	c=2 d=0.667151 t=7349
+zi ran ma 	自然碼	c=5 d=2.77241 t=7349
+zi rj ma 	自然碼	c=4 d=2.18524 t=7349
+zi;aa 	子	c=10 d=2.14435 t=7349
+zi;aa ir;aa 	子串	c=1 d=0.623514 t=7349
+zi;aa jx;vj dm;hv 	子節點	c=9 d=3.25342 t=7349
+zi;aa ma;um 	子碼	c=3 d=0.67032 t=7349
+zi;aa uu;mc 	子樹	c=1 d=0.236928 t=7349
+zi;aa wf;km ti;uy 	子問題	c=1 d=0.00159641 t=7349
+zi;aa xi;ps ts;si 	子系統	c=2 d=0.582748 t=7349
+zi;aa xu;gy lx;dd 	子序列	c=2 d=5.10014e-05 t=7349
+zi;bz 	字	c=3 d=0.216009 t=7349
+zi;bz dm;ba 	字典	c=10 d=2.68298 t=7349
+zi;bz fu;vf 	字符	c=1 d=5.57296e-05 t=7349
+zi;bz fu;vf ir;aa 	字符串	c=3 d=0.000253366 t=7349
+zi;bz ku;gi 	字庫	c=3 d=0.642522 t=7349
+zi;bz mm;aa 	字面	c=0 d=0.0744532 t=7349
+zi;bz mm;aa ld;ol 	字面量	c=3 d=0.748264 t=7349
+zi;bz ti;gd 	字體	c=2 d=0.0596059 t=7349
+zi;bz zu;sq 	字組	c=1 d=0.444858 t=7349
+zi;pa 	自	c=1 d=0.000287295 t=7349
+zi;pa ds;lv ji;mj 	自動機	c=1 d=6.31499e-05 t=7349
+zi;pa dy;bp yi;yw 	自定義	c=3 d=0.0736044 t=7349
+zi;pa ji;ag 	自己	c=19 d=1.30293 t=7349
+zi;pa rj;dq 	自然	c=2 d=0.0690734 t=7349
+zi;pa rj;dq dm;hv 	自然點	c=1 d=0.0278757 t=7349
+zi;pa rj;dq ma;um 	自然碼	c=30 d=5.56432 t=7349
+zi;pa rj;dq ma;um bc;fy 	自然碼表	c=1 d=0.440432 t=7349
+zi;pa rj;dq ud;vy pn;fb 	自然雙拼	c=1 d=0.694197 t=7349
+zi;pa ua;uu 	自殺	c=1 d=0.0108347 t=7349
+zi;pa uf;pp 	自身	c=9 d=0.343009 t=7349
+zi;pa vi;yv 	自製	c=1 d=0.532592 t=7349
+zi;pa xy;rd 	自行	c=1 d=0.860708 t=7349
+zi;pa yb;aa 	自由	c=21 d=2.60039 t=7349
+zi;pa yb;aa hw;rb 	自由化	c=1 d=0.0319048 t=7349
+zi;sc ui;gy bu;ek 	紫式部	c=1 d=0.0523397 t=7349
+zj;bx vu;lq 	贊助	c=1 d=0.737123 t=7349
+zj;fz le;aa 	攢了	c=1 d=0.000131698 t=7349
+zj;ov ui;os 	暫時	c=1 d=0.12938 t=7349
+zk i 	造成	c=1 d=0.860708 t=7349
+zk;mc gk;mg 	糟糕	c=0 d=0.00808629 t=7349
+zk;ou uh;aa 	早上	c=1 d=0.26982 t=7349
+zl 	在	c=2 d=1.45381 t=7349
+zl;aa 	再	c=13 d=0.825863 t=7349
+zl;aa jm;me 	再見	c=1 d=0.0461896 t=7349
+zl;gi 	載	c=0 d=4.07691e-05 t=7349
+zl;gi tu;kh 	載圖	c=2 d=0.384105 t=7349
+zl;ta 	在	c=50 d=1.97545 t=7349
+zl;ta hu;pa 	在乎	c=1 d=0.000536738 t=7349
+zl;ta xm;sq 	在線	c=1 d=0.0295994 t=7349
+zl;ta yu;fd 	在於	c=10 d=0.060857 t=7349
+zo;gu 	左	c=6 d=4.03831 t=7349
+zo;gu ub;pa 	左手	c=1 d=0.0288686 t=7349
+zo;gu yb;ku 	左右	c=0 d=0.00213864 t=7349
+zo;gu yb;ku jc;oq 	左右腳	c=1 d=0.0214936 t=7349
+zo;gz wz;rl 	座位	c=1 d=0.0294518 t=7349
+zo;gz yi;mq 	座椅	c=1 d=0.0117959 t=7349
+zo;ov tm;ad 	昨天	c=2 d=0.603506 t=7349
+zo;rg 	做	c=4 d=0.254107 t=7349
+zo;rg de;bu 	做的	c=1 d=0.255381 t=7349
+zo;rg hk;nz 	做好	c=1 d=0.501576 t=7349
+zo;rg le;aa 	做了	c=2 d=0.494622 t=7349
+zo;rg mg;cx 	做夢	c=1 d=0.126818 t=7349
+zo;rg ti;uy 	做題	c=1 d=0.0114473 t=7349
+zo;rg yi;aa ge;rg 	做一個	c=1 d=0.222017 t=7349
+zo;rt ve;ym 	坐着	c=1 d=0.282239 t=7349
+zo;rv 	作	c=1 d=0.000113353 t=7349
+zo;rv iu;ck 	作出	c=1 d=0.481909 t=7349
+zo;rv wz;pd 	作爲	c=6 d=0.986621 t=7349
+zo;rv wz;pd ze;db 	作爲則	c=1 d=0.106992 t=7349
+zo;rv ys;kf 	作用	c=2 d=0.770792 t=7349
+zo;rv ys;kf yu;fd 	作用於	c=1 d=0.00194986 t=7349
+zs;sc jx;sj 	總結	c=3 d=0.0158434 t=7349
+zs;sc sr;vc 	總算	c=1 d=0.677057 t=7349
+zs;sc ti;gd 	總體	c=2 d=0.893778 t=7349
+zs;sc ti;gd uh;aa 	總體上	c=1 d=0.57695 t=7349
+zs;sc ui;op 	總是	c=8 d=0.0950866 t=7349
+zu;sq 	組	c=3 d=0.22882 t=7349
+zu;sq he;rk 	組合	c=3 d=0.000119129 t=7349
+zu;sq he;rk uu;wl 	組合數	c=2 d=1.727e-05 t=7349
+zuo wei 	作爲	c=1 d=0.810584 t=7349
+zuo yong 	作用	c=2 d=1.13685 t=7349
+zv;oq 	最	c=1 d=0.000284437 t=7349
+zv;oq da;ad 	最大	c=5 d=1.48785 t=7349
+zv;oq da;ad lq;di 	最大流	c=2 d=0.0647772 t=7349
+zv;oq da;ad vi;rv 	最大值	c=1 d=0.00126207 t=7349
+zv;oq do;xx 	最多	c=2 d=0.0405626 t=7349
+zv;oq dr;ud 	最短	c=0 d=0.0024972 t=7349
+zv;oq dr;ud lu;zg 	最短路	c=1 d=0.0250972 t=7349
+zv;oq hb;rw 	最後	c=6 d=1.02643 t=7349
+zv;oq hk;nz 	最好	c=2 d=0.00295547 t=7349
+zv;oq ih;ad 	最長	c=12 d=0.562705 t=7349
+zv;oq jn;zj 	最近	c=5 d=0.65377 t=7349
+zv;oq mj;xm 	最慢	c=1 d=0.000953854 t=7349
+zv;oq vi;rv 	最值	c=4 d=0.00488784 t=7349
+zv;oq vs;sd 	最終	c=2 d=0.729981 t=7349
+zv;oq xc;ad 	最小	c=6 d=0.0265438 t=7349
+zv;oq xc;ad uu;wl 	最小數	c=1 d=2.79526e-05 t=7349
+zv;oq xc;ad vi;rv 	最小值	c=1 d=0.00128115 t=7349
+zv;oq xn;jq 	最新	c=6 d=0.00534007 t=7349
+zv;oq yb;ku 	最右	c=4 d=2.17485 t=7349
+zv;oq yb;zy 	最遊	c=1 d=6.15907e-05 t=7349
+zz;br hk;nz 	賊好	c=1 d=0.151072 t=7349
