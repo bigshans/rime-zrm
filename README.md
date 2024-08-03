@@ -27,6 +27,55 @@ myself 是我个人使用的字词库，[zrm_pinyin.schema.yaml](./myself/zrm_pi
 1. 可以外挂小型词库
 2. 可以适合使用自然码双拼但轻度使用辅助码的用户
 
+## lua 脚本
+
+### 以词定字
+
+到 `w2c.lua` 脚本中到 `rime.lua` ，并添加 filter 到个人的 schema 中。
+
+```yaml
+engine:
+  filters:
+    - lua_filter@w2c_filter
+```
+
+如要启用，则需要在用户字典添加一条记录用作分隔符，比如：
+
+```
+※	|
+```
+
+按下 `|` 将进行以词定字，效果如下：
+
+![以词定字](./imgs/w2c.png)
+
+选择 1 将输入`辅`字。
+
+理论上任何 schema 都可以用，但没有测试过。
+
+### 对辅码展示的优化
+
+需要设置 `spelling_hints` ：
+
+```yaml
+translator:
+    - spelling_hints: 1
+```
+
+之后引入 `second_code_filter.lua` 到 `rime.lua` 中，并添加对应的 filter 到 schema 中。
+
+```yaml
+engine:
+  filters:
+    - lua_filter@secondary_code_filter
+```
+
+不能完全将辅码处理干净。
+
+效果如下：
+
+![second_code_filter](./imgs/second_code_effect.png)
+
 ## Q&A
 
 ### 如何使用辅码？
