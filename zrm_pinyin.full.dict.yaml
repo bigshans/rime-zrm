@@ -1,5 +1,5 @@
 ---
-name: zrm_pinyin
+name: zrm_pinyin.full
 version: "1.0"
 sort: by_weight
 use_preset_vocabulary: true

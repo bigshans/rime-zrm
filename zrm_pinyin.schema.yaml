@@ -48,46 +48,19 @@ engine:
     - uniquifier
 
 speller:
-  alphabet: "zyxwvutsrqponmlkjihgfedcba;"
+  alphabet: "zyxwvutsrqponmlkjihgfedcba;ZYXWVUTSRQPONMLKJIHGFEDCBA"
   delimiter: " '"
   algebra:
-    - derive/^(\w*);(\w)(\w)$/$1;$2$3/
-    - derive/^(\w*);(\w)(\w)$/$1;$2/
-    - derive/^(\w*);(\w)(\w)$/$1/
-    # - erase/^xx$/
-    # - derive/^([jqxy])u$/$1v/
-    # - derive/^([aoe])([ioun])$/$1$1$2/
-    # - derive/^(\w*);(\w)$/$1;$2/
-    # - xform/^([aoe])(ng)?$/$1$1$2/
-    # - xform/iu$/Q/
-    # - xform/[iu]a$/W/
-    # - xform/[uv]an$/R/
-    # - xform/[uv]e$/T/
-    # - xform/ing$|uai$/Y/
-    # - xform/^sh/U/
-    # - xform/^ch/I/
-    # - xform/^zh/V/
-    # - xform/uo$/O/
-    # - xform/[uv]n$/P/
-    # - xform/i?ong$/S/
-    # - xform/[iu]ang$/D/
-    # - xform/(.)en$/$1F/
-    # - xform/(.)eng$/$1G/
-    # - xform/(.)ang$/$1H/
-    # - xform/ian$/M/
-    # - xform/(.)an$/$1J/
-    # - xform/iao$/C/
-    # - xform/(.)ao$/$1K/
-    # - xform/(.)ai$/$1L/
-    # - xform/(.)ei$/$1Z/
-    # - xform/ie$/X/
-    # - xform/ui$/V/
-    # - xform/(.)ou$/$1B/
-    # - xform/in$/N/
-    # - xlit/QWRTYUIOPSDFGHMJCKLZXVBN/qwrtyuiopsdfghmjcklzxvbn/
-    # 下面这个开起来会非常卡
-    # - abbrev/^(.).+$/$1/
-    - abbrev/^(.{2});+$/$1/
+    - derive/^(\w*);(\w)(\w*)$/$1;$2/
+    - derive/^(\w*);(\w*)$/$1/
+    - derive/^([a-z].+)$/\U$1/
+    # 支持大写字符
+    - derive/^([a-zA-Z])/\U$1/
+    - derive/^([a-z][a-z])/\U$1/
+    # 模糊音设置例子，`en` 和 `eng` 模糊音设置
+    # - derive/^(\w)g;(\w)(\w)$/$1f;$2$3/
+    # - derive/^(\w)g;(\w)(\w)$/$1f;$2/
+    # - derive/^(\w)g;(\w)(\w)$/$1f/
 
 translator:
   dictionary: zrm_pinyin

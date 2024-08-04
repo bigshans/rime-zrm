@@ -1,7 +1,7 @@
 # Rime dictionary: zrm2000
 # encoding: utf-8
 ---
-name: zrm_pinyin
+name: zrm_pinyin.standard_unique
 version: "1.0"
 sort: by_weight
 use_preset_vocabulary: true

@@ -9,7 +9,7 @@
 | 文件                           | 特点                                                                  |
 | ------------------------------ | --------------------------------------------------------------------- |
 | zrm_pinyin.dict.yaml           | 从 zrm2000 词库改造而来，删除了一些非文字字符。                       |
-| zrm_pinyin.dict.yaml-2         | 结合 zrm_pinyin 与 luna_pinyin 生成的词库，内容很全，包含非文字字符。 |
+| zrm_pinyin.full.dict.yaml         | 结合 zrm_pinyin 与 luna_pinyin 生成的词库，内容很全，包含非文字字符。 |
 | zrm_pinyin.unique_fm.dict.yaml        | 从 zrm_pinyin 改 2 改造过来，目的是为了减少重码。                     |
 | zrm_pinyin.standard_unique.dict.yaml  | 从`unique_fm`统一辅助码规则并去重，由 [@sharp-tasting](https://github.com/sharp-tasting) 提供。        |
 | zrm_pinyin.utf8-lite.dict.yaml | 基于 unique_fm 版再改造而来，去除了不能正常显示的文字。               |
