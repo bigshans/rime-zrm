@@ -67,7 +67,7 @@ translator:
   prism: zrm_pinyin
   preedit_format:
     - xform/(?<!;)([bpmnljqxy])n/$1in/
-    - xform/(?<!;)([bcdfghklmprst])g/$1eng/
+    - xform/(?<!;)([bcdfghklmprstviu])g/$1eng/
     - xform/(?<!;)([bdlmnq])q/$1iu/
     - xform/(?<!;)([gkhvuirzcrs])w/$1ua/
     - xform/(?<!;)([dljqx])w/$1ia/
