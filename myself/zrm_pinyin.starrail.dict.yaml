@@ -1,0 +1,2435 @@
+---
+name: zrm_pinyin.starrail
+version: "2025.10.18"
+sort: by_weight 
+use_preset_vocabulary: false
+...
+
+阿浮	aa;ek fu;df	1
+阿格莱雅	aa;ek ge;mg ll;cl ya;yv	1
+阿合马	aa;ek he;rk ma;aa	1
+阿克赛	aa;ek ke;eg sl;bb	1
+阿来	aa;ek ll;hm	1
+阿兰	aa;ek lj;bs	1
+阿兰背影的照片	aa;ek lj;bs bz;ob yy;pj de;bu vk;hv pm;pa	1
+阿然	aa;ek rj;hq	1
+阿斯德纳白橡木	aa;ek si;jq de;xx na;sn bl;pr xd;mx mu;hd	1
+阿斯娜	aa;ek si;jq na;nn	1
+阿往	aa;ek wh;xv	1
+阿往阿来的授权录音	aa;ek wh;xv aa;ek ll;hm de;bu ub;fu qr;my lu;au yn;lr	1
+阿锡卡	aa;ek xi;jy ka;bx	1
+爱德华医生	ai;vy de;xx hw;uh yi;ku ug;nh	1
+艾迪恩代币	ai;ci di;zy en;xy dl;ry bi;pj	1
+艾迪恩公园	ai;ci di;zy en;xy gs;bs yr;ky	1
+艾丽	ai;ci li;ad	1
+艾利欧	ai;ci li;dh ou;qq	1
+艾丽斯	ai;ci li;ad si;jq	1
+艾默里奇	ai;ci mo;hq li;aa qi;dk	1
+哀荣泣石	ai;dy rs;cm qi;dl ui;pk	1
+艾丝妲	ai;ci si;hv da;nd	1
+艾薇拉	ai;ci wz;cw la;fl	1
+爱遇见	ai;vy yu;zy jm;ug	1
+黯淡黑曜	an;hy dj;dy hz;dh yk;rv	1
+安德森	an;bn de;xx sf;ml	1
+安眠锤	an;bn mm;om iv;ji	1
+案情简述其二	an;bm qy;xq jm;vj uu;zu qi;hb er;hh	1
+案情简述其一	an;bm qy;xq jm;vj uu;zu qi;hb yi;ah	1
+安逸	an;bn yi;zt	1
+奥帝艾弗法	ao;dm di;lj ai;ci fu;gp fa;dq	1
+奥帝购物中心	ao;dm di;lj gb;bg wu;nw vs;ku xn;dd	1
+奥科萨娜	ao;dm ke;hd sa;ci na;nn	1
+奥科萨娜的玩具	ao;dm ke;hd sa;ci na;nn de;bu wj;wy ju;ba	1
+巴尔	ba;ag er;xd	1
+巴尔的父亲	ba;ag er;xd de;bu fu;pd qn;lm	1
+百层圣代零卡	bl;hb cg;uy ug;yt dl;ry ly;yl ka;bx	1
+白厄	bl;pr ee;ie	1
+百鬼率舞	bl;hb gv;ps lv;wu wu;pu	1
+百里挑一的垃圾	bl;hb li;aa tc;tv yi;ah de;bu la;tl ji;tj	1
+白露	bl;pr lu;yl	1
+白露仁医	bl;pr lu;yl rf;re yi;ku	1
+白鸟	bl;pr nc;nh	1
+白日梦酒店	bl;pr ri;ri mg;xl jq;dy dm;gv	1
+半途之屋	bj;bf tu;zy vi;dd wu;uv	1
+暴风之眼	bk;ru fg;ji vi;dd yj;mg	1
+鲍里斯	bk;yb li;aa si;jq	1
+爆米花	bk;hb mi;dd hw;ch	1
+宝石蜥肉串	bk;by ui;pk xi;ix rb;kr ir;uu	1
+被拆散的艺术品零件	bz;yp il;fi sj;wo de;bu yi;cy uu;md pn;kk ly;yl jm;rn	1
+悲悼伶人	bz;xf dk;xv ly;rl rf;pd	1
+北极星	bz;bj ji;mj xy;ru	1
+贝洛伯格古武术残卷	bz;kr lo;dg bo;rb ge;mg gu;uk wu;vy uu;md cj;dj jr;je	1
+贝洛伯格红肠	bz;kr lo;dg bo;rb ge;mg hs;sg ih;yy	1
+被撕碎的手稿	bz;yp si;fs sv;uz de;bu ub;ub gk;hg	1
+狈影	bz;qb yy;pj	1
+悲郁齿轮	bz;xf yu;ey ii;vk lp;il	1
+笨罐先生	bf;vb gr;fv xm;en ug;nh	1
+笔记梦境寻母记二	bi;vm ji;yj mg;xl jy;tj xp;xc mu;vd ji;yj er;hh	1
+笔记梦境寻母记三	bi;vm ji;yj mg;xl jy;tj xp;xc mu;vd ji;yj sj;aa	1
+笔记梦境寻母记四	bi;vm ji;yj mg;xl jy;tj xp;xc mu;vd ji;yj si;ke	1
+笔记梦境寻母记一	bi;vm ji;yj mg;xl jy;tj xp;xc mu;vd ji;yj yi;ah	1
+比阳光更明亮的	bi;bb yh;er gd;ea gg;hg my;ry ld;wj de;bu	1
+璧羽	bi;wx yu;xx	1
+编年史	bm;sb nm;pu ui;ki	1
+遍智天君	bm;zb vi;ov tm;ad jp;ky	1
+别让世界静下来	bx;dl rh;yu ui;ca jx;tj jy;qv xw;ad ll;hm	1
+别太蕉绿	bx;dl tl;dd jc;cj lv;sl	1
+冰锋	by;du fg;jf	1
+冰火玄莲	by;du ho;dd xr;wy lm;cl	1
+病假证明备份	by;bb jw;ry vg;yv my;ry bz;wt ff;rf	1
+冰鲜霜纹鲑生鱼片	by;du xm;yy ud;yx wf;sw gv;yg ug;nh yu;da pm;pa	1
+冰之芯	by;du vi;dd xn;cx	1
+波尔卡卡卡目	bo;dp er;xd ka;bx ka;bx ka;bx mu;uh	1
+伯纳德	bo;rb na;sn de;xx	1
+波少百科	bo;dp uk;xp bl;hb ke;hd	1
+波少粉丝回馈手卡	bo;dp uk;xp ff;mf si;hv hv;kk kv;ug ub;ub ka;bx	1
+波少限定写真	bo;dp uk;xp xm;eg dy;bp xx;by vf;uj	1
+博识学会	bo;uc ui;yv xt;dz hv;ry	1
+波提欧	bo;dp ti;fu ou;qq	1
+波提欧暗袭	bo;dp ti;fu ou;qq an;ry xi;ly	1
+不可直视之物	bu;ax ke;dk vi;hh ui;uj vi;dd wu;nw	1
+步离犬牙	bu;vx li;ds qr;hd ya;hp	1
+步离人	bu;vx li;ds rf;pd	1
+步离战首呼雷	bu;vx li;ds vj;gv ub;qz hu;kh lz;yt	1
+布琳娜	bu;uj ln;wl na;nn	1
+布罗娜	bu;uj lo;sx na;nn	1
+布洛妮娅	bu;uj lo;dg ni;nn ya;ny	1
+布洛妮娅庆典	bu;uj lo;dg ni;nn ya;ny qy;gd dm;bh	1
+不求人	bu;ax qq;ad rf;pd	1
+不死神实幻胧	bu;ax si;db uf;uu ui;bt hr;yg ls;yl	1
+补天司命	bu;yb tm;ad si;ka my;re	1
+不息的演算	bu;ax xi;xz de;bu yj;dy sr;vc	1
+不值一提的垃圾	bu;ax vi;rv yi;ah ti;fu de;bu la;tl ji;tj	1
+不知赠予何人的弓	bu;ax vi;uk zg;bc yu;su he;rk rf;pd de;bu gs;ag	1
+彩梦什锦糖果	cl;pc mg;xl ui;ru jn;jb th;mt go;tm	1
+猜想	cl;qq xd;xx	1
+采翼的交换日记	cl;mv yi;yg de;bu jc;lw hr;th ri;ri ji;yj	1
+蚕食者之影	cj;ti ui;rl ve;ol vi;dd yy;pj	1
+蚕食者之影错误	cj;ti ui;rl ve;ol vi;dd yy;pj co;jx wu;yw	1
+残响回廊的资格徽章	cj;dj xd;kx hv;kk lh;gl de;bu zi;bc ge;mg hv;rw vh;lz	1
+喰云之首	cj;ku yp;es vi;dd ub;qz	1
+藏宝图加农火炮	ch;ci bk;by tu;kd jw;lk ns;by ho;dd pk;hb	1
+藏宝图信息终端及显示屏套组	ch;ci bk;by tu;kd xn;ry xi;xz vs;sd dr;le ji;nd xm;oy ui;hd py;ub tk;di zu;sq	1
+苍逝冷阳	ch;cc ui;zv lg;dl yh;er	1
+仓鼠球骑士	ch;re uu;ju qq;wq qi;mq ui;hh	1
+仓鼠球骑士外传胶卷	ch;re uu;ju qq;wq qi;mq ui;hh wl;xb vr;rv jc;oj jr;je	1
+苍猿之钉	ch;cc yr;qy vi;dd dy;jd	1
+草绿经理	ck;cz lv;sl jy;sg li;wl	1
+蝉喓歌长命无绝	ij;id yk;ky ge;qg ih;pd my;re wu;hg jt;ss	1
+蝉喓歌晦明苦短	ij;id yk;ky ge;qg hv;rm my;ry ku;cg dr;ud	1
+蝉喓歌仙骸有终	ij;id yk;ky ge;qg xm;ru hl;gh yb;ou vs;sd	1
+长乐天	ih;pd le;px tm;ad	1
+长路终有归途	ih;pd lu;zg vs;sd yb;ou gv;ux tu;zy	1
+长梦苦短	ih;pd mg;xl ku;cg dr;ud	1
+长眠不醒	ih;pd mm;om bu;ax xy;yx	1
+长效专利捍卫一纸通	ih;pd xc;wj vr;fs li;dh hj;fh wz;ga yi;ah vi;su ts;zy	1
+炒饭天才号	ik;hu fj;uf tm;ad cl;hp hk;kk	1
+超镍零件	ik;zv nx;jm ly;yl jm;rn	1
+抄写好的经文	ik;tu xx;by hk;nz de;bu jy;sg wf;dd	1
+沉浸器	if;dr jn;dy qi;kk	1
+沉沦黑曜	if;dr lp;dl hz;dh yk;rv	1
+尘世乐园	if;tx ui;ca le;px yr;ky	1
+乘间抵隙的煽动者	ig;hb jm;om di;fd xi;ex de;bu uj;hu ds;ly ve;ol	1
+铖杰的纸船	ig;ji jx;hm de;bu vi;su ir;vk	1
+惩戒粮食	ig;xv jx;gc ld;ml ui;rl	1
+惩戒能量	ig;xv jx;gc ng;sb ld;rl	1
+承露天人	ig;zd lu;yl tm;ad rf;pd	1
+承露天人错误	ig;zd lu;yl tm;ad rf;pd co;jx wu;yw	1
+瘈狂之卷	ii kd;qw vi;dd jr;je	1
+持明	ii;fs my;ry	1
+持明时调	ii;fs my;ry ui;oc dc;yv	1
+持明一族	ii;fs my;ry yi;ah zu;fu	1
+炽情之灵	ii;hv qy;xq vi;dd ly;xh	1
+炽燃徘徊者	ii;hv rj;hr pl;xf hy;xh ve;ol	1
+炽燃徘徊者错误	ii;hv rj;hr pl;xf hy;xh ve;ol co;jx wu;yw	1
+赤衣	ii;tb yi;dd	1
+重返幽冥	is;ph fj;zf yb;uy my;bl	1
+崇高道德的赞许	is;uz gk;dk dk;zu de;xx de;bu zj;bx xu;yw	1
+虫群	is;vd qp;yj	1
+虫群真蛰虫	is;vd qp;yj vf;uj ve;iv is;vd	1
+重塑时光之忆	is;ph su;ty ui;oc gd;ea vi;dd yi;xy	1
+出云味噌	iu;ck yp;es wz;kw cg;kc	1
+吹捧的通稿	iv;kq pg;ff de;bu ts;zy gk;hg	1
+纯粹思维的洗礼	ip;st cv;mz si;tx wz;sv de;bu xi;dx li;ug	1
+蠢动原核	ip;ii ds;ly yr;ix he;mh	1
+纯美骑士团	ip;st mz;yd qi;mq ui;hh tr;kc	1
+春水初生	ip;rf uv;ad iu;yd ug;nh	1
+此身为剑	ci;vb uf;pp wz;dd jm;da	1
+此时恰好	ci;vb ui;oc qw;xh hk;nz	1
+次元扑满	ci;dq yr;ee pu;fb mj;dl	1
+次蛰虫	ci;dq ve;iv is;vd	1
+篡改的野心	cr;vs gl;jw de;bu ye;ly xn;dd	1
+催吐剂	cv;rc tu;kt ji;dq	1
+存护扑满	cp;uz hu;th pu;fb mj;dl	1
+存护之影	cp;uz hu;th vi;dd yy;pj	1
+存护筑材	cp;uz hu;th vu;vg cl;mc	1
+存在的地平线	cp;uz zl;ta de;bu di;ty py;hu xm;sj	1
+大毫	da;ad hk;wm	1
+大黑塔	da;ad hz;dh ta;th	1
+大还丹	da;ad hr;zb dj;pd	1
+大矿区的资格徽章	da;ad kd;ug qu;ki de;bu zi;bc ge;mg hv;rw vh;lz	1
+打赏积分	da;fd uh;dk ji;hv ff;bd	1
+大宇宙炒饭	da;ad yu;by vb;by ik;hu fj;uf	1
+大宇宙炒饭隔夜版	da;ad yu;by vb;by ik;hu fj;uf ge;eg ye;ww bj;pf	1
+黛茜	dl;hd xi;cx	1
+蛋白米	dj;ip bl;pr mi;dd	1
+丹笔	dj;pd bi;vm	1
+丹鼎司	dj;pd dy;oa si;ka	1
+丹恒	dj;pd hg;xg	1
+丹恒饮月	dj;pd hg;xg yn;uq yt;oy	1
+丹恒迎新	dj;pd hg;xg yy;ze xn;jq	1
+弹铗飞光现龙影	dj;gd jw;jj fz;yd gd;ea xm;wj ls;ad yy;pj	1
+丹轮寺	dj;pd lp;il si;ct	1
+丹尼斯	dj;pd ni;ub si;jq	1
+丹枢调配的药物	dj;pd uu;mq tc;yv pz;yj de;bu yk;cy wu;nw	1
+丹西	dj;pd xi;hh	1
+但战斗还未结束	dj;rd vj;gv db;du hl;zb wz;hd jx;sj uu;hd	1
+档案中的照片	dh;md an;bm vs;ku de;bu vk;hv pm;pa	1
+到不了的彼岸	dk;dv bu;ax lc;vu de;bu bi;rp an;ug	1
+稻花	dk;hy hw;ch	1
+倒扣的王牌	dk;rd kb;tk de;bu wh;aa pl;pb	1
+德尔默食坊	de;xx er;xd mo;hq ui;rl fh;tf	1
+德威	de;xx wz;wn	1
+灯蛾家系	dg;hd ee;iw jw;bu xi;ps	1
+等价交换	dg;vs jw;rj jc;lw hr;th	1
+第八交响曲千日同升	di;vp ba;pd jc;lw xd;kx qu;ru qm;pu ri;ri ts;kk ug;pc	1
+帝弓司命	di;lj gs;ag si;ka my;re	1
+地衡司	di;ty hg;xd si;ka	1
+帝皇鲁珀特	di;lj hd;bw lu;yr po;wb te;ns	1
+第机关	di;vp ji;mj gr;bt	1
+抵抗白昼	di;fd kh;tk bl;pr vb;id	1
+敌人	di;uw rf;pd	1
+敌人的丑闻	di;uw rf;pd de;bu ib;vt wf;me	1
+地髓激活元件	di;ty sv;gz ji;dw ho;du yr;ee jm;rn	1
+蒂索克三世	di;cd so;us ke;eg sj;aa ui;ca	1
+谛听	di;yd ty;kj	1
+地下	di;ty xw;ad	1
+点个关注吧	dm;dv ge;pa gr;bt vu;dv ba;kb	1
+电视机限定版	dm;ag ui;uj ji;mj xm;eg dy;bp bj;pf	1
+电视新闻	dm;ag ui;uj xn;jq wf;me	1
+电梯解锁密钥	dm;ag ti;md jx;jn so;jb mi;ub yt;jo	1
+点心生命	dm;dv xn;dd ug;nh my;re	1
+叠影器特制	dx;yy yy;pj qi;kk te;ns vi;dg	1
+订阅奖励金牌纪念	dy;yd yt;md jd;dx li;ll jn;pa pl;pb ji;sj nm;xj	1
+订阅奖励银牌纪念	dy;yd yt;md jd;dx li;ll yn;jg pl;pb ji;sj nm;xj	1
+冬城盾	ds;wd ig;ti dp;pm	1
+动画人物	ds;ly hw;hk rf;pd wu;nw	1
+动态线稿	ds;ly tl;xt xm;sj gk;hg	1
+洞天	ds;dt tm;ad	1
+洞悉者	ds;dt xi;xm ve;ol	1
+斗舰福牌	db;du jm;vj fu;ut pl;pb	1
+豆沙灰灰	db;hh ua;du hv;hu hv;hu	1
+嘟嘟	du;kd du;kd	1
+杜老板	du;mt lk;bl bj;mf	1
+赌神的废弃零件	du;bv uf;uu de;bu fz;gf qi;wc ly;yl jm;rn	1
+赌神的珍贵零件	du;bv uf;uu de;bu vf;wp gv;vb ly;yl jm;rn	1
+断裂的云骑阵刀	dr;jm lx;yl de;bu yp;es qi;mq vf;ei dk;gp	1
+断弦咆哮	dr;jm xm;gx pk;kb xc;kx	1
+对外通讯记录	dv;cy wl;xb ts;zy xp;yu ji;yj lu;au	1
+多情绿豆酥	do;xx qy;xq lv;sl db;hh su;yh	1
+多少个这样的清晨	do;xx uk;xp ge;pa ve;zw yh;my de;bu qy;dq if;oi	1
+恶徒蒙召受判	ee;xy tu;xz mg;cu vk;kd ub;vy pj;db	1
+厄兆先锋	ee;ie vk;ed xm;en fg;jf	1
+二号藏宝图	er;hh hk;kk ch;ci bk;by tu;kd	1
+二号冠军候补凭证	er;hh hk;kk gr;bc jp;bi hb;ru bu;yb py;jr vg;yv	1
+法尔杜丝	fa;dq er;xd du;mt si;hv	1
+乏善可陈的垃圾	fa;pv uj;yk ke;dk if;ed de;bu la;tl ji;tj	1
+发展资金	fa;fd vj;uy zi;bc jn;pa	1
+繁花之杪	fj;sm hw;ch vi;dd mc;mu	1
+烦恼着幸福着	fj;hy nk;xx ve;ym xy;tu fu;ut ve;ym	1
+反物质军团	fj;py wu;nw vi;bu jp;bi tr;kc	1
+反物质力场生成器	fj;py wu;nw vi;bu li;gp ih;ty ug;nh ig;wg qi;kk	1
+反物质引擎	fj;py wu;nw vi;bu yn;ga qy;uj	1
+蕃息	fj;cf xi;xz	1
+反重子	fj;py vs;ph zi;aa	1
+房产证明	fh;hf ij;li vg;yv my;ry	1
+芳华待灼	fh;cf hw;uh dl;xs vo;hu	1
+方形饭团	fh;dw xy;pk fj;uf tr;kc	1
+非常烦	fz;ss ih;dd fj;hy	1
+翡翠	fz;yf cv;yz	1
+斐迪南德	fz;wf di;zy nj;ua de;xx	1
+飞碟堡	fz;yd dx;uy bk;tb	1
+飞剑	fz;yd jm;da	1
+飞剑模型	fz;yd jm;da mo;mm xy;tx	1
+飞毛腿哈姆兹	fz;yd mk;pg tv;ot ha;kh mu;nm zi;by	1
+废弃的信纸	fz;gf qi;wc de;bu xn;ry vi;su	1
+废弃机巧零件	fz;gf qi;wc ji;mj qc;gk ly;yl jm;rn	1
+飞霄	fz;yd xc;yx	1
+飞霄健体	fz;yd xc;yx jm;rj ti;rb	1
+飞霄之影	fz;yd xc;yx vi;dd yy;pj	1
+鲱鱼先生柠檬挞	fz;yf yu;da xm;en ug;nh ny;mn mg;mm ta;fd	1
+焚化工	ff;hl hw;rb gs;hh	1
+忿火之心	ff;xf ho;dd vi;dd xn;dd	1
+愤懑齿轮	ff;xb mf;xm ii;vk lp;il	1
+愤怒拳套	ff;xb nu;xn qr;uf tk;di	1
+粉丝寄来的礼物	ff;mf si;hv ji;bq ll;hm de;bu li;ug wu;nw	1
+焚天之魔	ff;hl tm;ad vi;dd mo;mg	1
+锋镝	fg;jf di;jg	1
+锋镝阵中自在身	fg;jf di;jg vf;ei vs;ku zi;pm zl;ta uf;pp	1
+风堇	fg;ji jn;ca	1
+风雷天根	fg;ji lz;yt tm;ad gf;mg	1
+丰饶灵兽长右	fg;sa rk;uy ly;xh ub;kh ih;pd yb;uk	1
+丰饶灵兽长右错误	fg;sa rk;uy ly;xh ub;kh ih;pd yb;uk co;jx wu;yw	1
+丰饶灵兽奎木	fg;sa rk;uy ly;xh ub;kh kv;dg mu;hd	1
+丰饶灵兽娄金	fg;sa rk;uy ly;xh ub;kh lb;mn jn;pa	1
+丰饶孽物的掉落物	fg;sa rk;uy nx;cz wu;nw de;bu dc;tv lo;cl wu;nw	1
+丰饶扑满	fg;sa rk;uy pu;fb mj;dl	1
+丰饶香涎	fg;sa rk;uy xd;ho xm;dy	1
+丰饶玄莲	fg;sa rk;uy xr;wy lm;cl	1
+丰饶玄鹿	fg;sa rk;uy xr;wy lu;gb	1
+丰饶之民	fg;sa rk;uy vi;dd mn;ag	1
+丰饶之种	fg;sa rk;uy vi;dd vs;hv	1
+风雪之角	fg;ji xt;yx vi;dd jc;dy	1
+风之旋	fg;ji vi;dd xr;fp	1
+芙尔拉	fu;cf er;xd la;fl	1
+复归音阶	fu;pw gv;ux yn;lr jx;ej	1
+拂晓之前	fu;tf xc;oy vi;dd qm;qd	1
+符玄	fu;vf xr;wy	1
+符玄适暇	fu;vf xr;wy ui;zu xw;ry	1
+浮烟	fu;df yj;hy	1
+俯仰穷观	fu;rf yh;re qs;bl gr;jy	1
+辅助机械臂单元	fu;if vu;ql ji;mj xx;mj bi;ox dj;bd yr;ee	1
+干制应急灯	gj;hu vi;dg yy;gh ji;xx dg;hd	1
+钢琴大叔	gh;jg qn;wj da;ad uu;yx	1
+给白露买的鸣藕糕	gz;sh bl;pr lu;yl ml;at de;bu my;kn ou;co gk;mg	1
+给白露买的貘馍卷	gz;sh bl;pr lu;yl ml;at de;bu mo;vm mo;um jr;je	1
+给白露买的琼实鸟串	gz;sh bl;pr lu;yl ml;at de;bu qs;wj ui;bt nc;nh ir;uu	1
+给白露买的热浮羊奶	gz;sh bl;pr lu;yl ml;at de;bu re;dv fu;df yh;da nl;nn	1
+给白露买的苏打豆汁儿	gz;sh bl;pr lu;yl ml;at de;bu su;cb da;fd db;hh vi;du er;pg	1
+公民哈努努	gs;bs mn;ag ha;kh nu;ln nu;ln	1
+公平游戏	gs;bs py;hu yb;dz xi;yg	1
+公输师傅的证词	gs;bs uu;iy ui;db fu;rc de;bu vg;yv ci;ys	1
+工造迴轮	gs;hh zk;zg hv;zh lp;il	1
+工造浑心	gs;hh zk;zg hp;dj xn;dd	1
+工造机杼	gs;hh zk;zg ji;mj vu;my	1
+工造司	gs;hh zk;zg si;ka	1
+工造司玉符	gs;hh zk;zg si;ka yu;hd fu;vf	1
+勾魂摄魄的支配者	gb;gs hp;yg ue;tn po;gb de;bu vi;uy pz;yj ve;ol	1
+钩藤	gb;jg tg;ct	1
+古代零件	gu;uk dl;ry ly;yl jm;rn	1
+古代引擎	gu;uk dl;ry yn;ga qy;uj	1
+古代转轴	gu;uk dl;ry vr;iv vb;iy	1
+孤独的疗愈	gu;zg du;qi de;bu lc;bl yu;xy	1
+古恩	gu;uk en;xy	1
+古怪的磁带	gu;uk gy;xu de;bu ci;uz dl;jb	1
+古海宫墟	gu;uk hl;dm gs;bl xu;tx	1
+古旧的铃铛	gu;uk jq;ao de;bu ly;jl dh;jd	1
+顾客小费	gu;ye ke;bg xc;du fz;fb	1
+古老的钱币	gu;uk lk;bl de;bu qm;jj bi;pj	1
+古老梦华	gu;uk lk;bl mg;xl hw;uh	1
+古琴录音	gu;uk qn;wj lu;au yn;lr	1
+固态净水	gu;kg tl;xt jy;dv uv;ad	1
+孤注一掷的掷骰者	gu;zg vu;dv yi;ah vi;fv de;bu vi;fv tb;gu ve;ol	1
+怪怪软糖	gy;xu gy;xu rr;iq th;mt	1
+怪梦积木	gy;xu mg;xl ji;hv mu;hd	1
+怪物酒馆	gy;xu wu;nw jq;dy gr;ug	1
+棺的回响	gr;mg de;bu hv;kk xd;kx	1
+关于记忆永恒的解构	gr;bt yu;hu ji;yj yi;xy ys;dd hg;xg de;bu jx;jn gb;mg	1
+罐装快乐水	gr;fv vd;yv ky;xd le;px uv;ad	1
+广大	gd;dp da;ad	1
+光阴莫负	gd;ea yn;eo mo;cd fu;db	1
+贵宾休息区宴会厅	gv;vb bn;bb xq;rm xi;xz qu;ki yj;bn hv;ry ty;id	1
+桂乃芬	gv;mg nl;gp ff;cf	1
+诡异的枝条	gv;yw yi;sc de;bu vi;mv tc;wm	1
+果腹粮食	go;tm fu;of ld;ml ui;rl	1
+果木炙烤夏塔恩恐鸟翅根	go;tm mu;hd vi;hy kk;hk xw;wz ta;th en;xy ks;xg nc;nh ii;vy gf;mg	1
+过热钢刃	go;zc re;dv gh;jg rf;dd	1
+果树姑娘	go;tm uu;md gu;ng nd;nl	1
+过往未来	go;zc wh;xv wz;hd ll;hm	1
+哈利伯顿	ha;kh li;dh bo;rb dp;yt	1
+哈姆兹	ha;kh mu;nm zi;by	1
+哈努努	ha;kh nu;ln nu;ln	1
+哈努兄弟	ha;kh nu;ln xs;ke di;bp	1
+哈努兄弟的梦泡	ha;kh nu;ln xs;ke di;bp de;bu mg;xl pk;db	1
+哈努兄弟外传胶卷	ha;kh nu;ln xs;ke di;bp wl;xb vr;rv jc;oj jr;je	1
+嗨多莉	hl;kh do;xx li;cl	1
+嗨来测	hl;kh ll;hm ce;dz	1
+海若隐珠	hl;dm ro;cy yn;ej vu;wv	1
+海瑟音	hl;dm se;wb yn;lr	1
+海中之城	hl;dm vs;ku vi;dd ig;ti	1
+酣眠	hj;yg mm;om	1
+含明	hj;rk my;ry	1
+寒铁的誓言	hj;bd tx;ju de;bu ui;yv yj;dk	1
+寒鸦	hj;bd ya;yn	1
+好看的垃圾	hk;nz kj;mo de;bu la;tl ji;tj	1
+好梦气泡饮	hk;nz mg;xl qi;ry pk;db yn;uq	1
+好戏开演	hk;nz xi;yg kl;ac yj;dy	1
+鹤唳	he;nv li;kq	1
+何物为真	he;rk wu;nw wz;dd vf;uj	1
+核心模组	he;mh xn;dd mo;mm zu;sq	1
+合众	he;rk vs;rc	1
+黑暗拳斗大赛邀请函	hz;dh an;ry qr;uf db;du da;ad sl;bb yk;zw qy;yq hj;ku	1
+黑布林家系	hz;dh bu;uj ln;mm jw;bu xi;ps	1
+黑不溜秋的垃圾	hz;dh bu;ax lq;dl qq;hh de;bu la;tl ji;tj	1
+黑面包汽水冰山	hz;dh mm;ph bk;bs qi;dq uv;ad by;du uj;aa	1
+黑塔	hz;dh ta;th	1
+黑塔币	hz;dh ta;th bi;pj	1
+黑塔材料支持协议	hz;dh ta;th cl;mc lc;md vi;uy ii;fs xx;ub yi;yy	1
+黑塔地名	hz;dh ta;th di;ty my;xk	1
+黑塔典藏版	hz;dh ta;th dm;bh ch;ci bj;pf	1
+黑塔开拓支援协议	hz;dh ta;th kl;ac to;tu vi;uy yr;fy xx;ub yi;yy	1
+黑塔漫游共享协议	hz;dh ta;th mj;dm yb;dz gs;bc xd;wz xx;ub yi;yy	1
+黑塔冒险共享协议	hz;dh ta;th mk;oo xm;eh gs;bc xd;wz xx;ub yi;yy	1
+黑塔燃料补充协议	hz;dh ta;th rj;hr lc;md bu;yb is;dy xx;ub yi;yy	1
+黑塔人物	hz;dh ta;th rf;pd wu;nw	1
+黑塔特许通行认证	hz;dh ta;th te;ns xu;yw ts;zy xy;ri rf;yr vg;yv	1
+黑塔以太补充协议	hz;dh ta;th yi;rd tl;dd bu;yb is;dy xx;ub yi;yy	1
+黑塔债券	hz;dh ta;th vl;rz qr;jd	1
+黑桃的筑梦碎片	hz;dh tk;mv de;bu vu;vg mg;xl sv;uz pm;pa	1
+黑天鹅	hz;dh tm;ad ee;nw	1
+嘿我在这儿	hz;kh wo;pp zl;ta ve;zw er;pg	1
+黑夜如影随行	hz;dh ye;ww ru;nk yy;pj sv;ez xy;ri	1
+亨德列克	hg;wl de;xx lx;dd ke;eg	1
+恒久忍耐	hg;xg jq;dd rf;xr nl;ce	1
+恒温晶壳	hg;xg wf;dm jy;rr ke;uj	1
+红色转译录	hs;sg se;db vr;iv yi;yf lu;au	1
+黉学	hs;hb xt;dz	1
+红油乱斩牛杂	hs;sg yb;dy lr;ug vj;ji nq;pu za;mj	1
+后备开拓力	hb;pk bz;wt kl;ac to;tu li;gp	1
+后会有期	hb;pk hv;ry yb;ou qi;qy	1
+后勤材料箱标准型	hb;pk qn;lj cl;mc lc;md xd;vx bc;mu vp;dv xy;tx	1
+虎克	hu;hj ke;eg	1
+琥珀	hu;wh po;wb	1
+琥珀的坚守	hu;wh po;wb de;bu jm;ty ub;bc	1
+琥珀花雕	hu;wh po;wb hw;ch dc;vv	1
+琥珀纪	hu;wh po;wb ji;sj	1
+狐人	hu;qg rf;pd	1
+狐人大鼓	hu;qg rf;pd da;ad gu;vd	1
+花火	hw;ch ho;dd	1
+花火幻象	hw;ch ho;dd hr;yg xd;du	1
+花火脊髓剑	hw;ch ho;dd ji;od sv;gz jm;da	1
+花火妙妙包	hw;ch ho;dd mc;nu mc;nu bk;bs	1
+花火娃娃	hw;ch ho;dd wa;ng wa;ng	1
+花火珍藏不限量版玩偶	hw;ch ho;dd vf;wp ch;ci bu;ax xm;eg ld;rl bj;pf wj;wy ou;ry	1
+化外民	hw;rb wl;xb mn;ag	1
+怀炎	hy;xb yj;hh	1
+怀炎的证词	hy;xb yj;hh de;bu vg;yv ci;ys	1
+欢呼响彻云霄	hr;yq hu;kh xd;kx ie;xq yp;es xc;yx	1
+换境树叶	hr;th jy;tj uu;md ye;ku	1
+幻胧	hr;yg ls;yl	1
+欢欣齿轮	hr;yq xn;qj ii;vk lp;il	1
+浣熊硬币	hr;dw xs;dn yy;ug bi;pj	1
+寰宇蝗灾	hr;by yu;by hd;ih zl;bh	1
+皇帝	hd;bw di;lj	1
+黄金公子	hd;ad jn;pa gs;bs zi;aa	1
+黄金限定艾迪恩游戏币	hd;ad jn;pa xm;eg dy;bp ai;ci di;zy en;xy yb;dz xi;yg bi;pj	1
+黄金之地	hd;ad jn;pa vi;dd di;ty	1
+黄泉	hd;ad qr;ub	1
+黄泉暗袭	hd;ad qr;ub an;ry xi;ly	1
+晖长石号空艇	hv;rj ih;pd ui;pk hk;kk ks;bg ty;vt	1
+回到大地的飞行	hv;kk dk;dv da;ad di;ty de;bu fz;yd xy;ri	1
+毁灭扑满	hv;jy mx;hh pu;fb mj;dl	1
+毁灭异质	hv;jy mx;hh yi;sc vi;bu	1
+毁灭者的末路	hv;jy mx;hh ve;ol de;bu mo;hd lu;zg	1
+毁灭之影	hv;jy mx;hh vi;dd yy;pj	1
+惠特克爵士	hv;hx te;ns ke;eg jt;vc ui;hh	1
+迴星港	hv;zh xy;ru gh;dx	1
+慧骃	hv;fx yn;my	1
+混沌医师	hp;dk dp;dt yi;ku ui;db	1
+火焚灾影	ho;dd ff;hl zl;bh yy;pj	1
+藿藿	ho;ch ho;ch	1
+霍三哥的绝密货物	ho;yv sj;aa ge;kk de;bu jt;ss mi;ub ho;bh wu;nw	1
+火之翎	ho;dd vi;dd ly;yl	1
+火种	ho;dd vs;hv	1
+基本食材	ji;qt bf;hh ui;rl cl;mc	1
+基层员工安保	ji;qt cg;uy yr;kb gs;hh an;bn bk;rd	1
+基层员工外勤	ji;qt cg;uy yr;kb gs;hh wl;xb qn;lj	1
+饥饿	ji;uj ee;uw	1
+机关密钥	ji;mj gr;bt mi;ub yt;jo	1
+吉光片羽	ji;ku gd;ea pm;pa yu;xx	1
+记录着天火熔金位置的藏宝图	ji;yj lu;au ve;ym tm;ad ho;dd rs;hr jn;pa wz;rl vi;sv de;bu ch;ci bk;by tu;kd	1
+寂灭华服	ji;bu mx;hh hw;uh fu;yy	1
+吉姆罗杰面包味汽水	ji;ku mu;nm lo;sx jx;hm mm;ph bk;bs wz;kw qi;dq uv;ad	1
+基南	ji;qt nj;ua	1
+技能点	ji;tv ng;sb dm;dv	1
+纪念照	ji;sj nm;xj vk;hv	1
+机巧梦宵长	ji;mj qc;gk mg;xl xc;bx ih;pd	1
+机巧鸟	ji;mj qc;gk nc;nh	1
+疾速粉尘	ji;bu su;zu ff;mf if;tx	1
+集团权限认证	ji;vm tr;kc qr;my xm;eg rf;yr vg;yv	1
+机械聚落认证级	ji;mj xx;mj ju;qd lo;cl rf;yr vg;yv ji;sj	1
+机械立方	ji;mj xx;mj li;da fh;dw	1
+机械外壳	ji;mj xx;mj wl;xb ke;uj	1
+即兴演出	ji;eg xy;db yj;dy iu;ck	1
+记忆的质料	ji;yj yi;xy de;bu vi;bu lc;md	1
+记忆盲点科员失踪	ji;yj yi;xy mh;mw dm;dv ke;hd yr;kb ui;pf zs;zz	1
+记忆盲点能量生命	ji;yj yi;xy mh;mw dm;dv ng;sb ld;rl ug;nh my;re	1
+记忆盲点人体自燃	ji;yj yi;xy mh;mw dm;dv rf;pd ti;rb zi;pm rj;hr	1
+记忆盲点天才俱乐部成员	ji;yj yi;xy mh;mw dm;dv tm;ad cl;hp ju;rj le;px bu;ek ig;wg yr;kb	1
+记忆盲点仙舟联盟	ji;yj yi;xy mh;mw dm;dv xm;ru vb;pd lm;eg mg;mm	1
+记忆盲点信任危机	ji;yj yi;xy mh;mw dm;dv xn;ry rf;rr wz;de ji;mj	1
+记一位星神的陨落	ji;yj yi;ah wz;rl xy;ru uf;uu de;bu yp;ey lo;cl	1
+记忆中的模样	ji;yj yi;xy vs;ku de;bu mu;mm yh;my	1
+姬子	ji;ni zi;aa	1
+姬子迎新	ji;ni zi;aa yy;ze xn;jq	1
+加长飞车	jw;lk ih;pd fz;yd ie;hu	1
+嘉果	jw;uj go;tm	1
+加拉赫	jw;lk la;fl he;ii	1
+假面愚者	jw;ry mm;ph yu;xy ve;ol	1
+假如醒于午夜	jw;ry ru;nk xy;yx yu;hu wu;pu ye;ww	1
+嘉实之杪	jw;uj ui;bt vi;dd mc;mu	1
+家庭照片	jw;bu ty;gt vk;hv pm;pa	1
+夹在书中的纸条	jw;ar zl;ta uu;vd vs;ku de;bu vi;su tc;wm	1
+家族	jw;bu zu;fu	1
+家族颂歌	jw;bu zu;fu ss;yg ge;qg	1
+健康炒米	jm;rj kh;gl ik;hu mi;dd	1
+监控记录的异常画面	jm;mv ks;fk ji;yj lu;au de;bu yi;sc ih;dd hw;hk mm;ph	1
+监控影像	jm;mv ks;fk yy;pj xd;rx	1
+缄默法则	jm;sx mo;hq fa;dq ze;bd	1
+建木柄材	jm;zy mu;hd by;mb cl;mc	1
+践踏的意志	jm;zj ta;zt de;bu yi;lx vi;ux	1
+坚我苦弱血肉	jm;ty wo;pp ku;cg ro;gd xt;pa rb;kr	1
+简易护具	jm;vj yi;rw hu;th ju;ba	1
+简易抢救器	jm;vj yi;rw qd;fc jq;wq qi;kk	1
+建筑文化	jm;zy vu;vg wf;dd hw;rb	1
+降灵符箓	jd;ej ly;xh fu;vf lu;vl	1
+蕉错就错	jc;cj co;jx jq;yj co;jx	1
+教父	jc;wx fu;pd	1
+椒丘	jc;mu qq;ja	1
+椒丘仁医	jc;mu qq;ja rf;re yi;ku	1
+蕉研组的财富蕉师	jc;cj yj;uk zu;sq de;bu cl;bc fu;bt jc;cj ui;db	1
+蕉研组的谐乐蕉师	jc;cj yj;uk zu;sq de;bu xx;yj le;px jc;cj ui;db	1
+蕉研组的助蕉	jc;cj yj;uk zu;sq de;bu vu;ql jc;cj	1
+蕉研组的筑梦蕉师	jc;cj yj;uk zu;sq de;bu vu;vg mg;xl jc;cj ui;db	1
+脚印	jc;yq yn;pe	1
+教育	jc;wx yu;os	1
+接渡使印鉴	jx;tq du;dd ui;rl yn;pe jm;jv	1
+结盟玉兆	jx;sj mg;mm yu;hd vk;ed	1
+杰诺	jx;hm no;yr	1
+杰帕德	jx;hm pa;jb de;xx	1
+杰帕德庆典	jx;hm pa;jb de;xx qy;gd dm;bh	1
+解脱妙谛	jx;jn to;od mc;nu di;yd	1
+杰伊	jx;hm yi;ry	1
+金表钞	jn;pa bc;fy ik;ju	1
+金钢镚骑士团	jn;pa gh;jg bg;jb qi;mq ui;hh tr;kc	1
+襟怀玉界	jn;yj hy;xb yu;hd jx;tj	1
+金黄睡蕉	jn;pa hd;ad uv;oi jc;cj	1
+金人	jn;pa rf;pd	1
+金人勾魂使	jn;pa rf;pd gb;gs hp;yg ui;rl	1
+金人勾魂使错误	jn;pa rf;pd gb;gs hp;yg ui;rl co;jx wu;yw	1
+金人司阍	jn;pa rf;pd si;ka hp;mh	1
+金人司阍错误	jn;pa rf;pd si;ka hp;mh co;jx wu;yw	1
+金人巷历史交易量	jn;pa rf;pd xd;gs li;il ui;ki jc;lw yi;rw ld;rl	1
+金人巷码头租金	jn;pa rf;pd xd;gs ma;um tb;dd zu;hq jn;pa	1
+金人巷商会竞标资金	jn;pa rf;pd xd;gs uh;wk hv;ry jy;lx bc;mu zi;bc jn;pa	1
+金人巷商会营业额	jn;pa rf;pd xd;gs uh;wk hv;ry yy;cl ye;aa ee;yk	1
+金人巷商铺的意向调查	jn;pa rf;pd xd;gs uh;wk pu;jf de;bu yi;lx xd;pk dc;yv ia;md	1
+今日亦是和平的一日	jn;rv ri;ri yi;wb ui;op he;hk py;hu de;bu yi;ah ri;ri	1
+金属	jn;pa uu;uy	1
+锦纹	jn;jb wf;sw	1
+经典苏乐达	jy;sg dm;bh su;cb le;px da;zd	1
+惊魂夜	jy;xj hp;yg ye;ww	1
+镜流	jy;jj lq;di	1
+镜流远行	jy;jj lq;di yr;zy xy;ri	1
+惊梦酒吧	jy;xj mg;xl jq;dy ba;kb	1
+惊梦酒吧的合影	jy;xj mg;xl jq;dy ba;kb de;bu he;rk yy;pj	1
+惊梦剧团的发条暴徒	jy;xj mg;xl ju;dj tr;kc de;bu fa;fd tc;wm bk;ru tu;xz	1
+惊梦剧团的气泡锂犬	jy;xj mg;xl ju;dj tr;kc de;bu qi;ry pk;db li;jl qr;hd	1
+惊梦剧团的十七分熟	jy;xj mg;xl ju;dj tr;kc de;bu ui;hu qi;ag ff;bd uu;hu	1
+惊梦剧团的十七分熟错误	jy;xj mg;xl ju;dj tr;kc de;bu ui;hu qi;ag ff;bd uu;hu co;jx wu;yw	1
+惊梦剧团的弹簧荷官	jy;xj mg;xl ju;dj tr;kc de;bu tj;gd hd;vh he;ch gr;bk	1
+惊梦剧团的甜猿泰山	jy;xj mg;xl ju;dj tr;kc de;bu tm;ug yr;qy tl;uf uj;aa	1
+惊梦剧团的甜猿泰山错误	jy;xj mg;xl ju;dj tr;kc de;bu tm;ug yr;qy tl;uf uj;aa co;jx wu;yw	1
+惊梦剧团的舞鸫假面	jy;xj mg;xl ju;dj tr;kc de;bu wu;pu ds;nd jw;ry mm;ph	1
+惊梦剧团的幸运贩售	jy;xj mg;xl ju;dj tr;kc de;bu xy;tu yp;zy fj;bf ub;kv	1
+惊梦剧团的圆幕先生	jy;xj mg;xl ju;dj tr;kc de;bu yr;ky mu;cj xm;en ug;nh	1
+净世残刃	jy;dv ui;ca cj;dj rf;dd	1
+惊吓盒子	jy;xj xw;kx he;mh zi;aa	1
+镜像阶段	jy;jj xd;rx jx;ej dr;du	1
+净砚	jy;dv yj;uj	1
+景元	jy;rj yr;ee	1
+景元的回忆	jy;rj yr;ee de;bu hv;kk yi;xy	1
+景元适暇	jy;rj yr;ee ui;zu xw;ry	1
+精致的雪景球	jy;mq vi;wv de;bu xt;yx jy;rj qq;wq	1
+精致色稿	jy;mq vi;wv se;db gk;hg	1
+镜中故我	jy;jj vs;ku gu;wg wo;pp	1
+镜子公主	jy;jj zi;aa gs;bs vu;dw	1
+旧梦的回声	jq;ao mg;xl de;bu hv;kk ug;um	1
+旧日之影	jq;ao ri;ri vi;dd yy;pj	1
+旧照片机关能源中枢	jq;ao vk;hv pm;pa ji;mj gr;bt ng;sb yr;dy vs;ku uu;mq	1
+九转升天丹	jq;py vr;iv ug;pc tm;ad dj;pd	1
+巨大谜钟的破碎内心其二	ju;kk da;ad mi;ym vs;jv de;bu po;up sv;uz nz;ud xn;dd qi;hb er;hh	1
+巨大谜钟的破碎内心其三	ju;kk da;ad mi;ym vs;jv de;bu po;up sv;uz nz;ud xn;dd qi;hb sj;aa	1
+巨大谜钟的破碎内心其一	ju;kk da;ad mi;ym vs;jv de;bu po;up sv;uz nz;ud xn;dd qi;hb yi;ah	1
+俱殁	ju;rj mo;ud	1
+聚散有时	ju;qd sj;wo yb;ou ui;oc	1
+决斗翎羽	jt;dd db;du ly;yl yu;xx	1
+绝灭大君	jt;ss mx;hh da;ad jp;ky	1
+决心如汗珠般闪耀	jt;dd xn;dd ru;nk hj;dg vu;wv bj;vu uj;rm yk;gv	1
+菌菌	jp;ch jp;ch	1
+卡尔	ka;bx er;xd	1
+卡芙卡	ka;bx fu;cf ka;bx	1
+卡芙卡夜宴	ka;bx fu;cf ka;bx ye;ww yj;bn	1
+卡卡瓦夏	ka;bx ka;bx wa;ad xw;wz	1
+卡利白	ka;bx li;dh bl;pr	1
+开疆	kl;ac jd;gj	1
+开拓豪侠传	kl;ac to;tu hk;du xw;rj vr;rv	1
+开拓进行时	kl;ac to;tu jn;zj xy;ri ui;oc	1
+开拓力	kl;ac to;tu li;gp	1
+开拓历	kl;ac to;tu li;il	1
+开拓券	kl;ac to;tu qr;jd	1
+开拓者存护	kl;ac to;tu ve;ol cp;uz hu;th	1
+开拓者毁灭	kl;ac to;tu ve;ol hv;jy mx;hh	1
+开拓者记忆	kl;ac to;tu ve;ol ji;yj yi;xy	1
+开拓者同谐	kl;ac to;tu ve;ol ts;kk xx;yj	1
+开拓者星轨穹	kl;ac to;tu ve;ol xy;ru gv;ij qs;xg	1
+开拓者星轨星	kl;ac to;tu ve;ol xy;ru gv;ij xy;ru	1
+开拓者迎新穹	kl;ac to;tu ve;ol yy;ze xn;jq qs;xg	1
+开拓者迎新星	kl;ac to;tu ve;ol yy;ze xn;jq xy;ru	1
+开智之卷	kl;ac vi;ov vi;dd jr;je	1
+看不清署名的包裹	kj;mo bu;ax qy;dq uu;sv my;xk de;bu bk;bs go;dy	1
+康娜	kh;gl na;nn	1
+科蒂	ke;hd di;cd	1
+客房	ke;bg fh;hf	1
+科技护具	ke;hd ji;tv hu;th ju;ba	1
+可可利亚	ke;dk ke;dk li;dh ya;ay	1
+可可利亚虚妄之母	ke;dk ke;dk li;dh ya;ay xu;hy wh;nw vi;dd mu;vd	1
+柯柯娜	ke;mk ke;mk na;nn	1
+可口的豆沙饼	ke;dk kb;aa de;bu db;hh ua;du by;ub	1
+可口的烧麦	ke;dk kb;aa de;bu uk;hy ml;fw	1
+克拉拉	ke;eg la;fl la;fl	1
+克劳迪娅	ke;eg lk;cb di;zy ya;ny	1
+克劳克影视乐园	ke;eg lk;cb ke;eg yy;pj ui;uj le;px yr;ky	1
+科琳	ke;hd ln;wl	1
+刻律德菈	ke;dh lv;xy de;xx la;cl	1
+课题进行时	ke;yg ti;uy jn;zj xy;ri ui;oc	1
+科学技术	ke;hd xt;dz ji;tv uu;md	1
+空洞小鸟玩偶	ks;bg ds;dt xc;du nc;nh wj;wy ou;ry	1
+空际小节	ks;bg ji;eu xc;du jx;ce	1
+空间站黑塔的资格徽章	ks;bg jm;om vj;lv hz;dh ta;th de;bu zi;bc ge;mg hv;rw vh;lz	1
+空虚荒芜是那大海	ks;bg xu;hy hd;ci wu;cw ui;op na;el da;ad hl;dm	1
+苦寒晶壳	ku;cg hj;bd jy;rr ke;uj	1
+快递箱	ky;xd di;zd xd;vx	1
+快乐原则	ky;xd le;px yr;ix ze;bd	1
+矿车轮对	kd;ug ie;hu lp;il dv;cy	1
+矿车销子	kd;ug ie;hu xc;jx zi;aa	1
+矿灯巴列维	kd;ug dg;hd ba;ag lx;dd wz;sv	1
+狂热奔向深渊	kd;qw re;dv bf;dc xd;pk uf;dm yr;dm	1
+狂野头套	kd;qw ye;ly tb;dd tk;di	1
+窥忆胶卷	kv;bg yi;xy jc;oj jr;je	1
+垃圾	la;tl ji;tj	1
+垃圾气泡水	la;tl ji;tj qi;ry pk;db uv;ad	1
+垃圾桶	la;tl ji;tj ts;my	1
+垃圾桶的尊严	la;tl ji;tj ts;my de;bu zp;qc yj;ap	1
+拉洛丝	la;fl lo;dg si;hv	1
+拉扎卡	la;fl va;tg ka;bx	1
+拉扎莉娜	la;fl va;tg li;cl na;nn	1
+来历不明的信笺	ll;hm li;il bu;ax my;ry de;bu xn;ry jm;vj	1
+莱斯利迪恩重生计划	ll;cl si;jq li;dh di;zy en;xy is;ph ug;nh ji;yu hw;dg	1
+揽镜人	lj;tl jy;jj rf;pd	1
+蓝色转译录	lj;cj se;db vr;iv yi;yf lu;au	1
+朗道的选择	lh;yl dk;zu de;bu xr;zx ze;tf	1
+狼毒锯牙	lh;ql du;fm ju;jj ya;hp	1
+狼之道	lh;ql vi;dd dk;zu	1
+老旧臼齿	lk;bl jq;ao jq;ph ii;vk	1
+老前辈留下的纸条	lk;bl qm;qd bz;if lq;td xw;ad de;bu vi;su tc;wm	1
+乐圮	le;px pi;tj	1
+乐园陌影	le;px yr;ky mo;eb yy;pj	1
+雷车动地	lz;yt ie;hu ds;ly di;ty	1
+雷金	lz;yt jn;pa	1
+雷之眼	lz;yt vi;dd yj;mg	1
+冷藏梦箱	lg;dl ch;ci mg;xl xd;vx	1
+冷吃夕红鱼	lg;dl ii;kq xi;pd hs;sg yu;da	1
+里奥	li;aa ao;dm	1
+里程	li;aa ig;hi	1
+利尔他	li;dh er;xd ta;ry	1
+历法	li;il fa;dq	1
+黎明的左手	li;hu my;ry de;bu zo;ug ub;ub	1
+历史家系	li;il ui;ki jw;bu xi;ps	1
+离弦	li;ds xm;gx	1
+联觉信标	lm;eg jt;dj xn;ry bc;mu	1
+炼形者雷枝	lm;hd xy;pk ve;ol lz;yt vi;mv	1
+两个人的演唱会	ld;ad ge;pa rf;pd de;bu yj;dy ih;ki hv;ry	1
+量子涟漪	ld;rl zi;aa lm;dl yi;dq	1
+缭乱忍法兵粮丸	lc;sx lr;ug rf;xr fa;dq by;qb ld;ml wj;jd	1
+列车补给凭证	lx;dd ie;hu bu;yb gz;sh py;jr vg;yv	1
+列车长特供	lx;dd ie;hu vh;pd te;ns gs;rg	1
+裂界	lx;yl jx;tj	1
+裂界怪物盔甲	lx;yl jx;tj gy;xu wu;nw kv;mh jw;ru	1
+猎犬家系	lx;qx qr;hd jw;bu xi;ps	1
+猎手的预视	lx;qx ub;ub de;bu yu;yy ui;uj	1
+猎兽之矢	lx;qx ub;kh vi;dd ui;pd	1
+裂维之爪	lx;yl wz;sv vi;dd vk;pd	1
+猎物的视线	lx;qx wu;nw de;bu ui;uj xm;sj	1
+烈焰浓茶	lx;dl yj;hx ns;dn ia;cm	1
+劣质护具	lx;lu vi;bu hu;th ju;ba	1
+鳞渊冰泉	ln;yl yr;dm by;du qr;ub	1
+鳞渊境	ln;yl yr;dm jy;tj	1
+鳞渊天冬	ln;yl yr;dm tm;ad ds;wd	1
+灵感	ly;xh gj;xx	1
+灵感之钥	ly;xh gj;xx vi;dd yk;jo	1
+零件	ly;yl jm;rn	1
+玲可	ly;wl ke;dk	1
+泠泠	ly;dl ly;dl	1
+玲珑工巧	ly;wl ls;wl gs;hh qc;gk	1
+凌乱草图	ly;dw lr;ug ck;cz tu;kd	1
+灵砂	ly;xh ua;uu	1
+令使	ly;rs ui;rl	1
+灵钥	ly;xh yk;jo	1
+另一方玩家	ly;kl yi;ah fh;dw wj;wy jw;bu	1
+流光忆庭	lq;di gd;ea yi;xy ty;gt	1
+流光余晖	lq;di gd;ea yu;rb hv;rj	1
+流浪者	lq;di lh;dl ve;ol	1
+流梦阀门	lq;di mg;xl fa;mf mf;dg	1
+六司	lq;db si;ka	1
+六司六御	lq;db si;ka lq;db yu;rx	1
+流星棱晶	lq;di xy;ru lg;mw jy;rr	1
+流萤	lq;di yy;ci	1
+流萤的预算	lq;di yy;ci de;bu yu;yy sr;vc	1
+流萤愿景	lq;di yy;ci yr;xy jy;rj	1
+流云渡	lq;di yp;es du;dd	1
+流云渡的资格徽章	lq;di yp;es du;dd de;bu zi;bc ge;mg hv;rw vh;lz	1
+龙晶	ls;ad jy;rr	1
+龙鳞珊瑚	ls;ad ln;yl uj;wc hu;wh	1
+龙蟠虬跃药理考	ls;ad pj;if qq;ig yt;zy yk;cy li;wl kk;lk	1
+龙尊的秘宝	ls;ad zp;qc de;bu mi;hb bk;by	1
+镂月裁云之意	lb;jl yt;oy cl;yg yp;es vi;dd yi;lx	1
+卢阿彻	lu;bu aa;ek ie;xq	1
+露比冲剂	lu;yl bi;bb is;dv ji;dq	1
+炉火	lu;hh ho;dd	1
+卢卡	lu;bu ka;bx	1
+路易斯	lu;zg yi;rw si;jq	1
+路易斯弗莱明	lu;zg yi;rw si;jq fu;gp ll;cl my;ry	1
+乱破	lr;ug po;up	1
+乱破开场	lr;ug po;up kl;ac ih;ty	1
+掠夺的本能	lt;fj do;dc de;bu bf;hh ng;sb	1
+论剑	lp;yl jm;da	1
+轮契	lp;il qi;dd	1
+罗刹	lo;sx ia;du	1
+罗刹的纸花	lo;sx ia;du de;bu vi;su hw;ch	1
+罗浮体育报卢卡决赛特刊	lo;sx fu;df ti;rb yu;os bk;ty lu;bu ka;bx jt;dd sl;bb te;ns kj;dg	1
+逻辑语言中枢	lo;zl ji;ie yu;yw yj;dk vs;ku uu;mq	1
+落日时起舞	lo;cl ri;ri ui;oc qi;zj wu;pu	1
+螺丝咕姆	lo;il si;hv gu;kg mu;nm	1
+旅程之遇哈努兄弟越狱记	lv;fp ig;hi vi;dd yu;zy ha;kh nu;ln xs;ke di;bp yt;zy yu;qq ji;yj	1
+旅程之遇以太战线	lv;fp ig;hi vi;dd yu;zy yi;rd tl;dd vj;gv xm;sj	1
+旅情见闻	lv;fp qy;xq jm;ug wf;me	1
+律是罪的权势	lv;xy ui;op zv;sf de;bu qr;my ui;lv	1
+马格诺	ma;aa ge;mg no;yr	1
+玛姬	ma;wm ji;ni	1
+码头工人的证言	ma;um tb;dd gs;hh rf;pd de;bu vg;yv yj;dk	1
+码头租赁合同	ma;um tb;dd zu;hq ln;br he;rk ts;kk	1
+买给陶德的小吃	ml;at gz;sh tk;et de;xx de;bu xc;du ii;kq	1
+麦考先生	ml;fw kk;lk xm;en ug;nh	1
+麦克斯	ml;fw ke;eg si;jq	1
+漫游指南	mj;dm yb;dz vi;fv nj;ua	1
+芒寒色正的银骑士	mh;cw hj;bd se;db vg;av de;bu yn;jg qi;mq ui;hh	1
+貌不惊人的垃圾	mk;ve bu;ax jy;xj rf;pd de;bu la;tl ji;tj	1
+冒险记录	mk;oo xm;eh ji;yj lu;au	1
+茂贞	mk;cw vf;bb	1
+玫瑰花瓣	mz;ww gv;wg hw;ch bj;gx	1
+梅汉姆	mz;mm hj;dy mu;nm	1
+美梦脆筒三种口味	mz;yd mg;xl cv;yw ts;vt sj;aa vs;hv kb;aa wz;kw	1
+美梦第一	mz;yd mg;xl di;vp yi;ah	1
+美梦剧团	mz;yd mg;xl ju;dj tr;kc	1
+美梦镭射票	mz;yd mg;xl lz;jl ue;cu pc;xu	1
+美梦糖浆	mz;yd mg;xl th;mt jd;ux	1
+美梦小镇大冒险	mz;yd mg;xl xc;du vf;jv da;ad mk;oo xm;eh	1
+美梦小镇特调	mz;yd mg;xl xc;du vf;jv te;ns tc;yv	1
+美味快餐棒	mz;yd wz;kw ky;xd cj;uy bh;mf	1
+梦的蒙太奇	mg;xl de;bu mg;cu tl;dd qi;dk	1
+梦境护照	mg;xl jy;tj hu;th vk;hv	1
+梦境迷钟	mg;xl jy;tj mi;zm vs;jv	1
+梦茗	mg;xl my;cm	1
+梦泡	mg;xl pk;db	1
+梦应归于何处	mg;xl yy;gh gv;ux yu;hu he;rk iu;wb	1
+梦之珠泪	mg;xl vi;dd vu;wv lz;dm	1
+梦主	mg;xl vu;dw	1
+盟助	mg;mm vu;ql	1
+迷彩油漆	mi;zm cl;pc yb;dy qi;du	1
+秘藏显影图	mi;hb ch;ci xm;oy yy;pj tu;kd	1
+米哈伊尔	mi;dd ha;kh yi;ry er;xd	1
+弥留之际	mi;ge lq;td vi;dd ji;eu	1
+迷茫	mi;zm mh;cw	1
+秘密誓心	mi;hb mi;ub ui;yv xn;dd	1
+迷你船长	mi;zm ni;re ir;vk vh;pd	1
+米沙	mi;dd ua;du	1
+迷思绳结	mi;zm si;tx ug;sm jx;sj	1
+谜语人	mi;ym yu;yw rf;pd	1
+密钥藏宝图	mi;ub yt;jo ch;ci bk;by tu;kd	1
+眠鸥宿鹭	mm;om ou;nq su;bb lu;nl	1
+泯灭帮	mn;dm mx;hh bh;jb	1
+命定死因	my;re dy;bp si;db yn;kd	1
+铭记于心的约定	my;jm ji;yj yu;hu xn;dd de;bu yt;su dy;bp	1
+鸣雷造物	my;kn lz;yt zk;zg wu;nw	1
+鸣藕糕	my;kn ou;co gk;mg	1
+命途	my;re tu;zy	1
+命途行者	my;re tu;zy xy;ri ve;ol	1
+命途行者的隆重赠礼	my;re tu;zy xy;ri ve;ol de;bu ls;eu vs;ph zg;bc li;ug	1
+命途行者的赠礼	my;re tu;zy xy;ri ve;ol de;bu zg;bc li;ug	1
+命运从未公平	my;re yp;zy cs;rr wz;hd gs;bs py;hu	1
+命运的足迹	my;re yp;zy de;bu zu;kv ji;zy	1
+命运之谕示	my;re yp;zy vi;dd yu;yy ui;hd	1
+魔方战令	mo;mg fh;dw vj;gv ly;rs	1
+莫里斯	mo;cd li;aa si;jq	1
+貘馍卷	mo;vm mo;um jr;je	1
+末日兽	mo;hd ri;ri ub;kh	1
+魔阴身士卒	mo;mg yn;eo uf;pp ui;hh zu;du	1
+魔阴武弁	mo;mg yn;eo wu;vy bm;cs	1
+貊泽	mo;vb ze;df	1
+貊泽健体	mo;vb ze;df jm;rj ti;rb	1
+某处废墟中的零件	mb;mg iu;wb fz;gf xu;tx vs;ku de;bu ly;yl jm;rn	1
+某人的遗失物	mb;mg rf;pd de;bu yi;zg ui;pf wu;nw	1
+沐芳	mu;dm fh;cf	1
+木头老爷	mu;hd tb;dd lk;bl ye;fe	1
+木头老爷外传胶卷	mu;hd tb;dd lk;bl ye;fe wl;xb vr;rv jc;oj jr;je	1
+苜蓿草家系	mu;cm xu;cs ck;cz jw;bu xi;ps	1
+苜蓿色拉	mu;cm xu;cs se;db la;fl	1
+纳尔逊	na;sn er;xd xp;zs	1
+那刻夏	na;el ke;dh xw;wz	1
+娜塔莎	na;nn ta;th ua;cu	1
+那无数个春天	na;el wu;hg uu;wl ge;pa ip;rf tm;ad	1
+难吃的炒饭	nj;yv ii;kq de;bu ik;hu fj;uf	1
+能量饮料	ng;sb ld;rl yn;uq lc;md	1
+能量饮料无糖	ng;sb ld;rl yn;uq lc;md wu;hg th;mt	1
+能人级睡蕉坠饰	ng;sb rf;pd ji;sj uv;oi jc;cj vv;td ui;uj	1
+能指链条	ng;sb vi;fv lm;jl tc;wm	1
+尼奥尼	ni;ub ao;dm ni;ub	1
+你好剂	ni;re hk;nz ji;dq	1
+拟合值	ni;ty he;rk vi;rv	1
+逆时一击	ni;zn ui;oc yi;ah ji;fk	1
+拟态雪蛞蝓	ni;ty tl;xt xt;yx ko;iu yu;iy	1
+溺甜	ni;dr tm;ug	1
+匿影	ni;kr yy;pj	1
+念经机	nm;xj jy;sg ji;mj	1
+凝缩以太	ny;dy so;ss yi;rd tl;dd	1
+暖阳	nr;oy yh;er	1
+暖夜不会漫长	nr;oy ye;ww bu;ax hv;ry mj;dm ih;pd	1
+欧泊	ou;qq bo;db	1
+帕姆	pa;jb mu;nm	1
+帕姆美食	pa;jb mu;nm mz;yd ui;rl	1
+帕帕炸禽肉	pa;jb pa;jb va;hv qn;rl rb;kr	1
+帕沃尔的证词	pa;jb wo;dy er;xd de;bu vg;yv ci;ys	1
+派系	pl;dp xi;ps	1
+咆哮灵柩	pk;kb xc;kx ly;xh jq;mj	1
+佩拉	pz;rb la;fl	1
+佩佩	pz;rb pz;rb	1
+辟尘之尾	pi;xk if;tx vi;dd wz;um	1
+噼咔白葡萄汽水	pi;kx ka;kk bl;pr pu;cp tk;cf qi;dq uv;ad	1
+匹诺康尼	pi;ke no;yr kh;gl ni;ub	1
+匹诺康尼大剧院	pi;ke no;yr kh;gl ni;ub da;ad ju;dj yr;ew	1
+皮皮西人	pi;yu pi;yu xi;hh rf;pd	1
+片刻留在眼底	pm;pa ke;dh lq;td zl;ta yj;mg di;gd	1
+片刻自由	pm;pa ke;dh zi;pm yb;ur	1
+偏偏希望无价	pm;rb pm;rb xi;ju wh;wo wu;hg jw;rj	1
+平平无奇的垃圾	py;hu py;hu wu;hg qi;dk de;bu la;tl ji;tj	1
+评书	py;yp uu;vd	1
+平田平次	py;hu tm;aa py;hu ci;dq	1
+破灭玄莲	po;up mx;hh xr;wy lm;cl	1
+破碎残刃	po;up sv;uz cj;dj rf;dd	1
+破碎的天花板	po;up sv;uz de;bu tm;ad hw;ch bj;mf	1
+普普通通的垃圾	pu;ob pu;ob ts;zy ts;zy de;bu la;tl ji;tj	1
+朴实无华的垃圾	pu;mb ui;bt wu;hg hw;uh de;bu la;tl ji;tj	1
+启迪之钥	qi;hk di;zy vi;dd yk;jo	1
+岐黄解毒丸	qi;uv hd;ad jx;jn du;fm wj;jd	1
+祈龙坛	qi;uj ls;ad tj;ty	1
+气泡弹珠	qi;ry pk;db dj;gd vu;wv	1
+奇巧零食	qi;dk qc;gk ly;yl ui;rl	1
+奇情异想的绅士	qi;dk qy;xq yi;sc xd;xx de;bu uf;su ui;hh	1
+汽水先生	qi;dq uv;ad xm;en ug;nh	1
+汽水先生外传胶卷	qi;dq uv;ad xm;en ug;nh wl;xb vr;rv jc;oj jr;je	1
+齐颂	qi;wp ss;yg	1
+其他洞天	qi;hb ta;ry ds;dt tm;ad	1
+其他角色	qi;hb ta;ry jt;dy se;db	1
+其他人物	qi;hb ta;ry rf;pd wu;nw	1
+其他势力	qi;hb ta;ry ui;lv li;gp	1
+其他信仰	qi;hb ta;ry xn;ry yh;re	1
+其他已知现存星球世界	qi;hb ta;ry yi;vg vi;uk xm;wj cp;uz xy;ru qq;wq ui;ca jx;tj	1
+气态流体	qi;ry tl;xt lq;di ti;rb	1
+奇想林中的蕉研组	qi;dk xd;xx ln;mm vs;ku de;bu jc;cj yj;uk zu;sq	1
+齐响诗班神主日	qi;wp xd;kx ui;ys bj;dw uf;uu vu;dw ri;ri	1
+启行的祝福	qi;hk xy;ri de;bu vu;ux fu;ut	1
+钱可通	qm;jj ke;dk ts;zy	1
+千星权限认证	qm;pu xy;ru qr;my xm;eg rf;yr vg;yv	1
+强化膏冰	qd;gs hw;rb gk;yk by;du	1
+强化膏风	qd;gs hw;rb gk;yk fg;ji	1
+强化膏火	qd;gs hw;rb gk;yk ho;dd	1
+强化膏雷	qd;gs hw;rb gk;yk lz;yt	1
+强化膏量子	qd;gs hw;rb gk;yk ld;rl zi;aa	1
+强化膏物理	qd;gs hw;rb gk;yk wu;nw li;wl	1
+强化膏虚数	qd;gs hw;rb gk;yk xu;hy uu;wl	1
+枪尖	qd;mc jm;xd	1
+乔凡娜	qc;pp fj;jd na;nn	1
+切片蛋糕仰望星空	qx;qd pm;pa dj;ip gk;mg yh;re wh;wo xy;ru ks;bg	1
+青锋急急如律令	qy;fy fg;jf ji;xx ji;xx ru;nk lv;xy ly;rs	1
+清净拂尘	qy;dq jy;dv fu;tf if;tx	1
+晴霓的回忆	qy;oq ni;ye de;bu hv;kk yi;xy	1
+青雀	qy;fy qt;xv	1
+青铜的执着	qy;fy ts;jt de;bu vi;fw vo;ym	1
+情绪原型片刻自由	qy;xq xu;sv yr;ix xy;tx pm;pa ke;dh zi;pm yb;ur	1
+情绪原型碎梦	qy;xq xu;sv yr;ix xy;tx sv;uz mg;xl	1
+情绪原型选择背叛的刹那	qy;xq xu;sv yr;ix xy;tx xr;zx ze;tf bz;ob pj;fb de;bu ia;du na;el	1
+情绪原型疑虑的阴云	qy;xq xu;sv yr;ix xy;tx yi;bp lv;xh de;bu yn;eo yp;es	1
+情绪原型至死不渝的恨	qy;xq xu;sv yr;ix xy;tx vi;vt si;db bu;ax yu;dy de;bu hf;xg	1
+青镞	qy;fy zu;jz	1
+琼实鸟串	qs;wj ui;bt nc;nh ir;uu	1
+琼玉牌棋谱	qs;wj yu;hd pl;pb qi;mq pu;yp	1
+球笼	qq;wq ls;vl	1
+求药使	qq;ad yk;cy ui;rl	1
+权限认证	qr;my xm;eg rf;yr vg;yv	1
+全域守望者	qr;rw yu;th ub;bc wh;wo ve;ol	1
+权杖系统	qr;my vh;mv xi;ps ts;si	1
+全自动绘梦喷罐	qr;rw zi;pm ds;ly hv;sh mg;xl pf;kb gr;fv	1
+群星乐章	qp;yj xy;ru yt;px vh;lz	1
+燃料	rj;hr lc;md	1
+燃素	rj;hr su;sf	1
+热浮羊奶	re;dv fu;df yh;da nl;nn	1
+热烈的气氛	re;dv lx;dl de;bu qi;ry ff;qf	1
+热能核心	re;dv ng;sb he;mh xn;dd	1
+热情似火	re;dv qy;xq si;ry ho;dd	1
+忍法帖缭乱破魔	rf;xr fa;dq tx;jv lc;sx lr;ug po;up mo;mg	1
+忍事录音律狩猎	rf;xr ui;aa lu;au yn;lr lv;xy ub;qu lx;qx	1
+刃夜宴	rf;dd ye;ww yj;bn	1
+入魔机巧灯昼龙鱼	ru;pd mo;mg ji;mj qc;gk dg;hd vb;id ls;ad yu;da	1
+入魔机巧率从狻猊	ru;pd mo;mg ji;mj qc;gk lv;wu cs;rr sr;qw ni;qe	1
+入魔机巧浓云金蟾	ru;pd mo;mg ji;mj qc;gk ns;dn yp;es jn;pa ij;iv	1
+如泥酣眠	ru;nk ni;dn hj;yg mm;om	1
+阮梅	rr;ey mz;mm	1
+阮梅教研	rr;ey mz;mm jc;wx yj;uk	1
+软木杯垫	rr;iq mu;hd bz;mb dm;tv	1
+睿见	rv;or jm;ug	1
+若月	ro;cy yt;oy	1
+萨宾娜	sa;ci bn;bb na;nn	1
+赛飞儿	sl;bb fz;yd er;pg	1
+三号藏宝图	sj;aa hk;kk ch;ci bk;by tu;kd	1
+三号冠军候补凭证	sj;aa hk;kk gr;bc jp;bi hb;ru bu;yb py;jr vg;yv	1
+散热凝胶	sj;wo re;dv ny;dy jc;oj	1
+散逸星砂	sj;wo yi;zt xy;ru ua;uu	1
+三月七	sj;aa yt;oy qi;ag	1
+三月七的起点	sj;aa yt;oy qi;ag de;bu qi;zj dm;dv	1
+三月七巡猎	sj;aa yt;oy qi;ag xp;zi lx;qx	1
+三月七迎新	sj;aa yt;oy qi;ag yy;ze xn;jq	1
+桑博	sh;mr bo;uc	1
+桑博幻象	sh;mr bo;uc hr;yg xd;du	1
+砂金	ua;uu jn;pa	1
+砂金的信物	ua;uu jn;pa de;bu xn;ry wu;nw	1
+砂金命中	ua;uu jn;pa my;re vs;ku	1
+山巅之城	uj;aa dm;ud vi;dd ig;ti	1
+商会储值金	uh;wk hv;ry iu;rv vi;rv jn;pa	1
+商业活力证明	uh;wk ye;aa ho;du li;gp vg;yv my;ry	1
+商业街地下酒吧	uh;wk ye;aa jx;xi di;ty xw;ad jq;dy ba;kb	1
+尚滋味的联动活动	uh;xk zi;dz wz;kw de;bu lm;eg ds;ly ho;du ds;ly	1
+社蕉礼仪	ue;ut jc;cj li;ug yi;ry	1
+深寒徘徊者	uf;dm hj;bd pl;xf hy;xh ve;ol	1
+深寒徘徊者错误	uf;dm hj;bd pl;xf hy;xh ve;ol co;jx wu;yw	1
+神秘钥匙	uf;uu mi;hb yk;jo ui;ub	1
+神矢余烬	uf;uu ui;pd yu;rb jn;hj	1
+深邃的星外质	uf;dm sv;zu de;bu xy;ru wl;xb vi;bu	1
+神体琥珀	uf;uu ti;rb hu;wh po;wb	1
+神偷的触手	uf;uu tb;ry de;bu iu;ji ub;ub	1
+身陷樊笼的往昔	uf;pp xm;ex fj;dm ls;vl de;bu wh;xv xi;cr	1
+身陷樊笼的往昔错误	uf;pp xm;ex fj;dm ls;vl de;bu wh;xv xi;cr co;jx wu;yw	1
+盛会之星	ug;mi hv;ry vi;dd xy;ru	1
+圣甲虫计划道具	ug;yt jw;ru is;vd ji;yu hw;dg dk;zu ju;ba	1
+胜利属于此刻	ug;yu li;dh uu;uy yu;hu ci;vb ke;dh	1
+生灵永恒安息	ug;nh ly;xh ys;dd hg;xg an;bn xi;xz	1
+生灭灵芝	ug;nh mx;hh ly;xh vi;cv	1
+生命传输器	ug;nh my;re ir;rv uu;iy qi;kk	1
+生命之芽	ug;nh my;re vi;dd ya;cy	1
+生长促进剂	ug;nh vh;pd cu;rz jn;zj ji;dq	1
+示迹玉扣	ui;hd ji;zy yu;hd kb;tk	1
+时间的高贵	ui;oc jm;om de;bu gk;dk gv;vb	1
+时节不居	ui;oc jx;ce bu;ax ju;ug	1
+视肉	ui;uj rb;kr	1
+石头老板	ui;pk tb;dd lk;bl bj;mf	1
+石头老板外传胶卷	ui;pk tb;dd lk;bl bj;mf wl;xb vr;rv jc;oj jr;je	1
+史瓦罗	ui;ki wa;ad lo;sx	1
+十王还命散	ui;hu wh;aa hr;zb my;re sj;wo	1
+十王司	ui;hu wh;aa si;ka	1
+驶向第二次生命	ui;mu xd;pk di;vp er;hh ci;dq ug;nh my;re	1
+石心十人	ui;pk xn;dd ui;hu rf;pd	1
+石心十人诡弈砂金	ui;pk xn;dd ui;hu rf;pd gv;yw yi;wc ua;uu jn;pa	1
+使一颗心免于哀伤	ui;rl yi;ah ke;yg xn;dd mm;dm yu;hu ai;dy uh;rl	1
+饰有铃铛的肮脏缎带	ui;uj yb;ou ly;jl dh;jd de;bu ah;yk zh;yv dr;sd dl;jb	1
+食欲如雷鸣炸响	ui;rl yu;qg ru;nk lz;yt my;kn va;hv xd;kx	1
+蚀月狼卒	ui;ui yt;oy lh;ql zu;du	1
+蚀月心兽飞霄之影	ui;ui yt;oy xn;dd ub;kh fz;yd xc;yx vi;dd yy;pj	1
+蚀蛰虫	ui;ui ve;iv is;vd	1
+石中剑	ui;pk vs;ku jm;da	1
+兽棺之钉	ub;kh gr;mg vi;dd dy;jd	1
+守护者的悲愿	ub;bc hu;th ve;ol de;bu bz;xf yr;xy	1
+守护者之影	ub;bc hu;th ve;ol vi;dd yy;pj	1
+守护者之影错误	ub;bc hu;th ve;ol vi;dd yy;pj co;jx wu;yw	1
+寿瘟祸祖	ub;fc wf;bm ho;un zu;uq	1
+手写信笺	ub;ub xx;by xn;ry jm;vj	1
+授勋	ub;fu xp;ly	1
+舒俱	uu;uy ju;rj	1
+署名匹克的包裹	uu;sv my;xk pi;ke ke;eg de;bu bk;bs go;dy	1
+署名伊妮丝的包裹	uu;sv my;xk yi;ry ni;nn si;hv de;bu bk;bs go;dy	1
+淑女的筑梦碎片	uu;du nv;aa de;bu vu;vg mg;xl sv;uz pm;pa	1
+薯条圣代	uu;cu tc;wm ug;yt dl;ry	1
+戍御	uu;wd yu;rx	1
+数值受害的垃圾	uu;wl vi;rv ub;vy hl;bk de;bu la;tl ji;tj	1
+霜晶造物	ud;yx jy;rr zk;zg wu;nw	1
+霜纹鲑面包	ud;yx wf;sw gv;yg mm;ph bk;bs	1
+睡蕉社社员证黄金睡蕉款	uv;oi jc;cj ue;ut ue;ut yr;kb vg;yv hd;ad jn;pa uv;oi jc;cj kr;qu	1
+睡蕉小猴玩偶预定特典	uv;oi jc;cj xc;du hb;qh wj;wy ou;ry yu;yy dy;bp te;ns dm;bh	1
+水军	uv;ad jp;bi	1
+水雷蕈	uv;ad lz;yt xp;ct	1
+水龙吟	uv;ad ls;ad yn;kj	1
+司令的筑梦碎片	si;ka ly;rs de;bu vu;vg mg;xl sv;uz pm;pa	1
+斯坦威游隼豪华飞车出租款	si;jq tj;td wz;wn yb;dz sp;vu hk;du hw;uh fz;yd ie;hu iu;ck zu;hq kr;qu	1
+斯坦威游隼豪华飞车黑	si;jq tj;td wz;wn yb;dz sp;vu hk;du hw;uh fz;yd ie;hu hz;dh	1
+斯坦威游隼豪华飞车金	si;jq tj;td wz;wn yb;dz sp;vu hk;du hw;uh fz;yd ie;hu jn;pa	1
+斯坦威游隼豪华飞车蓝	si;jq tj;td wz;wn yb;dz sp;vu hk;du hw;uh fz;yd ie;hu lj;cj	1
+斯薇塔	si;jq wz;cw ta;th	1
+思绪末屑	si;tx xu;sv mo;hd xx;ux	1
+颂歌	ss;yg ge;qg	1
+送往不夜侯的小盒	ss;zg wh;xv bu;ax ye;ww hb;ru de;bu xc;du he;mh	1
+送往尚滋味的庖刀	ss;zg wh;xv uh;xk zi;dz wz;kw de;bu pk;gb dk;gp	1
+搜查记录诚恳请求	sb;ty ia;md ji;yj lu;au ig;yi kf;gx qy;yq qq;ad	1
+搜查记录打感情牌	sb;ty ia;md ji;yj lu;au da;fd gj;xx qy;xq pl;pb	1
+搜查记录破财消灾	sb;ty ia;md ji;yj lu;au po;up cl;bc xc;dx zl;bh	1
+搜查记录书籍扉页	sb;ty ia;md ji;yj lu;au uu;vd ji;vx fz;hf ye;ab	1
+搜查记录武力威胁	sb;ty ia;md ji;yj lu;au wu;vy li;gp wz;wn xx;yb	1
+搜查记录执事精神	sb;ty ia;md ji;yj lu;au vi;fw ui;aa jy;mq uf;uu	1
+苏打豆汁儿	su;cb da;fd db;hh vi;du er;pg	1
+速度与坚果	su;zu du;gy yu;hh jm;ty go;tm	1
+肃风之杪	su;yd fg;ji vi;dd mc;mu	1
+苏乐达	su;cb le;px da;zd	1
+苏乐达公司	su;cb le;px da;zd gs;bs si;ka	1
+苏乐达热砂海选会场	su;cb le;px da;zd re;dv ua;uu hl;dm xr;zx hv;ry ih;ty	1
+素鲤扇	su;sf li;yl uj;yh	1
+苏萨先生	su;cb sa;ci xm;en ug;nh	1
+素裳	su;sf uh;yk	1
+酸梦牌软糖	sr;yw mg;xl pl;pb rr;iq th;mt	1
+碎裂的玉符	sv;uz lx;yl de;bu yu;hd fu;vf	1
+碎梦	sv;uz mg;xl	1
+碎星绝尘剑大宝剑风灵月影剑	sv;uz xy;ru jt;ss if;tx jm;da da;ad bk;by jm;da fg;ji ly;xh yt;oy yy;pj jm;da	1
+碎星王虫斯喀拉卡巴兹拟造	sv;uz xy;ru wh;aa is;vd si;jq ka;kk la;fl ka;bx ba;ag zi;by ni;ty zk;zg	1
+岁阳	sv;ux yh;er	1
+岁阳宝烛	sv;ux yh;er bk;by vu;hi	1
+岁阳武器	sv;ux yh;er wu;vy qi;kk	1
+损坏的八音盒	sp;fy hy;tb de;bu ba;pd yn;lr he;mh	1
+损毁的残兵	sp;fy hv;jy de;bu cj;dj by;qb	1
+所有或一无所有	so;hj yb;ou ho;gk yi;ah wu;hg so;hj yb;ou	1
+所有或一无所有双倍好运	so;hj yb;ou ho;gk yi;ah wu;hg so;hj yb;ou ud;yy bz;rk hk;nz yp;zy	1
+她已闭上双眼	ta;ny yi;vg bi;mc uh;uh ud;yy yj;mg	1
+太卜司	tl;dd bu;ud si;ka	1
+太阳薄饼	tl;dd yh;er bk;cp by;ub	1
+弹球机模型	tj;gd qq;wq ji;mj mo;mm xy;tx	1
+檀檀	tj;md tj;md	1
+谭雅	tj;yt ya;yv	1
+糖球炒视肉	th;mt qq;wq ik;hu ui;uj rb;kr	1
+陶德	tk;et de;xx	1
+陶德的笔记本	tk;et de;xx de;bu bi;vm ji;yj bf;hh	1
+特迪思	te;ns di;zy si;tx	1
+缇宝	ti;su bk;by	1
+提纯以太	ti;fu ip;st yi;rd tl;dd	1
+天舶司	tm;ad bo;vb si;ka	1
+天才俱乐部	tm;ad cl;hp ju;rj le;px bu;ek	1
+天才们的休憩	tm;ad cl;hp mf;rm de;bu xq;rm qi;xz	1
+天光永恒照耀	tm;ad gd;ea ys;dd hg;xg vk;hv yk;gv	1
+天环翅堡	tm;ad hr;wb ii;vy bk;tb	1
+天环族	tm;ad hr;wb zu;fu	1
+天火熔金	tm;ad ho;dd rs;hr jn;pa	1
+天倾	tm;ad qy;rq	1
+天人遗垢	tm;ad rf;pd yi;zg gb;th	1
+天外合唱班	tm;ad wl;xb he;rk ih;ki bj;dw	1
+天外乐章	tm;ad wl;xb yt;px vh;lz	1
+天下熙熙	tm;ad xw;ad xi;hs xi;hs	1
+天渊万龙之祖	tm;ad yr;dm wj;hg ls;ad vi;dd zu;uq	1
+调和	tc;yv he;hk	1
+调弦师	tc;yv xm;gx ui;db	1
+调饮材料孤注一掷	tc;yv yn;uq cl;mc lc;md gu;zg vu;dv yi;ah vi;fv	1
+调饮材料恒久忍耐	tc;yv yn;uq cl;mc lc;md hg;xg jq;dd rf;xr nl;ce	1
+调饮材料经典苏乐达	tc;yv yn;uq cl;mc lc;md jy;sg dm;bh su;cb le;px da;zd	1
+调饮材料美梦糖浆	tc;yv yn;uq cl;mc lc;md mz;yd mg;xl th;mt jd;ux	1
+调饮材料噼咔白葡萄汽水	tc;yv yn;uq cl;mc lc;md pi;kx ka;kk bl;pr pu;cp tk;cf qi;dq uv;ad	1
+调饮材料展望美好未来	tc;yv yn;uq cl;mc lc;md vj;uy wh;wo mz;yd hk;nz wz;hd ll;hm	1
+挑战读者	tc;tv vj;gv du;ym ve;ol	1
+铁窗牌沐浴露	tx;ju id;xx pl;pb mu;dm yu;dg lu;yl	1
+铁窗牌药王口服液	tx;ju id;xx pl;pb yk;cy wh;aa kb;aa fu;yy ye;dy	1
+铁尔南	tx;ju er;xd nj;ua	1
+铁狼碎齿	tx;ju lh;ql sv;uz ii;vk	1
+铁皮花朵	tx;ju pi;yu hw;ch do;mj	1
+铁皮人的筑梦碎片	tx;ju pi;yu rf;pd de;bu vu;vg mg;xl sv;uz pm;pa	1
+铁卫军徽	tx;ju wz;ga jp;bi hv;rw	1
+铁卫扣饰	tx;ju wz;ga kb;tk ui;uj	1
+铁卫勋章	tx;ju wz;ga xp;ly vh;lz	1
+停云	ty;rt yp;es	1
+同功坊的营收分析	ts;kk gs;gl fh;tf de;bu yy;cl ub;jw ff;bd xi;mj	1
+通缉令	ts;zy ji;se ly;rs	1
+同谐	ts;kk xx;yj	1
+同谐黏液	ts;kk xx;yj nm;vu ye;dy	1
+同谐之影	ts;kk xx;yj vi;dd yy;pj	1
+同心火铃	ts;kk xn;dd ho;dd ly;jl	1
+同一种心情	ts;kk yi;ah vs;hv xn;dd qy;xq	1
+同音共律的来日	ts;kk yn;lr gs;bc lv;xy de;bu ll;hm ri;ri	1
+同音共律的来日错误	ts;kk yn;lr gs;bc lv;xy de;bu ll;hm ri;ri co;jx wu;yw	1
+同愿的遗音	ts;kk yr;xy de;bu yi;zg yn;lr	1
+图尔度	tu;kd er;xd du;gy	1
+屠魔之矢	tu;uv mo;mg vi;dd ui;pd	1
+兔子在哪里	tu;dd zi;aa zl;ta na;kn li;aa	1
+托蝶幻境	to;tq dx;iy hr;yg jy;tj	1
+托帕命中	to;tq pa;jb my;re vs;ku	1
+托帕账账	to;tq pa;jb vh;bi vh;bi	1
+拓扑加速带	to;tu pu;fb jw;lk su;zu dl;jb	1
+拓下的信纸	to;tu xw;ad de;bu xn;ry vi;su	1
+瓦尔特	wa;ad er;xd te;ns	1
+瓦尔特迎新	wa;ad er;xd te;ns yy;ze xn;jq	1
+外宇宙之冰	wl;xb yu;by vb;by vi;dd by;du	1
+外宇宙之冰错误	wl;xb yu;by vb;by vi;dd by;du co;jx wu;yw	1
+外宇宙之炎	wl;xb yu;by vb;by vi;dd yj;hh	1
+外宇宙之炎错误	wl;xb yu;by vb;by vi;dd yj;hh co;jx wu;yw	1
+晚安与睡颜	wj;rm an;bn yu;hh uv;oi yj;yy	1
+万敌	wj;hg di;uw	1
+完好的锁扣	wj;by hk;nz de;bu so;jb kb;tk	1
+玩家名香蕉派	wj;wy jw;bu my;xk xd;ho jc;cj pl;dp	1
+万界之癌	wj;hg jx;tj vi;dd ai;bu	1
+万籁齐响的指挥家	wj;hg ll;vl qi;wp xd;kx de;bu vi;fv hv;fj jw;bu	1
+万寿无情丹	wj;hg ub;fc wu;hg qy;xq dj;pd	1
+万相果实	wj;hg xd;mo go;tm ui;bt	1
+忘归人	wh;xw gv;ux rf;pd	1
+往日之影的金饰	wh;xv ri;ri vi;dd yy;pj de;bu jn;pa ui;uj	1
+往日之影的雷冠	wh;xv ri;ri vi;dd yy;pj de;bu lz;yt gr;bc	1
+汪散步时间	wh;dw sj;wo bu;vx ui;oc jm;om	1
+王下一桶	wh;aa xw;ad yi;ah ts;my	1
+妄想积木	wh;nw xd;xx ji;hv mu;hd	1
+微光原核	wz;xw gd;ea yr;ix he;mh	1
+未寄出的家书	wz;hd ji;bq iu;ck de;bu jw;bu uu;vd	1
+危机预知	wz;de ji;mj yu;yy vi;uk	1
+为了明日的旅途	wz;dd le;vu my;ry ri;ri de;bu lv;fp tu;zy	1
+慰灵的纸鸢	wz;xw ly;xh de;bu vi;su yr;yn	1
+位面饰品	wz;rl mm;ph ui;uj pn;kk	1
+威名赫赫	wz;wn my;xk he;ii he;ii	1
+微缩胶片	wz;xw so;ss jc;oj pm;pa	1
+维塔利	wz;sv ta;th li;dh	1
+未妥投的信封二	wz;hd to;vn tb;fu de;bu xn;ry fg;cg er;hh	1
+未妥投的信封三	wz;hd to;vn tb;fu de;bu xn;ry fg;cg sj;aa	1
+未妥投的信封一	wz;hd to;vn tb;fu de;bu xn;ry fg;cg yi;ah	1
+未熄的星芒	wz;hd xi;hx de;bu xy;ru mh;cw	1
+未熄的余烬	wz;hd xi;hx de;bu yu;rb jn;hj	1
+唯有沉默	wz;kv yb;ou if;dr mo;hq	1
+唯有香如故	wz;kv yb;ou xd;ho ru;nk gu;wg	1
+未知的筑梦碎片	wz;hd vi;uk de;bu vu;vg mg;xl sv;uz pm;pa	1
+文化娱乐	wf;dd hw;rb yu;nw le;px	1
+温萍萍	wf;dm py;cp py;cp	1
+温世玲	wf;dm ui;ca ly;wl	1
+温婷婷	wf;dm ty;nt ty;nt	1
+文物古迹	wf;dd wu;nw gu;uk ji;zy	1
+我的诞生	wo;pp de;bu dj;yy ug;nh	1
+沃尔纳	wo;dy er;xd na;sn	1
+沃尔特	wo;dy er;xd te;ns	1
+我将巡征追猎	wo;pp jd;jc xp;zi vg;xv vv;zv lx;qx	1
+我们是地火	wo;pp mf;rm ui;op di;ty ho;dd	1
+沃森	wo;dy sf;ml	1
+无边曼舞	wu;hg bm;zl mj;oy wu;pu	1
+无处可逃	wu;hg iu;wb ke;dk tk;zv	1
+五谷玉液	wu;aa gu;bk yu;hd ye;dy	1
+无尽寒冬之槊	wu;hg jn;id hj;bd ds;wd vi;dd uo;my	1
+无可取代的东西	wu;hg ke;dk qu;ye dl;ry de;bu ds;qx xi;hh	1
+乌玛	wu;ph ma;wm	1
+无名客	wu;hg my;xk ke;bg	1
+无名客的经验	wu;hg my;xk ke;bg de;bu jy;sg yj;ma	1
+无名客的忆泡	wu;hg my;xk ke;bg de;bu yi;xy pk;db	1
+无名路途	wu;hg my;xk lu;zg tu;zy	1
+无明遗孤	wu;hg my;ry yi;zg gu;zg	1
+无穷假身的遗恨	wu;hg qs;bl jw;ry uf;pp de;bu yi;zg hf;xg	1
+物穰	wu;nw rh;hx	1
+无人生还	wu;hg rf;pd ug;nh hr;zb	1
+五色斑斓的酸	wu;aa se;db bj;ww lj;wl de;bu sr;yw	1
+雾生	wu;yw ug;nh	1
+无生残刃	wu;hg ug;nh cj;dj rf;dd	1
+无声自满	wu;hg ug;um zi;pm mj;dl	1
+乌通蓬	wu;ph ts;zy pg;cf	1
+乌通蓬独轮飞车	wu;ph ts;zy pg;cf du;qi lp;il fz;yd ie;hu	1
+无望冽风的幻灭者	wu;hg wh;wo lx;dl fg;ji de;bu hr;yg mx;hh ve;ol	1
+无望冽风的幻灭者虚妄之母	wu;hg wh;wo lx;dl fg;ji de;bu hr;yg mx;hh ve;ol xu;hy wh;nw vi;dd mu;vd	1
+呜呜伯	wu;kw wu;kw bo;rb	1
+舞舞舞	wu;pu wu;pu wu;pu	1
+无想面具	wu;hg xd;xx mm;ph ju;ba	1
+无言之卷	wu;hg yj;dk vi;dd jr;je	1
+午夜特快	wu;pu ye;ww te;ns ky;xd	1
+稀薄以太	xi;hx bo;cp yi;rd tl;dd	1
+希儿	xi;ju er;pg	1
+夕葵	xi;pd kv;ct	1
+昔涟	xi;cr lm;dl	1
+希露瓦	xi;ju lu;yl wa;ad	1
+熄灭原核	xi;hx mx;hh yr;ix he;mh	1
+西桥	xi;hh qc;mq	1
+稀松平常的垃圾	xi;hx ss;mg py;hu ih;dd de;bu la;tl ji;tj	1
+希望有羽毛和翅膀	xi;ju wh;wo yb;ou yu;xx mk;pg he;hk ii;vy bh;yp	1
+希望有羽毛和翅膀序曲	xi;ju wh;wo yb;ou yu;xx mk;pg he;hk ii;vy bh;yp xu;gy qu;ru	1
+西衍先生	xi;hh yj;ri xm;en ug;nh	1
+西衍先生的授权录音	xi;hh yj;ri xm;en ug;nh de;bu ub;fu qr;my lu;au yn;lr	1
+昔在今在永在的剧目	xi;cr zl;ta jn;rv zl;ta ys;dd zl;ta de;bu ju;dj mu;uh	1
+夏布罗	xw;wz bu;uj lo;sx	1
+遐蝶	xw;zj dx;iy	1
+仙人快乐茶	xm;ru rf;pd ky;xd le;px ia;cm	1
+现实原则	xm;wj ui;bt yr;ix ze;bd	1
+线索信息穿梭相位的火焰	xm;sj so;us xn;ry xi;xz ir;xy so;mw xd;mo wz;rl de;bu ho;dd yj;hx	1
+线索信息附录小册子	xm;sj so;us xn;ry xi;xz fu;ef lu;au xc;du ce;kh zi;aa	1
+线索信息失踪科员名单	xm;sj so;us xn;ry xi;xz ui;pf zs;zz ke;hd yr;kb my;xk dj;bd	1
+线索信息香味	xm;sj so;us xn;ry xi;xz xd;ho wz;kw	1
+陷阵无回	xm;ex vf;ei wu;hg hv;kk	1
+仙舟苍城	xm;ru vb;pd ch;cc ig;ti	1
+仙舟方壶	xm;ru vb;pd fh;dw hu;uy	1
+仙舟联盟	xm;ru vb;pd lm;eg mg;mm	1
+仙舟罗浮	xm;ru vb;pd lo;sx fu;df	1
+仙舟人	xm;ru vb;pd rf;pd	1
+仙舟曜青	xm;ru vb;pd yk;rv qy;fy	1
+仙舟玉阙	xm;ru vb;pd yu;hd qt;mj	1
+仙舟朱明	xm;ru vb;pd vu;pw my;ry	1
+仙舟坠子	xm;ru vb;pd vv;td zi;aa	1
+仙舟总览	xm;ru vb;pd zs;bx lj;jv	1
+相互保证毁灭按钮	xd;mo hu;ea bk;rd vg;yv hv;jy mx;hh an;fa nq;ji	1
+相抗	xd;mo kh;tk	1
+橡木蛋糕卷	xd;mx mu;hd dj;ip gk;mg jr;je	1
+橡木家系	xd;mx mu;hd jw;bu xi;ps	1
+香喷喷的糕点	xd;ho pf;kb pf;kb de;bu gk;mg dm;dv	1
+相声	xd;mo ug;um	1
+相位灵火	xd;mo wz;rl ly;xh ho;dd	1
+想象一朵未来的玫瑰道具	xd;xx xd;du yi;ah do;mj wz;hd ll;hm de;bu mz;ww gv;wg dk;zu ju;ba	1
+缃叶之杪	xd;sx ye;ku vi;dd mc;mu	1
+小还丹	xc;du hr;zb dj;pd	1
+笑口常开	xc;vy kb;aa ih;dd kl;ac	1
+小拧巴吹泡糖	xc;du ny;tn ba;ag iv;kq pk;db th;mt	1
+小小凯撒	xc;du xc;du kl;jj sa;fs	1
+小星星的筑梦碎片	xc;du xy;ru xy;ru de;bu vu;vg mg;xl sv;uz pm;pa	1
+小型中子辐射炸弹	xc;du xy;tx vs;ku zi;aa fu;it ue;cu va;hv dj;gd	1
+谐乐鸽	xx;yj le;px ge;nh	1
+谐乐静默之后	xx;yj le;px jy;qv mo;hq vi;dd hb;pk	1
+谐乐小调	xx;yj le;px xc;du dc;yv	1
+谐乐众弦	xx;yj le;px vs;rc xm;gx	1
+新茶遏云歌	xn;jq ia;cm ee;zh yp;es ge;qg	1
+辛格勒	xn;lu ge;mg le;gl	1
+新古琴录音	xn;jq gu;uk qn;wj lu;au yn;lr	1
+心灵慰藉特调	xn;dd ly;xh wz;xw jx;cx te;ns tc;yv	1
+信任的证明	xn;ry rf;rr de;bu vg;yv my;ry	1
+新手任务开始前	xn;jq ub;ub rf;rr wu;wl kl;ac ui;nt qm;qd	1
+信甩点	xn;ry uy;pg dm;dv	1
+信仰	xn;ry yh;re	1
+信用点	xn;ry ys;kf dm;dv	1
+星槎	xy;ru ia;mi	1
+星槎海中枢	xy;ru ia;mi hl;dm vs;ku uu;mq	1
+兴风者	xy;db fg;ji ve;ol	1
+兴风者错误	xy;db fg;ji ve;ol co;jx wu;yw	1
+星光大道	xy;ru gd;ea da;ad dk;zu	1
+星轨通票	xy;ru gv;ij ts;zy pc;xu	1
+星轨专票	xy;ru gv;ij vr;fs pc;xu	1
+星海宝藏	xy;ru hl;dm bk;by zh;ci	1
+星海浮沉录	xy;ru hl;dm fu;df if;dr lu;au	1
+星海巡航	xy;ru hl;dm xp;zi hh;vk	1
+星核	xy;ru he;mh	1
+星核猎手	xy;ru he;mh lx;qx ub;ub	1
+星核猎手卡芙卡	xy;ru he;mh lx;qx ub;ub ka;bx fu;cf ka;bx	1
+星核猎手萨姆	xy;ru he;mh lx;qx ub;ub sa;ci mu;nm	1
+星核万界之癌	xy;ru he;mh wj;hg jx;tj vi;dd ai;bu	1
+星火游园	xy;ru ho;dd yb;dz yr;ky	1
+星火之精	xy;ru ho;dd vi;dd jy;mq	1
+星际和平公司	xy;ru ji;eu he;hk py;hu gs;bs si;ka	1
+星际和平公司合作邀请函	xy;ru ji;eu he;hk py;hu gs;bs si;ka he;rk zo;rv yk;zw qy;yq hj;ku	1
+星际和平工作证	xy;ru ji;eu he;hk py;hu gs;hh zo;rv vg;yv	1
+星际旅行	xy;ru ji;eu lv;fp xy;ri	1
+星间旅行	xy;ru jm;om lv;fp xy;ri	1
+星期日	xy;ru qi;qy ri;ri	1
+星琼	xy;ru qs;wj	1
+星穹列车	xy;ru qs;xg lx;dd ie;hu	1
+星穹列车微缩模型限量版	xy;ru qs;xg lx;dd ie;hu wz;xw so;ss mo;mm xy;tx xm;eg ld;rl bj;pf	1
+星神	xy;ru uf;uu	1
+星体培养皿	xy;ru ti;rb pz;tk yh;ya mn;aa	1
+星文照旅魂	xy;ru wf;dd vk;hv lv;fp hp;yg	1
+星芋啵啵	xy;ru yu;cy bo;kb bo;kb	1
+行于流逝的岸	xy;ri yu;hu lq;di ui;zv de;bu an;ug	1
+幸运的象征	xy;tu yp;zy de;bu xd;du vg;xv	1
+凶手的眼神	xs;ik ub;ub de;bu yj;mg uf;uu	1
+锈迹齿轮	xq;jx ji;zy ii;vk lp;il	1
+虚构史学家	xu;hy gb;mg ui;ki xt;dz jw;bu	1
+虚幻铸铁	xu;hy hr;yg vu;ju tx;ju	1
+虚空黑曜	xu;hy ks;bg hz;dh yk;rv	1
+虚粒子	xu;hy li;ml zi;aa	1
+序列扑满	xu;gy lx;dd pu;fb mj;dl	1
+蓄梦元件	xu;ci mg;xl yr;ee jm;rn	1
+虚数残叶	xu;hy uu;wl cj;dj ye;ku	1
+虚数内能便携式战术激光炮	xu;hy uu;wl nz;ud ng;sb bm;rg xx;tn ui;yg vj;gv uu;md ji;dw gd;ea pk;hb	1
+虚数之树	xu;hy uu;wl vi;dd uu;md	1
+虚数织叶者	xu;hy uu;wl vi;sv ye;ku ve;ol	1
+虚无硬片	xu;hy wu;hg yy;ug pm;pa	1
+虚卒篡改者	xu;hy zu;du cr;vs gl;jw ve;ol	1
+虚卒践踏者	xu;hy zu;du jm;zj ta;zt ve;ol	1
+虚卒践踏者错误	xu;hy zu;du jm;zj ta;zt ve;ol co;jx wu;yw	1
+虚卒掠夺者	xu;hy zu;du lt;fj do;dc ve;ol	1
+虚卒抹消者	xu;hy zu;du mo;fm xc;dx ve;ol	1
+喧哗	xr;kx hw;kh	1
+喧哗与骚动	xr;kx hw;kh yu;hh sk;mi ds;ly	1
+玄牝之门万类之根	xr;wy pn;nb vi;dd mf;dg wj;hg lz;md vi;dd gf;mg	1
+选择背叛的刹那	xr;zx ze;tf bz;ob pj;fb de;bu ia;du na;el	1
+玄爪狼卒	xr;wy vk;pd lh;ql zu;du	1
+学宫	xt;dz gs;bl	1
+学会标识的拓片其八	xt;dz hv;ry bc;mu vi;yv de;bu ta;tu pm;pa qi;hb ba;pd	1
+学会标识的拓片其二	xt;dz hv;ry bc;mu vi;yv de;bu ta;tu pm;pa qi;hb er;hh	1
+学会标识的拓片其六	xt;dz hv;ry bc;mu vi;yv de;bu ta;tu pm;pa qi;hb lq;db	1
+学会标识的拓片其七	xt;dz hv;ry bc;mu vi;yv de;bu ta;tu pm;pa qi;hb qi;ag	1
+学会标识的拓片其三	xt;dz hv;ry bc;mu vi;yv de;bu ta;tu pm;pa qi;hb sj;aa	1
+学会标识的拓片其四	xt;dz hv;ry bc;mu vi;yv de;bu ta;tu pm;pa qi;hb si;ke	1
+学会标识的拓片其五	xt;dz hv;ry bc;mu vi;yv de;bu ta;tu pm;pa qi;hb wu;aa	1
+学会标识的拓片其一	xt;dz hv;ry bc;mu vi;yv de;bu ta;tu pm;pa qi;hb yi;ah	1
+学派战争	xt;dz pl;dp vj;gv vg;dy	1
+雪衣	xt;yx yi;dd	1
+雪原大乱炖	xt;yx yr;ix da;ad lr;ug dp;ht	1
+巡镝	xp;zi di;jg	1
+巽风造物	xp;gs fg;ji zk;zg wu;nw	1
+巡海游侠	xp;zi hl;dm yb;dz xw;rj	1
+巡猎石	xp;zi lx;qx ui;pk	1
+寻物启事	xp;xc wu;nw qi;hk ui;aa	1
+巡游的祝福	xp;zi yb;dz de;bu vu;ux fu;ut	1
+哑火的手雷	ya;ky ho;dd de;bu ub;ub lz;yt	1
+雅利洛	ya;yv li;dh lo;dg	1
+延长记号	yj;zv ih;pd ji;yj hk;kk	1
+燕翠	yj;ch cv;yz	1
+严寒行军	yj;ap hj;bd xy;ri jp;bi	1
+炎华造物	yj;hh hw;uh zk;zg wu;nw	1
+厌倦	yj;qi jr;rj	1
+彦卿	yj;ip qy;mg	1
+彦卿远行	yj;ip qy;mg yr;zy xy;ri	1
+岩烧洞螈	yj;uu uk;hy ds;dt yr;iy	1
+岩烧山珍串	yj;uu uk;hy uj;aa vf;wp ir;uu	1
+鼹鼠党欢迎你	yj;ua uu;ju dh;ek hr;yq yy;ze ni;re	1
+演武仪典二十一响	yj;dy wu;vy yi;ry dm;bh er;hh ui;hu yi;ah xd;kx	1
+烟霞逝梦	yj;hy xw;yy ui;zv mg;xl	1
+演员的自我修养	yj;dy yr;kb de;bu zi;pm wo;pp xq;rp yh;ya	1
+盐渍冬梅	yj;mb zi;dz ds;wd mz;mm	1
+养心返魂丹	yh;ya xn;dd fj;zf hp;yg dj;pd	1
+药草提取物	yk;cy ck;cz ti;fu qu;ye wu;nw	1
+摇滚吧音浪	yk;tf gp;dg ba;kb yn;lr lh;dl	1
+要你命三千	yk;xn ni;re my;re sj;aa qm;pu	1
+邀挽明月成宵宴	yk;zw wj;fm my;ry yt;oy ig;wg xc;bx yj;bn	1
+药王救世陀罗尼	yk;cy wh;aa jq;wq ui;ca to;et lo;sx ni;ub	1
+药王秘传	yk;cy wh;aa mi;hb ir;rv	1
+药王秘传炼形者	yk;cy wh;aa mi;hb ir;rv lm;hd xy;pk ve;ol	1
+药王秘传炼形者错误	yk;cy wh;aa mi;hb ir;rv lm;hd xy;pk ve;ol co;jx wu;yw	1
+药王秘传内丹士	yk;cy wh;aa mi;hb ir;rv nz;ud dj;pd ui;hh	1
+药王秘传器元士	yk;cy wh;aa mi;hb ir;rv qi;kk yr;ee ui;hh	1
+野花姐姐	ye;ly hw;ch jx;nq jx;nq	1
+野火	ye;ly ho;dd	1
+夜色流光溢彩	ye;ww se;db lq;di gd;ea yi;dy cl;pc	1
+叶子店长	ye;ku zi;aa dm;gv vh;pd	1
+一杯酩酊的时代	yi;ah bz;mb my;ym dy;yd de;bu ui;oc dl;ry	1
+一场术后对话	yi;ah ih;ty uu;md hb;pk dv;cy hw;yu	1
+忆持光匣	yi;xy ii;fs gd;ea xw;kj	1
+一触即发	yi;ah iu;ji ji;eg fa;fd	1
+一次性动力臂	yi;ah ci;dq xy;xu ds;ly li;gp bi;ox	1
+一次性动力炮	yi;ah ci;dq xy;xu ds;ly li;gp pk;hb	1
+一次性防护壁	yi;ah ci;dq xy;xu fh;ef hu;th bi;tx	1
+一号藏宝图	yi;ah hk;kk ch;ci bk;by tu;kd	1
+一号冠军候补凭证	yi;ah hk;kk gr;bc jp;bi hb;ru bu;yb py;jr vg;yv	1
+已毁灭星球世界	yi;vg hv;jy mx;hh xy;ru qq;wq ui;ca jx;tj	1
+医疗卫生	yi;ku lc;bl wz;ga ug;nh	1
+意乱情迷	yi;lx lr;ug qy;xq mi;zm	1
+疑虑的阴云	yi;bp lv;xh de;bu yn;eo yp;es	1
+异木种籽	yi;sc mu;hd vs;hv zi;mz	1
+遗器残骸	yi;zg qi;kk cj;dj hl;gh	1
+一曲合弦的幻景	yi;ah qu;ru he;rk xm;gx de;bu hr;yg jy;rj	1
+一人嘉禾	yi;ah rf;pd jw;uj he;pm	1
+义人如羊走迷	yi;wd rf;pd ru;nk yh;da zb;tv mi;zm	1
+异色的磁铁石	yi;sc se;db de;bu ci;uz tx;ju ui;pk	1
+遗失光尘	yi;zg ui;pf gd;ea if;tx	1
+以世界之名	yi;rd ui;ca jx;tj vi;dd my;xk	1
+遗失晶块	yi;zg ui;pf jy;rr ky;td	1
+遗失碎金	yi;zg ui;pf sv;uz jn;pa	1
+一瞬间的幸福	yi;ah up;ou jm;om de;bu xy;tu fu;ut	1
+以太硬币	yi;rd tl;dd yy;ug bi;pj	1
+一箱钢板和绷带	yi;ah xd;vx gh;jg bj;mf he;hk bg;sp dl;jb	1
+一箱特制止痛剂	yi;ah xd;vx te;ns vi;dg vi;uh ts;by ji;dq	1
+一箱医用酒精	yi;ah xd;vx yi;ku ys;kf jq;dy jy;mq	1
+一页旧梦	yi;ah ye;ab jq;ao mg;xl	1
+忆域迷因何物藏于镜中	yi;xy yu;th mi;zm yn;kd he;rk wu;nw ch;ci yu;hu jy;jj vs;ku	1
+忆域迷因何物朝向死亡	yi;xy yu;th mi;zm yn;kd he;rk wu;nw ik;yu xd;pk si;db wh;dv	1
+忆域迷因狂怒褪去之壳	yi;xy yu;th mi;zm yn;kd kd;qw nu;xn tv;yt qu;ts vi;dd ke;uj	1
+忆域迷因视线无处不在	yi;xy yu;th mi;zm yn;kd ui;uj xm;sj wu;hg iu;wb bu;ax zl;ta	1
+忆域迷因我心支离破碎	yi;xy yu;th mi;zm yn;kd wo;pp xn;dd vi;uy li;ds po;up sv;uz	1
+忆域迷因虚荣永无餍足	yi;xy yu;th mi;zm yn;kd xu;hy rs;cm ys;dd wu;hg yj;iu zu;kv	1
+忆质	yi;xy vi;bu	1
+一周年纪念	yi;ah vb;kk nm;pu ji;sj nm;xj	1
+音符小姐	yn;lr fu;vf xc;du jx;nq	1
+银河沦陷日	yn;jg he;dk lp;dl xm;ex ri;ri	1
+银河铁道之夜	yn;jg he;dk tx;ju dk;zu vi;dd ye;ww	1
+银河通用疾病速查	yn;jg he;dk ts;zy ys;kf ji;bu by;bb su;zu ia;md	1
+银狼	yn;jg lh;ql	1
+银狼开场	yn;jg lh;ql kl;ac ih;ty	1
+阴晴伞	yn;eo qy;oq sj;ru	1
+饮食文化	yn;uq ui;rl wf;dd hw;rb	1
+隐书	yn;ej uu;vd	1
+印象残晶	yn;pe xd;du cj;dj jy;rr	1
+隐夜鸫家系	yn;ej ye;ww ds;nd jw;bu xi;ps	1
+银枝	yn;jg vi;mv	1
+银鬃近卫	yn;jg zs;iz jn;zj wz;ga	1
+银鬃炮手	yn;jg zs;iz pk;hb ub;ub	1
+银鬃射手	yn;jg zs;iz ue;cu ub;ub	1
+银鬃尉官	yn;jg zs;iz wz;cu gr;bk	1
+银鬃尉官错误	yn;jg zs;iz wz;cu gr;bk co;jx wu;yw	1
+影城逐梦记	yy;pj ig;ti vu;zu mg;xl ji;yj	1
+应急科科员	yy;gh ji;xx ke;hd ke;hd yr;kb	1
+影子里的黑狗	yy;pj zi;aa li;aa de;bu hz;dh gb;qj	1
+永不复焉	ys;dd bu;ax fu;pw yj;vd	1
+永冬	ys;dd ds;wd	1
+永冬碑石	ys;dd ds;wd bz;ub ui;pk	1
+永冬灾影	ys;dd ds;wd zl;bh yy;pj	1
+永海	ys;dd hl;dm	1
+永恒之花	ys;dd hg;xg vi;dd hw;ch	1
+永眠墓碣	ys;dd mm;om mu;ct jx;uh	1
+永念	ys;dd nm;xj	1
+永仁	ys;dd rf;re	1
+庸人的见地	ys;gh rf;pd de;bu jm;ug di;ty	1
+永仁的证明文件	ys;dd rf;re de;bu vg;yv my;ry wf;dd jm;rn	1
+永寿荣枝	ys;dd ub;fc rs;cm vi;mv	1
+永寿天华	ys;dd ub;fc tm;ad hw;uh	1
+永寿幼芽	ys;dd ub;fc yb;yl ya;cy	1
+永巷	ys;dd xd;gs	1
+庸者的前路	ys;gh ve;ol de;bu qm;qd lu;zg	1
+有点急	yb;ou dm;dv ji;xx	1
+幽府通令	yb;uy fu;gf ts;zy ly;rs	1
+幽府武弁	yb;uy fu;gf wu;vy bm;cs	1
+幽囚狱	yb;uy qq;kr yu;qq	1
+幽邃	yb;uy sv;zu	1
+游戏尘寰	yb;dz xi;yg if;tx hr;by	1
+忧郁派的筑梦碎片	yb;xy yu;ey pl;dp de;bu vu;vg mg;xl sv;uz pm;pa	1
+幼蛰虫	yb;yl ve;iv is;vd	1
+于尔丹	yu;hu er;xd dj;pd	1
+愈合喷剂	yu;xy he;rk pf;kb ji;dq	1
+余烬	yu;rb jn;hj	1
+驭空	yu;my ks;bg	1
+驭空的交换日记	yu;my ks;bg de;bu jc;lw hr;th ri;ri ji;yj	1
+娱乐至上	yu;nw le;px vi;vt uh;uh	1
+玉络	yu;hd lo;sg	1
+欲念碎镜	yu;qg nm;xj sv;uz jy;jj	1
+逾期未取的贵重邮包	yu;zy qi;qy wz;hd qu;ye de;bu gv;vb vs;ph yb;ey bk;bs	1
+逾期未取的邮包	yu;zy qi;qy wz;hd qu;ye de;bu yb;ey bk;bs	1
+与三月七的合照	yu;hh sj;aa yt;oy qi;ag de;bu he;rk vk;hv	1
+余生的第一天	yu;rb ug;nh de;bu di;vp yi;ah tm;ad	1
+玉髓风骨散	yu;hd sv;gz fg;ji gu;ob sj;wo	1
+浴铁	yu;dg tx;ju	1
+与行星相会	yu;hh xy;ri xy;ru xd;mo hv;ry	1
+语言的艺术	yu;yw yj;dk de;bu yi;cy uu;md	1
+于夜色中	yu;hu ye;ww se;db vs;ku	1
+雨一直下	yu;ad yi;ah vi;hh xw;ad	1
+玉兆	yu;hd vk;ed	1
+玉兆单元	yu;hd vk;ed dj;bd yr;ee	1
+宇宙市场趋势	yu;by vb;by ui;wj ih;ty qu;zi ui;lv	1
+宇宙碎片	yu;by vb;by sv;uz pm;pa	1
+宇宙殉情时	yu;by vb;by xp;dx qy;xq ui;oc	1
+员工的闲聊	yr;kb gs;hh de;bu xm;mm lc;em	1
+渊环	yr;dm hr;wb	1
+源究森林	yr;dy jq;xj sf;ml ln;mm	1
+院门的钥匙	yr;ew mf;dg de;bu yk;jo ui;ub	1
+鸢尾花家系	yr;yn wz;um hw;ch jw;bu xi;ps	1
+月狂獠牙	yt;oy kd;qw lc;ql ya;hp	1
+约瑟夫	yt;su se;wb fu;er	1
+约瑟夫的模特	yt;su se;wb fu;er de;bu mo;mm te;ns	1
+跃渊	yt;zy yr;dm	1
+云际音符	yp;es ji;eu yn;lr fu;vf	1
+云璃	yp;es li;wl	1
+云璃的证词	yp;es li;wl de;bu vg;yv ci;ys	1
+云骑军	yp;es qi;mq jp;bi	1
+云骑骁卫彦卿	yp;es qi;mq xc;my wz;ga yj;ip qy;mg	1
+云骑巡防士卒	yp;es qi;mq xp;zi fh;ef ui;hh zu;du	1
+陨铁	yp;ey tx;ju	1
+陨铁弹丸	yp;ey tx;ju dj;gd wj;jd	1
+云阵四合	yp;es vf;ei si;ke he;rk	1
+杂菜汤	za;mj cl;cc th;dy	1
+杂技	za;mj ji;tv	1
+载歌须纵酒	zl;ig ge;qg xu;py zs;sc jq;dy	1
+在火的远处	zl;ta ho;dd de;bu yr;zy iu;wb	1
+在蓝天下	zl;ta lj;cj tm;ad xw;ad	1
+灾虐的黎明	zl;bh nt;ha de;bu li;hu my;ry	1
+灾虐的右手	zl;bh nt;ha de;bu yb;uk ub;ub	1
+在银河中孤独摇摆	zl;ta yn;jg he;dk vs;ku gu;zg du;qi yk;tf bl;tb	1
+葬仪知宾	zh;cc yi;ry vi;uk bn;bb	1
+早餐的仪式感	zk;ru cj;uy de;bu yi;ry ui;yg gj;xx	1
+造梦马达	zk;zg mg;xl ma;aa da;zd	1
+造翼者	zk;zg yi;yg ve;ol	1
+炸岩居蟹	va;hv yj;uu ju;ug xx;ij	1
+展望美好未来	vj;uy wh;wo mz;yd hk;nz wz;hd ll;hm	1
+招牌红油乱斩牛杂	vk;fv pl;pb hs;sg yb;dy lr;ug vj;ji nq;pu za;mj	1
+昭言石板	vk;ov yj;dk ui;pk bj;mf	1
+折冲妙算	ve;fj is;dv mc;nu sr;vc	1
+这就是我啦	ve;zw jq;yj ui;op wo;pp la;kl	1
+折纸蛋糕	ve;fj vi;su dj;ip gk;mg	1
+折纸全家桶	ve;fj vi;su qr;rw jw;bu ts;my	1
+折纸小鸟	ve;fj vi;su xc;du nc;nh	1
+折纸小鸟外传胶卷	ve;fj vi;su xc;du nc;nh wl;xb vr;rv jc;oj jr;je	1
+折纸筑梦师	ve;fj vi;su vu;vg mg;xl ui;db	1
+侦察机器人	vf;rv ia;bj ji;mj qi;kk rf;pd	1
+镇静齿轮	vf;jv jy;qv ii;vk lp;il	1
+真理医生	vf;uj li;wl yi;ku ug;nh	1
+真理医生教研	vf;uj li;wl yi;ku ug;nh jc;wx yj;uk	1
+镇灵敕符	vf;jv ly;xh ii;uw fu;vf	1
+真志摩	vf;uj vi;ux mo;mu	1
+真珠	vf;uj vu;wv	1
+证物阿佑的板凳	vg;yv wu;nw aa;ek yb;ry de;bu bj;mf dg;jd	1
+证物金槌府邸安全规范	vg;yv wu;nw jn;pa iv;mv fu;gf di;ed an;bn qr;rw gv;jf fj;ce	1
+证物巨型木锤	vg;yv wu;nw ju;kk xy;tx mu;hd iv;ji	1
+证物帕姆玩偶	vg;yv wu;nw pa;jb mu;nm wj;wy ou;ry	1
+证物钱可通的账簿	vg;yv wu;nw qm;jj ke;dk ts;zy de;bu vh;bi bu;vf	1
+证物沙马里的证件	vg;yv wu;nw ua;du ma;aa li;aa de;bu vg;yv jm;rn	1
+证物收支记录	vg;yv wu;nw ub;jw vi;uy ji;yj lu;au	1
+证物相互保证毁灭按钮	vg;yv wu;nw xd;mo hu;ea bk;rd vg;yv hv;jy mx;hh an;fa nq;ji	1
+证物烟熏红鲱鱼	vg;yv wu;nw yj;hy xp;pd hs;sg fz;yf yu;da	1
+证物钟珊的戒指	vg;yv wu;nw vs;jv uj;wc de;bu jx;gc vi;fv	1
+证物佐罗的领带	vg;yv wu;nw zo;rz lo;sx de;bu ly;yl dl;jb	1
+正宗苏萨水	vg;av zs;bu su;cb sa;ci uv;ad	1
+知更鸟	vi;uk gg;hg nc;nh	1
+智库	vi;ov ku;gi	1
+炙梦喷枪	vi;hy mg;xl pf;kb qd;mc	1
+制胜的瞬间	vi;dg ug;yu de;bu up;ou jm;om	1
+知识奇点	vi;uk ui;yv qi;dk dm;dv	1
+智识树皮	vi;ov ui;yv uu;md pi;yu	1
+智识之钥	vi;ov ui;yv vi;dd yk;jo	1
+至死不渝的恨	vi;vt si;db bu;ax yu;dy de;bu hf;xg	1
+稚童香橘丸	vi;hv ts;ll xd;ho ju;my wj;jd	1
+智械	vi;ov xx;mj	1
+秩序	vi;hu xu;gy	1
+只需等待	vi;kb xu;ye dg;vs dl;xs	1
+织造命运之线	vi;sv zk;zg my;re yp;zy vi;dd xm;sj	1
+至尊幸运儿的黑卡	vi;vt zp;qc xy;tu yp;zy er;pg de;bu hz;dh ka;bx	1
+钟表匠	vs;jv bc;fy jd;jk	1
+钟表灵感簿	vs;jv bc;fy ly;xh gj;xx bu;vf	1
+钟表披萨单片	vs;jv bc;fy pi;fp sa;ci dj;bd pm;pa	1
+钟表披萨整张	vs;jv bc;fy pi;fp sa;ci vg;vw vh;gi	1
+钟表小子	vs;jv bc;fy xc;du zi;aa	1
+仲裁官	vs;rv cl;yg gr;bk	1
+中规中矩的垃圾	vs;ku gv;jf vs;ku ju;uj de;bu la;tl ji;tj	1
+中央大堂	vs;ku yh;kd da;ad th;tk	1
+种子	vs;hv zi;aa	1
+重子	vs;ph zi;aa	1
+种族	vs;hv zu;fu	1
+昼断	vb;id dr;jm	1
+筑城者	vu;vg ig;ti ve;ol	1
+诛尽杀绝的灭星兽	vu;yv jn;id ua;mi jt;ss de;bu mx;hh xy;ru ub;kh	1
+逐鹿	vu;zu lu;gb	1
+逐梦客	vu;zu mg;xl ke;bg	1
+筑梦师	vu;vg mg;xl ui;db	1
+筑梦师档案记录	vu;vg mg;xl ui;db dh;md an;bm ji;yj lu;au	1
+筑梦师的合影	vu;vg mg;xl ui;db de;bu he;rk yy;pj	1
+主题餐厅侍者	vu;dw ti;uy cj;uy ty;id ui;rs ve;ol	1
+主线中已经停的主要星球世界	vu;dw xm;sj vs;ku yi;vg jy;sg ty;rt de;bu vu;dw yk;xn xy;ru qq;wq ui;ca jx;tj	1
+蛀星孕灾的旧恶	vu;iv xy;ru yp;zn zl;bh de;bu jq;ao ee;xy	1
+逐星之矢	vu;zu xy;ru vi;dd ui;pd	1
+装甲萨姆愿景	vd;yv jw;ru sa;ci mu;nm yr;xy jy;rj	1
+装有奶粉的包裹	vd;yv yb;ou nl;nn ff;mf de;bu bk;bs go;dy	1
+自动机兵齿狼	zi;pm ds;ly ji;mj by;qb ii;vk lh;ql	1
+自动机兵齿狼错误	zi;pm ds;ly ji;mj by;qb ii;vk lh;ql co;jx wu;yw	1
+自动机兵灰熊	zi;pm ds;ly ji;mj by;qb hv;hu xs;dn	1
+自动机兵灰熊错误	zi;pm ds;ly ji;mj by;qb hv;hu xs;dn co;jx wu;yw	1
+自动机兵甲虫	zi;pm ds;ly ji;mj by;qb jw;ru is;vd	1
+自动机兵战犬	zi;pm ds;ly ji;mj by;qb vj;gv qr;hd	1
+自动机兵蜘蛛	zi;pm ds;ly ji;mj by;qb vi;iv vu;iv	1
+自动木人桩	zi;pm ds;ly mu;hd rf;pd vd;mv	1
+自灭者	zi;pm mx;hh ve;ol	1
+资深员工组长	zi;bc uf;dm yr;kb gs;hh zu;sq vh;pd	1
+资深员工组长错误	zi;bc uf;dm yr;kb gs;hh zu;sq vh;pd co;jx wu;yw	1
+自塑尘脂	zi;pm su;ty if;tx vi;ov	1
+滋长花蜜	zi;dz vh;pd hw;ch mi;ib	1
+总览	zs;bx lj;jv	1
+最后的赢家	zv;oq hb;pk de;bu yy;bk jw;bu	1
+罪是死的毒钩	zv;sf ui;op si;db de;bu du;fm gb;jg	1
+醉于盛会的此刻	zv;yz yu;hu ug;mi hv;ry de;bu ci;vb ke;dh	1
+醉于盛会的此刻错误	zv;yz yu;hu ug;mi hv;ry de;bu ci;vb ke;dh co;jx wu;yw	1
+左轮队长	zo;ug lp;il dv;er vh;pd	1
+作用不明的药物	zo;rv ys;kf bu;ax my;ry de;bu yk;cy wu;nw	1
+阿格莱雅	aa;ek ge;mg ll;cl ya;yv	1
+阿兰	aa;ek lj;bs	1
+阿那克萨戈拉斯	aa;ek na;el ke;eg sa;ci ge;ad la;fl si;jq	1
+爱好收集大衣	ai;vy hk;nz ub;jw ji;vm da;ad yi;dd	1
+艾利欧	ai;ci li;dh ou;qq	1
+艾丝妲	ai;ci si;hv da;nd	1
+暗杠	an;ry gh;mg	1
+奥迹	ao;dm ji;zy	1
+奥托	ao;dm to;tq	1
+白厄	bl;pr ee;ie	1
+白珩	bl;pr hg;wx	1
+白花之刻	bl;pr hw;ch vi;dd ke;dh	1
+白露	bl;pr lu;yl	1
+白日梦酒店	bl;pr ri;ri mg;xl jq;dy dm;gv	1
+拜师	bl;pa ui;db	1
+百折不挠	bl;hb ve;fj bu;ax nk;ty	1
+白值	bl;pr vi;rv	1
+半夏	bj;bf xw;wz	1
+帮帮我	bh;jb bh;jb wo;pp	1
+暴击	bk;ru ji;fk	1
+暴击衣	bk;ru ji;fk yi;dd	1
+爆伤衣	bk;hb uh;rl yi;dd	1
+被动	bz;yp ds;ly	1
+贝洛伯格	bz;kr lo;dg bo;rb ge;mg	1
+奔狼	bf;dc lh;ql	1
+奔狼套	bf;dc lh;ql tk;di	1
+崩坏三	bg;up hy;tb sj;aa	1
+崩坏星穹铁道	bg;up hy;tb xy;ru qs;xg tx;ju dk;zu	1
+崩铁	bg;up tx;ju	1
+闭目将军	bi;mc mu;uh jd;jc jp;bi	1
+比阳光更明亮的	bi;bb yh;er gd;ea gg;hg my;ry ld;wj de;bu	1
+毕业	bi;bu ye;aa	1
+别让世界静下来	bx;dl rh;yu ui;ca jx;tj jy;qv xw;ad ll;hm	1
+冰抗	by;du kh;tk	1
+兵器	by;qb qi;kk	1
+冰弱	by;du ro;gd	1
+冰伤	by;du uh;rl	1
+冰伤球	by;du uh;rl qq;wq	1
+冰套	by;du tk;di	1
+冰主	by;du vu;dw	1
+波吕刻斯	bo;dp lv;kk ke;dh si;jq	1
+博识学会	bo;uc ui;yv xt;dz hv;ry	1
+博识尊	bo;uc ui;yv zp;qc	1
+波提欧	bo;dp ti;fu ou;qq	1
+博弈	bo;uc yi;wc	1
+步离	bu;vx li;ds	1
+步离人	bu;vx li;ds rf;pd	1
+布洛妮娅	bu;uj lo;dg ni;nn ya;ny	1
+不息的演算	bu;ax xi;xz de;bu yj;dy sr;vc	1
+材料	cl;mc lc;md	1
+残梅绽	cj;dj mz;mm vj;sd	1
+残梦	cj;dj mg;xl	1
+苍龙浊世	ch;cc ls;ad vo;di ui;ca	1
+策士	ce;vc ui;hh	1
+差分机套	ia;yg ff;bd ji;mj tk;di	1
+差分宇宙	ia;yg ff;bd yu;by vb;by	1
+长路终有归途	ih;pd lu;zg vs;sd yb;ou gv;ux tu;zy	1
+长夜月	ih;pd ye;ww yt;oy	1
+承负	ig;zd fu;db	1
+成就	ig;wg jq;yj	1
+持明	ii;fs my;ry	1
+持明族	ii;fs my;ry zu;fu	1
+重返幽冥	is;ph fj;zf yb;uy my;bl	1
+充能	is;dy ng;sb	1
+充能绳	is;dy ng;sb ug;sm	1
+虫群	is;vd qp;yj	1
+重塑时光之忆	is;ph su;ty ui;oc gd;ea vi;dd yi;xy	1
+抽卡	ib;ty ka;bx	1
+触电	iu;ji dm;ag	1
+出云	iu;ck yp;es	1
+出云套	iu;ck yp;es tk;di	1
+船长	ir;vk vh;pd	1
+船长套	ir;vk vh;pd tk;di	1
+纯粹思维的洗礼	ip;st cv;mz si;tx wz;sv de;bu xi;dx li;ug	1
+春见	ip;rf jm;ug	1
+纯美	ip;st mz;yd	1
+纯美骑士	ip;st mz;yd qi;mq ui;hh	1
+纯美骑士团	ip;st mz;yd qi;mq ui;hh tr;kc	1
+春水初生	ip;rf uv;ad iu;yd ug;nh	1
+赐福	ci;by fu;ut	1
+茨冈尼亚	ci;cc gh;ki ni;ub ya;ay	1
+茨冈尼亚套	ci;cc gh;ki ni;ub ya;ay tk;di	1
+刺杀	ci;dc ua;mi	1
+此身为剑	ci;vb uf;pp wz;dd jm;da	1
+此时恰好	ci;vb ui;oc qw;xh hk;nz	1
+催讨黄玉	cv;rc tk;yc hd;ad yu;hd	1
+催债	cv;rc vl;rz	1
+存护	cp;uz hu;th	1
+存护三月七	cp;uz hu;th sj;aa yt;oy qi;ag	1
+大毕业	da;ad bi;bu ye;aa	1
+大公	da;ad gs;bs	1
+大公套	da;ad gs;bs tk;di	1
+大黑塔	da;ad hz;dh ta;th	1
+大捷将军	da;ad jx;fj jd;jc jp;bi	1
+大佩拉	da;ad pz;rb la;fl	1
+大守护者	da;ad ub;bc hu;th ve;ol	1
+大鸭鸭	da;ad ya;jn ya;jn	1
+丹枫	dj;pd fg;mf	1
+丹恒	dj;pd hg;xg	1
+丹恒饮月	dj;pd hg;xg yn;uq yt;oy	1
+蛋黄	dj;ip hd;ad	1
+蛋黄老师	dj;ip hd;ad lk;bl ui;db	1
+但战斗还未结束	dj;rd vj;gv db;du hl;zb wz;hd jx;sj uu;hd	1
+丹朱	dj;pd vu;pw	1
+到不了的彼岸	dk;dv bu;ax lc;vu de;bu bi;rp an;ug	1
+盗匪套	dk;mc fz;kf tk;di	1
+盗贼套	dk;mc zz;br tk;di	1
+等价交换	dg;vs jw;rj jc;lw hr;th	1
+敌方	di;uw fh;dw	1
+帝弓	di;lj gs;ag	1
+地火	di;ty ho;dd	1
+低金	di;rd jn;pa	1
+低命	di;rd my;re	1
+抵押	di;fd ya;fj	1
+地狱变	di;ty yu;qq bm;yy	1
+典贷翡翠	dm;bh dl;bd fz;yf cv;yz	1
+典当行	dm;bh dh;xx hh;ri	1
+点个关注吧	dm;dv ge;pa gr;bt vu;dv ba;kb	1
+点燃大海	dm;dv rj;hr da;ad hl;dm	1
+点燃心海	dm;dv rj;hr xn;dd hl;dm	1
+叠层	dx;yy cg;uy	1
+顶轴	dy;dy vb;iy	1
+冻结	ds;dd jx;sj	1
+斗志	db;du vi;ux	1
+渡鸦	du;dd ya;yn	1
+兑换码	dv;ek hr;th ma;um	1
+盾三月	dp;pm sj;aa yt;oy	1
+盾套	dp;pm tk;di	1
+多流汗少流泪	do;xx lq;di hj;dg uk;xp lq;di lz;dm	1
+恶报	ee;xy bk;ty	1
+额外回合	ee;yk wl;xb hv;kk he;rk	1
+反击	fj;py ji;fk	1
+反击标记	fj;py ji;fk bc;mu ji;yj	1
+烦恼着幸福着	fj;hy nk;xx ve;ym xy;tu fu;ut ve;ym	1
+蕃息	fj;cf xi;xz	1
+繁星	fj;sm xy;ru	1
+繁星竞技场	fj;sm xy;ru jy;lx ji;tv ih;ty	1
+繁星套	fj;sm xy;ru tk;di	1
+芳华待灼	fh;cf hw;uh dl;xs vo;hu	1
+防卫课	fh;ef wz;ga ke;yg	1
+防御力	fh;ef yu;rx li;gp	1
+防御球	fh;ef yu;rx qq;wq	1
+防御绳	fh;ef yu;rx ug;sm	1
+防御鞋	fh;ef yu;rx xx;gg	1
+防御衣	fh;ef yu;rx yi;dd	1
+翡翠	fz;yf cv;yz	1
+飞黄	fz;yd hd;ad	1
+废土客	fz;gf tu;aa ke;bg	1
+飞宵	fz;yd xc;bx	1
+飞行士	fz;yd xy;ri ui;hh	1
+粉毛	ff;mf mk;pg	1
+焚影	ff;hl yy;pj	1
+纷争	ff;sf vg;dy	1
+锋镝	fg;jf di;jg	1
+风化	fg;ji hw;rb	1
+风堇	fg;ji jn;ca	1
+风抗	fg;ji kh;tk	1
+丰饶	fg;sa rk;uy	1
+丰饶星神	fg;sa rk;uy xy;ru uf;uu	1
+风弱	fg;ji ro;gd	1
+风伤	fg;ji uh;rl	1
+风伤球	fg;ji uh;rl qq;wq	1
+风套	fg;ji tk;di	1
+封印站内圈	fg;cg yn;pe vj;lv nz;ud qr;kj	1
+封印站套	fg;cg yn;pe vj;lv tk;di	1
+复活	fu;pw ho;du	1
+负面效果	fu;db mm;ph xc;wj go;tm	1
+富婆	fu;bt po;nb	1
+拂晓之前	fu;tf xc;oy vi;dd qm;qd	1
+符玄	fu;vf xr;wy	1
+浮烟	fu;df yj;hy	1
+浮元	fu;df yr;ee	1
+负债证明	fu;db vl;rz vg;yv my;ry	1
+杠上开花	gh;mg uh;uh kl;ac hw;ch	1
+高风险高回报	gk;dk fg;ji xm;eh gk;dk hv;kk bk;ty	1
+高级干部	gk;dk ji;sj gj;hu bu;ek	1
+高金	gk;dk jn;pa	1
+高命	gk;dk my;re	1
+格挡	ge;mg dh;fd	1
+格斗家	ge;mg db;du jw;bu	1
+格拉默	ge;mg la;fl mo;hq	1
+格拉默套	ge;mg la;fl mo;hq tk;di	1
+格妮薇儿	ge;mg ni;nn wz;cw er;pg	1
+攻击拐	gs;gw ji;fk gy;tl	1
+攻击力	gs;gw ji;fk li;gp	1
+攻击球	gs;gw ji;fk qq;wq	1
+攻击绳	gs;gw ji;fk ug;sm	1
+攻击鞋	gs;gw ji;fk xx;gg	1
+攻击衣	gs;gw ji;fk yi;dd	1
+共鸣	gs;bc my;kn	1
+孤独的疔愈	gu;zg du;qi de;bu dy;bd yu;xy	1
+故事的下一页	gu;wg ui;aa de;bu xw;ad yi;ah ye;ab	1
+怪盗	gy;xu dk;mc	1
+怪盗套	gy;xu dk;mc tk;di	1
+怪物	gy;xu wu;nw	1
+棺的回响	gr;mg de;bu hv;kk xd;kx	1
+棺橔	gr;mg dp;md	1
+光锥	gd;ea vv;jv	1
+诡秘	gv;yw mi;hb	1
+桂乃芬	gv;mg nl;gp ff;cf	1
+诡弈砂金	gv;yw yi;wc ua;uu jn;pa	1
+规则就是用来打破的	gv;jf ze;bd jq;yj ui;op ys;kf ll;hm da;fd po;up de;bu	1
+过客	go;zc ke;bg	1
+过客套	go;zc ke;bg tk;di	1
+过往未来	go;zc wh;xv wz;hd ll;hm	1
+骇客	hl;mh ke;bg	1
+海瑟音	hl;dm se;wb yn;lr	1
+海洋为何而歌	hl;dm yh;dy wz;dd he;rk er;hu ge;qg	1
+海隅	hl;dm yu;ey	1
+海隅套	hl;dm yu;ey tk;di	1
+寒川映月	hj;bd ir;pu yy;oy yt;oy	1
+焊武帝	hj;hh wu;vy di;lj	1
+寒鸦	hj;bd ya;yn	1
+好戏开演	hk;nz xi;yg kl;ac yj;dy	1
+合成机	he;rk ig;wg ji;mj	1
+何物为真	he;rk wu;nw wz;dd vf;uj	1
+黑厄	hz;dh ee;ie	1
+黑塔	hz;dh ta;th	1
+黑塔空间站	hz;dh ta;th ks;bg jm;om vj;lv	1
+黑天鹅	hz;dh tm;ad ee;nw	1
+嘿我在这儿	hz;kh wo;pp zl;ta ve;zw er;pg	1
+黑夜如影随行	hz;dh ye;ww ru;nk yy;pj sv;ez xy;ri	1
+后会有期	hb;pk hv;ry yb;ou qi;qy	1
+护盾	hu;th dp;pm	1
+虎克	hu;hj ke;eg	1
+虎克大人	hu;hj ke;eg da;ad rf;pd	1
+呼雷	hu;kh lz;yt	1
+琥珀	hu;wh po;wb	1
+狐人族	hu;qg rf;pd zu;fu	1
+护卫	hu;th wz;ga	1
+狐族	hu;qg zu;fu	1
+花导	hw;ch dk;cs	1
+花儿不会忘记	hw;ch er;pg bu;ax hv;ry wh;xw ji;yj	1
+花火	hw;ch ho;dd	1
+化龙妙法	hw;rb ls;ad mc;nu fa;dq	1
+化外民	hw;rb wl;xb mn;ag	1
+怀炎	hy;xb yj;hh	1
+还阳	hr;zb yh;er	1
+欢愉	hr;yq yu;xy	1
+寰宇蝗灾	hr;by yu;by hd;ih zl;bh	1
+煌煌威灵尊吾哧命	hd;hh hd;hh wz;wn ly;xh zp;qc wu;wk ii;ki my;re	1
+黄金裔	hd;ad jn;pa yi;yk	1
+黄泉	hd;ad qr;ub	1
+谎言在风中飘扬	hd;yh yj;dk zl;ta fg;ji vs;ku pc;fp yh;ty	1
+回到大地的飞行	hv;kk dk;dv da;ad di;ty de;bu fz;yd xy;ri	1
+毁灭	hv;jy mx;hh	1
+毁灭主	hv;jy mx;hh vu;dw	1
+回血	hv;kk xt;pa	1
+伙伴	ho;rh bj;rb	1
+霍霍	ho;yv ho;yv	1
+伙计	ho;rh ji;yu	1
+火匠	ho;dd jd;jk	1
+火匠套	ho;dd jd;jk tk;di	1
+火抗	ho;dd kh;tk	1
+火弱	ho;dd ro;gd	1
+火伤	ho;dd uh;rl	1
+火伤球	ho;dd uh;rl qq;wq	1
+火套	ho;dd tk;di	1
+火萤四型	ho;dd yy;ci si;ke xy;tx	1
+火种	ho;dd vs;hv	1
+火主	ho;dd vu;dw	1
+继承人	ji;sv ig;zd rf;pd	1
+基础概率	ji;qt iu;ui gl;mj lv;wu	1
+击破	ji;fk po;up	1
+击破绳	ji;fk po;up ug;sm	1
+击破套	ji;fk po;up tk;di	1
+击破特攻	ji;fk po;up te;ns gs;gw	1
+击破效率	ji;fk po;up xc;wj lv;wu	1
+机器头	ji;mj qi;kk tb;dd	1
+基石	ji;qt ui;pk	1
+机械臂	ji;mj xx;mj bi;ox	1
+记忆	ji;yj yi;xy	1
+记忆的质料	ji;yj yi;xy de;bu vi;bu lc;md	1
+记一位星神的陨落	ji;yj yi;ah wz;rl xy;ru uf;uu de;bu yp;ey lo;cl	1
+记忆永不落幕	ji;yj yi;xy ys;dd bu;ax lo;cl mu;cj	1
+记忆中的模样	ji;yj yi;xy vs;ku de;bu mu;mm yh;my	1
+记忆主	ji;yj yi;xy vu;dw	1
+击云	ji;fk yp;es	1
+集真赤	ji;vm vf;uj ii;tb	1
+机制	ji;mj vi;dg	1
+记主	ji;yj vu;dw	1
+姬子	ji;ni zi;aa	1
+姬子阿姨	ji;ni zi;aa aa;ek yi;ny	1
+嘉果	jw;uj go;tm	1
+加拉赫	jw;lk la;fl he;ii	1
+假面愚者	jw;ry mm;ph yu;xy ve;ol	1
+假日浴场大冒险	jw;ry ri;ri yu;dg ih;ty da;ad mk;oo xm;eh	1
+加速	jw;lk su;zu	1
+家园	jw;bu yr;ky	1
+减抗	jm;dx kh;tk	1
+剑客	jm;da ke;bg	1
+建木	jm;zy mu;hd	1
+剑旗爵	jm;da qi;fq jt;vc	1
+剑三月	jm;da sj;aa yt;oy	1
+剑势	jm;da ui;lv	1
+剑士	jm;da ui;hh	1
+剑首	jm;da ub;qz	1
+减速	jm;dx su;zu	1
+见习判官	jm;ug xi;gh pj;db gr;bk	1
+鉴知	jm;jv vi;uk	1
+将光阴织成黄金	jd;jc gd;ea yn;eo vi;sv ig;wg hd;ad jn;pa	1
+蕉乐套	jc;cj le;px tk;di	1
+椒丘	jc;mu qq;ja	1
+劫火	jx;lq ho;dd	1
+劫火套	jx;lq ho;dd tk;di	1
+结界拐	jx;sj jx;tj gy;tl	1
+解控	jx;jn ks;fk	1
+揭露	jx;th lu;yl	1
+杰帕德	jx;hm pa;jb de;xx	1
+结印	jx;sj yn;pe	1
+今日亦是和平的一日	jn;rv ri;ri yi;wb ui;op he;hk py;hu de;bu yi;ah ri;ri	1
+金数	jn;pa uu;wl	1
+金血铭刻的时代	jn;pa xt;pa my;jm ke;dh de;bu ui;oc dl;ry	1
+惊魂夜	jy;xj hp;yg ye;ww	1
+竞技场	jy;lx ji;tv ih;ty	1
+镜流	jy;jj lq;di	1
+精英怪	jy;mq yy;cy gy;xu	1
+景元	jy;rj yr;ee	1
+镜中故我	jy;jj vs;ku gu;wg wo;pp	1
+纠察小姐	jq;sj ia;bj xc;du jx;nq	1
+酒花奔涌	jq;dy hw;ch bf;dc ys;dy	1
+剧情	ju;dj qy;xq	1
+巨树	ju;kk uu;md	1
+巨树套	ju;kk uu;md tk;di	1
+俱役	ju;rj yi;xu	1
+决心如汗珠般闪耀	jt;dd xn;dd ru;nk hj;dg vu;wv bj;vu uj;rm yk;gv	1
+卡厄斯兰娜	ka;bx ee;ie si;jq lj;bs na;nn	1
+卡芙卡	ka;bx fu;cf ka;bx	1
+卡妈	ka;bx ma;nm	1
+开軀	kl;ac qu;uq	1
+凯撒	kl;jj sa;fs	1
+开头	kl;ac tb;dd	1
+开拓力	kl;ac to;tu li;gp	1
+开拓星神	kl;ac to;tu xy;ru uf;uu	1
+开拓者	kl;ac to;tu ve;ol	1
+开拓之路	kl;ac to;tu vi;dd lu;zg	1
+凯文	kl;jj wf;dd	1
+勘破	kj;lu po;up	1
+勘破灭	kj;lu po;up mx;hh	1
+勘破斩	kj;lu po;up vj;ji	1
+亢心	kh;dj xn;dd	1
+抗性	kh;tk xy;xu	1
+客户	ke;bg hu;dp	1
+可可利亚	ke;dk ke;dk li;dh ya;ay	1
+克拉拉	ke;eg la;fl la;fl	1
+刻律德菈	ke;dh lv;xy de;xx la;cl	1
+科学家	ke;hd xt;dz jw;bu	1
+科员	ke;hd yr;kb	1
+空白	ks;bg bl;pr	1
+空间	ks;bg jm;om	1
+空间站	ks;bg jm;om vj;lv	1
+空间站站长	ks;bg jm;om vj;lv vj;lv vh;pd	1
+空之翼	ks;bg vi;dd yi;yg	1
+快枪手	ky;xd qd;mc ub;ub	1
+快枪手套	ky;xd qd;mc ub;ub tk;di	1
+扩散	ko;tg sj;wo	1
+垃圾糕	la;tl ji;tj gk;mg	1
+拉条	la;fl tc;wm	1
+拉条拐	la;fl tc;wm gy;tl	1
+朗道	lh;yl dk;zu	1
+朗道的选择	lh;yl dk;zu de;bu xr;zx ze;tf	1
+浪漫	lh;dl mj;dm	1
+牢景	lk;bn jy;rj	1
+乐圮	le;px pi;tj	1
+乐园	le;px yr;ky	1
+乐园套	le;px yr;ky tk;di	1
+雷电忘川守芽衣	lz;yt dm;ag wh;xw ir;pu ub;bc ya;cy yi;dd	1
+雷电芽衣	lz;yt dm;ag ya;cy yi;dd	1
+雷抗	lz;yt kh;tk	1
+雷弱	lz;yt ro;gd	1
+雷伤	lz;yt uh;rl	1
+雷伤球	lz;yt uh;rl qq;wq	1
+雷套	lz;yt tk;di	1
+离场	li;ds ih;ty	1
+李大枕头	li;mz da;ad vf;my tb;dd	1
+立绘	li;da hv;sh	1
+黎明恰如此燃烧	li;hu my;ry qw;xh ru;nk ci;vb rj;hr uk;hy	1
+历史	li;il ui;ki	1
+李素裳	li;mz su;sf uh;yk	1
+离弦	li;ds xm;gx	1
+理想燃烧的地狱	li;wl xd;xx rj;hr uk;hy de;bu di;ty yu;qq	1
+练度	lm;sd du;gy	1
+连招	lm;zi vk;fv	1
+两个人的演唱会	ld;ad ge;pa rf;pd de;bu yj;dy ih;ki hv;ry	1
+兩一直下	ld;hr yi;ah vi;hh xw;ad	1
+量子	ld;rl zi;aa	1
+量子抗	ld;rl zi;aa kh;tk	1
+量子球	ld;rl zi;aa qq;wq	1
+量子弱	ld;rl zi;aa ro;gd	1
+量子伤害	ld;rl zi;aa uh;rl hl;bk	1
+量子套	ld;rl zi;aa tk;di	1
+列车	lx;dd ie;hu	1
+猎剑士	lx;qx jm;da ui;hh	1
+裂界	lx;yl jx;tj	1
+裂界侵蚀	lx;yl jx;tj qn;ry ui;ui	1
+猎犬	lx;qx qr;hd	1
+猎人套	lx;qx rf;pd tk;di	1
+裂伤	lx;yl uh;rl	1
+猎物	lx;qx wu;nw	1
+猎物的视线	lx;qx wu;nw de;bu ui;uj xm;sj	1
+玲可	ly;wl ke;dk	1
+灵砂	ly;xh ua;uu	1
+令使	ly;rs ui;rl	1
+灵钥	ly;xh yk;jo	1
+领域	ly;yl yu;th	1
+领域拐	ly;yl yu;th gy;tl	1
+流光忆庭	lq;di gd;ea yi;xy ty;gt	1
+流萤	lq;di yy;ci	1
+龙蛋	ls;ad dj;ip	1
+龙骨	ls;ad gu;ob	1
+龙骨套	ls;ad gu;ob tk;di	1
+龙女	ls;ad nv;aa	1
+龙尊	ls;ad zp;qc	1
+镂月裁云之意	lb;jl yt;oy cl;yg yp;es vi;dd yi;lx	1
+卢卡	lu;bu ka;bx	1
+露萨卡	lu;yl sa;ci ka;bx	1
+乱破	lr;ug po;up	1
+论剑	lp;yl jm;da	1
+轮契	lp;il qi;dd	1
+罗刹	lo;sx ia;du	1
+罗刹人	lo;sx ia;du rf;pd	1
+落日时起舞	lo;cl ri;ri ui;oc qi;zj wu;pu	1
+螺丝姑姆	lo;il si;hv gu;ng mu;nm	1
+旅途	lv;fp tu;zy	1
+妈妈	ma;nm ma;nm	1
+妈一直转	ma;nm yi;ah vi;hh vr;iv	1
+买榜姐	ml;at bh;mp jx;nq	1
+迈德漠斯	ml;zw de;xx mo;dm si;jq	1
+满命	mj;dl my;re	1
+满星	mj;dl xy;ru	1
+盲注	mh;mw vu;dv	1
+猫猫糕	mk;qm mk;qm gk;mg	1
+贸易	mk;lb yi;rw	1
+美梦小镇大冒险	mz;yd mg;xl xc;du vf;jv da;ad mk;oo xm;eh	1
+每日	mz;pm ri;ri	1
+没有回报的加冕	mz;du yb;ou hv;kk bk;ty de;bu jw;lk mm;rm	1
+门径	mf;dg jy;xg	1
+门前清	mf;dg qm;qd qy;dq	1
+门童	mf;dg ts;ll	1
+梦的蒙太奇	mg;xl de;bu mg;cu tl;dd qi;dk	1
+梦应归于何处	mg;xl yy;gh gv;ux yu;hu he;rk iu;wb	1
+梦游鱼	mg;xl yb;dz yu;da	1
+盟主	mg;mm vu;dw	1
+米哈伊尔	mi;dd ha;kh yi;ry er;xd	1
+秘技	mi;hb ji;tv	1
+秘密誓心	mi;hb mi;ub ui;yv xn;dd	1
+米沙	mi;dd ua;du	1
+酩酊	my;ym dy;yd	1
+鸣火商团	my;kn ho;dd uh;wk tr;kc	1
+铭记于心的约定	my;jm ji;yj yu;hu xn;dd de;bu yt;su dy;bp	1
+命途	my;re tu;zy	1
+鸣弦号令	my;kn xm;gx hk;kk ly;rs	1
+命运从未公平	my;re yp;zy cs;rr wz;hd gs;bs py;hu	1
+命运的奴隶	my;re yp;zy de;bu nu;ny li;vd	1
+魔法使	mo;mg fa;dq ui;rl	1
+魔剑	mo;mg jm;da	1
+模拟宇宙	mo;mm ni;ty yu;by vb;by	1
+末日	mo;hd ri;ri	1
+末日深渊	mo;hd ri;ri uf;dm yr;dm	1
+魔术技巧	mo;mg uu;md ji;tv qc;gk	1
+魔阴身	mo;mg yn;eo uf;pp	1
+摸鱼	mo;tm yu;da	1
+魔芋爽	mo;mg yu;cy ud;dy	1
+貊泽	mo;vb ze;df	1
+那刻夏	na;el ke;dh xw;wz	1
+娜塔莎	na;nn ta;th ua;cu	1
+娜塔莎姐姐	na;nn ta;th ua;cu jx;nq jx;nq	1
+那无数个春天	na;el wu;hg uu;wl ge;pa ip;rf tm;ad	1
+奶妈	nl;nn ma;nm	1
+奶妈套	nl;nn ma;nm tk;di	1
+奶套	nl;nn tk;di	1
+男开拓者	nj;tl kl;ac to;tu ve;ol	1
+男主	nj;tl vu;dw	1
+内圈遗器	nz;ud qr;kj yi;zg qi;kk	1
+能量恢复效率	ng;sb ld;rl hv;xh fu;pw xc;wj lv;wu	1
+能量上限	ng;sb ld;rl uh;uh xm;eg	1
+逆鳞	ni;zn ln;yl	1
+逆熵	ni;zn uh;hu	1
+匿影	ni;kr yy;pj	1
+拟造花萼	ni;ty zk;zg hw;ch ee;ck	1
+孽龙	nx;cz ls;ad	1
+牛仔	nq;pu zl;rz	1
+暖夜不会漫长	nr;oy ye;ww bu;ax hv;ry mj;dm ih;pd	1
+女开拓者	nv;aa kl;ac to;tu ve;ol	1
+女王	nv;aa wh;aa	1
+女武神	nv;aa wu;vy uf;uu	1
+女武神套	nv;aa wu;vy uf;uu tk;di	1
+女主	nv;aa vu;dw	1
+派对	pl;dp dv;cy	1
+判官	pj;db gr;bk	1
+佩拉	pz;rb la;fl	1
+佩佩	pz;rb pz;rb	1
+匹诺康尼	pi;ke no;yr kh;gl ni;ub	1
+匹诺康尼大剧院	pi;ke no;yr kh;gl ni;ub da;ad ju;dj yr;ew	1
+匹诺康尼套	pi;ke no;yr kh;gl ni;ub tk;di	1
+片刻留在眼底	pm;pa ke;dh lq;td zl;ta yj;mg di;gd	1
+偏偏希望无价	pm;rb pm;rb xi;ju wh;wo wu;hg jw;rj	1
+普攻	pu;ob gs;gw	1
+扑满	pu;fb mj;dl	1
+普通卜者	pu;ob ts;zy bu;ud ve;ol	1
+骑士	qi;mq ui;hh	1
+齐颂	qi;wp ss;yg	1
+契约	qi;dd yt;su	1
+千面	qm;pu mm;ph	1
+强化战技	qd;gs hw;rb vj;gv ji;tv	1
+情报官	qy;xq bk;ty gr;bk	1
+青雀	qy;fy qt;xv	1
+穷观阵	qs;bl gr;jy vf;ei	1
+琼玉牌	qs;wj yu;hd pl;pb	1
+球棒	qq;wq bh;mf	1
+球棍	qq;wq gp;mk	1
+求生反应	qq;ad ug;nh fj;py yy;gh	1
+囚徒	qq;kr tu;xz	1
+拳击手	qr;uf ji;fk ub;ub	1
+拳台	qr;uf tl;sk	1
+拳王	qr;uf wh;aa	1
+拳王套	qr;uf wh;aa tk;di	1
+缺陷	qt;fg xm;ex	1
+让告别更美一些	rh;yu gk;kn bx;dl gg;hg mz;yd yi;ah xx;ec	1
+禳命	rh;uy my;re	1
+忍道	rf;xr dk;zu	1
+忍法帖	rf;xr fa;dq tx;jv	1
+忍法帖缭乱破魔	rf;xr fa;dq tx;jv lc;sx lr;ug po;up mo;mg	1
+人偶	rf;pd ou;ry	1
+忍事录音律狩猎	rf;xr ui;aa lu;au yn;lr lv;xy ub;qu lx;qx	1
+任务	rf;rr wu;wl	1
+韧性条	rf;wr xy;xu tc;wm	1
+忍者	rf;xr ve;ol	1
+人子	rf;pd zi;aa	1
+如果时间是一朵花	ru;nk go;tm ui;oc jm;om ui;op yi;ah do;mj hw;ch	1
+如泥酣眠	ru;nk ni;dn hj;yg mm;om	1
+阮梅	rr;ey mz;mm	1
+弱点	ro;gd dm;dv	1
+弱点击破	ro;gd dm;dv ji;fk po;up	1
+萨尔索图	sa;ci er;xd so;us tu;kd	1
+萨姆	sa;ci mu;nm	1
+赛飞儿	sl;bb fz;yd er;pg	1
+三拐一	sj;aa gy;tl yi;ah	1
+三相神谕	sj;aa xd;mo uf;uu yu;yy	1
+三月七	sj;aa yt;oy qi;ag	1
+桑博	sh;mr bo;uc	1
+桑博叔叔	sh;mr bo;uc uu;yx uu;yx	1
+砂金	ua;uu jn;pa	1
+上城区	uh;uh ig;ti qu;ki	1
+商团	uh;wk tr;kc	1
+神君	uf;uu jp;ky	1
+神秘	uf;uu mi;hb	1
+神秘出手女	uf;uu mi;hb iu;ck ub;ub nv;aa	1
+神明	uf;uu my;ry	1
+深渊	uf;dm yr;dm	1
+圣城	ug;yt ig;ti	1
+生存位	ug;nh cp;uz wz;rl	1
+胜利只在朝夕间	ug;yu li;dh vi;kb zl;ta vk;yu xi;pd jm;om	1
+生命当付之一炬	ug;nh my;re dh;xx fu;rc vi;dd yi;ah ju;hj	1
+生命内圈	ug;nh my;re nz;ud qr;kj	1
+生命球	ug;nh my;re qq;wq	1
+生命上限	ug;nh my;re uh;uh xm;eg	1
+生命绳	ug;nh my;re ug;sm	1
+生命套	ug;nh my;re tk;di	1
+生命鞋	ug;nh my;re xx;gg	1
+生命衣	ug;nh my;re yi;dd	1
+生命值	ug;nh my;re vi;rv	1
+圣女	ug;yt nv;aa	1
+圣骑士	ug;yt qi;mq ui;hh	1
+圣骑士套	ug;yt qi;mq ui;hh tk;di	1
+生息	ug;nh xi;xz	1
+师父	ui;db fu;pd	1
+石膏头	ui;pk gk;yk tb;dd	1
+拾骨地	ui;th gu;ob di;ty	1
+拾骨套	ui;th gu;ob tk;di	1
+时间	ui;oc jm;om	1
+世界	ui;ca jx;tj	1
+时节不居	ui;oc jx;ce bu;ax ju;ug	1
+世界之名	ui;ca jx;tj vi;dd my;xk	1
+诗人	ui;ys rf;pd	1
+诗人套	ui;ys rf;pd tk;di	1
+史瓦罗	ui;ki wa;ad lo;sx	1
+十王司	ui;hu wh;aa si;ka	1
+驶向第二次生命	ui;mu xd;pk di;vp er;hh ci;dq ug;nh my;re	1
+石心十人	ui;pk xn;dd ui;hu rf;pd	1
+莳者套	ui;cu ve;ol tk;di	1
+手机	ub;ub ji;mj	1
+收债人	ub;jw vl;rz rf;pd	1
+戍卫官	uu;wd wz;ga gr;bk	1
+属性穿透	uu;uy xy;xu ir;xy tb;zx	1
+属性球	uu;uy xy;xu qq;wq	1
+戍御	uu;wd yu;rx	1
+双爆	ud;yy bk;hb	1
+睡成死猪	uv;oi ig;wg si;db vu;qv	1
+斯蒂芬	si;jq di;cd ff;cf	1
+司鼎	si;ka dy;oa	1
+司铎	si;ka do;jf	1
+司铎套	si;ka do;jf tk;di	1
+撕裂心海	si;fs lx;yl xn;dd hl;dm	1
+死龙	si;db ls;ad	1
+死水	si;db uv;ad	1
+死水套	si;db uv;ad tk;di	1
+速度	su;zu du;gy	1
+速度鞋	su;zu du;gy xx;gg	1
+素裳	su;sf uh;yk	1
+塑望	su;ty wh;wo	1
+溯忆	su;dy yi;xy	1
+隧洞遗器	sv;es ds;dt yi;zg qi;kk	1
+碎天拳	sv;uz tm;ad qr;uf	1
+岁阳	sv;ux yh;er	1
+损失	sp;fy ui;pf	1
+她已闭上双眼	ta;ny yi;vg bi;mc uh;uh ud;yy yj;mg	1
+太卜司	tl;dd bu;ud si;ka	1
+泰坦	tl;uf tj;td	1
+弹射	tj;gd ue;cu	1
+探险家	tj;fm xm;eh jw;bu	1
+套盾	tk;di dp;pm	1
+缇安	ti;su an;bn	1
+缇宝	ti;su bk;by	1
+体力	ti;rb li;gp	1
+缇里西庇俄丝	ti;su li;aa xi;hh bi;gb ee;rw si;hv	1
+缇宁	ti;su ny;bd	1
+天舶司	tm;ad bo;vb si;ka	1
+天舶司主司	tm;ad bo;vb si;ka vu;dw si;ka	1
+天才	tm;ad cl;hp	1
+天才俱乐部	tm;ad cl;hp ju;rj le;px bu;ek	1
+天才们的问候	tm;ad cl;hp mf;rm de;bu wf;mk hb;ru	1
+天才们的休憩	tm;ad cl;hp mf;rm de;bu xq;rm qi;xz	1
+天才套	tm;ad cl;hp tk;di	1
+天赋	tm;ad fu;bw	1
+天环族	tm;ad hr;wb zu;fu	1
+天击将军	tm;ad ji;fk jd;jc jp;bi	1
+天倾	tm;ad qy;rq	1
+调和	tc;yv he;hk	1
+调饮师	tc;yv yn;uq ui;db	1
+铁骑套	tx;ju qi;mq tk;di	1
+铁卫套	tx;ju wz;ga tk;di	1
+停云	ty;rt yp;es	1
+同伴	ts;kk bj;rb	1
+通解	ts;zy jx;jn	1
+统领	ts;si ly;yl	1
+同谐	ts;kk xx;yj	1
+同谐主	ts;kk xx;yj vu;dw	1
+同一种心情	ts;kk yi;ah vs;hv xn;dd qy;xq	1
+托帕	to;tq pa;jb	1
+瓦尔特	wa;ad er;xd te;ns	1
+瓦尔特杨	wa;ad er;xd te;ns yh;my	1
+外圈遗器	wl;xb qr;kj yi;zg qi;kk	1
+晚安与睡颜	wj;rm an;bn yu;hh uv;oi yj;yy	1
+万敌	wj;hg di;uw	1
+完全燃烧	wj;by qr;rw rj;hr uk;hy	1
+忘归人	wh;xw gv;ux rf;pd	1
+汪散步时间	wh;dw sj;wo bu;vx ui;oc jm;om	1
+尾巴	wz;um ba;ag	1
+尾巴大爷	wz;um ba;ag da;ad ye;fe	1
+为了明日的旅途	wz;dd le;vu my;ry ri;ri de;bu lv;fp tu;zy	1
+位面饰品	wz;rl mm;ph ui;uj pn;kk	1
+委托	wz;hn to;tq	1
+唯有沉默	wz;kv yb;ou if;dr mo;hq	1
+唯有香如故	wz;kv yb;ou xd;ho ru;nk gu;wg	1
+翁法罗斯	wg;yg fa;dq lo;sx si;jq	1
+翁法罗斯英雄纪	wg;yg fa;dq lo;sx si;jq yy;cy xs;vs ji;sj	1
+翁瓦克	wg;yg wa;ad ke;eg	1
+我的诞生	wo;pp de;bu dj;yy ug;nh	1
+我方	wo;pp fh;dw	1
+我将巡征追猎	wo;pp jd;jc xp;zi vg;xv vv;zv lx;qx	1
+蜗居公主	wo;in ju;ug gs;bs vu;dw	1
+我们是地火	wo;pp mf;rm ui;op di;ty ho;dd	1
+我思故我在	wo;pp si;tx gu;wg wo;pp zl;ta	1
+我为逝者哀哭	wo;pp wz;dd ui;zv ve;ol ai;dy ku;kq	1
+我又出手了	wo;pp yb;vd iu;ck ub;ub le;vu	1
+无边曼舞	wu;hg bm;zl mj;oy wu;pu	1
+无处可逃	wu;hg iu;wb ke;dk tk;zv	1
+无间剑树	wu;hg jm;om jm;da uu;md	1
+物抗	wu;nw kh;tk	1
+无可取代的东西	wu;hg ke;dk qu;ye dl;ry de;bu ds;qx xi;hh	1
+物理	wu;nw li;wl	1
+物理套	wu;nw li;wl tk;di	1
+物理主	wu;nw li;wl vu;dw	1
+无量塔姬子	wu;hg ld;rl ta;th ji;ni zi;aa	1
+物穣	wu;nw rh;hy	1
+物弱	wu;nw ro;gd	1
+物伤	wu;nw uh;rl	1
+物伤球	wu;nw uh;rl qq;wq	1
+舞舞舞	wu;pu wu;pu wu;pu	1
+武侠少女	wu;vy xw;rj uk;xp nv;aa	1
+武一直焊	wu;vy yi;ah vi;hh hj;hh	1
+希儿	xi;ju er;pg	1
+希露瓦	xi;ju lu;yl wa;ad	1
+下层区	xw;ad cg;uy qu;ki	1
+瑕蝶	xw;wj dx;iy	1
+先驱	xm;en qu;mq	1
+先驱套	xm;en qu;mq tk;di	1
+弦外音	xm;gx wl;xb yn;lr	1
+衔药龙女	xm;ri yk;cy ls;ad nv;aa	1
+仙舟苍城	xm;ru vb;pd ch;cc ig;ti	1
+仙舟岱舆	xm;ru vb;pd dl;ud yu;ib	1
+仙舟方壶	xm;ru vb;pd fh;dw hu;uy	1
+仙舟将军	xm;ru vb;pd jd;jc jp;bi	1
+仙舟联盟	xm;ru vb;pd lm;eg mg;mm	1
+仙舟罗浮	xm;ru vb;pd lo;sx fu;df	1
+仙舟套	xm;ru vb;pd tk;di	1
+仙舟虚陵	xm;ru vb;pd xu;hy ly;ew	1
+仙舟曜青	xm;ru vb;pd yk;rv qy;fy	1
+仙舟圆峤	xm;ru vb;pd yr;ky qc	1
+仙舟朱明	xm;ru vb;pd vu;pw my;ry	1
+相抗	xd;mo kh;tk	1
+翔鹰套	xd;yy yy;gn tk;di	1
+向着不可追问处	xd;pk ve;ym bu;ax ke;dk vv;zv wf;mk iu;wb	1
+小白	xc;du bl;pr	1
+小毕业	xc;du bi;bu ye;aa	1
+小敌	xc;du di;uw	1
+效果抵抗	xc;wj go;tm di;fd kh;tk	1
+小黑塔	xc;du hz;dh ta;th	1
+小罗刹	xc;du lo;sx ia;du	1
+小鸟	xc;du nc;nh	1
+小女友	xc;du nv;aa yb;yu	1
+小佩拉	xc;du pz;rb la;fl	1
+小鸭鸭	xc;du ya;jn ya;jn	1
+小姨	xc;du yi;ny	1
+小伊卡	xc;du yi;ry ka;bx	1
+谐乐静默之后	xx;yj le;px jy;qv mo;hq vi;dd hb;pk	1
+协乐齐奏	xx;ub le;px qi;wp zb;tf	1
+协奏	xx;ub zb;tf	1
+信使	xn;ry ui;rl	1
+新世界	xn;jq ui;ca jx;tj	1
+信使套	xn;ry ui;rl tk;di	1
+新手任务开始前	xn;jq ub;ub rf;rr wu;wl kl;ac ui;nt qm;qd	1
+信用点	xn;ry ys;kf dm;dv	1
+行动提前	xy;ri ds;ly ti;fu qm;qd	1
+行动延后	xy;ri ds;ly yj;zv hb;pk	1
+行动值	xy;ri ds;ly vi;rv	1
+星海	xy;ru hl;dm	1
+星海巡航	xy;ru hl;dm xp;zi hh;vk	1
+星核	xy;ru he;mh	1
+星河猎手	xy;ru he;dk lx;qx ub;ub	1
+星核危机	xy;ru he;mh wz;de ji;mj	1
+星魂	xy;ru hp;yg	1
+行迹	xy;ri ji;zy	1
+行迹材料	xy;ri ji;zy cl;mc lc;md	1
+星际和平公司	xy;ru ji;eu he;hk py;hu gs;bs si;ka	1
+星空	xy;ru ks;bg	1
+星门	xy;ru mf;dg	1
+星期日	xy;ru qi;qy ri;ri	1
+星穹	xy;ru qs;xg	1
+星穹列车	xy;ru qs;xg lx;dd ie;hu	1
+星球	xy;ru qq;wq	1
+行商	xy;ri uh;wk	1
+星神	xy;ru uf;uu	1
+星神岚	xy;ru uf;uu lj;uf	1
+星铁	xy;ru tx;ju	1
+行于流逝的岸	xy;ri yu;hu lq;di ui;zv de;bu an;ug	1
+胸口碎大石	xs;ox kb;aa sv;uz da;ad ui;pk	1
+虚构	xu;hy gb;mg	1
+虚构深渊	xu;hy gb;mg uf;dm yr;dm	1
+虚弱	xu;hy ro;gd	1
+虚数	xu;hy uu;wl	1
+虚数抗	xu;hy uu;wl kh;tk	1
+虚数球	xu;hy uu;wl qq;wq	1
+虚数弱	xu;hy uu;wl ro;gd	1
+虚数伤	xu;hy uu;wl uh;rl	1
+虚数主	xu;hy uu;wl vu;dw	1
+虚妄之母	xu;hy wh;nw vi;dd mu;vd	1
+虚无	xu;hy wu;hg	1
+悬锋	xr;xx fg;jf	1
+血火啊燃烧前路	xt;pa ho;dd aa;ka rj;hr uk;hy qm;qd lu;zg	1
+雪衣	xt;yx yi;dd	1
+学者	xt;dz ve;ol	1
+学者套	xt;dz ve;ol tk;di	1
+巡海游侠	xp;zi hl;dm yb;dz xw;rj	1
+巡猎	xp;zi lx;qx	1
+巡猎三月七	xp;zi lx;qx sj;aa yt;oy qi;ag	1
+巡猎星神	xp;zi lx;qx xy;ru uf;uu	1
+巡猎主	xp;zi lx;qx vu;dw	1
+巡征追猎	xp;zi vg;xv vv;zv lx;qx	1
+雅利洛	ya;yv li;dh lo;dg	1
+雅利洛六号	ya;yv li;dh lo;dg lq;db hk;kk	1
+雅努萨波利斯	ya;yv nu;ln sa;ci bo;dp li;dh si;jq	1
+鸭鸭	ya;jn ya;jn	1
+芽衣	ya;cy yi;dd	1
+延长记号	yj;zv ih;pd ji;yj hk;kk	1
+焰轮八叶	yj;hx lp;il ba;pd ye;ku	1
+炎枪	yj;hh qd;mc	1
+彦卿	yj;ip qy;mg	1
+鼹鼠党	yj;ua uu;ju dh;ek	1
+鼹鼠党欢迎你	yj;ua uu;ju dh;ek hr;yq yy;ze ni;re	1
+摇滚	yk;tf gp;dg	1
+妖精	yk;ny jy;mq	1
+药王秘传	yk;cy wh;aa mi;hb ir;rv	1
+邀诸位共赏	yk;zw vu;yv wz;rl gs;bc uh;dk	1
+夜色流光溢彩	ye;ww se;db lq;di gd;ea yi;dy cl;pc	1
+一场术后对话	yi;ah ih;ty uu;md hb;pk dv;cy hw;yu	1
+伊德莉拉	yi;ry de;xx li;cl la;fl	1
+一行往日的血	yi;ah hh;ri wh;xv ri;ri de;bu xt;pa	1
+医护	yi;ku hu;th	1
+一技之长	yi;ah ji;tv vi;dd ih;pd	1
+忆灵	yi;xy ly;xh	1
+姨妈	yi;ny ma;nm	1
+遗器	yi;zg qi;kk	1
+易伤	yi;rw uh;rl	1
+医生	yi;ku ug;nh	1
+医士	yi;ku ui;hh	1
+以世界之名	yi;rd ui;ca jx;tj vi;dd my;xk	1
+遗失碎金百分比	yi;zg ui;pf sv;uz jn;pa bl;hb ff;bd bi;bb	1
+因果律	yn;kd go;tm lv;xy	1
+因果律武器	yn;kd go;tm lv;xy wu;vy qi;kk	1
+银行套	yn;jg hh;ri tk;di	1
+银河沦陷日	yn;jg he;dk lp;dl xm;ex ri;ri	1
+银河铁道之夜	yn;jg he;dk tx;ju dk;zu vi;dd ye;ww	1
+银狼	yn;jg lh;ql	1
+饮月	yn;uq yt;oy	1
+饮月君	yn;uq yt;oy jp;ky	1
+饮月之乱	yn;uq yt;oy vi;dd lr;ug	1
+氤氳麦香的梦	yn;qy yp;qm ml;fw xd;ho de;bu mg;xl	1
+银枝	yn;jg vi;mv	1
+银鬃铁卫	yn;jg zs;iz tx;ju wz;ga	1
+英豪	yy;cy hk;du	1
+英豪套	yy;cy hk;du tk;di	1
+影卫	yy;pj wz;ga	1
+应星	yy;gh xy;ru	1
+永动机械屋	ys;dd ds;ly ji;mj xx;mj wu;uv	1
+勇烈	ys;ly lx;dl	1
+勇烈套	ys;ly lx;dl tk;di	1
+庸人	ys;gh rf;pd	1
+永远的迷境饭	ys;dd yr;zy de;bu mi;zm jy;tj fj;uf	1
+又买了	yb;vd ml;at le;vu	1
+幽囚套	yb;uy qq;kr tk;di	1
+优势口袋	yb;ry ui;lv kb;aa dl;yd	1
+幽邃	yb;uy sv;zu	1
+游戏尘寰	yb;dz xi;yg if;tx hr;by	1
+预见未来	yu;yy jm;ug wz;hd ll;hm	1
+驭空	yu;my ks;bg	1
+于那终点再见	yu;hu na;el vs;sd dm;dv zl;ht jm;ug	1
+余生的第一天	yu;rb ug;nh de;bu di;vp yi;ah tm;ad	1
+与行星相会	yu;hh xy;ri xy;ru xd;mo hv;ry	1
+于夜色中	yu;hu ye;ww se;db vs;ku	1
+宇宙	yu;by vb;by	1
+宇宙大明星	yu;by vb;by da;ad my;ry xy;ru	1
+宇宙大生意	yu;by vb;by da;ad ug;nh yi;lx	1
+宇宙市场趋势	yu;by vb;by ui;wj ih;ty qu;zi ui;lv	1
+愿虹光永驻天空	yr;xy hs;ig gd;ea ys;dd vu;mv tm;ad ks;bg	1
+渊环	yr;dm hr;wb	1
+愿旅途永远坦然	yr;xy lv;fp tu;zy ys;dd yr;zy tj;td rj;hq	1
+乐队套	yt;px dv;er tk;di	1
+月狂	yt;oy kd;qw	1
+云璃	yp;es li;wl	1
+云骑军	yp;es qi;mq jp;bi	1
+云骑骁卫	yp;es qi;mq xc;my wz;ga	1
+云上五骁	yp;es uh;uh wu;aa xc;my	1
+在火的远处	zl;ta ho;dd de;bu yr;zy iu;wb	1
+在蓝天下	zl;ta lj;cj tm;ad xw;ad	1
+再现	zl;ht xm;wj	1
+早餐的仪式感	zk;ru cj;uy de;bu yi;ry ui;yg gj;xx	1
+枣尚豪	zk;cd uh;xk hk;du	1
+增伤	zg;tc uh;rl	1
+增伤拐	zg;tc uh;rl gy;tl	1
+占卜师	vj;bk bu;ud ui;db	1
+战技	vj;gv ji;tv	1
+战略投资部	vj;gv lt;tg tb;fu zi;bc bu;ek	1
+战首	vj;gv ub;qz	1
+站长	vj;lv vh;pd	1
+涨幅惊人	vh;dv fu;jt jy;xj rf;pd	1
+账账	vh;bi vh;bi	1
+照彻忘川	vk;hv ie;xq wh;xw ir;pu	1
+召唤物	vk;kd hr;kh wu;nw	1
+招架	vk;fv jw;mj	1
+照相机	vk;hv xd;mo ji;mj	1
+赵相机	vk;zi xd;mo ji;mj	1
+这就是我啦	ve;zw jq;yj ui;op wo;pp la;kl	1
+振刀	vf;ti dk;gp	1
+真理医生	vf;uj li;wl yi;ku ug;nh	1
+治安官	vi;dt an;bn gr;bk	1
+致长夜的星光	vi;wv ih;pd ye;ww de;bu xy;ru gd;ea	1
+直冲拳	vi;hh is;dv qr;uf	1
+直冲碎天拳	vi;hh is;dv sv;uz tm;ad qr;uf	1
+直到明天的明天	vi;hh dk;dv my;ry tm;ad de;bu my;ry tm;ad	1
+知更鸟	vi;uk gg;hg nc;nh	1
+智剑连心	vi;ov jm;da lm;zi xn;dd	1
+智库	vi;ov ku;gi	1
+治疗套	vi;dt lc;bl tk;di	1
+治疗衣	vi;dt lc;bl yi;dd	1
+纸人	vi;su rf;pd	1
+制胜的瞬间	vi;dg ug;yu de;bu up;ou jm;om	1
+智识	vi;ov ui;yv	1
+智识星神	vi;ov ui;yv xy;ru uf;uu	1
+智械	vi;ov xx;mj	1
+秩序	vi;hu xu;gy	1
+只需等待	vi;kb xu;ye dg;vs dl;xs	1
+挚友	vi;uv yb;yu	1
+支援角色	vi;uy yr;fy jt;dy se;db	1
+织造命运之线	vi;sv zk;zg my;re yp;zy vi;dd xm;sj	1
+智者	vi;ov ve;ol	1
+智者的短见	vi;ov ve;ol de;bu dr;ud jm;ug	1
+钟表匠	vs;jv bc;fy jd;jk	1
+钟表匠套	vs;jv bc;fy jd;jk tk;di	1
+钟表套	vs;jv bc;fy tk;di	1
+终结技	vs;sd jx;sj ji;tv	1
+周本	vb;kk bf;hh	1
+周天	vb;kk tm;ad	1
+周天哥	vb;kk tm;ad ge;kk	1
+烛渊将军	vu;hi yr;dm jd;jc jp;bi	1
+抓鬼小队	vw;tv gv;ps xc;du dv;er	1
+专武	vr;fs wu;vy	1
+追击	vv;zv ji;fk	1
+追加攻击	vv;zv jw;lk gs;gw ji;fk	1
+追逐风的时候	vv;zv vu;zu fg;ji de;bu ui;oc hb;ru	1
+灼烧	vo;hu uk;hy	1
+自动	zi;pm ds;ly	1
+自动战斗	zi;pm ds;ly vj;gv db;du	1
+资源	zi;bc yr;dy	1
+最后的赢家	zv;oq hb;pk de;bu yy;bk jw;bu	1

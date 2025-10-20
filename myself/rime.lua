@@ -16,6 +16,13 @@ local emoji = require("emoji_filter")
 emoji_filter = emoji.filter
 emoji_translator = emoji.translator
 remove_duplicate_filter = require("remove_duplicate")
--- ]]
-select_character_processor = require("select_character")
 w2c_filter = require("w2c")
+drop_duplicate_filter = require("drop_duplicate")
+-- ]]
+
+local english = require("english")
+
+english_segmentor = english.Segment
+english_translator = english.Translator
+english_filter = english.Filter
+english_limit = english.Translator2

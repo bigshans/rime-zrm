@@ -11,6 +11,9 @@ import_tables:
   - zrm_pinyin.computer
   - zrm_pinyin.shopping
   - zrm_pinyin.sogou
-  - zrm_pinyin.yuanshen
-  - zrm_pinyin.append
+  # - zrm_pinyin.yuanshen
+  - yuanshen
+  - zrm_pinyin.jianma
+  - zrm_pinyin.starrail
+  # - zrm_pinyin.append
   # - zrm_pinyin.cn_en

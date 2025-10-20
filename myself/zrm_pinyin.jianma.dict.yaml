@@ -1,0 +1,8 @@
+---
+name: zrm_pinyin.jianma
+version: "2025.10.18"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+安静	aj

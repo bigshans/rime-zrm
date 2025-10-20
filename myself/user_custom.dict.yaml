@@ -1,0 +1,8 @@
+---
+name: zrm_pinyin_custom_dict
+version: "2020.12.27"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+一二三四

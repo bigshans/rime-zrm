@@ -1,5 +1,4 @@
 ﻿patch:
-  __include: grammar:/hans
   "translator/enable_user_dict": true
   #標點
   'punctuator/import_preset': mysymbols
