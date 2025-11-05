@@ -67,39 +67,37 @@ translator:
   prism: zrm_pinyin
   preedit_format:
     - xform/(?<!;)([bpmnljqxy])n/$1in/
-    - xform/(?<!;)([bcdfghklmprstviu])g/$1eng/
-    - xform/(?<!;)([bdlmnq])q/$1iu/
-    - xform/(?<!;)([gkhvuirzcrs])w/$1ua/
-    - xform/(?<!;)([dljqx])w/$1ia/
-    - xform/(?<!;)([dtnlgkhjqxyvuirzcrs])r/$1uan/
-    - xform/(?<!;)([nljqxy])t/$1ve/
-    - xform/(?<!;)([gkhvuirzcrs])y/$1uai/
-    - xform/(?<!;)([bpmdtnljqxy])y/$1ing/
-    - xform/(?<!;)([dtnlgkhvuirzcrs])o/$1uo/
-    - xform/(?<!;)([dtnlgkhviurzcs])p/$1un/
+    - xform/(?<!;)(\w)g/$1eng/
+    - xform/(?<!;)(\w)q/$1iu/
+    - xform/(?<!;)([gkhvuirzcs])w/$1ua/
+    - xform/(?<!;)(\w)w/$1ia/
+    - xform/(?<!;)([dtnlgkhjqxyvuirzcs])r/$1uan/
+    - xform/(?<!;)(\w)t/$1ve/
+    - xform/(?<!;)([gkhvuirzcs])y/$1uai/
+    - xform/(?<!;)(\w)y/$1ing/
+    - xform/(?<!;)([dtnlgkhvuirzcs])o/$1uo/
+    - xform/(?<!;)(\w)p/$1un/
     - xform/(?<!;)([jqx])s/$1iong/
-    - xform/(?<!;)([dtnlgkhvirzcsy])s/$1ong/
-    - xform/(?<!;)([bjqxnl])d/$1iang/
-    - xform/(?<!;)([gkhivu])d/$1uang/
-    - xform/(?<!;)([bpmfdngkhvifurzcs])f/$1en/
-    - xform/(?<!;)([bpmfdtnlgkhviuzciywr])h/$1ang/
-    - xform/(?<!;)([bpmfdtnlgkhviuzciywr])j/$1an/
-    - xform/(?<!;)([bpmdtnlgkhviuzciyr])k/$1ao/
-    - xform/(?<!;)([bpmdtnlgkhviuzcir])l/$1ai/
-    - xform/(?<!;)([bpmfdnlgkhiuzw])z/$1ei/
-    - xform/(?<!;)([bpmdtnljqx])x/$1ie/
-    - xform/(?<!;)([bpmfdtnljqx])c/$1iao/
-    - xform/(?<!;)([dtgkhvuirzcrs])v/$1ui/
-    - xform/(?<!;)([pmfdtnlgkhviurzcsy])b/$1ou/
-    - xform/(?<!;)([bpmdtnljqx])m/$1ian/
+    - xform/(?<!;)(\w)s/$1ong/
+    - xform/(?<!;)([jqxnl])d/$1iang/
+    - xform/(?<!;)(\w)d/$1uang/
+    - xform/(?<!;)(\w)f/$1en/
+    - xform/(?<!;)(\w)h/$1ang/
+    - xform/(?<!;)(\w)j/$1an/
+    - xform/(?<!;)(\w)k/$1ao/
+    - xform/(?<!;)(\w)l/$1ai/
+    - xform/(?<!;)(\w)z/$1ei/
+    - xform/(?<!;)(\w)x/$1ie/
+    - xform/(?<!;)(\w)c/$1iao/
+    - xform/(?<!;)([dtgkhvuirzcs])v/$1ui/
+    - xform/(?<!;)(\w)b/$1ou/
+    - xform/(?<!;)(\w)m/$1ian/
     - xform/(?<!;)([aoe])\1(\w)/$1$2/
     - "xform/(?<!;)(^|[ '])v/$1zh/"
     - "xform/(?<!;)(^|[ '])i/$1ch/"
     - "xform/(?<!;)(^|[ '])u/$1sh/"
     - xform/(?<!;)([jqxy])v/$1u/
     - xform/(?<!;)([nl])v/$1ü/
-    - xform/(?<!;>)ah/ang/
-    - xform/(?<!;>)eh/eng/
 
 reverse_lookup:
   dictionary: stroke
